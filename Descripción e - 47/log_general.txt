@@ -1,0 +1,4 @@
+04-11-2013 03:41:12	Borrando todos los ROSpecs: 172.22.22.184
+04-11-2013 03:41:12	Reader Descripción e id: 47 desconectado
+04-11-2013 03:41:14	Borrando todos los ROSpecs: 172.22.22.184
+04-11-2013 03:41:14	Reader Descripción e id: 47 desconectado

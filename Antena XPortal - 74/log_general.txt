@@ -1,0 +1,1247 @@
+09-07-2014 10:43:01	Borrando todos los ROSpecs: 172.22.23.227
+09-07-2014 10:43:01	ROSpec creado exitosamente: 172.22.23.227
+09-07-2014 10:43:01	Añadiendo el ROSpec: 172.22.23.227
+09-07-2014 10:43:01	Habilitando el ROSpec: 172.22.23.227
+09-07-2014 10:43:01	Iniciando el ROSpec: 172.22.23.227
+09-07-2014 10:43:01	Reader Antena XPortal id: 74 conectado
+09-07-2014 10:49:50	Borrando todos los ROSpecs: 172.22.23.227
+09-07-2014 10:49:50	ROSpec creado exitosamente: 172.22.23.227
+09-07-2014 10:49:50	Añadiendo el ROSpec: 172.22.23.227
+09-07-2014 10:49:50	Habilitando el ROSpec: 172.22.23.227
+09-07-2014 10:49:50	Iniciando el ROSpec: 172.22.23.227
+09-07-2014 10:49:50	Reader Antena XPortal id: 74 conectado
+09-07-2014 10:55:10	Borrando todos los ROSpecs: 172.22.23.227
+09-07-2014 10:55:10	ROSpec creado exitosamente: 172.22.23.227
+09-07-2014 10:55:10	Añadiendo el ROSpec: 172.22.23.227
+09-07-2014 10:55:10	Habilitando el ROSpec: 172.22.23.227
+09-07-2014 10:55:10	Iniciando el ROSpec: 172.22.23.227
+09-07-2014 10:55:11	Reader Antena XPortal id: 74 conectado
+09-07-2014 11:03:49	Borrando todos los ROSpecs: 172.22.23.227
+09-07-2014 11:03:49	ROSpec creado exitosamente: 172.22.23.227
+09-07-2014 11:03:49	Añadiendo el ROSpec: 172.22.23.227
+09-07-2014 11:03:49	Habilitando el ROSpec: 172.22.23.227
+09-07-2014 11:03:49	Iniciando el ROSpec: 172.22.23.227
+09-07-2014 11:03:49	Reader Antena XPortal id: 74 conectado
+09-07-2014 11:06:16	Borrando todos los ROSpecs: 172.22.23.227
+09-07-2014 11:06:26	ROSpec creado exitosamente: 172.22.23.227
+09-07-2014 11:06:26	Añadiendo el ROSpec: 172.22.23.227
+09-07-2014 11:06:29	Habilitando el ROSpec: 172.22.23.227
+09-07-2014 11:06:52	Iniciando el ROSpec: 172.22.23.227
+09-07-2014 11:09:37	Borrando todos los ROSpecs: 172.22.23.227
+09-07-2014 11:09:37	ROSpec creado exitosamente: 172.22.23.227
+09-07-2014 11:09:37	Añadiendo el ROSpec: 172.22.23.227
+09-07-2014 11:09:37	Habilitando el ROSpec: 172.22.23.227
+09-07-2014 11:09:37	Iniciando el ROSpec: 172.22.23.227
+09-07-2014 11:09:37	Reader Antena XPortal id: 74 conectado
+09-07-2014 11:14:30	Borrando todos los ROSpecs: 172.22.23.227
+09-07-2014 11:15:29	Borrando todos los ROSpecs: 172.22.23.227
+09-07-2014 11:17:14	Borrando todos los ROSpecs: 172.22.23.227
+09-07-2014 11:20:07	Borrando todos los ROSpecs: 172.22.23.227
+09-07-2014 11:56:02	Borrando todos los ROSpecs: 172.22.23.227
+09-07-2014 11:56:03	ROSpec creado exitosamente: 172.22.23.227
+09-07-2014 11:56:03	Añadiendo el ROSpec: 172.22.23.227
+09-07-2014 11:56:03	Borrando todos los ROSpecs: 172.22.23.227
+09-07-2014 11:56:03	Reader Antena XPortal id: 74 desconectado
+09-07-2014 11:56:03	Habilitando el ROSpec: 172.22.23.227
+09-07-2014 11:56:03	Iniciando el ROSpec: 172.22.23.227
+09-07-2014 11:56:04	Reader Antena XPortal id: 74 conectado
+09-07-2014 11:56:50	Borrando todos los ROSpecs: 172.22.23.227
+09-07-2014 11:57:11	Reader Antena XPortal id: 74 desconectado
+09-07-2014 11:58:16	Borrando todos los ROSpecs: 172.22.23.227
+09-07-2014 11:58:16	ROSpec creado exitosamente: 172.22.23.227
+09-07-2014 11:58:16	Añadiendo el ROSpec: 172.22.23.227
+09-07-2014 11:58:16	Borrando todos los ROSpecs: 172.22.23.227
+09-07-2014 11:58:16	Reader Antena XPortal id: 74 desconectado
+09-07-2014 11:58:16	Habilitando el ROSpec: 172.22.23.227
+09-07-2014 11:58:17	Iniciando el ROSpec: 172.22.23.227
+09-07-2014 11:58:18	Reader Antena XPortal id: 74 conectado
+09-07-2014 12:03:58	Borrando todos los ROSpecs: 172.22.23.227
+09-07-2014 12:03:58	ROSpec creado exitosamente: 172.22.23.227
+09-07-2014 12:03:58	Añadiendo el ROSpec: 172.22.23.227
+09-07-2014 12:03:59	Borrando todos los ROSpecs: 172.22.23.227
+09-07-2014 12:03:59	Reader Antena XPortal id: 74 desconectado
+09-07-2014 12:03:59	Habilitando el ROSpec: 172.22.23.227
+09-07-2014 12:03:59	Iniciando el ROSpec: 172.22.23.227
+09-07-2014 12:04:00	Reader Antena XPortal id: 74 conectado
+09-07-2014 12:10:45	Borrando todos los ROSpecs: 172.22.23.227
+09-07-2014 12:10:46	ROSpec creado exitosamente: 172.22.23.227
+09-07-2014 12:10:46	Añadiendo el ROSpec: 172.22.23.227
+09-07-2014 12:10:46	Borrando todos los ROSpecs: 172.22.23.227
+09-07-2014 12:10:46	Reader Antena XPortal id: 74 desconectado
+09-07-2014 12:10:46	Habilitando el ROSpec: 172.22.23.227
+09-07-2014 12:10:46	Iniciando el ROSpec: 172.22.23.227
+09-07-2014 12:10:47	Reader Antena XPortal id: 74 conectado
+09-07-2014 02:22:04	Borrando todos los ROSpecs: 172.22.23.227
+09-07-2014 02:22:05	ROSpec creado exitosamente: 172.22.23.227
+09-07-2014 02:22:05	Añadiendo el ROSpec: 172.22.23.227
+09-07-2014 02:22:05	Habilitando el ROSpec: 172.22.23.227
+09-07-2014 02:22:05	Iniciando el ROSpec: 172.22.23.227
+09-07-2014 02:22:06	Reader Antena XPortal id: 74 conectado
+09-07-2014 02:23:34	Borrando todos los ROSpecs: 172.22.23.227
+09-07-2014 02:23:34	ROSpec creado exitosamente: 172.22.23.227
+09-07-2014 02:23:34	Añadiendo el ROSpec: 172.22.23.227
+09-07-2014 02:23:35	ROSpec añadido de forma exitosa: 172.22.23.227
+09-07-2014 02:23:35	Habilitando el ROSpec: 172.22.23.227
+09-07-2014 02:23:35	Iniciando el ROSpec: 172.22.23.227
+09-07-2014 02:23:35	Reader Antena XPortal id: 74 conectado
+09-07-2014 02:59:09	Borrando todos los ROSpecs: 172.22.23.227
+09-07-2014 02:59:09	ROSpec creado exitosamente: 172.22.23.227
+09-07-2014 02:59:09	Añadiendo el ROSpec: 172.22.23.227
+09-07-2014 02:59:09	Borrando todos los ROSpecs: 172.22.23.227
+09-07-2014 02:59:09	Reader Antena XPortal id: 74 desconectado
+09-07-2014 02:59:09	Habilitando el ROSpec: 172.22.23.227
+09-07-2014 02:59:09	Iniciando el ROSpec: 172.22.23.227
+09-07-2014 02:59:11	Reader Antena XPortal id: 74 conectado
+09-07-2014 03:01:03	Borrando todos los ROSpecs: 172.22.23.227
+09-07-2014 03:01:03	ROSpec creado exitosamente: 172.22.23.227
+09-07-2014 03:01:03	Añadiendo el ROSpec: 172.22.23.227
+09-07-2014 03:01:03	ROSpec añadido de forma exitosa: 172.22.23.227
+09-07-2014 03:01:03	Habilitando el ROSpec: 172.22.23.227
+09-07-2014 03:01:03	Iniciando el ROSpec: 172.22.23.227
+09-07-2014 03:01:03	Reader Antena XPortal id: 74 conectado
+09-07-2014 03:05:32	Borrando todos los ROSpecs: 172.22.23.227
+09-07-2014 03:05:32	ROSpec creado exitosamente: 172.22.23.227
+09-07-2014 03:05:32	Añadiendo el ROSpec: 172.22.23.227
+09-07-2014 03:05:32	ROSpec añadido de forma exitosa: 172.22.23.227
+09-07-2014 03:05:32	Habilitando el ROSpec: 172.22.23.227
+09-07-2014 03:05:32	Iniciando el ROSpec: 172.22.23.227
+09-07-2014 03:05:33	Reader Antena XPortal id: 74 conectado
+09-07-2014 03:06:13	Borrando todos los ROSpecs: 172.22.23.227
+09-07-2014 03:06:13	ROSpec creado exitosamente: 172.22.23.227
+09-07-2014 03:06:13	Añadiendo el ROSpec: 172.22.23.227
+09-07-2014 03:06:13	Borrando todos los ROSpecs: 172.22.23.227
+09-07-2014 03:06:13	Reader Antena XPortal id: 74 desconectado
+09-07-2014 03:06:13	Habilitando el ROSpec: 172.22.23.227
+09-07-2014 03:06:13	Iniciando el ROSpec: 172.22.23.227
+09-07-2014 03:06:15	Reader Antena XPortal id: 74 conectado
+09-07-2014 03:13:06	Borrando todos los ROSpecs: 172.22.23.227
+09-07-2014 03:13:06	ROSpec creado exitosamente: 172.22.23.227
+09-07-2014 03:13:06	Añadiendo el ROSpec: 172.22.23.227
+09-07-2014 03:13:06	ROSpec añadido de forma exitosa: 172.22.23.227
+09-07-2014 03:13:06	Habilitando el ROSpec: 172.22.23.227
+09-07-2014 03:13:06	Iniciando el ROSpec: 172.22.23.227
+09-07-2014 03:13:06	Reader Antena XPortal id: 74 conectado
+09-07-2014 03:13:25	Borrando todos los ROSpecs: 172.22.23.227
+09-07-2014 03:13:25	ROSpec creado exitosamente: 172.22.23.227
+09-07-2014 03:13:25	Añadiendo el ROSpec: 172.22.23.227
+09-07-2014 03:13:25	ROSpec añadido de forma exitosa: 172.22.23.227
+09-07-2014 03:13:25	Habilitando el ROSpec: 172.22.23.227
+09-07-2014 03:13:25	Iniciando el ROSpec: 172.22.23.227
+09-07-2014 03:13:26	Reader Antena XPortal id: 74 conectado
+09-07-2014 03:15:54	Borrando todos los ROSpecs: 172.22.23.227
+09-07-2014 03:15:54	ROSpec creado exitosamente: 172.22.23.227
+09-07-2014 03:15:54	Añadiendo el ROSpec: 172.22.23.227
+09-07-2014 03:15:54	ROSpec añadido de forma exitosa: 172.22.23.227
+09-07-2014 03:15:54	Habilitando el ROSpec: 172.22.23.227
+09-07-2014 03:15:54	Rospec habilitado exitosamente: 172.22.23.227
+09-07-2014 03:15:54	Iniciando el ROSpec: 172.22.23.227
+09-07-2014 03:15:54	Reader Antena XPortal id: 74 conectado
+09-07-2014 03:19:05	Borrando todos los ROSpecs: 172.22.23.227
+09-07-2014 03:19:05	ROSpec creado exitosamente: 172.22.23.227
+09-07-2014 03:19:05	Añadiendo el ROSpec: 172.22.23.227
+09-07-2014 03:19:05	ROSpec añadido de forma exitosa: 172.22.23.227
+09-07-2014 03:19:05	Habilitando el ROSpec: 172.22.23.227
+09-07-2014 03:19:05	Rospec habilitado exitosamente: 172.22.23.227
+09-07-2014 03:19:05	Iniciando el ROSpec: 172.22.23.227
+09-07-2014 03:19:05	ROSpec iniciado correctamente: 172.22.23.227
+09-07-2014 03:19:06	Reader Antena XPortal id: 74 conectado
+09-07-2014 03:19:26	Borrando todos los ROSpecs: 172.22.23.227
+09-07-2014 03:19:26	ROSpec creado exitosamente: 172.22.23.227
+09-07-2014 03:19:26	Añadiendo el ROSpec: 172.22.23.227
+09-07-2014 03:19:26	ROSpec añadido de forma exitosa: 172.22.23.227
+09-07-2014 03:19:26	Habilitando el ROSpec: 172.22.23.227
+09-07-2014 03:19:26	Rospec habilitado exitosamente: 172.22.23.227
+09-07-2014 03:19:26	Iniciando el ROSpec: 172.22.23.227
+09-07-2014 03:19:26	ROSpec iniciado correctamente: 172.22.23.227
+09-07-2014 03:19:26	Reader Antena XPortal id: 74 conectado
+09-07-2014 03:22:39	Borrando todos los ROSpecs: 172.22.23.227
+09-07-2014 03:22:39	ROSpecs borrados exitosamente: 172.22.23.227
+09-07-2014 03:22:39	ROSpec creado exitosamente: 172.22.23.227
+09-07-2014 03:22:39	Añadiendo el ROSpec: 172.22.23.227
+09-07-2014 03:22:39	ROSpec añadido de forma exitosa: 172.22.23.227
+09-07-2014 03:22:39	Habilitando el ROSpec: 172.22.23.227
+09-07-2014 03:22:39	Rospec habilitado exitosamente: 172.22.23.227
+09-07-2014 03:22:39	Iniciando el ROSpec: 172.22.23.227
+09-07-2014 03:22:40	ROSpec iniciado correctamente: 172.22.23.227
+09-07-2014 03:22:40	Reader Antena XPortal id: 74 conectado
+09-07-2014 03:25:48	Iniciando configuracion del Reader: 172.22.23.227
+09-07-2014 03:25:48	Reader configurado exitosamente: 172.22.23.227
+09-07-2014 03:25:48	Borrando todos los ROSpecs: 172.22.23.227
+09-07-2014 03:25:48	ROSpecs borrados exitosamente: 172.22.23.227
+09-07-2014 03:25:48	ROSpec creado exitosamente: 172.22.23.227
+09-07-2014 03:25:48	Añadiendo el ROSpec: 172.22.23.227
+09-07-2014 03:25:48	ROSpec añadido de forma exitosa: 172.22.23.227
+09-07-2014 03:25:48	Habilitando el ROSpec: 172.22.23.227
+09-07-2014 03:25:48	Rospec habilitado exitosamente: 172.22.23.227
+09-07-2014 03:25:48	Iniciando el ROSpec: 172.22.23.227
+09-07-2014 03:25:48	ROSpec iniciado correctamente: 172.22.23.227
+09-07-2014 03:25:48	Reader Antena XPortal id: 74 conectado
+09-07-2014 05:27:48	Iniciando configuracion del Reader: 172.22.23.227
+09-07-2014 05:27:49	Reader configurado exitosamente: 172.22.23.227
+09-07-2014 05:27:49	Borrando todos los ROSpecs: 172.22.23.227
+09-07-2014 05:27:49	ROSpecs borrados exitosamente: 172.22.23.227
+09-07-2014 05:27:49	ROSpec creado exitosamente: 172.22.23.227
+09-07-2014 05:27:49	Añadiendo el ROSpec: 172.22.23.227
+09-07-2014 05:27:49	ROSpec añadido de forma exitosa: 172.22.23.227
+09-07-2014 05:27:49	Habilitando el ROSpec: 172.22.23.227
+09-07-2014 05:27:49	Rospec habilitado exitosamente: 172.22.23.227
+09-07-2014 05:27:49	Iniciando el ROSpec: 172.22.23.227
+09-07-2014 05:27:49	ROSpec iniciado correctamente: 172.22.23.227
+09-07-2014 05:27:49	Reader Antena XPortal id: 74 conectado
+09-07-2014 05:28:28	Borrando todos los ROSpecs: 172.22.23.227
+09-07-2014 05:28:38	Reader Antena XPortal id: 74 desconectado
+09-07-2014 05:28:59	Iniciando configuracion del Reader: 172.22.23.227
+15-07-2014 03:42:42	Iniciando configuracion del Reader: 172.22.23.227
+15-07-2014 03:42:43	Reader configurado exitosamente: 172.22.23.227
+15-07-2014 03:42:43	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 03:42:43	ROSpecs borrados exitosamente: 172.22.23.227
+15-07-2014 03:42:43	ROSpec creado exitosamente: 172.22.23.227
+15-07-2014 03:42:43	Añadiendo el ROSpec: 172.22.23.227
+15-07-2014 03:42:43	ROSpec añadido de forma exitosa: 172.22.23.227
+15-07-2014 03:42:43	Habilitando el ROSpec: 172.22.23.227
+15-07-2014 03:42:43	Rospec habilitado exitosamente: 172.22.23.227
+15-07-2014 03:42:43	Iniciando el ROSpec: 172.22.23.227
+15-07-2014 03:42:43	ROSpec iniciado correctamente: 172.22.23.227
+15-07-2014 03:42:44	Reader Antena XPortal id: 74 conectado
+15-07-2014 03:43:38	Iniciando configuracion del Reader: 172.22.23.227
+15-07-2014 03:43:38	Reader configurado exitosamente: 172.22.23.227
+15-07-2014 03:43:38	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 03:43:38	ROSpecs borrados exitosamente: 172.22.23.227
+15-07-2014 03:43:38	ROSpec creado exitosamente: 172.22.23.227
+15-07-2014 03:43:38	Añadiendo el ROSpec: 172.22.23.227
+15-07-2014 03:43:38	ROSpec añadido de forma exitosa: 172.22.23.227
+15-07-2014 03:43:38	Habilitando el ROSpec: 172.22.23.227
+15-07-2014 03:43:38	Rospec habilitado exitosamente: 172.22.23.227
+15-07-2014 03:43:38	Iniciando el ROSpec: 172.22.23.227
+15-07-2014 03:43:38	ROSpec iniciado correctamente: 172.22.23.227
+15-07-2014 03:43:38	Reader Antena XPortal id: 74 conectado
+15-07-2014 03:55:37	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 03:55:37	Reader Antena XPortal id: 74 desconectado
+15-07-2014 03:56:09	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 03:56:09	Reader Antena XPortal id: 74 desconectado
+15-07-2014 03:56:40	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 03:56:40	Reader Antena XPortal id: 74 desconectado
+15-07-2014 03:57:12	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 03:57:12	Reader Antena XPortal id: 74 desconectado
+15-07-2014 03:57:40	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 03:57:40	Reader Antena XPortal id: 74 desconectado
+15-07-2014 03:58:12	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 03:58:12	Reader Antena XPortal id: 74 desconectado
+15-07-2014 03:58:43	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 03:58:43	Reader Antena XPortal id: 74 desconectado
+15-07-2014 03:59:14	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 03:59:14	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:02:44	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:02:44	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:22:26	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:22:26	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:22:57	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:22:57	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:23:29	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:23:29	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:24:00	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:24:00	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:24:55	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:24:55	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:25:27	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:25:27	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:25:59	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:25:59	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:26:30	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:26:30	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:27:02	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:27:02	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:27:33	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:27:33	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:28:05	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:28:05	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:28:36	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:28:36	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:29:08	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:29:08	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:29:39	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:29:39	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:30:11	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:30:11	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:30:42	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:30:42	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:31:14	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:31:14	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:31:45	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:31:45	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:32:17	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:32:17	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:32:48	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:32:48	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:33:20	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:33:20	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:33:51	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:33:51	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:34:23	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:34:23	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:34:54	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:34:54	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:35:26	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:35:26	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:35:57	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:35:57	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:36:29	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:36:29	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:37:00	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:37:00	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:37:32	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:37:32	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:38:03	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:38:03	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:38:35	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:38:35	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:39:06	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:39:06	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:39:38	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:39:38	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:40:09	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:40:09	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:40:41	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:40:41	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:41:12	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:41:12	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:41:44	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:41:44	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:42:15	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:42:15	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:42:47	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:42:47	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:43:18	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:43:18	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:43:50	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:43:50	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:44:22	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:44:22	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:44:53	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:44:53	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:45:25	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:45:25	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:45:56	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:45:56	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:46:28	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:46:28	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:46:59	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:46:59	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:47:31	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:47:31	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:48:02	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:48:02	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:48:34	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:48:34	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:49:05	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:49:05	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:49:37	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:49:37	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:50:08	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:50:08	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:50:40	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:50:40	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:51:11	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:51:11	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:51:43	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:51:43	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:52:14	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:52:14	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:52:46	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:52:46	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:53:17	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:53:17	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:53:49	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:53:49	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:54:20	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:54:20	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:54:52	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:54:52	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:55:23	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:55:23	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:55:55	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:55:55	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:56:26	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:56:26	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:56:58	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:56:58	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:57:29	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:57:29	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:58:01	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:58:01	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:58:32	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:58:32	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:59:04	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:59:04	Reader Antena XPortal id: 74 desconectado
+15-07-2014 04:59:35	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 04:59:35	Reader Antena XPortal id: 74 desconectado
+15-07-2014 05:00:07	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 05:00:07	Reader Antena XPortal id: 74 desconectado
+15-07-2014 05:00:38	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 05:00:38	Reader Antena XPortal id: 74 desconectado
+15-07-2014 05:01:10	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 05:01:10	Reader Antena XPortal id: 74 desconectado
+15-07-2014 05:01:41	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 05:01:41	Reader Antena XPortal id: 74 desconectado
+15-07-2014 05:02:13	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 05:02:13	Reader Antena XPortal id: 74 desconectado
+15-07-2014 05:02:45	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 05:02:45	Reader Antena XPortal id: 74 desconectado
+15-07-2014 05:03:16	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 05:03:16	Reader Antena XPortal id: 74 desconectado
+15-07-2014 05:03:48	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 05:03:48	Reader Antena XPortal id: 74 desconectado
+15-07-2014 05:04:19	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 05:04:19	Reader Antena XPortal id: 74 desconectado
+15-07-2014 05:04:51	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 05:04:51	Reader Antena XPortal id: 74 desconectado
+15-07-2014 05:05:22	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 05:05:22	Reader Antena XPortal id: 74 desconectado
+15-07-2014 05:05:54	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 05:05:54	Reader Antena XPortal id: 74 desconectado
+15-07-2014 05:06:25	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 05:06:25	Reader Antena XPortal id: 74 desconectado
+15-07-2014 05:06:57	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 05:06:57	Reader Antena XPortal id: 74 desconectado
+15-07-2014 05:07:28	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 05:07:28	Reader Antena XPortal id: 74 desconectado
+15-07-2014 05:08:00	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 05:08:00	Reader Antena XPortal id: 74 desconectado
+15-07-2014 05:08:31	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 05:08:31	Reader Antena XPortal id: 74 desconectado
+15-07-2014 05:09:03	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 05:09:03	Reader Antena XPortal id: 74 desconectado
+15-07-2014 05:09:34	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 05:09:34	Reader Antena XPortal id: 74 desconectado
+15-07-2014 05:10:06	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 05:10:06	Reader Antena XPortal id: 74 desconectado
+15-07-2014 05:10:37	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 05:10:37	Reader Antena XPortal id: 74 desconectado
+15-07-2014 05:11:09	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 05:11:09	Reader Antena XPortal id: 74 desconectado
+15-07-2014 05:11:40	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 05:11:40	Reader Antena XPortal id: 74 desconectado
+15-07-2014 05:12:12	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 05:12:12	Reader Antena XPortal id: 74 desconectado
+15-07-2014 05:12:43	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 05:12:43	Reader Antena XPortal id: 74 desconectado
+15-07-2014 05:13:15	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 05:13:15	Reader Antena XPortal id: 74 desconectado
+15-07-2014 05:13:46	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 05:13:46	Reader Antena XPortal id: 74 desconectado
+15-07-2014 05:14:18	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 05:14:18	Reader Antena XPortal id: 74 desconectado
+15-07-2014 05:14:49	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 05:14:49	Reader Antena XPortal id: 74 desconectado
+15-07-2014 05:15:21	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 05:15:21	Reader Antena XPortal id: 74 desconectado
+15-07-2014 05:15:52	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 05:15:52	Reader Antena XPortal id: 74 desconectado
+15-07-2014 05:16:24	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 05:16:24	Reader Antena XPortal id: 74 desconectado
+15-07-2014 05:16:55	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 05:16:55	Reader Antena XPortal id: 74 desconectado
+16-07-2014 09:58:44	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 09:58:44	Reader Antena XPortal id: 74 desconectado
+16-07-2014 09:59:16	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 09:59:16	Reader Antena XPortal id: 74 desconectado
+16-07-2014 09:59:47	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 09:59:47	Reader Antena XPortal id: 74 desconectado
+16-07-2014 10:00:19	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 10:00:19	Reader Antena XPortal id: 74 desconectado
+16-07-2014 10:00:50	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 10:00:50	Reader Antena XPortal id: 74 desconectado
+16-07-2014 10:01:22	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 10:01:22	Reader Antena XPortal id: 74 desconectado
+16-07-2014 10:01:53	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 10:01:53	Reader Antena XPortal id: 74 desconectado
+16-07-2014 10:02:25	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 10:02:25	Reader Antena XPortal id: 74 desconectado
+16-07-2014 10:17:55	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 10:17:55	Reader Antena XPortal id: 74 desconectado
+16-07-2014 10:19:40	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 10:19:40	Reader Antena XPortal id: 74 desconectado
+16-07-2014 10:35:08	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 10:35:08	Reader Antena XPortal id: 74 desconectado
+16-07-2014 10:35:39	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 10:35:39	Reader Antena XPortal id: 74 desconectado
+16-07-2014 10:52:29	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 10:52:29	Reader Antena XPortal id: 74 desconectado
+16-07-2014 10:57:17	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 10:57:17	Reader Antena XPortal id: 74 desconectado
+16-07-2014 10:59:05	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 10:59:05	Reader Antena XPortal id: 74 desconectado
+16-07-2014 10:59:44	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 10:59:44	Reader Antena XPortal id: 74 desconectado
+16-07-2014 11:00:16	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 11:00:16	Reader Antena XPortal id: 74 desconectado
+16-07-2014 11:00:47	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 11:00:47	Reader Antena XPortal id: 74 desconectado
+16-07-2014 11:04:29	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 11:04:29	Reader Antena XPortal id: 74 desconectado
+16-07-2014 11:05:00	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 11:05:00	Reader Antena XPortal id: 74 desconectado
+16-07-2014 11:05:32	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 11:05:32	Reader Antena XPortal id: 74 desconectado
+16-07-2014 11:06:03	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 11:06:03	Reader Antena XPortal id: 74 desconectado
+16-07-2014 11:06:35	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 11:06:35	Reader Antena XPortal id: 74 desconectado
+16-07-2014 11:07:06	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 11:07:06	Reader Antena XPortal id: 74 desconectado
+16-07-2014 11:07:38	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 11:07:38	Reader Antena XPortal id: 74 desconectado
+16-07-2014 01:52:22	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 01:52:22	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:02:05	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:02:05	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:03:17	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:03:17	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:03:57	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:03:57	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:04:28	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:04:28	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:05:28	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:05:28	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:06:00	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:06:00	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:07:14	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:07:14	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:07:54	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:07:54	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:08:26	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:08:26	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:08:57	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:08:57	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:09:29	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:09:29	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:10:00	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:10:00	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:10:32	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:10:32	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:11:03	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:11:03	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:11:35	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:11:35	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:12:06	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:12:06	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:12:38	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:12:38	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:13:09	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:13:09	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:13:41	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:13:41	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:14:17	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:14:17	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:14:48	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:14:48	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:14:58	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:14:58	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:16:09	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:16:09	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:21:42	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:21:42	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:22:39	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:22:39	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:24:36	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:24:36	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:26:48	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:26:48	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:27:20	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:27:20	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:27:55	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:27:55	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:28:48	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:28:48	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:29:19	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:29:19	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:29:51	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:29:51	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:30:22	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:30:22	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:30:54	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:30:54	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:31:25	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:31:25	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:31:56	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:31:56	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:34:21	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:34:21	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:34:53	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:34:53	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:35:11	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:35:11	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:35:24	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:35:24	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:35:34	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:35:34	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:35:56	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:35:56	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:40:01	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:40:01	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:40:33	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:40:33	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:41:04	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:41:04	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:41:36	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:41:36	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:42:07	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:42:07	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:47:18	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:47:18	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:47:49	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:47:49	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:48:28	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:48:28	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:48:59	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:48:59	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:49:31	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:49:31	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:50:02	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:50:02	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:50:34	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:50:34	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:51:05	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:51:05	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:51:37	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:51:37	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:52:08	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:52:08	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:52:40	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:52:40	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:53:11	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:53:11	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:54:20	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:54:20	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:54:36	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:54:36	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:54:51	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:54:51	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:54:59	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:54:59	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:55:23	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:55:23	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:55:30	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:55:30	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:56:18	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:56:18	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:56:50	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:56:50	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:57:22	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:57:22	Reader Antena XPortal id: 74 desconectado
+16-07-2014 02:58:28	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 02:58:28	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:00:07	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:00:07	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:00:39	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:00:39	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:01:10	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:01:10	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:01:42	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:01:42	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:03:34	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:03:34	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:05:58	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:05:58	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:08:03	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:08:03	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:08:35	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:08:35	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:09:41	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:09:41	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:10:12	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:10:12	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:10:44	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:10:44	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:11:15	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:11:15	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:11:47	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:11:47	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:12:18	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:12:18	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:12:50	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:12:50	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:13:46	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:13:46	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:13:52	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:13:52	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:15:38	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:15:38	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:16:10	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:16:10	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:16:41	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:16:41	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:17:13	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:17:13	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:17:21	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:17:21	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:22:50	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:22:50	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:36:15	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:36:15	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:36:47	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:36:47	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:36:54	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:36:54	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:37:16	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:37:16	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:37:18	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:37:18	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:38:17	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:38:17	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:38:49	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:38:49	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:39:20	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:39:20	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:39:52	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:39:52	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:40:50	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:40:50	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:41:22	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:41:22	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:41:53	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:41:53	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:42:25	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:42:25	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:42:56	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:42:56	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:43:28	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:43:28	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:43:59	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:43:59	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:44:57	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:44:57	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:46:31	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:46:31	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:47:03	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:47:03	Reader Antena XPortal id: 74 desconectado
+16-07-2014 03:47:34	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 03:47:34	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:01:16	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:01:16	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:02:14	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:02:14	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:02:46	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:02:46	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:04:07	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:04:07	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:04:39	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:04:39	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:05:10	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:05:10	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:05:42	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:05:42	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:07:17	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:07:17	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:08:05	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:08:05	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:08:13	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:08:13	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:09:28	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:09:28	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:09:59	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:09:59	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:10:31	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:10:31	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:12:10	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:12:10	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:15:08	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:15:08	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:15:39	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:15:39	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:16:11	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:16:11	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:18:00	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:18:00	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:18:31	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:18:31	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:19:03	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:19:03	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:33:08	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:33:08	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:33:39	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:33:39	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:34:50	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:34:50	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:35:22	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:35:22	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:35:53	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:35:53	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:36:57	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:36:57	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:39:27	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:39:27	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:39:59	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:39:59	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:41:28	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:41:28	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:42:59	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:42:59	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:43:31	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:43:31	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:44:02	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:44:02	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:44:34	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:44:34	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:45:05	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:45:05	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:45:37	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:45:37	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:46:08	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:46:08	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:47:08	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:47:08	Reader Antena XPortal id: 74 desconectado
+16-07-2014 05:47:39	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 05:47:39	Reader Antena XPortal id: 74 desconectado
+16-07-2014 06:17:38	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 06:17:38	Reader Antena XPortal id: 74 desconectado
+16-07-2014 06:18:09	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 06:18:09	Reader Antena XPortal id: 74 desconectado
+16-07-2014 06:19:03	Borrando todos los ROSpecs: 172.22.23.227
+16-07-2014 06:19:03	Reader Antena XPortal id: 74 desconectado
+17-07-2014 09:08:31	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 09:08:31	Reader Antena XPortal id: 74 desconectado
+17-07-2014 09:09:02	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 09:09:02	Reader Antena XPortal id: 74 desconectado
+17-07-2014 09:09:34	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 09:09:34	Reader Antena XPortal id: 74 desconectado
+17-07-2014 09:10:05	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 09:10:05	Reader Antena XPortal id: 74 desconectado
+17-07-2014 09:11:04	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 09:11:04	Reader Antena XPortal id: 74 desconectado
+17-07-2014 09:11:35	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 09:11:35	Reader Antena XPortal id: 74 desconectado
+17-07-2014 09:12:29	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 09:12:29	Reader Antena XPortal id: 74 desconectado
+17-07-2014 09:16:53	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 09:16:53	Reader Antena XPortal id: 74 desconectado
+17-07-2014 09:18:32	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 09:18:32	Reader Antena XPortal id: 74 desconectado
+17-07-2014 09:19:04	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 09:19:04	Reader Antena XPortal id: 74 desconectado
+17-07-2014 09:20:06	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 09:20:06	Reader Antena XPortal id: 74 desconectado
+17-07-2014 09:20:38	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 09:20:38	Reader Antena XPortal id: 74 desconectado
+17-07-2014 09:22:13	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 09:22:13	Reader Antena XPortal id: 74 desconectado
+17-07-2014 09:22:45	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 09:22:45	Reader Antena XPortal id: 74 desconectado
+17-07-2014 09:23:16	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 09:23:16	Reader Antena XPortal id: 74 desconectado
+17-07-2014 09:23:48	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 09:23:48	Reader Antena XPortal id: 74 desconectado
+17-07-2014 09:24:19	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 09:24:19	Reader Antena XPortal id: 74 desconectado
+17-07-2014 09:24:51	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 09:24:51	Reader Antena XPortal id: 74 desconectado
+17-07-2014 09:25:22	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 09:25:22	Reader Antena XPortal id: 74 desconectado
+17-07-2014 09:25:54	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 09:25:54	Reader Antena XPortal id: 74 desconectado
+17-07-2014 09:26:26	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 09:26:26	Reader Antena XPortal id: 74 desconectado
+17-07-2014 09:51:48	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 09:51:48	Reader Antena XPortal id: 74 desconectado
+17-07-2014 09:52:20	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 09:52:20	Reader Antena XPortal id: 74 desconectado
+17-07-2014 09:52:51	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 09:52:51	Reader Antena XPortal id: 74 desconectado
+17-07-2014 09:53:23	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 09:53:23	Reader Antena XPortal id: 74 desconectado
+17-07-2014 09:53:55	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 09:53:55	Reader Antena XPortal id: 74 desconectado
+17-07-2014 09:54:26	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 09:54:26	Reader Antena XPortal id: 74 desconectado
+17-07-2014 09:54:58	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 09:54:58	Reader Antena XPortal id: 74 desconectado
+17-07-2014 09:55:29	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 09:55:29	Reader Antena XPortal id: 74 desconectado
+17-07-2014 09:56:01	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 09:56:01	Reader Antena XPortal id: 74 desconectado
+17-07-2014 09:56:32	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 09:56:32	Reader Antena XPortal id: 74 desconectado
+17-07-2014 09:57:04	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 09:57:04	Reader Antena XPortal id: 74 desconectado
+17-07-2014 09:57:35	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 09:57:35	Reader Antena XPortal id: 74 desconectado
+17-07-2014 09:58:07	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 09:58:07	Reader Antena XPortal id: 74 desconectado
+17-07-2014 09:58:38	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 09:58:38	Reader Antena XPortal id: 74 desconectado
+17-07-2014 09:59:10	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 09:59:10	Reader Antena XPortal id: 74 desconectado
+17-07-2014 09:59:41	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 09:59:41	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:00:51	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:00:51	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:02:53	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:02:53	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:03:24	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:03:24	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:03:56	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:03:56	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:04:27	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:04:27	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:04:59	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:04:59	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:05:30	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:05:30	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:06:02	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:06:02	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:06:33	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:06:33	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:07:05	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:07:05	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:07:36	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:07:36	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:08:08	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:08:08	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:08:39	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:08:39	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:09:11	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:09:11	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:09:42	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:09:42	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:10:14	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:10:14	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:10:45	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:10:45	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:11:17	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:11:17	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:11:48	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:11:48	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:12:20	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:12:20	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:12:51	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:12:51	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:13:23	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:13:23	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:13:54	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:13:54	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:14:26	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:14:26	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:14:58	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:14:58	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:15:29	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:15:29	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:16:01	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:16:01	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:16:32	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:16:32	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:17:04	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:17:04	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:17:35	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:17:35	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:18:07	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:18:07	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:18:38	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:18:38	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:19:10	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:19:10	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:19:41	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:19:41	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:20:13	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:20:13	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:20:44	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:20:44	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:21:16	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:21:16	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:21:47	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:21:47	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:22:19	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:22:19	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:22:50	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:22:50	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:23:22	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:23:22	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:23:53	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:23:53	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:24:25	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:24:25	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:24:56	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:24:56	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:25:28	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:25:28	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:25:59	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:25:59	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:26:31	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:26:31	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:27:02	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:27:02	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:27:34	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:27:34	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:28:05	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:28:05	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:28:37	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:28:37	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:29:08	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:29:08	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:29:40	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:29:40	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:30:11	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:30:11	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:30:43	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:30:43	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:31:14	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:31:14	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:31:46	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:31:46	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:32:17	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:32:17	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:32:49	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:32:49	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:33:20	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:33:20	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:33:52	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:33:52	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:34:23	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:34:23	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:34:55	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:34:55	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:35:26	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:35:26	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:35:58	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:35:58	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:36:29	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:36:29	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:37:01	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:37:01	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:37:33	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:37:33	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:38:04	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:38:04	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:38:36	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:38:36	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:39:07	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:39:07	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:39:39	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:39:39	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:40:10	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:40:10	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:40:42	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:40:42	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:41:13	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:41:13	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:41:45	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:41:45	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:42:16	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:42:16	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:42:48	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:42:48	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:43:19	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:43:19	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:43:51	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:43:51	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:44:22	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:44:22	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:44:54	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:44:54	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:45:25	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:45:25	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:45:57	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:45:57	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:46:28	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:46:28	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:47:00	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:47:00	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:47:31	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:47:31	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:48:03	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:48:03	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:48:34	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:48:34	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:49:06	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:49:06	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:49:37	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:49:37	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:50:09	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:50:09	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:50:40	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:50:40	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:51:12	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:51:12	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:51:43	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:51:43	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:52:15	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:52:15	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:52:46	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:52:46	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:53:18	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:53:18	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:53:49	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:53:49	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:54:21	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:54:21	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:54:52	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:54:52	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:55:24	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:55:24	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:55:56	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:55:56	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:56:27	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:56:27	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:57:32	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:57:32	Reader Antena XPortal id: 74 desconectado
+17-07-2014 10:58:13	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 10:58:13	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:06:46	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:06:46	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:07:18	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:07:18	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:08:50	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:08:50	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:09:22	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:09:22	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:10:31	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:10:31	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:11:02	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:11:02	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:11:34	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:11:34	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:12:05	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:12:05	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:12:37	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:12:37	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:13:42	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:13:42	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:14:13	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:14:13	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:14:45	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:14:45	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:15:33	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:15:33	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:16:05	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:16:05	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:17:26	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:17:26	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:17:58	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:17:58	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:18:29	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:18:29	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:19:01	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:19:01	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:19:32	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:19:32	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:19:59	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:19:59	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:20:30	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:20:30	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:21:53	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:21:53	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:22:24	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:22:24	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:22:56	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:22:56	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:23:27	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:23:27	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:23:59	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:23:59	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:24:30	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:24:30	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:25:02	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:25:02	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:25:33	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:25:33	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:26:05	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:26:05	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:26:36	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:26:36	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:27:08	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:27:08	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:27:39	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:27:39	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:28:11	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:28:11	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:28:42	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:28:42	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:29:14	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:29:14	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:29:46	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:29:46	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:30:17	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:30:17	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:30:49	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:30:49	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:31:20	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:31:20	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:31:52	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:31:52	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:32:23	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:32:23	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:32:55	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:32:55	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:33:26	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:33:26	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:33:58	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:33:58	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:34:29	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:34:29	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:35:01	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:35:01	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:35:32	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:35:32	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:36:04	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:36:04	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:36:35	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:36:35	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:37:07	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:37:07	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:37:38	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:37:38	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:38:10	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:38:10	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:38:41	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:38:41	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:39:13	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:39:13	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:39:44	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:39:44	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:40:16	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:40:16	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:40:47	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:40:47	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:41:19	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:41:19	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:41:50	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:41:50	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:42:22	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:42:22	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:42:53	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:42:53	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:43:25	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:43:25	Reader Antena XPortal id: 74 desconectado
+17-07-2014 11:44:25	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 11:44:25	Reader Antena XPortal id: 74 desconectado
+17-07-2014 12:09:03	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 12:09:03	Reader Antena XPortal id: 74 desconectado
+17-07-2014 12:09:35	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 12:09:35	Reader Antena XPortal id: 74 desconectado
+17-07-2014 12:10:06	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 12:10:06	Reader Antena XPortal id: 74 desconectado
+17-07-2014 01:42:25	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 01:42:25	Reader Antena XPortal id: 74 desconectado
+17-07-2014 01:42:57	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 01:42:57	Reader Antena XPortal id: 74 desconectado
+17-07-2014 01:48:35	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 01:48:35	Reader Antena XPortal id: 74 desconectado
+17-07-2014 01:49:06	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 01:49:06	Reader Antena XPortal id: 74 desconectado
+17-07-2014 01:49:38	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 01:49:38	Reader Antena XPortal id: 74 desconectado
+17-07-2014 01:50:09	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 01:50:09	Reader Antena XPortal id: 74 desconectado
+17-07-2014 01:50:41	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 01:50:41	Reader Antena XPortal id: 74 desconectado
+17-07-2014 01:51:12	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 01:51:12	Reader Antena XPortal id: 74 desconectado
+17-07-2014 01:51:44	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 01:51:44	Reader Antena XPortal id: 74 desconectado
+17-07-2014 01:52:15	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 01:52:15	Reader Antena XPortal id: 74 desconectado
+17-07-2014 01:52:47	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 01:52:47	Reader Antena XPortal id: 74 desconectado
+17-07-2014 01:53:18	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 01:53:18	Reader Antena XPortal id: 74 desconectado
+17-07-2014 01:53:50	Borrando todos los ROSpecs: 172.22.23.227
+17-07-2014 01:53:50	Reader Antena XPortal id: 74 desconectado

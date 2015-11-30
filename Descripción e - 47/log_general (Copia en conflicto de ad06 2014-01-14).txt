@@ -1,0 +1,47 @@
+04-11-2013 03:41:12	Borrando todos los ROSpecs: 172.22.22.184
+04-11-2013 03:41:12	Reader Descripción e id: 47 desconectado
+04-11-2013 03:41:14	Borrando todos los ROSpecs: 172.22.22.184
+04-11-2013 03:41:14	Reader Descripción e id: 47 desconectado
+11-11-2013 04:25:36	Borrando todos los ROSpecs: 172.22.22.184
+11-11-2013 04:25:36	ROSpec creado exitosamente: 172.22.22.184
+11-11-2013 04:25:36	Añadiendo el ROSpec: 172.22.22.184
+11-11-2013 04:25:36	ROSpec añadido de forma exitosa: 172.22.22.184
+11-11-2013 04:25:36	Habilitando el ROSpec: 172.22.22.184
+11-11-2013 04:25:36	Iniciando el ROSpec: 172.22.22.184
+11-11-2013 04:25:36	Reader Descripción e id: 47 conectado
+11-11-2013 04:26:29	Borrando todos los ROSpecs: 172.22.22.184
+11-11-2013 04:26:29	ROSpec creado exitosamente: 172.22.22.184
+11-11-2013 04:26:29	Añadiendo el ROSpec: 172.22.22.184
+11-11-2013 04:26:29	ROSpec añadido de forma exitosa: 172.22.22.184
+11-11-2013 04:26:29	Habilitando el ROSpec: 172.22.22.184
+11-11-2013 04:26:29	Iniciando el ROSpec: 172.22.22.184
+11-11-2013 04:26:29	Reader Descripción e id: 47 conectado
+11-11-2013 04:26:32	Borrando todos los ROSpecs: 172.22.22.184
+11-11-2013 04:26:32	Reader Descripción e id: 47 desconectado
+11-11-2013 04:26:55	Borrando todos los ROSpecs: 172.22.22.184
+11-11-2013 04:26:55	ROSpec creado exitosamente: 172.22.22.184
+11-11-2013 04:26:55	Añadiendo el ROSpec: 172.22.22.184
+11-11-2013 04:26:55	ROSpec añadido de forma exitosa: 172.22.22.184
+11-11-2013 04:26:55	Habilitando el ROSpec: 172.22.22.184
+11-11-2013 04:26:55	Iniciando el ROSpec: 172.22.22.184
+11-11-2013 04:26:55	Reader Descripción e id: 47 conectado
+11-11-2013 04:26:59	Borrando todos los ROSpecs: 172.22.22.184
+11-11-2013 04:26:59	Reader Descripción e id: 47 desconectado
+11-11-2013 04:27:25	Borrando todos los ROSpecs: 172.22.22.184
+11-11-2013 04:27:25	ROSpec creado exitosamente: 172.22.22.184
+11-11-2013 04:27:25	Añadiendo el ROSpec: 172.22.22.184
+11-11-2013 04:27:25	ROSpec añadido de forma exitosa: 172.22.22.184
+11-11-2013 04:27:25	Habilitando el ROSpec: 172.22.22.184
+11-11-2013 04:27:25	Iniciando el ROSpec: 172.22.22.184
+11-11-2013 04:27:25	Reader Descripción e id: 47 conectado
+11-11-2013 04:27:34	Borrando todos los ROSpecs: 172.22.22.184
+11-11-2013 04:27:34	Reader Descripción e id: 47 desconectado
+11-11-2013 04:27:53	Borrando todos los ROSpecs: 172.22.22.184
+11-11-2013 04:27:53	ROSpec creado exitosamente: 172.22.22.184
+11-11-2013 04:27:53	Añadiendo el ROSpec: 172.22.22.184
+11-11-2013 04:27:53	ROSpec añadido de forma exitosa: 172.22.22.184
+11-11-2013 04:27:53	Habilitando el ROSpec: 172.22.22.184
+11-11-2013 04:27:53	Iniciando el ROSpec: 172.22.22.184
+11-11-2013 04:27:53	Reader Descripción e id: 47 conectado
+11-11-2013 04:28:03	Borrando todos los ROSpecs: 172.22.22.184
+11-11-2013 04:28:03	Reader Descripción e id: 47 desconectado

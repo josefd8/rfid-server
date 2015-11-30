@@ -1,0 +1,36 @@
+04-11-2013 03:40:54	Borrando todos los ROSpecs: 142.31.1.1
+04-11-2013 03:40:54	Reader Equipo Eq id: 60 desconectado
+04-11-2013 03:41:05	Borrando todos los ROSpecs: 142.31.1.1
+04-11-2013 03:41:05	Reader Equipo Eq id: 60 desconectado
+04-11-2013 03:41:13	Borrando todos los ROSpecs: 142.31.1.1
+04-11-2013 03:41:13	Reader Equipo Eq id: 60 desconectado
+04-11-2013 03:41:17	Borrando todos los ROSpecs: 142.31.1.1
+04-11-2013 03:41:17	Reader Equipo Eq id: 60 desconectado
+04-11-2013 03:41:28	Borrando todos los ROSpecs: 142.31.1.1
+04-11-2013 03:41:28	Reader Equipo Eq id: 60 desconectado
+11-11-2013 04:25:37	Borrando todos los ROSpecs: 142.31.1.1
+11-11-2013 04:25:37	Reader Equipo Eq id: 60 desconectado
+11-11-2013 04:25:46	Borrando todos los ROSpecs: 142.31.1.1
+11-11-2013 04:25:46	Reader Equipo Eq id: 60 desconectado
+11-11-2013 04:26:30	Borrando todos los ROSpecs: 142.31.1.1
+11-11-2013 04:26:30	Reader Equipo Eq id: 60 desconectado
+11-11-2013 04:26:33	Borrando todos los ROSpecs: 142.31.1.1
+11-11-2013 04:26:33	Reader Equipo Eq id: 60 desconectado
+11-11-2013 04:26:56	Borrando todos los ROSpecs: 142.31.1.1
+11-11-2013 04:26:56	Reader Equipo Eq id: 60 desconectado
+11-11-2013 04:26:57	Borrando todos los ROSpecs: 142.31.1.1
+11-11-2013 04:26:57	Reader Equipo Eq id: 60 desconectado
+11-11-2013 04:27:08	Borrando todos los ROSpecs: 142.31.1.1
+11-11-2013 04:27:08	Reader Equipo Eq id: 60 desconectado
+11-11-2013 04:27:26	Borrando todos los ROSpecs: 142.31.1.1
+11-11-2013 04:27:26	Reader Equipo Eq id: 60 desconectado
+11-11-2013 04:27:32	Borrando todos los ROSpecs: 142.31.1.1
+11-11-2013 04:27:32	Reader Equipo Eq id: 60 desconectado
+11-11-2013 04:27:38	Borrando todos los ROSpecs: 142.31.1.1
+11-11-2013 04:27:38	Reader Equipo Eq id: 60 desconectado
+11-11-2013 04:27:49	Borrando todos los ROSpecs: 142.31.1.1
+11-11-2013 04:27:49	Reader Equipo Eq id: 60 desconectado
+11-11-2013 04:27:54	Borrando todos los ROSpecs: 142.31.1.1
+11-11-2013 04:27:54	Reader Equipo Eq id: 60 desconectado
+11-11-2013 04:28:01	Borrando todos los ROSpecs: 142.31.1.1
+11-11-2013 04:28:01	Reader Equipo Eq id: 60 desconectado

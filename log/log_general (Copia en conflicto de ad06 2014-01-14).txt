@@ -1,0 +1,1952 @@
+09-10-2013 11:15:13	Estableciendo servidor TCP en 127.0.0.1:3223
+09-10-2013 11:26:11	Estableciendo servidor TCP en 127.0.0.1:3333
+09-10-2013 11:26:11	Estableciendo servidor TCP en 127.0.0.1:3335
+09-10-2013 11:26:21	Estableciendo servidor TCP en 127.0.0.1:3349
+09-10-2013 11:26:21	Estableciendo servidor TCP en 127.0.0.1:3351
+09-10-2013 11:27:20	Estableciendo servidor TCP en 127.0.0.1:3371
+09-10-2013 11:27:20	Estableciendo servidor TCP en 127.0.0.1:3373
+09-10-2013 11:28:38	Estableciendo servidor TCP en 127.0.0.1:3398
+09-10-2013 11:28:38	Estableciendo servidor TCP en 127.0.0.1:3400
+09-10-2013 11:29:00	Estableciendo servidor TCP en 127.0.0.1:3415
+09-10-2013 11:29:00	Estableciendo servidor TCP en 127.0.0.1:3417
+09-10-2013 11:29:22	Estableciendo servidor TCP en 127.0.0.1:3431
+09-10-2013 11:29:22	Estableciendo servidor TCP en 127.0.0.1:3433
+09-10-2013 11:30:57	Estableciendo servidor TCP en 127.0.0.1:3459
+09-10-2013 11:33:49	Estableciendo servidor TCP en 127.0.0.1:3493
+09-10-2013 11:33:50	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:3493
+09-10-2013 11:57:40	Se han encontrado 2 Readers en BD:
+09-10-2013 11:57:40	   Equipo Test en 172.22.22.208, tipo 2, ID: 51
+09-10-2013 11:57:40	   Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+09-10-2013 12:14:06	Se han encontrado 3 Readers en BD:
+09-10-2013 12:14:06	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+09-10-2013 12:14:06	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+09-10-2013 12:14:06	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+09-10-2013 12:14:13	Se han encontrado 3 Readers en BD:
+09-10-2013 12:14:13	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+09-10-2013 12:14:13	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+09-10-2013 12:14:13	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+09-10-2013 12:16:54	Se han encontrado 3 Readers en BD:
+09-10-2013 12:16:54	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+09-10-2013 12:16:54	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+09-10-2013 12:16:54	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+09-10-2013 02:17:43	Se han encontrado 3 Readers en BD:
+09-10-2013 02:17:43	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+09-10-2013 02:17:43	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+09-10-2013 02:17:43	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+09-10-2013 02:18:33	Se han encontrado 3 Readers en BD:
+09-10-2013 02:18:33	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+09-10-2013 02:18:33	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+09-10-2013 02:18:33	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+09-10-2013 02:20:53	Se han encontrado 3 Readers en BD:
+09-10-2013 02:20:53	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+09-10-2013 02:20:53	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+09-10-2013 02:20:53	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+09-10-2013 02:57:56	Se han encontrado 3 Readers en BD:
+09-10-2013 02:57:56	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+09-10-2013 02:57:56	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+09-10-2013 02:57:56	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+09-10-2013 03:05:33	Se ha creado el archivo 'config.xml'
+09-10-2013 03:08:25	Se ha creado el archivo 'config.xml'
+09-10-2013 03:14:51	Se ha creado el archivo 'config.xml'
+09-10-2013 03:14:53	PostgreSQL: Conexión rechazada. Verifique que el nombre del Host y el puerto sean correctos y que postmaster este aceptando conexiones TCP/IP.
+09-10-2013 03:14:53	Estableciendo servidor TCP en 127.0.0.1:2581
+09-10-2013 03:14:55	PostgreSQL: Conexión rechazada. Verifique que el nombre del Host y el puerto sean correctos y que postmaster este aceptando conexiones TCP/IP.
+09-10-2013 03:14:55	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:2581
+09-10-2013 03:15:32	Se ha creado el archivo 'config.xml'
+09-10-2013 03:15:34	PostgreSQL: Conexión rechazada. Verifique que el nombre del Host y el puerto sean correctos y que postmaster este aceptando conexiones TCP/IP.
+09-10-2013 03:15:34	Estableciendo servidor TCP en 127.0.0.1:2597
+09-10-2013 03:15:36	PostgreSQL: Conexión rechazada. Verifique que el nombre del Host y el puerto sean correctos y que postmaster este aceptando conexiones TCP/IP.
+09-10-2013 03:15:36	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:2597
+09-10-2013 03:15:38	PostgreSQL: Conexión rechazada. Verifique que el nombre del Host y el puerto sean correctos y que postmaster este aceptando conexiones TCP/IP.
+09-10-2013 03:15:38	Se han encontrado 0 Readers en BD:
+09-10-2013 03:16:34	Se ha creado el archivo 'config.xml'
+09-10-2013 03:16:36	PostgreSQL: Conexión rechazada. Verifique que el nombre del Host y el puerto sean correctos y que postmaster este aceptando conexiones TCP/IP.
+09-10-2013 03:16:36	Estableciendo servidor TCP en 127.0.0.1:2612
+09-10-2013 03:16:45	Se ha creado el archivo 'config.xml'
+09-10-2013 03:55:14	PostgreSQL: Conexión rechazada. Verifique que el nombre del Host y el puerto sean correctos y que postmaster este aceptando conexiones TCP/IP.
+09-10-2013 03:55:14	Estableciendo servidor TCP en 127.0.0.1:2932
+09-10-2013 03:55:16	PostgreSQL: Conexión rechazada. Verifique que el nombre del Host y el puerto sean correctos y que postmaster este aceptando conexiones TCP/IP.
+09-10-2013 03:55:16	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:2932
+09-10-2013 03:55:18	PostgreSQL: Conexión rechazada. Verifique que el nombre del Host y el puerto sean correctos y que postmaster este aceptando conexiones TCP/IP.
+09-10-2013 03:55:18	Se han encontrado 0 Readers en BD:
+09-10-2013 04:27:33	PostgreSQL: FATAL: password authentication failed for user "rfid"
+09-10-2013 04:27:33	Estableciendo servidor TCP en 127.0.0.1:3197
+09-10-2013 04:27:33	PostgreSQL: FATAL: password authentication failed for user "rfid"
+09-10-2013 04:27:33	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:3197
+09-10-2013 04:27:33	PostgreSQL: FATAL: password authentication failed for user "rfid"
+09-10-2013 04:27:33	Se han encontrado 0 Readers en BD:
+09-10-2013 04:27:54	PostgreSQL: FATAL: password authentication failed for user "rfid"
+09-10-2013 04:27:54	Estableciendo servidor TCP en 127.0.0.1:3205
+09-10-2013 04:27:54	PostgreSQL: FATAL: password authentication failed for user "rfid"
+09-10-2013 04:27:54	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:3205
+09-10-2013 04:27:54	PostgreSQL: FATAL: password authentication failed for user "rfid"
+09-10-2013 04:27:54	Se han encontrado 0 Readers en BD:
+09-10-2013 04:28:54	PostgreSQL: FATAL: password authentication failed for user "rfid"
+09-10-2013 04:28:54	Estableciendo servidor TCP en 127.0.0.1:3218
+09-10-2013 04:28:54	PostgreSQL: FATAL: password authentication failed for user "rfid"
+09-10-2013 04:28:54	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:3218
+09-10-2013 04:28:54	PostgreSQL: FATAL: password authentication failed for user "rfid"
+09-10-2013 04:28:54	Se han encontrado 0 Readers en BD:
+09-10-2013 04:30:54	Se han encontrado 3 Readers en BD:
+09-10-2013 04:30:54	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+09-10-2013 04:30:54	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+09-10-2013 04:30:54	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+09-10-2013 04:31:47	Se han encontrado 3 Readers en BD:
+09-10-2013 04:31:47	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+09-10-2013 04:31:47	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+09-10-2013 04:31:47	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+09-10-2013 04:33:39	Estableciendo servidor TCP en 127.0.0.1:3319
+09-10-2013 04:33:39	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:3319
+09-10-2013 04:33:39	Se han encontrado 3 Readers en BD:
+09-10-2013 04:33:39	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+09-10-2013 04:33:39	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+09-10-2013 04:33:39	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+09-10-2013 04:52:47	Estableciendo servidor TCP en 127.0.0.1:3480
+09-10-2013 04:52:47	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:3480
+09-10-2013 04:52:48	Se han encontrado 3 Readers en BD:
+09-10-2013 04:52:48	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+09-10-2013 04:52:48	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+09-10-2013 04:52:48	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+09-10-2013 05:04:03	Estableciendo servidor TCP en 127.0.0.1:3679
+09-10-2013 05:04:03	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:3679
+09-10-2013 05:04:03	Se han encontrado 3 Readers en BD:
+09-10-2013 05:04:03	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+09-10-2013 05:04:03	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+09-10-2013 05:04:03	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+09-10-2013 05:07:58	Estableciendo servidor TCP en 127.0.0.1:3748
+09-10-2013 05:07:58	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:3748
+09-10-2013 05:07:59	Se han encontrado 3 Readers en BD:
+09-10-2013 05:07:59	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+09-10-2013 05:07:59	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+09-10-2013 05:07:59	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+09-10-2013 05:09:17	Estableciendo servidor TCP en 127.0.0.1:3776
+09-10-2013 05:09:17	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:3776
+09-10-2013 05:09:17	Se han encontrado 3 Readers en BD:
+09-10-2013 05:09:17	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+09-10-2013 05:09:17	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+09-10-2013 05:09:17	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+09-10-2013 05:10:16	Estableciendo servidor TCP en 127.0.0.1:3799
+09-10-2013 05:10:16	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:3799
+09-10-2013 05:10:16	Se han encontrado 3 Readers en BD:
+09-10-2013 05:10:16	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+09-10-2013 05:10:16	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+09-10-2013 05:10:16	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+09-10-2013 05:12:55	Estableciendo servidor TCP en 127.0.0.1:3831
+09-10-2013 05:12:55	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:3831
+09-10-2013 05:12:55	Se han encontrado 3 Readers en BD:
+09-10-2013 05:12:55	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+09-10-2013 05:12:55	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+09-10-2013 05:12:55	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+10-10-2013 09:38:23	Estableciendo servidor TCP en 127.0.0.1:1412
+10-10-2013 09:38:23	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:1412
+10-10-2013 09:38:23	Se han encontrado 3 Readers en BD:
+10-10-2013 09:38:23	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+10-10-2013 09:38:23	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+10-10-2013 09:38:23	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+10-10-2013 09:55:33	Estableciendo servidor TCP en 127.0.0.1:1584
+10-10-2013 09:55:33	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:1584
+10-10-2013 09:55:33	Se han encontrado 3 Readers en BD:
+10-10-2013 09:55:33	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+10-10-2013 09:55:33	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+10-10-2013 09:55:33	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+10-10-2013 10:37:40	Estableciendo servidor TCP en 127.0.0.1:2657
+10-10-2013 10:37:40	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:2657
+10-10-2013 10:37:40	Se han encontrado 3 Readers en BD:
+10-10-2013 10:37:40	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+10-10-2013 10:37:40	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+10-10-2013 10:37:40	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+10-10-2013 10:38:04	Estableciendo servidor TCP en 127.0.0.1:2713
+10-10-2013 10:38:04	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:2713
+10-10-2013 10:38:04	Se han encontrado 3 Readers en BD:
+10-10-2013 10:38:04	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+10-10-2013 10:38:04	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+10-10-2013 10:38:04	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+10-10-2013 10:40:16	Estableciendo servidor TCP en 127.0.0.1:2859
+10-10-2013 10:40:16	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:2859
+10-10-2013 10:40:16	Se han encontrado 3 Readers en BD:
+10-10-2013 10:40:16	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+10-10-2013 10:40:16	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+10-10-2013 10:40:16	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+10-10-2013 10:46:26	Estableciendo servidor TCP en 127.0.0.1:3013
+10-10-2013 10:46:26	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:3013
+10-10-2013 10:46:26	Se han encontrado 3 Readers en BD:
+10-10-2013 10:46:26	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+10-10-2013 10:46:26	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+10-10-2013 10:46:26	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+10-10-2013 10:47:22	Estableciendo servidor TCP en 127.0.0.1:3071
+10-10-2013 10:47:22	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:3071
+10-10-2013 10:47:22	Se han encontrado 3 Readers en BD:
+10-10-2013 10:47:22	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+10-10-2013 10:47:22	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+10-10-2013 10:47:22	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+11-10-2013 02:32:55	Se han encontrado 3 Readers en BD:
+11-10-2013 02:32:55	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-10-2013 02:32:55	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-10-2013 02:32:55	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+11-10-2013 02:34:13	Se han encontrado 3 Readers en BD:
+11-10-2013 02:34:13	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-10-2013 02:34:13	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-10-2013 02:34:13	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+11-10-2013 02:36:00	Se han encontrado 3 Readers en BD:
+11-10-2013 02:36:00	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-10-2013 02:36:00	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-10-2013 02:36:00	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+11-10-2013 02:36:40	Se han encontrado 3 Readers en BD:
+11-10-2013 02:36:40	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-10-2013 02:36:40	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-10-2013 02:36:40	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+14-10-2013 08:56:21	Se han encontrado 3 Readers en BD:
+14-10-2013 08:56:21	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+14-10-2013 08:56:21	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+14-10-2013 08:56:21	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+14-10-2013 02:10:08	Se han encontrado 3 Readers en BD:
+14-10-2013 02:10:08	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+14-10-2013 02:10:08	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+14-10-2013 02:10:08	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+14-10-2013 02:10:17	Se han encontrado 3 Readers en BD:
+14-10-2013 02:10:17	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+14-10-2013 02:10:17	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+14-10-2013 02:10:17	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+14-10-2013 02:11:28	Se han encontrado 3 Readers en BD:
+14-10-2013 02:11:28	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+14-10-2013 02:11:28	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+14-10-2013 02:11:28	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+14-10-2013 02:11:38	Se han encontrado 3 Readers en BD:
+14-10-2013 02:11:38	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+14-10-2013 02:11:38	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+14-10-2013 02:11:38	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+14-10-2013 02:13:36	Se han encontrado 3 Readers en BD:
+14-10-2013 02:13:36	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+14-10-2013 02:13:36	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+14-10-2013 02:13:36	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+14-10-2013 03:41:06	Se han encontrado 3 Readers en BD:
+14-10-2013 03:41:06	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+14-10-2013 03:41:06	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+14-10-2013 03:41:06	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+14-10-2013 03:43:47	Se han encontrado 3 Readers en BD:
+14-10-2013 03:43:47	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+14-10-2013 03:43:47	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+14-10-2013 03:43:47	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+16-10-2013 10:33:22	Se han encontrado 3 Readers en BD:
+16-10-2013 10:33:22	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+16-10-2013 10:33:22	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+16-10-2013 10:33:22	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+16-10-2013 10:40:32	Se han encontrado 3 Readers en BD:
+16-10-2013 10:40:32	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+16-10-2013 10:40:32	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+16-10-2013 10:40:32	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+16-10-2013 10:41:18	Se han encontrado 3 Readers en BD:
+16-10-2013 10:41:18	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+16-10-2013 10:41:18	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+16-10-2013 10:41:18	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+16-10-2013 10:42:17	Se han encontrado 3 Readers en BD:
+16-10-2013 10:42:17	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+16-10-2013 10:42:17	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+16-10-2013 10:42:17	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+16-10-2013 10:43:19	Se han encontrado 3 Readers en BD:
+16-10-2013 10:43:19	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+16-10-2013 10:43:19	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+16-10-2013 10:43:19	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+16-10-2013 10:43:21	Reader 51 conectado.
+16-10-2013 10:46:32	Se han encontrado 3 Readers en BD:
+16-10-2013 10:46:32	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+16-10-2013 10:46:32	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+16-10-2013 10:46:32	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+16-10-2013 10:46:34	Reader 51 conectado.
+16-10-2013 10:52:47	Se han encontrado 3 Readers en BD:
+16-10-2013 10:52:47	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+16-10-2013 10:52:47	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+16-10-2013 10:52:47	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+16-10-2013 10:57:16	Reader 51 conectado.
+16-10-2013 10:59:33	Se han encontrado 3 Readers en BD:
+16-10-2013 10:59:33	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+16-10-2013 10:59:33	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+16-10-2013 10:59:33	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+16-10-2013 10:59:42	Reader 51 conectado.
+16-10-2013 11:02:19	Se han encontrado 3 Readers en BD:
+16-10-2013 11:02:19	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+16-10-2013 11:02:19	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+16-10-2013 11:02:19	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+16-10-2013 11:02:23	Reader 51 conectado.
+16-10-2013 11:02:30	Reader 51 desconectado.
+16-10-2013 11:02:31	Reader 51 conectado.
+16-10-2013 11:03:26	Se han encontrado 3 Readers en BD:
+16-10-2013 11:03:26	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+16-10-2013 11:03:26	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+16-10-2013 11:03:26	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+16-10-2013 11:03:29	Reader 51 conectado.
+16-10-2013 11:04:59	Se han encontrado 3 Readers en BD:
+16-10-2013 11:04:59	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+16-10-2013 11:04:59	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+16-10-2013 11:04:59	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+16-10-2013 11:05:03	Reader 51 conectado.
+16-10-2013 11:06:34	Se han encontrado 3 Readers en BD:
+16-10-2013 11:06:34	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+16-10-2013 11:06:34	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+16-10-2013 11:06:34	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+16-10-2013 11:06:37	Reader 51 conectado.
+21-10-2013 09:19:38	Se han encontrado 3 Readers en BD:
+21-10-2013 09:19:38	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+21-10-2013 09:19:38	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+21-10-2013 09:19:38	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+21-10-2013 09:36:28	Se han encontrado 3 Readers en BD:
+21-10-2013 09:36:28	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+21-10-2013 09:36:28	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+21-10-2013 09:36:28	equipo grabador en 122.31.10.1, tipo 1, ID: 59
+21-10-2013 10:46:56	Se han encontrado 3 Readers en BD:
+21-10-2013 10:46:56	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+21-10-2013 10:46:56	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+21-10-2013 10:46:56	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+01-11-2013 03:38:47	Se han encontrado 3 Readers en BD:
+01-11-2013 03:38:47	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+01-11-2013 03:38:47	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+01-11-2013 03:38:47	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+01-11-2013 03:38:55	Reader 51 conectado.
+01-11-2013 03:41:13	Se han encontrado 3 Readers en BD:
+01-11-2013 03:41:13	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+01-11-2013 03:41:13	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+01-11-2013 03:41:13	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+01-11-2013 03:41:15	Reader 51 conectado.
+01-11-2013 03:43:34	Se han encontrado 3 Readers en BD:
+01-11-2013 03:43:34	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+01-11-2013 03:43:34	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+01-11-2013 03:43:34	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+01-11-2013 03:43:35	Reader 51 conectado.
+01-11-2013 03:44:10	Se han encontrado 3 Readers en BD:
+01-11-2013 03:44:10	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+01-11-2013 03:44:10	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+01-11-2013 03:44:10	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+01-11-2013 03:44:30	Reader 51 conectado.
+01-11-2013 03:44:51	Reader 51 desconectado.
+01-11-2013 03:45:41	Se han encontrado 3 Readers en BD:
+01-11-2013 03:45:41	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+01-11-2013 03:45:41	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+01-11-2013 03:45:41	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+01-11-2013 03:45:44	Reader 51 conectado.
+01-11-2013 03:46:09	Reader 51 desconectado.
+01-11-2013 03:46:10	Reader 51 conectado.
+01-11-2013 03:47:18	Se han encontrado 3 Readers en BD:
+01-11-2013 03:47:18	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+01-11-2013 03:47:18	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+01-11-2013 03:47:18	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+01-11-2013 03:47:19	Reader 51 conectado.
+01-11-2013 03:47:46	Se han encontrado 3 Readers en BD:
+01-11-2013 03:47:46	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+01-11-2013 03:47:46	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+01-11-2013 03:47:46	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+01-11-2013 03:47:55	Reader 51 conectado.
+01-11-2013 03:48:16	Reader 51 desconectado.
+01-11-2013 03:48:17	Reader 51 conectado.
+01-11-2013 03:49:23	Se han encontrado 3 Readers en BD:
+01-11-2013 03:49:23	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+01-11-2013 03:49:23	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+01-11-2013 03:49:23	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+01-11-2013 03:49:24	Reader 51 conectado.
+01-11-2013 03:50:40	Se han encontrado 3 Readers en BD:
+01-11-2013 03:50:40	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+01-11-2013 03:50:40	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+01-11-2013 03:50:40	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+01-11-2013 03:50:41	Reader 51 conectado.
+01-11-2013 03:53:02	Se han encontrado 3 Readers en BD:
+01-11-2013 03:53:02	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+01-11-2013 03:53:02	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+01-11-2013 03:53:02	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+01-11-2013 03:53:03	Reader 51 conectado.
+01-11-2013 03:53:29	Se han encontrado 3 Readers en BD:
+01-11-2013 03:53:29	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+01-11-2013 03:53:29	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+01-11-2013 03:53:29	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+01-11-2013 03:53:30	Reader 51 conectado.
+04-11-2013 03:15:13	Se han encontrado 3 Readers en BD:
+04-11-2013 03:15:13	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+04-11-2013 03:15:13	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+04-11-2013 03:15:13	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+04-11-2013 03:15:17	Reader 51 conectado.
+04-11-2013 03:15:26	Se han encontrado 3 Readers en BD:
+04-11-2013 03:15:26	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+04-11-2013 03:15:26	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+04-11-2013 03:15:26	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+04-11-2013 03:15:53	Se han encontrado 3 Readers en BD:
+04-11-2013 03:15:53	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+04-11-2013 03:15:53	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+04-11-2013 03:15:53	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+04-11-2013 03:15:54	Reader 51 conectado.
+04-11-2013 03:19:22	Se han encontrado 3 Readers en BD:
+04-11-2013 03:19:22	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+04-11-2013 03:19:22	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+04-11-2013 03:19:22	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+04-11-2013 03:20:44	Se han encontrado 3 Readers en BD:
+04-11-2013 03:20:44	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+04-11-2013 03:20:44	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+04-11-2013 03:20:44	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+04-11-2013 03:20:46	Reader 51 conectado.
+04-11-2013 03:30:11	Se han encontrado 3 Readers en BD:
+04-11-2013 03:30:11	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+04-11-2013 03:30:11	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+04-11-2013 03:30:11	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+04-11-2013 03:30:12	Reader 51 conectado.
+04-11-2013 03:31:26	Se han encontrado 3 Readers en BD:
+04-11-2013 03:31:26	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+04-11-2013 03:31:26	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+04-11-2013 03:31:26	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+04-11-2013 03:31:27	Reader 51 conectado.
+04-11-2013 03:32:21	Se han encontrado 3 Readers en BD:
+04-11-2013 03:32:21	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+04-11-2013 03:32:21	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+04-11-2013 03:32:21	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+04-11-2013 03:32:23	Reader 51 conectado.
+04-11-2013 03:34:25	Se han encontrado 3 Readers en BD:
+04-11-2013 03:34:25	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+04-11-2013 03:34:25	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+04-11-2013 03:34:25	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+04-11-2013 03:34:26	Reader 51 conectado.
+04-11-2013 03:36:10	Se han encontrado 3 Readers en BD:
+04-11-2013 03:36:10	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+04-11-2013 03:36:10	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+04-11-2013 03:36:10	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+04-11-2013 03:36:11	Reader 51 conectado.
+04-11-2013 03:37:13	Se han encontrado 3 Readers en BD:
+04-11-2013 03:37:13	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+04-11-2013 03:37:13	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+04-11-2013 03:37:13	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+04-11-2013 03:37:14	Reader 51 conectado.
+04-11-2013 03:38:25	Se han encontrado 3 Readers en BD:
+04-11-2013 03:38:25	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+04-11-2013 03:38:25	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+04-11-2013 03:38:25	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+04-11-2013 03:39:12	Se han encontrado 3 Readers en BD:
+04-11-2013 03:39:12	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+04-11-2013 03:39:12	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+04-11-2013 03:39:12	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+04-11-2013 03:39:13	Reader 51 conectado.
+04-11-2013 03:39:48	Se han encontrado 3 Readers en BD:
+04-11-2013 03:39:48	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+04-11-2013 03:39:48	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+04-11-2013 03:39:48	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+04-11-2013 03:39:56	Reader 51 conectado.
+04-11-2013 03:45:32	Se han encontrado 3 Readers en BD:
+04-11-2013 03:45:32	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+04-11-2013 03:45:32	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+04-11-2013 03:45:32	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+04-11-2013 03:45:34	Reader 51 conectado.
+04-11-2013 03:47:20	Se han encontrado 3 Readers en BD:
+04-11-2013 03:47:20	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+04-11-2013 03:47:20	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+04-11-2013 03:47:20	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+04-11-2013 03:47:22	Reader 51 conectado.
+04-11-2013 04:02:42	Reader 51 desconectado.
+04-11-2013 04:02:43	Reader 51 conectado.
+04-11-2013 04:12:46	Se han encontrado 3 Readers en BD:
+04-11-2013 04:12:46	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+04-11-2013 04:12:46	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+04-11-2013 04:12:46	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+04-11-2013 04:12:49	Reader 51 conectado.
+05-11-2013 09:23:56	Se han encontrado 3 Readers en BD:
+05-11-2013 09:23:56	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+05-11-2013 09:23:56	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+05-11-2013 09:23:56	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+05-11-2013 12:07:02	Se han encontrado 3 Readers en BD:
+05-11-2013 12:07:02	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+05-11-2013 12:07:02	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+05-11-2013 12:07:02	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+05-11-2013 01:47:52	Se han encontrado 3 Readers en BD:
+05-11-2013 01:47:52	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+05-11-2013 01:47:52	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+05-11-2013 01:47:52	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+05-11-2013 01:47:55	Reader 51 conectado.
+05-11-2013 01:48:00	Cambio de estado de antenas de reader 51 a 0000
+05-11-2013 01:48:00	Cambio de estado de antenas de reader 51 a 0000
+05-11-2013 01:48:00	Cambio de estado de antenas de reader 51 a 0000
+05-11-2013 01:55:39	Se han encontrado 3 Readers en BD:
+05-11-2013 01:55:39	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+05-11-2013 01:55:39	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+05-11-2013 01:55:39	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+05-11-2013 01:55:41	Reader 51 conectado.
+05-11-2013 01:56:07	Se han encontrado 3 Readers en BD:
+05-11-2013 01:56:07	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+05-11-2013 01:56:07	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+05-11-2013 01:56:07	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+05-11-2013 01:56:08	Reader 51 conectado.
+05-11-2013 02:01:46	Se han encontrado 3 Readers en BD:
+05-11-2013 02:01:46	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+05-11-2013 02:01:46	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+05-11-2013 02:01:46	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+05-11-2013 02:01:48	Reader 51 conectado.
+05-11-2013 02:06:00	Se han encontrado 3 Readers en BD:
+05-11-2013 02:06:00	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+05-11-2013 02:06:00	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+05-11-2013 02:06:00	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+05-11-2013 02:06:01	Reader 51 conectado.
+05-11-2013 02:09:16	Se han encontrado 3 Readers en BD:
+05-11-2013 02:09:16	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+05-11-2013 02:09:16	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+05-11-2013 02:09:16	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+05-11-2013 02:09:17	Reader 51 conectado.
+05-11-2013 02:13:35	Se han encontrado 3 Readers en BD:
+05-11-2013 02:13:35	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+05-11-2013 02:13:35	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+05-11-2013 02:13:35	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+05-11-2013 02:13:36	Reader 51 conectado.
+05-11-2013 02:15:10	Se han encontrado 3 Readers en BD:
+05-11-2013 02:15:10	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+05-11-2013 02:15:10	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+05-11-2013 02:15:10	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+05-11-2013 02:15:11	Reader 51 conectado.
+05-11-2013 02:16:06	Se han encontrado 3 Readers en BD:
+05-11-2013 02:16:06	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+05-11-2013 02:16:06	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+05-11-2013 02:16:06	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+05-11-2013 02:16:20	Reader 51 conectado.
+05-11-2013 02:19:50	Se han encontrado 3 Readers en BD:
+05-11-2013 02:19:50	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+05-11-2013 02:19:50	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+05-11-2013 02:19:50	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+05-11-2013 02:19:51	Reader 51 conectado.
+06-11-2013 01:50:38	Se han encontrado 4 Readers en BD:
+06-11-2013 01:50:38	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+06-11-2013 01:50:38	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+06-11-2013 01:50:38	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+06-11-2013 01:50:38	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+06-11-2013 01:51:12	Reader 51 conectado.
+06-11-2013 01:51:16	Cambio de estado de antenas de reader 51 a 0000
+06-11-2013 01:51:16	Cambio de estado de antenas de reader 51 a 0000
+06-11-2013 01:51:16	Cambio de estado de antenas de reader 51 a 0000
+06-11-2013 03:33:49	Se han encontrado 4 Readers en BD:
+06-11-2013 03:33:49	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+06-11-2013 03:33:49	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+06-11-2013 03:33:49	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+06-11-2013 03:33:49	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+06-11-2013 03:33:51	Reader 51 conectado.
+06-11-2013 04:09:36	Se han encontrado 4 Readers en BD:
+06-11-2013 04:09:36	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+06-11-2013 04:09:36	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+06-11-2013 04:09:36	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+06-11-2013 04:09:36	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+06-11-2013 04:09:36	Reader 51 conectado.
+06-11-2013 04:09:36	Reader 63 conectado.
+06-11-2013 04:10:47	Se han encontrado 4 Readers en BD:
+06-11-2013 04:10:47	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+06-11-2013 04:10:47	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+06-11-2013 04:10:47	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+06-11-2013 04:10:47	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+06-11-2013 04:10:47	Reader 63 conectado.
+06-11-2013 04:10:47	Reader 51 conectado.
+06-11-2013 04:15:13	Se han encontrado 4 Readers en BD:
+06-11-2013 04:15:13	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+06-11-2013 04:15:13	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+06-11-2013 04:15:13	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+06-11-2013 04:15:13	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+06-11-2013 04:15:13	Reader 63 conectado.
+06-11-2013 04:15:15	Reader 51 conectado.
+06-11-2013 04:17:35	Se han encontrado 4 Readers en BD:
+06-11-2013 04:17:35	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+06-11-2013 04:17:35	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+06-11-2013 04:17:35	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+06-11-2013 04:17:35	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+06-11-2013 04:17:35	Reader 63 conectado.
+06-11-2013 04:17:36	Reader 51 conectado.
+06-11-2013 04:18:05	Se han encontrado 4 Readers en BD:
+06-11-2013 04:18:05	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+06-11-2013 04:18:05	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+06-11-2013 04:18:05	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+06-11-2013 04:18:05	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+06-11-2013 04:18:05	Reader 63 conectado.
+06-11-2013 04:18:06	Reader 51 conectado.
+06-11-2013 04:19:32	Se han encontrado 4 Readers en BD:
+06-11-2013 04:19:32	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+06-11-2013 04:19:32	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+06-11-2013 04:19:32	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+06-11-2013 04:19:32	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+06-11-2013 04:19:32	Reader 63 conectado.
+06-11-2013 04:19:33	Reader 51 conectado.
+06-11-2013 04:26:44	Se han encontrado 4 Readers en BD:
+06-11-2013 04:26:44	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+06-11-2013 04:26:44	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+06-11-2013 04:26:44	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+06-11-2013 04:26:44	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+06-11-2013 04:26:44	Reader 63 conectado.
+06-11-2013 04:26:45	Reader 51 conectado.
+06-11-2013 04:38:28	Se han encontrado 4 Readers en BD:
+06-11-2013 04:38:28	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+06-11-2013 04:38:28	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+06-11-2013 04:38:28	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+06-11-2013 04:38:28	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+06-11-2013 04:38:28	Reader 63 conectado.
+06-11-2013 04:38:29	Reader 51 conectado.
+06-11-2013 05:32:35	Se han encontrado 4 Readers en BD:
+06-11-2013 05:32:35	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+06-11-2013 05:32:35	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+06-11-2013 05:32:35	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+06-11-2013 05:32:35	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+06-11-2013 05:32:35	Reader 63 conectado.
+06-11-2013 05:32:36	Reader 51 conectado.
+06-11-2013 05:32:42	Reader 51 desconectado.
+06-11-2013 05:32:46	Se han encontrado 4 Readers en BD:
+06-11-2013 05:32:46	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+06-11-2013 05:32:46	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+06-11-2013 05:32:46	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+06-11-2013 05:32:46	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+06-11-2013 05:32:46	Reader 63 conectado.
+06-11-2013 05:32:46	Reader 51 conectado.
+07-11-2013 10:08:37	Se han encontrado 4 Readers en BD:
+07-11-2013 10:08:37	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+07-11-2013 10:08:37	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+07-11-2013 10:08:37	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+07-11-2013 10:08:37	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+07-11-2013 10:08:37	Reader 63 conectado.
+07-11-2013 10:08:41	Reader 51 conectado.
+07-11-2013 10:22:49	Se han encontrado 4 Readers en BD:
+07-11-2013 10:22:49	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+07-11-2013 10:22:49	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+07-11-2013 10:22:49	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+07-11-2013 10:22:49	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+07-11-2013 10:22:49	Reader 63 conectado.
+07-11-2013 10:22:50	Reader 51 conectado.
+07-11-2013 10:35:07	Se han encontrado 4 Readers en BD:
+07-11-2013 10:35:07	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+07-11-2013 10:35:07	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+07-11-2013 10:35:07	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+07-11-2013 10:35:07	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+07-11-2013 10:35:07	Reader 63 conectado.
+07-11-2013 10:35:08	Reader 51 conectado.
+07-11-2013 05:23:13	Se han encontrado 4 Readers en BD:
+07-11-2013 05:23:13	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+07-11-2013 05:23:13	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+07-11-2013 05:23:13	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+07-11-2013 05:23:13	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+07-11-2013 05:23:13	Reader 63 conectado.
+07-11-2013 05:23:14	Reader 51 conectado.
+07-11-2013 05:26:45	Se han encontrado 4 Readers en BD:
+07-11-2013 05:26:45	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+07-11-2013 05:26:45	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+07-11-2013 05:26:45	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+07-11-2013 05:26:45	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+07-11-2013 05:26:46	Reader 51 conectado.
+08-11-2013 10:05:45	Se han encontrado 4 Readers en BD:
+08-11-2013 10:05:45	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 10:05:45	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 10:05:45	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+08-11-2013 10:05:45	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 10:18:14	Se han encontrado 4 Readers en BD:
+08-11-2013 10:18:14	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 10:18:14	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 10:18:14	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+08-11-2013 10:18:14	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 10:20:35	Reader 63 conectado.
+08-11-2013 10:20:36	Reader 63 desconectado.
+08-11-2013 10:21:46	Se han encontrado 4 Readers en BD:
+08-11-2013 10:21:46	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 10:21:46	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 10:21:46	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 10:21:46	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+08-11-2013 10:22:00	Reader 63 conectado.
+08-11-2013 10:22:01	Reader 63 desconectado.
+08-11-2013 10:22:12	Reader 63 desconectado.
+08-11-2013 10:23:17	Se han encontrado 4 Readers en BD:
+08-11-2013 10:23:17	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 10:23:17	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 10:23:17	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 10:23:17	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+08-11-2013 10:34:23	Se han encontrado 4 Readers en BD:
+08-11-2013 10:34:23	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 10:34:23	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 10:34:23	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 10:34:23	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+08-11-2013 10:41:07	Se han encontrado 4 Readers en BD:
+08-11-2013 10:41:07	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 10:41:07	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 10:41:07	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 10:41:07	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+08-11-2013 10:41:33	Reader 63 conectado.
+08-11-2013 10:41:33	Reader 63 desconectado.
+08-11-2013 10:41:45	Reader 63 desconectado.
+08-11-2013 10:43:05	Se han encontrado 4 Readers en BD:
+08-11-2013 10:43:05	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 10:43:05	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 10:43:05	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 10:43:05	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+08-11-2013 10:43:37	Reader 63 conectado.
+08-11-2013 10:46:08	Se han encontrado 4 Readers en BD:
+08-11-2013 10:46:08	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 10:46:08	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 10:46:08	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 10:46:08	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+08-11-2013 10:46:35	Reader 63 conectado.
+08-11-2013 10:46:47	Reader 63 desconectado.
+08-11-2013 10:47:03	Reader 63 desconectado.
+08-11-2013 10:47:37	Se han encontrado 4 Readers en BD:
+08-11-2013 10:47:37	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 10:47:37	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 10:47:37	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 10:47:37	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+08-11-2013 10:47:54	Reader 63 conectado.
+08-11-2013 10:49:12	Reader 63 desconectado.
+08-11-2013 11:07:58	Se han encontrado 4 Readers en BD:
+08-11-2013 11:07:58	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 11:07:58	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 11:07:58	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 11:07:58	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+08-11-2013 11:08:37	Se han encontrado 4 Readers en BD:
+08-11-2013 11:08:37	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 11:08:37	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 11:08:37	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 11:08:37	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+08-11-2013 11:09:01	Se han encontrado 4 Readers en BD:
+08-11-2013 11:09:01	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 11:09:01	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 11:09:01	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 11:09:01	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+08-11-2013 11:09:18	Reader 63 conectado.
+08-11-2013 11:09:24	Reader 63 conectado.
+08-11-2013 11:10:35	Se han encontrado 4 Readers en BD:
+08-11-2013 11:10:35	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 11:10:35	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 11:10:35	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 11:10:35	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+08-11-2013 11:15:00	Reader 63 conectado.
+08-11-2013 11:15:53	Reader 63 desconectado.
+08-11-2013 11:16:14	Se han encontrado 4 Readers en BD:
+08-11-2013 11:16:14	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 11:16:14	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 11:16:14	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 11:16:14	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+08-11-2013 11:16:33	Reader 63 conectado.
+08-11-2013 11:17:26	Se han encontrado 4 Readers en BD:
+08-11-2013 11:17:26	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 11:17:26	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 11:17:26	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 11:17:26	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+08-11-2013 11:17:40	Reader 63 conectado.
+08-11-2013 11:17:52	Reader 63 desconectado.
+08-11-2013 11:18:33	Se han encontrado 4 Readers en BD:
+08-11-2013 11:18:33	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 11:18:33	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 11:18:33	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 11:18:33	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+08-11-2013 11:18:58	Se han encontrado 4 Readers en BD:
+08-11-2013 11:18:58	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 11:18:58	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 11:18:58	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+08-11-2013 11:18:58	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 11:25:36	Se han encontrado 4 Readers en BD:
+08-11-2013 11:25:36	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 11:25:36	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 11:25:36	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+08-11-2013 11:25:36	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 11:31:55	Reader 51 conectado.
+08-11-2013 11:32:00	Cambio de estado de antenas de reader 51 a 0000
+08-11-2013 11:32:00	Cambio de estado de antenas de reader 51 a 0000
+08-11-2013 11:32:00	Cambio de estado de antenas de reader 51 a 0000
+08-11-2013 11:38:38	Reader 63 conectado.
+08-11-2013 11:38:56	Reader 63 desconectado.
+08-11-2013 11:39:14	Reader 63 conectado.
+08-11-2013 11:42:30	Reader 63 desconectado.
+08-11-2013 11:44:45	Reader 63 conectado.
+08-11-2013 11:45:36	Reader 63 desconectado.
+08-11-2013 11:47:05	Se han encontrado 4 Readers en BD:
+08-11-2013 11:47:05	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 11:47:05	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 11:47:05	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 11:47:05	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+08-11-2013 11:47:06	Reader 51 conectado.
+08-11-2013 11:55:23	Se han encontrado 5 Readers en BD:
+08-11-2013 11:55:23	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 11:55:23	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 11:55:23	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+08-11-2013 11:55:23	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 11:55:23	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+08-11-2013 11:55:24	Reader 51 conectado.
+08-11-2013 11:55:40	Reader 64 conectado.
+08-11-2013 11:55:46	Reader 64 desconectado.
+08-11-2013 11:55:47	Reader 64 conectado.
+08-11-2013 11:55:53	Reader 64 desconectado.
+08-11-2013 11:55:57	Reader 64 conectado.
+08-11-2013 11:56:03	Reader 64 desconectado.
+08-11-2013 11:56:06	Reader 64 conectado.
+08-11-2013 11:56:13	Reader 64 desconectado.
+08-11-2013 11:56:16	Reader 64 conectado.
+08-11-2013 11:56:23	Reader 64 desconectado.
+08-11-2013 11:56:26	Reader 64 conectado.
+08-11-2013 11:56:33	Reader 64 desconectado.
+08-11-2013 11:56:35	Reader 64 desconectado.
+08-11-2013 11:57:52	Se han encontrado 5 Readers en BD:
+08-11-2013 11:57:52	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+08-11-2013 11:57:52	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 11:57:52	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 11:57:52	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+08-11-2013 11:57:52	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 11:57:53	Reader 51 conectado.
+08-11-2013 11:58:13	Reader 63 conectado.
+08-11-2013 12:00:23	Se han encontrado 5 Readers en BD:
+08-11-2013 12:00:23	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+08-11-2013 12:00:23	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 12:00:23	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+08-11-2013 12:00:23	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 12:00:23	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 12:00:25	Reader 51 conectado.
+08-11-2013 12:00:37	Reader 64 conectado.
+08-11-2013 12:01:23	Reader 64 desconectado.
+08-11-2013 03:13:35	Reader 64 conectado.
+08-11-2013 03:14:24	Reader 64 desconectado.
+08-11-2013 03:14:42	Reader 64 conectado.
+08-11-2013 03:15:49	Reader 64 desconectado.
+08-11-2013 03:18:15	Reader 64 conectado.
+08-11-2013 03:18:51	Reader 51 desconectado.
+08-11-2013 03:19:23	Reader 51 conectado.
+08-11-2013 03:21:40	Reader 64 desconectado.
+08-11-2013 03:23:19	Se han encontrado 5 Readers en BD:
+08-11-2013 03:23:19	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+08-11-2013 03:23:19	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 03:23:19	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 03:23:19	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+08-11-2013 03:23:19	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 03:23:20	Reader 51 conectado.
+08-11-2013 03:24:03	Reader 64 conectado.
+08-11-2013 03:30:29	Reader 64 desconectado.
+08-11-2013 03:31:44	Reader 64 conectado.
+08-11-2013 03:32:18	Reader 64 desconectado.
+08-11-2013 03:32:45	Reader 64 conectado.
+08-11-2013 03:34:59	Reader 64 desconectado.
+08-11-2013 03:45:58	Reader 64 conectado.
+08-11-2013 03:53:14	Reader 64 desconectado.
+08-11-2013 03:53:46	Reader 51 desconectado.
+08-11-2013 03:53:47	Se han encontrado 5 Readers en BD:
+08-11-2013 03:53:47	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+08-11-2013 03:53:47	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 03:53:47	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 03:53:47	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+08-11-2013 03:53:47	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 03:53:47	Reader 51 conectado.
+08-11-2013 04:15:22	Se han encontrado 5 Readers en BD:
+08-11-2013 04:15:22	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+08-11-2013 04:15:22	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 04:15:22	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 04:15:22	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+08-11-2013 04:15:22	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 04:15:23	Reader 51 conectado.
+08-11-2013 04:19:03	Se han encontrado 5 Readers en BD:
+08-11-2013 04:19:03	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+08-11-2013 04:19:03	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 04:19:03	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 04:19:03	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+08-11-2013 04:19:03	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 04:19:04	Reader 51 conectado.
+08-11-2013 04:20:41	Se han encontrado 5 Readers en BD:
+08-11-2013 04:20:41	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+08-11-2013 04:20:41	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 04:20:41	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 04:20:41	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+08-11-2013 04:20:41	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 04:20:42	Reader 51 conectado.
+08-11-2013 04:21:14	Se han encontrado 5 Readers en BD:
+08-11-2013 04:21:14	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+08-11-2013 04:21:14	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 04:21:14	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 04:21:14	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+08-11-2013 04:21:14	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 04:21:15	Reader 51 conectado.
+08-11-2013 04:21:27	Reader 64 conectado.
+08-11-2013 04:21:43	Reader 64 desconectado.
+08-11-2013 04:23:17	Se han encontrado 5 Readers en BD:
+08-11-2013 04:23:17	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+08-11-2013 04:23:17	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 04:23:17	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 04:23:17	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 04:23:17	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+08-11-2013 04:23:19	Reader 51 conectado.
+08-11-2013 04:31:03	Se han encontrado 5 Readers en BD:
+08-11-2013 04:31:03	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+08-11-2013 04:31:03	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 04:31:03	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 04:31:03	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+08-11-2013 04:31:03	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 04:31:04	Reader 51 conectado.
+08-11-2013 04:31:12	Reader 51 desconectado.
+08-11-2013 04:31:15	Se han encontrado 5 Readers en BD:
+08-11-2013 04:31:15	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+08-11-2013 04:31:15	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 04:31:15	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 04:31:15	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+08-11-2013 04:31:15	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 04:31:15	Reader 51 conectado.
+08-11-2013 04:32:16	Se han encontrado 5 Readers en BD:
+08-11-2013 04:32:16	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+08-11-2013 04:32:16	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 04:32:16	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 04:32:16	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+08-11-2013 04:32:16	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 04:32:18	Reader 51 conectado.
+08-11-2013 04:32:35	Reader 51 desconectado.
+08-11-2013 04:32:36	Se han encontrado 5 Readers en BD:
+08-11-2013 04:32:36	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+08-11-2013 04:32:36	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 04:32:36	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 04:32:36	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+08-11-2013 04:32:36	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 04:32:36	Reader 51 conectado.
+08-11-2013 04:34:08	Se han encontrado 5 Readers en BD:
+08-11-2013 04:34:08	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+08-11-2013 04:34:08	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 04:34:08	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 04:34:08	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+08-11-2013 04:34:08	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 04:34:10	Reader 51 conectado.
+08-11-2013 04:34:17	Reader 51 desconectado.
+08-11-2013 04:34:19	Se han encontrado 5 Readers en BD:
+08-11-2013 04:34:19	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+08-11-2013 04:34:19	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 04:34:19	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 04:34:19	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+08-11-2013 04:34:19	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 04:34:19	Reader 51 conectado.
+08-11-2013 04:35:19	Se han encontrado 5 Readers en BD:
+08-11-2013 04:35:19	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+08-11-2013 04:35:19	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 04:35:19	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 04:35:19	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+08-11-2013 04:35:19	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 04:35:21	Reader 51 conectado.
+08-11-2013 04:35:28	Reader 51 desconectado.
+08-11-2013 04:35:30	Se han encontrado 5 Readers en BD:
+08-11-2013 04:35:30	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+08-11-2013 04:35:30	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 04:35:30	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 04:35:30	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+08-11-2013 04:35:30	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 04:35:30	Reader 51 conectado.
+08-11-2013 04:36:37	Reader 51 desconectado.
+08-11-2013 04:36:42	Se han encontrado 5 Readers en BD:
+08-11-2013 04:36:42	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+08-11-2013 04:36:42	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 04:36:42	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 04:36:42	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+08-11-2013 04:36:42	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 04:36:42	Reader 51 conectado.
+08-11-2013 04:38:27	Se han encontrado 5 Readers en BD:
+08-11-2013 04:38:27	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+08-11-2013 04:38:27	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 04:38:27	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 04:38:27	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+08-11-2013 04:38:27	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 04:38:28	Reader 51 conectado.
+08-11-2013 04:38:38	Reader 51 desconectado.
+08-11-2013 04:38:39	Se han encontrado 5 Readers en BD:
+08-11-2013 04:38:39	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 04:38:39	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+08-11-2013 04:38:39	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 04:38:39	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 04:38:39	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+08-11-2013 04:38:39	Reader 51 conectado.
+08-11-2013 04:40:38	Se han encontrado 5 Readers en BD:
+08-11-2013 04:40:38	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 04:40:38	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+08-11-2013 04:40:38	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 04:40:38	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 04:40:38	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+08-11-2013 04:40:39	Reader 51 conectado.
+08-11-2013 04:41:00	Reader 64 conectado.
+08-11-2013 04:52:17	Se han encontrado 5 Readers en BD:
+08-11-2013 04:52:17	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 04:52:17	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+08-11-2013 04:52:17	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+08-11-2013 04:52:17	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 04:52:17	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 04:52:18	Reader 51 conectado.
+08-11-2013 04:52:59	Reader 64 conectado.
+08-11-2013 04:54:02	Reader 51 desconectado.
+08-11-2013 04:54:07	Se han encontrado 5 Readers en BD:
+08-11-2013 04:54:07	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+08-11-2013 04:54:07	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+08-11-2013 04:54:07	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 04:54:07	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 04:54:07	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 04:54:07	Reader 51 conectado.
+08-11-2013 04:54:16	Reader 64 conectado.
+08-11-2013 04:54:40	Reader 51 desconectado.
+08-11-2013 04:54:44	Se han encontrado 5 Readers en BD:
+08-11-2013 04:54:44	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+08-11-2013 04:54:44	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+08-11-2013 04:54:44	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+08-11-2013 04:54:44	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 04:54:44	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 04:54:44	Reader 51 conectado.
+08-11-2013 04:54:46	Reader 64 conectado.
+08-11-2013 05:06:30	Reader 64 desconectado.
+08-11-2013 05:11:36	Reader 51 desconectado.
+11-11-2013 09:29:23	Se han encontrado 5 Readers en BD:
+11-11-2013 09:29:23	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-11-2013 09:29:23	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-11-2013 09:29:23	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-11-2013 09:29:23	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-11-2013 09:29:23	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-11-2013 04:13:59	Se han encontrado 5 Readers en BD:
+11-11-2013 04:13:59	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-11-2013 04:13:59	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-11-2013 04:13:59	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-11-2013 04:13:59	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-11-2013 04:13:59	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-11-2013 04:23:32	Se han encontrado 5 Readers en BD:
+11-11-2013 04:23:32	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-11-2013 04:23:32	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-11-2013 04:23:32	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-11-2013 04:23:32	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-11-2013 04:23:32	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-11-2013 04:23:33	Reader 51 conectado.
+11-11-2013 04:25:32	Se han encontrado 5 Readers en BD:
+11-11-2013 04:25:32	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-11-2013 04:25:32	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-11-2013 04:25:32	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-11-2013 04:25:32	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-11-2013 04:25:32	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-11-2013 04:25:33	Reader 51 conectado.
+11-11-2013 04:25:36	Reader 47 conectado.
+11-11-2013 04:26:27	Se han encontrado 5 Readers en BD:
+11-11-2013 04:26:27	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-11-2013 04:26:27	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-11-2013 04:26:27	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-11-2013 04:26:27	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-11-2013 04:26:27	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-11-2013 04:26:28	Reader 51 conectado.
+11-11-2013 04:26:29	Reader 47 conectado.
+11-11-2013 04:26:32	Reader 47 desconectado.
+11-11-2013 04:26:51	Se han encontrado 5 Readers en BD:
+11-11-2013 04:26:51	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-11-2013 04:26:51	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-11-2013 04:26:51	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-11-2013 04:26:51	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-11-2013 04:26:51	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-11-2013 04:26:53	Reader 51 conectado.
+11-11-2013 04:26:55	Reader 47 conectado.
+11-11-2013 04:26:59	Reader 47 desconectado.
+11-11-2013 04:27:21	Se han encontrado 5 Readers en BD:
+11-11-2013 04:27:21	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-11-2013 04:27:21	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-11-2013 04:27:21	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-11-2013 04:27:21	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-11-2013 04:27:21	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-11-2013 04:27:22	Reader 51 conectado.
+11-11-2013 04:27:25	Reader 47 conectado.
+11-11-2013 04:27:34	Reader 47 desconectado.
+11-11-2013 04:27:53	Reader 47 conectado.
+11-11-2013 04:28:03	Reader 47 desconectado.
+14-11-2013 11:13:13	Se han encontrado 5 Readers en BD:
+14-11-2013 11:13:13	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+14-11-2013 11:13:13	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+14-11-2013 11:13:13	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+14-11-2013 11:13:13	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+14-11-2013 11:13:13	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+14-11-2013 11:15:23	Se han encontrado 5 Readers en BD:
+14-11-2013 11:15:23	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+14-11-2013 11:15:23	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+14-11-2013 11:15:23	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+14-11-2013 11:15:23	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+14-11-2013 11:15:23	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+14-11-2013 02:11:30	Se han encontrado 5 Readers en BD:
+14-11-2013 02:11:30	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+14-11-2013 02:11:30	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+14-11-2013 02:11:30	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+14-11-2013 02:11:30	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+14-11-2013 02:11:30	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+14-11-2013 02:12:08	Reader 64 conectado.
+14-11-2013 02:13:08	Reader 64 desconectado.
+14-11-2013 02:13:27	Reader 64 conectado.
+14-11-2013 02:13:38	Reader 64 desconectado.
+21-11-2013 04:00:51	Se han encontrado 5 Readers en BD:
+21-11-2013 04:00:51	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+21-11-2013 04:00:51	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+21-11-2013 04:00:51	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+21-11-2013 04:00:51	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+21-11-2013 04:00:51	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+21-11-2013 04:09:27	Se han encontrado 5 Readers en BD:
+21-11-2013 04:09:27	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+21-11-2013 04:09:27	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+21-11-2013 04:09:27	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+21-11-2013 04:09:27	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+21-11-2013 04:09:27	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+21-11-2013 05:17:19	Se han encontrado 5 Readers en BD:
+21-11-2013 05:17:19	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+21-11-2013 05:17:19	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+21-11-2013 05:17:19	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+21-11-2013 05:17:19	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+21-11-2013 05:17:19	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+21-11-2013 05:17:57	Se han encontrado 5 Readers en BD:
+21-11-2013 05:17:57	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+21-11-2013 05:17:57	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+21-11-2013 05:17:57	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+21-11-2013 05:17:57	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+21-11-2013 05:17:57	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+21-11-2013 05:18:22	Se han encontrado 5 Readers en BD:
+21-11-2013 05:18:22	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+21-11-2013 05:18:22	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+21-11-2013 05:18:22	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+21-11-2013 05:18:22	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+21-11-2013 05:18:22	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+21-11-2013 05:18:51	Se han encontrado 5 Readers en BD:
+21-11-2013 05:18:51	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+21-11-2013 05:18:51	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+21-11-2013 05:18:51	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+21-11-2013 05:18:51	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+21-11-2013 05:18:51	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+21-11-2013 05:19:05	Se han encontrado 5 Readers en BD:
+21-11-2013 05:19:05	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+21-11-2013 05:19:05	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+21-11-2013 05:19:05	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+21-11-2013 05:19:05	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+21-11-2013 05:19:05	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+21-11-2013 05:19:16	Se han encontrado 5 Readers en BD:
+21-11-2013 05:19:16	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+21-11-2013 05:19:16	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+21-11-2013 05:19:16	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+21-11-2013 05:19:16	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+21-11-2013 05:19:16	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+03-12-2013 10:34:37	Se han encontrado 5 Readers en BD:
+03-12-2013 10:34:37	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+03-12-2013 10:34:37	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+03-12-2013 10:34:37	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+03-12-2013 10:34:37	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+03-12-2013 10:34:37	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+10-12-2013 04:45:28	Se han encontrado 5 Readers en BD:
+10-12-2013 04:45:28	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+10-12-2013 04:45:28	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+10-12-2013 04:45:28	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+10-12-2013 04:45:28	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+10-12-2013 04:45:28	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+10-12-2013 04:45:31	Cambio de estado de antenas de reader 51 a -0--
+10-12-2013 04:45:31	Cambio de estado de antenas de reader 51 a -00-
+10-12-2013 04:45:32	Cambio de estado de antenas de reader 51 a -000
+10-12-2013 04:45:32	Reader 51 conectado.
+10-12-2013 04:54:19	Se han encontrado 5 Readers en BD:
+10-12-2013 04:54:19	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+10-12-2013 04:54:19	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+10-12-2013 04:54:19	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+10-12-2013 04:54:19	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+10-12-2013 04:54:19	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+10-12-2013 04:54:49	Se han encontrado 5 Readers en BD:
+10-12-2013 04:54:49	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+10-12-2013 04:54:49	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+10-12-2013 04:54:49	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+10-12-2013 04:54:49	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+10-12-2013 04:54:49	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+10-12-2013 04:54:50	Reader 51 conectado.
+10-12-2013 05:00:10	Se han encontrado 5 Readers en BD:
+10-12-2013 05:00:10	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+10-12-2013 05:00:10	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+10-12-2013 05:00:10	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+10-12-2013 05:00:10	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+10-12-2013 05:00:10	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+10-12-2013 05:00:11	Reader 51 conectado.
+10-12-2013 05:09:09	Se han encontrado 5 Readers en BD:
+10-12-2013 05:09:09	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+10-12-2013 05:09:09	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+10-12-2013 05:09:09	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+10-12-2013 05:09:09	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+10-12-2013 05:09:09	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+10-12-2013 05:09:11	Reader 51 conectado.
+10-12-2013 05:28:00	Se han encontrado 5 Readers en BD:
+10-12-2013 05:28:00	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+10-12-2013 05:28:00	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+10-12-2013 05:28:00	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+10-12-2013 05:28:00	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+10-12-2013 05:28:00	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+10-12-2013 05:28:01	Reader 51 conectado.
+11-12-2013 09:33:52	Se han encontrado 5 Readers en BD:
+11-12-2013 09:33:52	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 09:33:52	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 09:33:52	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 09:33:52	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 09:33:52	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 09:33:54	Reader 51 conectado.
+11-12-2013 09:36:11	Se han encontrado 5 Readers en BD:
+11-12-2013 09:36:11	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 09:36:11	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 09:36:11	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 09:36:11	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 09:36:11	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 09:36:12	Reader 51 conectado.
+11-12-2013 09:37:11	Se han encontrado 5 Readers en BD:
+11-12-2013 09:37:11	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 09:37:11	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 09:37:11	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 09:37:11	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 09:37:11	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 09:37:13	Reader 51 conectado.
+11-12-2013 09:46:08	Se han encontrado 5 Readers en BD:
+11-12-2013 09:46:08	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 09:46:08	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 09:46:08	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 09:46:08	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 09:46:08	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 09:46:10	Reader 51 conectado.
+11-12-2013 10:07:33	Se han encontrado 5 Readers en BD:
+11-12-2013 10:07:33	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 10:07:33	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 10:07:33	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 10:07:33	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 10:07:33	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 10:07:35	Reader 51 conectado.
+11-12-2013 10:14:56	Se han encontrado 5 Readers en BD:
+11-12-2013 10:14:56	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 10:14:56	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 10:14:56	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 10:14:56	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 10:14:56	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 10:14:58	Reader 51 conectado.
+11-12-2013 10:17:20	Se han encontrado 5 Readers en BD:
+11-12-2013 10:17:20	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 10:17:20	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 10:17:20	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 10:17:20	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 10:17:20	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 10:17:22	Reader 51 conectado.
+11-12-2013 10:17:46	Se han encontrado 5 Readers en BD:
+11-12-2013 10:17:46	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 10:17:46	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 10:17:46	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 10:17:46	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 10:17:46	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 10:17:48	Reader 51 conectado.
+11-12-2013 10:19:26	Se han encontrado 5 Readers en BD:
+11-12-2013 10:19:26	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 10:19:26	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 10:19:26	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 10:19:26	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 10:19:26	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 10:19:28	Cambio de estado de antenas de reader 51 a -0--
+11-12-2013 10:19:28	Cambio de estado de antenas de reader 51 a -00-
+11-12-2013 10:19:28	Cambio de estado de antenas de reader 51 a -000
+11-12-2013 10:19:28	Reader 51 conectado.
+11-12-2013 10:20:25	Se han encontrado 5 Readers en BD:
+11-12-2013 10:20:25	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 10:20:25	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 10:20:25	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 10:20:25	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 10:20:25	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 10:20:26	Reader 51 conectado.
+11-12-2013 10:25:48	Se han encontrado 5 Readers en BD:
+11-12-2013 10:25:48	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 10:25:48	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 10:25:48	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 10:25:48	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 10:25:48	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 10:25:50	Reader 51 conectado.
+11-12-2013 10:26:14	Se han encontrado 5 Readers en BD:
+11-12-2013 10:26:14	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 10:26:14	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 10:26:14	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 10:26:14	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 10:26:14	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 10:26:16	Reader 51 conectado.
+11-12-2013 10:26:41	Se han encontrado 5 Readers en BD:
+11-12-2013 10:26:41	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 10:26:41	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 10:26:41	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 10:26:41	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 10:26:41	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 10:26:42	Reader 51 conectado.
+11-12-2013 10:36:55	Se han encontrado 5 Readers en BD:
+11-12-2013 10:36:55	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 10:36:55	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 10:36:55	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 10:36:55	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 10:36:55	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 10:38:05	Se han encontrado 5 Readers en BD:
+11-12-2013 10:38:05	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 10:38:05	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 10:38:05	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 10:38:05	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 10:38:05	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 10:39:17	Se han encontrado 5 Readers en BD:
+11-12-2013 10:39:17	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 10:39:17	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 10:39:17	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 10:39:17	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 10:39:17	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 10:39:21	Cambio de estado de antenas de reader 51 a -0--
+11-12-2013 10:39:21	Cambio de estado de antenas de reader 51 a -00-
+11-12-2013 10:39:21	Cambio de estado de antenas de reader 51 a -000
+11-12-2013 10:39:22	Reader 51 conectado.
+11-12-2013 10:48:20	Se han encontrado 5 Readers en BD:
+11-12-2013 10:48:20	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 10:48:20	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 10:48:20	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 10:48:20	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 10:48:20	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 10:49:39	Se han encontrado 5 Readers en BD:
+11-12-2013 10:49:39	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 10:49:39	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 10:49:39	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 10:49:39	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 10:49:39	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 10:49:40	Reader 51 conectado.
+11-12-2013 10:49:45	Cambio de estado de antenas de reader 51 a 0000
+11-12-2013 10:49:45	Cambio de estado de antenas de reader 51 a 0000
+11-12-2013 10:49:45	Cambio de estado de antenas de reader 51 a 0000
+11-12-2013 10:54:33	Se han encontrado 5 Readers en BD:
+11-12-2013 10:54:33	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 10:54:33	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 10:54:33	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 10:54:33	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 10:54:33	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 10:55:48	Reader 51 conectado.
+11-12-2013 10:55:53	Cambio de estado de antenas de reader 51 a 0000
+11-12-2013 10:55:53	Cambio de estado de antenas de reader 51 a 0000
+11-12-2013 10:55:53	Cambio de estado de antenas de reader 51 a 0000
+11-12-2013 10:57:39	Se han encontrado 5 Readers en BD:
+11-12-2013 10:57:39	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 10:57:39	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 10:57:39	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 10:57:39	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 10:57:39	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 10:57:40	Reader 51 conectado.
+11-12-2013 11:00:41	Se han encontrado 5 Readers en BD:
+11-12-2013 11:00:41	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 11:00:41	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 11:00:41	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 11:00:41	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 11:00:41	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 11:00:42	Reader 51 conectado.
+11-12-2013 11:01:38	Se han encontrado 5 Readers en BD:
+11-12-2013 11:01:38	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 11:01:38	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 11:01:38	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 11:01:38	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 11:01:38	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 11:01:39	Reader 51 conectado.
+11-12-2013 11:02:17	Se han encontrado 5 Readers en BD:
+11-12-2013 11:02:17	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 11:02:17	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 11:02:17	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 11:02:17	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 11:02:17	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 11:02:18	Reader 51 conectado.
+11-12-2013 11:03:01	Se han encontrado 5 Readers en BD:
+11-12-2013 11:03:01	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 11:03:01	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 11:03:01	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 11:03:01	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 11:03:01	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 11:03:02	Reader 51 conectado.
+11-12-2013 11:04:02	Se han encontrado 5 Readers en BD:
+11-12-2013 11:04:02	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 11:04:02	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 11:04:02	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 11:04:02	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 11:04:02	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 11:04:31	Se han encontrado 5 Readers en BD:
+11-12-2013 11:04:31	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 11:04:31	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 11:04:31	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 11:04:31	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 11:04:31	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 11:05:09	Se han encontrado 5 Readers en BD:
+11-12-2013 11:05:09	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 11:05:09	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 11:05:09	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 11:05:09	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 11:05:09	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 11:05:19	Reader 51 conectado.
+11-12-2013 11:13:38	Se han encontrado 5 Readers en BD:
+11-12-2013 11:13:38	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 11:13:38	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 11:13:38	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 11:13:38	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 11:13:38	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 11:13:39	Reader 51 conectado.
+11-12-2013 11:21:02	Se han encontrado 5 Readers en BD:
+11-12-2013 11:21:02	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 11:21:02	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 11:21:02	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 11:21:02	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 11:21:02	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 11:21:03	Reader 51 conectado.
+11-12-2013 12:00:12	Se han encontrado 5 Readers en BD:
+11-12-2013 12:00:12	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 12:00:12	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 12:00:12	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 12:00:12	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 12:00:12	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 12:04:07	Se han encontrado 5 Readers en BD:
+11-12-2013 12:04:07	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 12:04:07	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 12:04:07	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 12:04:07	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 12:04:07	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 12:06:16	Se han encontrado 5 Readers en BD:
+11-12-2013 12:06:16	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 12:06:16	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 12:06:16	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 12:06:16	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 12:06:16	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 12:07:22	Se han encontrado 5 Readers en BD:
+11-12-2013 12:07:22	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 12:07:22	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 12:07:22	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 12:07:22	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 12:07:22	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 12:13:49	Se han encontrado 5 Readers en BD:
+11-12-2013 12:13:49	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 12:13:49	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 12:13:49	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 12:13:49	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 12:13:49	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 12:19:44	Se han encontrado 5 Readers en BD:
+11-12-2013 12:19:44	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 12:19:44	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 12:19:44	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 12:19:44	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 12:19:44	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 12:20:53	Se han encontrado 5 Readers en BD:
+11-12-2013 12:20:53	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 12:20:53	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 12:20:53	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 12:20:53	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 12:20:53	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 12:21:17	Se han encontrado 5 Readers en BD:
+11-12-2013 12:21:17	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 12:21:17	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 12:21:17	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 12:21:17	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 12:21:17	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 01:41:29	Se han encontrado 5 Readers en BD:
+11-12-2013 01:41:29	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 01:41:29	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 01:41:29	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 01:41:29	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 01:41:29	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 01:54:55	Se han encontrado 5 Readers en BD:
+11-12-2013 01:54:55	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 01:54:55	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 01:54:55	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 01:54:55	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 01:54:55	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 01:55:02	Reader 51 conectado.
+11-12-2013 01:55:23	Se han encontrado 5 Readers en BD:
+11-12-2013 01:55:23	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 01:55:23	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 01:55:23	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 01:55:23	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 01:55:23	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 01:56:24	Se han encontrado 5 Readers en BD:
+11-12-2013 01:56:24	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 01:56:24	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 01:56:24	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 01:56:24	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 01:56:24	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 01:58:12	Se han encontrado 5 Readers en BD:
+11-12-2013 01:58:12	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 01:58:12	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 01:58:12	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 01:58:12	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 01:58:12	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 01:59:12	Se han encontrado 5 Readers en BD:
+11-12-2013 01:59:12	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 01:59:12	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 01:59:12	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 01:59:12	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 01:59:12	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 02:23:41	Se han encontrado 5 Readers en BD:
+11-12-2013 02:23:41	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 02:23:41	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 02:23:41	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 02:23:41	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 02:23:41	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 02:25:32	Se han encontrado 5 Readers en BD:
+11-12-2013 02:25:32	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 02:25:32	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 02:25:32	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 02:25:32	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 02:25:32	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 02:26:04	Se han encontrado 5 Readers en BD:
+11-12-2013 02:26:04	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 02:26:04	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 02:26:04	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 02:26:04	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 02:26:04	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 02:47:07	Se han encontrado 5 Readers en BD:
+11-12-2013 02:47:07	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 02:47:07	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 02:47:07	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 02:47:07	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 02:47:07	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 02:50:19	Se han encontrado 5 Readers en BD:
+11-12-2013 02:50:19	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 02:50:19	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 02:50:19	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 02:50:19	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 02:50:19	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 02:50:45	Se han encontrado 5 Readers en BD:
+11-12-2013 02:50:45	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 02:50:45	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 02:50:45	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 02:50:45	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 02:50:45	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 02:53:06	Se han encontrado 5 Readers en BD:
+11-12-2013 02:53:06	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 02:53:06	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 02:53:06	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 02:53:06	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 02:53:06	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 02:54:17	Se han encontrado 5 Readers en BD:
+11-12-2013 02:54:17	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 02:54:17	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 02:54:17	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 02:54:17	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 02:54:17	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 02:54:52	Se han encontrado 5 Readers en BD:
+11-12-2013 02:54:52	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 02:54:52	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 02:54:52	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 02:54:52	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 02:54:52	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 02:59:04	Se han encontrado 5 Readers en BD:
+11-12-2013 02:59:04	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 02:59:04	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 02:59:04	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 02:59:04	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 02:59:04	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 02:59:28	Se han encontrado 5 Readers en BD:
+11-12-2013 02:59:28	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 02:59:28	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 02:59:28	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 02:59:28	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 02:59:28	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 03:01:11	Se han encontrado 5 Readers en BD:
+11-12-2013 03:01:11	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 03:01:11	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 03:01:11	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 03:01:11	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 03:01:11	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 03:01:14	Reader 51 conectado.
+11-12-2013 03:02:00	Se han encontrado 5 Readers en BD:
+11-12-2013 03:02:00	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 03:02:00	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 03:02:00	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 03:02:00	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 03:02:00	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 03:04:20	Se han encontrado 5 Readers en BD:
+11-12-2013 03:04:20	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 03:04:20	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 03:04:20	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 03:04:20	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 03:04:20	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 03:35:30	Se han encontrado 5 Readers en BD:
+11-12-2013 03:35:30	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 03:35:30	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 03:35:30	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 03:35:30	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 03:35:30	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 03:35:33	Reader 51 conectado.
+11-12-2013 03:35:55	Se han encontrado 5 Readers en BD:
+11-12-2013 03:35:55	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 03:35:55	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 03:35:55	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 03:35:55	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 03:35:55	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 03:37:22	Se han encontrado 5 Readers en BD:
+11-12-2013 03:37:22	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 03:37:22	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 03:37:22	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 03:37:22	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 03:37:22	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 03:38:32	Se han encontrado 5 Readers en BD:
+11-12-2013 03:38:32	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 03:38:32	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 03:38:32	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 03:38:32	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 03:38:32	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 03:43:48	Se han encontrado 5 Readers en BD:
+11-12-2013 03:43:48	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 03:43:48	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 03:43:48	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 03:43:48	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 03:43:48	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 03:44:37	Se han encontrado 5 Readers en BD:
+11-12-2013 03:44:37	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 03:44:37	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 03:44:37	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 03:44:37	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 03:44:37	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 03:44:45	Reader 51 conectado.
+11-12-2013 03:46:11	Se han encontrado 5 Readers en BD:
+11-12-2013 03:46:11	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 03:46:11	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 03:46:11	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 03:46:11	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 03:46:11	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 03:47:14	Se han encontrado 5 Readers en BD:
+11-12-2013 03:47:14	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 03:47:14	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 03:47:14	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 03:47:14	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 03:47:14	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 03:49:01	Se han encontrado 5 Readers en BD:
+11-12-2013 03:49:01	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 03:49:01	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 03:49:01	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 03:49:01	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 03:49:01	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 03:49:47	Reader 51 conectado.
+11-12-2013 03:50:03	Se han encontrado 5 Readers en BD:
+11-12-2013 03:50:03	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 03:50:03	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 03:50:03	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 03:50:03	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 03:50:03	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 03:50:40	Se han encontrado 5 Readers en BD:
+11-12-2013 03:50:40	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 03:50:40	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 03:50:40	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 03:50:40	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 03:50:40	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 03:57:11	Se han encontrado 5 Readers en BD:
+11-12-2013 03:57:11	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 03:57:11	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 03:57:11	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 03:57:11	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 03:57:11	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 04:05:36	Se han encontrado 5 Readers en BD:
+11-12-2013 04:05:36	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 04:05:36	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 04:05:36	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 04:05:36	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 04:05:36	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 04:24:10	Se han encontrado 5 Readers en BD:
+11-12-2013 04:24:10	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 04:24:10	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 04:24:10	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 04:24:10	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 04:24:10	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 04:24:38	Se han encontrado 5 Readers en BD:
+11-12-2013 04:24:38	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 04:24:38	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 04:24:38	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 04:24:38	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 04:24:38	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 04:25:12	Se han encontrado 5 Readers en BD:
+11-12-2013 04:25:12	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 04:25:12	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 04:25:12	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 04:25:12	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 04:25:12	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 04:26:06	Se han encontrado 5 Readers en BD:
+11-12-2013 04:26:06	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 04:26:06	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 04:26:06	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 04:26:06	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 04:26:06	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 04:27:40	Se han encontrado 5 Readers en BD:
+11-12-2013 04:27:40	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 04:27:40	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 04:27:40	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 04:27:40	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 04:27:40	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 04:28:17	Se han encontrado 5 Readers en BD:
+11-12-2013 04:28:17	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 04:28:17	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 04:28:17	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 04:28:17	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 04:28:17	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 04:29:28	Se han encontrado 5 Readers en BD:
+11-12-2013 04:29:28	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 04:29:28	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 04:29:28	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 04:29:28	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 04:29:28	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 04:32:10	Se han encontrado 5 Readers en BD:
+11-12-2013 04:32:10	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 04:32:10	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 04:32:10	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 04:32:10	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 04:32:10	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 04:37:32	Se han encontrado 5 Readers en BD:
+11-12-2013 04:37:32	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 04:37:32	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 04:37:32	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 04:37:32	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 04:37:32	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 04:43:29	Se han encontrado 5 Readers en BD:
+11-12-2013 04:43:29	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 04:43:29	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 04:43:29	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 04:43:29	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 04:43:29	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 04:52:21	Se han encontrado 5 Readers en BD:
+11-12-2013 04:52:21	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 04:52:21	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 04:52:21	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 04:52:21	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 04:52:21	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 04:53:11	Reader 51 conectado.
+11-12-2013 04:56:26	Se han encontrado 5 Readers en BD:
+11-12-2013 04:56:26	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 04:56:26	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 04:56:26	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 04:56:26	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 04:56:26	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 04:56:51	Se han encontrado 5 Readers en BD:
+11-12-2013 04:56:51	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 04:56:51	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 04:56:51	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 04:56:51	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 04:56:51	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 04:57:10	Se han encontrado 5 Readers en BD:
+11-12-2013 04:57:10	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 04:57:10	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 04:57:10	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 04:57:10	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 04:57:10	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 04:57:36	Se han encontrado 5 Readers en BD:
+11-12-2013 04:57:36	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 04:57:36	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 04:57:36	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 04:57:36	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 04:57:36	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 05:01:55	Se han encontrado 5 Readers en BD:
+11-12-2013 05:01:55	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 05:01:55	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 05:01:55	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 05:01:55	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 05:01:55	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 05:23:50	Se han encontrado 5 Readers en BD:
+11-12-2013 05:23:50	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 05:23:50	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 05:23:50	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 05:23:50	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 05:23:50	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 05:24:47	Se han encontrado 5 Readers en BD:
+11-12-2013 05:24:47	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 05:24:47	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 05:24:47	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 05:24:47	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 05:24:47	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 05:25:44	Reader 51 conectado.
+11-12-2013 05:25:48	Cambio de estado de antenas de reader 51 a 0000
+11-12-2013 05:25:48	Cambio de estado de antenas de reader 51 a 0000
+11-12-2013 05:25:48	Cambio de estado de antenas de reader 51 a 0000
+11-12-2013 05:28:49	Se han encontrado 5 Readers en BD:
+11-12-2013 05:28:49	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 05:28:49	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 05:28:49	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 05:28:49	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 05:28:49	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 05:30:38	Se han encontrado 5 Readers en BD:
+11-12-2013 05:30:38	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 05:30:38	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 05:30:38	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 05:30:38	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 05:30:38	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 05:30:39	Reader 51 conectado.
+11-12-2013 05:32:34	Se han encontrado 5 Readers en BD:
+11-12-2013 05:32:34	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 05:32:34	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 05:32:34	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 05:32:34	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 05:32:34	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 05:32:35	Cambio de estado de antenas de reader 51 a -1--
+11-12-2013 05:32:35	Reader 51 conectado.
+11-12-2013 05:32:35	Cambio de estado de antenas de reader 51 a 0010
+11-12-2013 05:32:35	Cambio de estado de antenas de reader 51 a 0011
+11-12-2013 05:38:59	Se han encontrado 5 Readers en BD:
+11-12-2013 05:38:59	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-12-2013 05:38:59	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+11-12-2013 05:38:59	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-12-2013 05:38:59	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+11-12-2013 05:38:59	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+11-12-2013 05:39:11	Cambio de estado de antenas de reader 51 a -0--
+11-12-2013 05:39:11	Cambio de estado de antenas de reader 51 a -00-
+11-12-2013 05:39:11	Cambio de estado de antenas de reader 51 a -000
+11-12-2013 05:39:11	Reader 51 conectado.
+12-12-2013 09:46:18	Se han encontrado 5 Readers en BD:
+12-12-2013 09:46:18	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+12-12-2013 09:46:18	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+12-12-2013 09:46:18	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+12-12-2013 09:46:18	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+12-12-2013 09:46:18	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+12-12-2013 09:46:30	Cambio de estado de antenas de reader 51 a -0--
+12-12-2013 09:46:30	Cambio de estado de antenas de reader 51 a -00-
+12-12-2013 09:46:30	Cambio de estado de antenas de reader 51 a -000
+12-12-2013 09:46:30	Reader 51 conectado.
+12-12-2013 09:47:00	Se han encontrado 5 Readers en BD:
+12-12-2013 09:47:00	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+12-12-2013 09:47:00	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+12-12-2013 09:47:00	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+12-12-2013 09:47:00	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+12-12-2013 09:47:00	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+12-12-2013 09:47:03	Reader 51 conectado.
+12-12-2013 09:47:25	Se han encontrado 5 Readers en BD:
+12-12-2013 09:47:25	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+12-12-2013 09:47:25	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+12-12-2013 09:47:25	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+12-12-2013 09:47:25	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+12-12-2013 09:47:25	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+12-12-2013 10:07:47	Se han encontrado 5 Readers en BD:
+12-12-2013 10:07:47	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+12-12-2013 10:07:47	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+12-12-2013 10:07:47	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+12-12-2013 10:07:47	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+12-12-2013 10:07:47	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+12-12-2013 10:07:58	Reader 51 conectado.
+12-12-2013 10:10:19	Se han encontrado 5 Readers en BD:
+12-12-2013 10:10:19	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+12-12-2013 10:10:19	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+12-12-2013 10:10:19	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+12-12-2013 10:10:19	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+12-12-2013 10:10:19	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+12-12-2013 10:10:30	Reader 51 conectado.
+12-12-2013 10:11:01	Se han encontrado 5 Readers en BD:
+12-12-2013 10:11:01	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+12-12-2013 10:11:01	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+12-12-2013 10:11:01	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+12-12-2013 10:11:01	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+12-12-2013 10:11:01	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+12-12-2013 10:11:49	Reader 51 conectado.
+12-12-2013 10:11:56	Se han encontrado 5 Readers en BD:
+12-12-2013 10:11:56	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+12-12-2013 10:11:56	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+12-12-2013 10:11:56	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+12-12-2013 10:11:56	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+12-12-2013 10:11:56	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+12-12-2013 10:13:25	Se han encontrado 5 Readers en BD:
+12-12-2013 10:13:25	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+12-12-2013 10:13:25	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+12-12-2013 10:13:25	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+12-12-2013 10:13:25	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+12-12-2013 10:13:25	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+12-12-2013 10:15:05	Reader 51 conectado.
+12-12-2013 10:16:59	Se han encontrado 5 Readers en BD:
+12-12-2013 10:16:59	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+12-12-2013 10:16:59	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+12-12-2013 10:16:59	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+12-12-2013 10:16:59	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+12-12-2013 10:16:59	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+12-12-2013 10:19:43	Se han encontrado 5 Readers en BD:
+12-12-2013 10:19:43	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+12-12-2013 10:19:43	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+12-12-2013 10:19:43	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+12-12-2013 10:19:43	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+12-12-2013 10:19:43	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+12-12-2013 10:22:32	Se han encontrado 5 Readers en BD:
+12-12-2013 10:22:32	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+12-12-2013 10:22:32	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+12-12-2013 10:22:32	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+12-12-2013 10:22:32	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+12-12-2013 10:22:32	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+12-12-2013 10:22:57	Se han encontrado 5 Readers en BD:
+12-12-2013 10:22:57	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+12-12-2013 10:22:57	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+12-12-2013 10:22:57	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+12-12-2013 10:22:57	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+12-12-2013 10:22:57	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+12-12-2013 10:23:41	Reader 51 conectado.
+12-12-2013 10:24:11	Se han encontrado 5 Readers en BD:
+12-12-2013 10:24:11	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+12-12-2013 10:24:11	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+12-12-2013 10:24:11	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+12-12-2013 10:24:11	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+12-12-2013 10:24:11	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+12-12-2013 10:24:45	Se han encontrado 5 Readers en BD:
+12-12-2013 10:24:45	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+12-12-2013 10:24:45	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+12-12-2013 10:24:45	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+12-12-2013 10:24:45	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+12-12-2013 10:24:45	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+12-12-2013 10:25:00	Reader 51 conectado.
+12-12-2013 10:27:47	Se han encontrado 5 Readers en BD:
+12-12-2013 10:27:47	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+12-12-2013 10:27:47	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+12-12-2013 10:27:47	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+12-12-2013 10:27:47	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+12-12-2013 10:27:47	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+12-12-2013 10:27:58	Reader 51 conectado.
+12-12-2013 10:30:30	Se han encontrado 5 Readers en BD:
+12-12-2013 10:30:30	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+12-12-2013 10:30:30	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+12-12-2013 10:30:30	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+12-12-2013 10:30:30	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+12-12-2013 10:30:30	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+12-12-2013 10:45:34	Se han encontrado 5 Readers en BD:
+12-12-2013 10:45:34	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+12-12-2013 10:45:34	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+12-12-2013 10:45:34	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+12-12-2013 10:45:34	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+12-12-2013 10:45:34	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+12-12-2013 10:45:46	Reader 51 conectado.
+12-12-2013 10:47:28	Se han encontrado 5 Readers en BD:
+12-12-2013 10:47:28	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+12-12-2013 10:47:28	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+12-12-2013 10:47:28	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+12-12-2013 10:47:28	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+12-12-2013 10:47:28	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+12-12-2013 10:47:40	Reader 51 conectado.
+12-12-2013 10:49:09	Se han encontrado 5 Readers en BD:
+12-12-2013 10:49:09	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+12-12-2013 10:49:09	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+12-12-2013 10:49:09	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+12-12-2013 10:49:09	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+12-12-2013 10:49:09	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+12-12-2013 10:50:09	Se han encontrado 5 Readers en BD:
+12-12-2013 10:50:09	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+12-12-2013 10:50:09	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+12-12-2013 10:50:09	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+12-12-2013 10:50:09	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+12-12-2013 10:50:09	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+12-12-2013 10:50:45	Reader 51 conectado.
+12-12-2013 11:05:01	Se han encontrado 5 Readers en BD:
+12-12-2013 11:05:01	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+12-12-2013 11:05:01	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+12-12-2013 11:05:01	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+12-12-2013 11:05:01	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+12-12-2013 11:05:01	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+12-12-2013 11:05:14	Reader 51 conectado.
+12-12-2013 11:06:59	Se han encontrado 5 Readers en BD:
+12-12-2013 11:06:59	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+12-12-2013 11:06:59	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+12-12-2013 11:06:59	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+12-12-2013 11:06:59	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+12-12-2013 11:06:59	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+12-12-2013 11:07:14	Reader 51 conectado.
+12-12-2013 11:08:38	Se han encontrado 5 Readers en BD:
+12-12-2013 11:08:38	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+12-12-2013 11:08:38	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+12-12-2013 11:08:38	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+12-12-2013 11:08:38	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+12-12-2013 11:08:38	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+12-12-2013 11:11:35	Reader 51 conectado.
+12-12-2013 11:12:01	Se han encontrado 5 Readers en BD:
+12-12-2013 11:12:01	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+12-12-2013 11:12:01	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+12-12-2013 11:12:01	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+12-12-2013 11:12:01	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+12-12-2013 11:12:01	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+12-12-2013 11:12:02	Reader 51 conectado.
+12-12-2013 11:13:28	Se han encontrado 5 Readers en BD:
+12-12-2013 11:13:28	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+12-12-2013 11:13:28	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+12-12-2013 11:13:28	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+12-12-2013 11:13:28	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+12-12-2013 11:13:28	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+12-12-2013 11:13:29	Reader 51 conectado.
+12-12-2013 11:13:29	Cambio de estado de antenas de reader 51 a 1100
+12-12-2013 11:13:29	Cambio de estado de antenas de reader 51 a 1110
+12-12-2013 11:13:29	Cambio de estado de antenas de reader 51 a 1111
+12-12-2013 11:16:26	Se han encontrado 5 Readers en BD:
+12-12-2013 11:16:26	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+12-12-2013 11:16:26	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+12-12-2013 11:16:26	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+12-12-2013 11:16:26	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+12-12-2013 11:16:26	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+12-12-2013 11:16:27	Reader 51 conectado.
+12-12-2013 11:16:59	Se han encontrado 5 Readers en BD:
+12-12-2013 11:16:59	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+12-12-2013 11:16:59	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+12-12-2013 11:16:59	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+12-12-2013 11:16:59	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+12-12-2013 11:16:59	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+12-12-2013 11:17:01	Reader 51 conectado.
+12-12-2013 11:17:55	Se han encontrado 5 Readers en BD:
+12-12-2013 11:17:55	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+12-12-2013 11:17:55	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+12-12-2013 11:17:55	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+12-12-2013 11:17:55	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+12-12-2013 11:17:55	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+12-12-2013 11:17:56	Reader 51 conectado.

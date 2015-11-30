@@ -1,0 +1,8 @@
+08-11-2013 04:21:27	Reader Prueba HH 2 id: 64 conectado
+08-11-2013 04:41:00	Reader Prueba HH 2 id: 64 conectado
+08-11-2013 04:52:59	Reader Prueba HH 2 id: 64 conectado
+08-11-2013 05:06:30	Reader Prueba HH 2 id: 64 desconectado
+14-11-2013 02:12:08	Reader Prueba HH 2 id: 64 conectado
+14-11-2013 02:13:08	Reader Prueba HH 2 id: 64 desconectado
+14-11-2013 02:13:27	Reader Prueba HH 2 id: 64 conectado
+14-11-2013 02:13:38	Reader Prueba HH 2 id: 64 desconectado

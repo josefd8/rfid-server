@@ -1,0 +1,1848 @@
+15-07-2014 03:43:59	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 03:43:59	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 03:55:37	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 03:55:37	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 03:56:09	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 03:56:09	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 03:56:41	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 03:56:41	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 03:57:12	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 03:57:12	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 03:57:40	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 03:57:40	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 03:58:12	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 03:58:12	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 03:58:43	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 03:58:43	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 03:59:14	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 03:59:14	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:02:44	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:02:44	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:22:26	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:22:26	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:22:57	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:22:57	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:23:29	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:23:29	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:24:00	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:24:00	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:24:55	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:24:55	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:25:27	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:25:27	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:25:58	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:25:59	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:26:30	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:26:30	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:27:02	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:27:02	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:27:33	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:27:33	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:28:05	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:28:05	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:28:36	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:28:36	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:29:08	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:29:08	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:29:39	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:29:39	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:30:11	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:30:11	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:30:42	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:30:42	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:31:14	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:31:14	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:31:45	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:31:45	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:32:17	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:32:17	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:32:48	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:32:48	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:33:20	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:33:20	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:33:51	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:33:51	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:34:23	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:34:23	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:34:54	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:34:54	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:35:26	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:35:26	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:35:57	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:35:57	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:36:29	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:36:29	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:37:00	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:37:00	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:37:32	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:37:32	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:38:03	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:38:03	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:38:35	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:38:35	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:39:06	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:39:06	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:39:38	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:39:38	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:40:09	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:40:09	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:40:41	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:40:41	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:41:12	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:41:12	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:41:44	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:41:44	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:42:15	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:42:15	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:42:47	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:42:47	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:43:18	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:43:18	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:43:50	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:43:50	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:44:21	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:44:21	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:44:53	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:44:53	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:45:24	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:45:24	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:45:56	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:45:56	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:46:28	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:46:28	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:46:59	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:46:59	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:47:31	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:47:31	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:48:02	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:48:02	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:48:34	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:48:34	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:49:05	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:49:05	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:49:37	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:49:37	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:50:08	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:50:08	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:50:40	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:50:40	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:51:11	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:51:11	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:51:43	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:51:43	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:52:14	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:52:14	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:52:46	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:52:46	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:53:17	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:53:17	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:53:49	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:53:49	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:54:20	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:54:20	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:54:52	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:54:52	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:55:23	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:55:23	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:55:55	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:55:55	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:56:26	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:56:26	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:56:58	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:56:58	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:57:29	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:57:29	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:58:01	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:58:01	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:58:32	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:58:32	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:59:04	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:59:04	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 04:59:35	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 04:59:35	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 05:00:07	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 05:00:07	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 05:00:38	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 05:00:38	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 05:01:10	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 05:01:10	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 05:01:41	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 05:01:41	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 05:02:13	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 05:02:13	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 05:02:44	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 05:02:44	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 05:03:16	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 05:03:16	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 05:03:47	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 05:03:47	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 05:04:19	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 05:04:19	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 05:04:50	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 05:04:50	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 05:05:22	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 05:05:22	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 05:05:54	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 05:05:54	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 05:06:25	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 05:06:25	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 05:06:57	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 05:06:57	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 05:07:28	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 05:07:28	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 05:08:00	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 05:08:00	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 05:08:31	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 05:08:31	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 05:09:03	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 05:09:03	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 05:09:34	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 05:09:34	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 05:10:06	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 05:10:06	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 05:10:37	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 05:10:37	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 05:11:09	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 05:11:09	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 05:11:40	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 05:11:40	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 05:12:12	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 05:12:12	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 05:12:43	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 05:12:43	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 05:13:15	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 05:13:15	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 05:13:46	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 05:13:46	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 05:14:18	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 05:14:18	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 05:14:49	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 05:14:49	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 05:15:21	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 05:15:21	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 05:15:52	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 05:15:52	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 05:16:24	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 05:16:24	Reader Lector RFID #11 id: 77 desconectado
+15-07-2014 05:16:55	Borrando todos los ROSpecs: 172.22.23.225
+15-07-2014 05:16:55	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 09:58:44	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 09:58:45	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 09:59:16	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 09:59:16	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 09:59:48	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 09:59:48	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 10:00:19	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 10:00:19	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 10:00:51	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 10:00:51	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 10:01:22	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 10:01:22	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 10:01:54	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 10:01:54	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 10:02:25	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 10:02:25	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 10:17:55	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 10:17:55	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 10:19:40	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 10:19:40	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 10:35:08	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 10:35:08	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 10:35:39	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 10:35:39	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 10:52:29	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 10:52:29	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 10:57:17	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 10:57:17	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 10:59:05	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 10:59:05	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 10:59:44	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 10:59:44	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 11:00:16	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 11:00:16	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 11:00:47	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 11:00:47	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 11:04:29	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 11:04:29	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 11:05:00	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 11:05:00	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 11:05:32	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 11:05:32	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 11:06:03	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 11:06:03	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 11:06:35	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 11:06:35	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 11:07:06	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 11:07:06	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 11:07:38	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 11:07:38	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 01:52:01	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 01:52:02	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 01:52:02	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 01:52:02	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 01:52:02	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 01:52:02	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 01:52:02	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 01:52:02	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 01:52:02	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 01:52:02	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 01:52:03	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 01:52:03	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 02:01:44	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 02:01:45	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 02:01:45	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:01:45	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:01:45	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 02:01:45	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 02:01:45	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:01:45	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:01:45	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 02:01:45	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 02:01:45	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 02:01:46	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 02:02:56	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 02:02:56	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 02:02:56	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:02:56	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:02:56	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 02:02:56	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 02:02:56	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 02:02:56	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 02:02:56	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 02:02:56	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 02:02:56	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 02:02:56	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 02:03:37	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 02:03:37	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 02:03:37	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:03:37	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:03:37	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 02:03:37	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 02:03:37	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 02:03:37	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 02:03:37	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 02:03:37	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 02:03:37	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 02:03:37	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 02:05:07	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 02:05:08	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 02:05:08	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:05:08	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:05:08	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 02:05:08	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 02:05:08	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 02:05:08	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 02:05:08	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 02:05:08	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 02:05:08	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 02:05:08	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 02:06:53	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 02:06:54	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 02:06:54	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:06:54	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:06:54	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 02:06:54	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 02:06:54	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:06:54	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:06:54	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 02:06:54	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 02:06:54	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 02:06:55	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 02:07:34	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 02:07:34	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 02:07:34	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:07:34	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:07:34	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 02:07:34	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 02:07:34	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:07:34	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:07:34	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 02:07:34	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 02:07:34	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 02:07:35	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 02:13:26	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:13:26	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 02:13:37	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:13:37	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 02:13:56	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 02:13:56	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 02:13:56	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:13:56	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:13:56	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 02:13:56	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 02:13:56	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 02:13:56	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 02:13:56	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 02:13:56	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 02:13:56	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 02:13:56	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 02:13:56	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 02:13:56	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:13:56	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:13:56	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 02:13:56	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 02:13:57	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 02:13:57	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 02:13:57	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 02:13:57	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 02:13:57	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 02:13:57	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 02:14:56	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:14:56	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:14:56	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 02:15:00	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 02:15:00	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 02:15:00	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:15:00	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:15:00	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 02:15:00	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 02:15:00	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 02:15:00	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 02:15:00	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 02:15:00	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 02:15:00	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 02:15:00	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 02:15:00	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 02:15:00	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:15:00	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:15:00	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 02:15:00	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 02:15:00	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 02:15:00	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 02:15:00	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 02:15:00	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 02:15:00	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 02:15:00	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 02:15:48	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 02:15:48	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 02:15:48	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:15:48	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:15:48	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 02:15:48	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 02:15:48	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 02:15:48	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 02:15:48	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 02:15:48	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 02:15:48	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 02:15:48	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 02:15:48	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 02:15:48	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:15:48	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:15:48	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 02:15:48	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 02:15:48	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 02:15:48	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 02:15:48	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 02:15:48	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 02:15:48	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 02:15:49	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 02:21:21	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 02:21:21	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 02:21:21	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:21:21	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:21:21	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 02:21:21	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 02:21:22	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:21:22	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:21:22	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 02:21:22	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 02:21:22	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 02:21:23	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 02:22:19	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 02:22:19	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 02:22:19	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:22:19	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:22:19	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 02:22:19	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 02:22:19	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 02:22:19	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 02:22:19	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 02:22:19	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 02:22:19	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 02:22:19	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 02:24:15	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 02:24:15	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 02:24:15	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:24:15	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:24:15	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 02:24:15	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 02:24:16	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:24:16	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:24:16	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 02:24:16	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 02:24:16	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 02:24:17	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 02:26:28	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 02:26:28	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 02:26:28	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:26:28	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:26:28	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 02:26:28	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 02:26:28	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:26:29	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:26:29	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 02:26:29	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 02:26:29	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 02:26:29	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 02:27:34	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 02:27:34	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 02:27:34	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:27:34	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:27:34	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 02:27:34	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 02:27:34	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 02:27:34	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 02:27:34	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 02:27:34	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 02:27:34	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 02:27:35	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 02:28:27	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 02:28:27	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 02:28:27	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:28:27	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:28:27	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 02:28:27	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 02:28:28	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:28:28	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:28:28	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 02:28:28	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 02:28:28	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 02:28:28	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 02:31:35	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 02:31:36	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 02:31:36	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:31:36	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:31:36	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 02:31:36	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 02:31:36	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:31:36	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:31:36	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 02:31:36	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 02:31:36	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 02:31:36	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 02:31:36	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 02:31:36	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:31:36	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:31:36	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 02:31:36	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 02:31:36	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 02:31:36	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 02:31:36	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 02:31:36	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 02:31:36	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 02:31:37	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 02:34:00	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 02:34:00	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 02:34:00	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:34:00	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:34:01	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 02:34:01	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 02:34:01	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:34:01	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:34:01	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 02:34:01	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 02:34:01	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 02:34:01	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 02:34:01	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 02:34:01	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:34:01	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:34:01	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 02:34:01	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 02:34:01	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 02:34:01	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 02:34:01	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 02:34:01	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 02:34:01	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 02:34:01	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 02:35:09	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:35:09	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:35:09	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 02:35:13	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 02:35:13	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 02:35:13	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:35:13	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:35:13	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 02:35:13	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 02:35:13	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:35:13	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:35:13	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 02:35:13	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 02:35:13	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 02:35:13	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 02:35:13	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 02:35:13	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:35:13	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:35:13	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 02:35:13	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 02:35:13	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 02:35:13	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 02:35:13	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 02:35:13	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 02:35:13	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 02:35:13	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 02:36:47	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 02:36:47	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 02:36:47	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:36:47	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:36:47	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 02:36:47	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 02:36:48	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:36:48	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:36:48	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 02:36:48	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 02:36:48	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 02:36:48	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 02:36:48	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 02:36:48	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:36:48	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:36:48	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 02:36:48	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 02:36:48	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 02:36:48	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 02:36:48	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 02:36:48	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 02:36:48	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 02:36:48	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 02:37:12	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 02:37:12	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 02:37:12	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:37:12	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:37:12	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 02:37:12	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 02:37:13	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:37:13	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:37:13	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 02:37:13	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 02:37:13	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 02:37:13	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 02:37:13	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 02:37:13	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:37:13	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:37:13	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 02:37:13	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 02:37:13	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 02:37:13	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 02:37:13	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 02:37:13	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 02:37:13	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 02:37:13	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 02:39:41	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 02:39:41	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 02:39:41	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:39:41	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:39:41	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 02:39:41	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 02:39:41	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:39:41	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:39:41	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 02:39:41	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 02:39:41	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 02:39:42	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 02:42:24	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:42:24	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 02:46:57	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 02:46:57	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 02:46:57	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:46:57	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:46:57	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 02:46:57	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 02:46:58	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:46:58	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:46:58	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 02:46:58	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 02:46:58	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 02:46:58	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 02:48:07	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 02:48:07	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 02:48:07	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:48:07	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:48:07	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 02:48:07	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 02:48:08	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:48:08	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:48:08	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 02:48:08	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 02:48:08	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 02:48:08	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 02:53:59	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 02:53:59	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 02:53:59	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:53:59	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:53:59	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 02:53:59	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 02:53:59	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 02:53:59	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 02:53:59	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 02:53:59	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 02:53:59	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 02:53:59	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 02:54:24	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:54:24	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:54:24	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 02:54:37	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 02:54:37	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 02:54:37	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:54:38	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:54:38	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 02:54:38	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 02:54:38	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 02:54:38	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 02:54:38	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 02:54:38	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 02:54:38	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 02:54:38	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 02:55:58	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 02:55:58	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 02:55:58	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:55:58	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:55:58	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 02:55:58	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 02:55:58	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 02:55:58	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 02:55:58	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 02:55:58	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 02:55:58	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 02:55:58	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 02:57:42	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:57:42	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 02:58:08	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 02:58:08	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 02:58:08	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:58:08	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:58:08	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 02:58:08	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 02:58:08	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 02:58:08	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 02:58:08	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 02:58:08	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 02:58:08	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 02:58:08	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 02:59:46	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 02:59:47	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 02:59:47	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 02:59:47	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 02:59:47	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 02:59:47	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 02:59:47	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 02:59:47	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 02:59:47	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 02:59:47	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 02:59:47	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 02:59:47	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 03:02:20	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:02:20	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:02:20	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:02:20	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:02:20	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:02:20	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:02:20	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 03:02:20	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:02:20	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 03:02:20	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:02:20	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 03:02:20	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 03:03:13	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:03:13	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:03:13	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:03:13	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:03:13	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:03:13	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:03:13	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 03:03:13	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:03:13	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 03:03:13	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:03:13	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 03:03:14	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 03:04:23	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:04:23	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:04:23	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:04:23	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:04:23	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:04:23	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:04:23	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 03:04:23	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:04:23	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 03:04:23	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:04:23	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 03:04:23	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 03:04:48	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:04:48	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:04:48	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:04:48	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:04:48	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:04:48	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:04:48	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 03:04:48	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:04:48	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 03:04:48	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:04:48	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 03:04:48	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 03:05:37	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:05:37	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:05:37	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:05:37	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:05:37	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:05:37	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:05:38	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:05:38	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:05:38	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 03:05:38	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:05:38	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:05:39	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 03:07:42	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:07:42	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:07:42	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:07:42	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:07:42	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:07:42	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:07:43	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:07:43	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:07:43	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 03:07:43	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:07:43	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:07:44	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 03:09:20	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:09:20	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:09:20	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:09:20	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:09:20	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:09:20	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:09:21	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:09:21	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:09:21	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 03:09:21	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:09:21	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:09:21	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 03:13:03	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:13:03	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 03:13:25	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:13:25	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:13:25	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:13:25	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:13:25	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:13:25	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:13:25	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 03:13:25	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:13:25	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 03:13:25	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:13:26	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 03:13:26	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 03:13:26	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:13:26	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:13:26	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:13:26	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:13:26	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:13:26	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:13:26	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 03:13:26	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:13:26	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 03:13:26	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:13:26	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 03:13:26	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 03:13:50	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:13:50	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:13:50	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 03:13:53	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:13:53	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:13:53	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:13:53	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:13:53	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:13:53	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:13:53	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 03:13:53	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:13:53	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 03:13:53	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:13:53	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 03:13:53	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 03:13:53	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:13:53	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:13:53	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:13:53	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:13:53	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:13:53	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:13:53	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 03:13:53	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:13:53	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 03:13:53	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:13:54	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 03:13:54	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 03:14:26	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:14:26	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:14:26	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:14:26	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:14:26	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:14:26	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:14:26	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 03:14:26	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:14:26	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 03:14:26	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:14:26	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 03:14:26	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:14:26	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:14:26	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:14:26	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:14:26	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:14:26	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:14:26	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 03:14:26	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:14:26	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 03:14:26	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:14:26	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 03:14:26	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 03:15:17	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:15:17	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:15:17	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:15:17	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:15:17	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:15:17	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:15:18	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 03:15:18	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:15:18	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 03:15:18	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:15:18	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 03:15:18	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:15:18	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:15:18	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:15:18	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:15:18	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:15:18	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:15:18	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 03:15:18	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:15:18	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 03:15:18	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:15:18	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 03:15:18	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 03:17:19	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:17:19	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:17:19	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 03:17:22	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:17:22	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:17:22	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:17:22	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:17:22	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:17:22	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:17:23	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 03:17:23	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:17:23	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 03:17:23	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:17:23	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 03:17:23	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:17:23	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:17:23	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:17:23	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:17:23	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:17:23	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:17:23	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 03:17:23	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:17:23	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 03:17:23	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:17:23	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 03:17:23	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 03:18:20	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:18:20	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:18:20	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:18:20	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:18:20	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:18:20	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:18:21	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:18:21	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:18:21	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 03:18:21	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:18:21	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:18:21	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:18:21	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:18:21	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:18:21	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:18:21	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:18:21	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:18:21	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 03:18:21	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:18:21	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 03:18:21	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:18:21	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 03:18:21	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 03:22:29	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:22:29	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:22:29	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:22:30	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:22:30	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:22:30	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:22:30	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 03:22:30	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:22:30	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 03:22:30	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:22:30	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 03:22:31	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:22:31	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:22:31	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:22:31	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:22:31	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:22:31	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:22:31	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 03:22:31	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:22:31	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 03:22:31	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:22:31	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 03:22:31	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 03:23:50	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:23:50	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:23:50	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:23:50	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:23:50	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:23:50	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:23:50	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 03:23:50	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:23:51	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 03:23:51	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:23:51	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 03:23:51	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:23:51	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:23:51	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:23:51	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:23:51	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:23:51	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:23:51	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 03:23:51	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:23:51	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 03:23:51	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:23:51	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 03:23:51	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 03:24:21	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:24:21	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:24:21	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:24:21	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:24:21	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:24:21	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:24:22	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 03:24:22	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:24:22	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 03:24:22	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:24:22	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 03:24:22	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:24:22	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:24:22	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:24:22	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:24:22	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:24:22	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:24:22	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 03:24:22	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:24:22	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 03:24:22	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:24:22	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 03:24:22	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 03:31:48	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:31:48	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:31:48	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:31:48	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:31:48	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:31:48	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:31:48	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 03:31:48	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:31:48	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 03:31:48	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:31:48	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 03:31:48	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:31:49	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:31:49	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:31:49	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:31:49	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:31:49	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:31:49	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 03:31:49	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:31:49	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 03:31:49	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:31:49	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 03:31:49	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 03:35:54	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:35:54	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:35:54	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:35:54	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:35:55	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:35:55	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:35:55	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 03:35:55	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:35:55	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 03:35:55	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:35:55	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 03:35:55	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:35:55	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:35:55	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:35:55	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:35:55	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:35:55	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:35:55	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 03:35:55	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:35:55	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:35:56	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 03:36:51	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:36:51	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:36:51	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 03:36:55	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:36:55	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:36:55	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:36:55	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:36:55	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:36:55	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:36:55	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 03:36:55	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:36:55	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 03:36:55	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:36:55	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 03:36:55	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:36:55	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:36:55	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:36:55	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:36:55	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:36:56	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:36:56	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 03:36:56	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:37:06	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:37:06	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 03:37:57	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:37:57	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:37:57	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:37:57	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:37:57	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:37:57	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:37:57	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 03:37:57	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:37:57	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 03:37:57	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:37:57	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 03:37:57	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:37:57	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:37:57	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:37:57	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:37:58	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:37:58	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:37:58	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 03:37:58	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:37:58	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:37:58	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 03:40:30	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:40:30	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:40:30	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:40:30	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:40:30	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:40:30	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:40:30	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 03:40:30	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:40:30	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 03:40:30	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:40:30	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 03:40:30	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:40:30	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:40:31	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:40:31	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:40:31	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 03:40:31	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:40:31	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:40:31	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 03:44:36	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:44:37	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:44:37	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:44:37	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:44:37	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:44:37	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:44:37	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 03:44:37	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:44:37	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 03:44:37	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:44:37	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 03:44:37	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 03:44:37	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 03:44:37	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:44:37	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:44:37	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:44:37	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:44:37	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:44:37	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:44:37	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 03:44:37	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:44:37	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 03:44:37	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:44:37	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 03:44:37	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 03:46:10	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:46:10	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:46:10	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:46:10	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:46:11	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:46:11	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:46:11	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 03:46:11	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:46:11	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 03:46:11	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:46:11	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 03:46:11	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 03:46:11	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 03:46:11	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:46:11	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:46:11	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:46:11	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:46:11	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:46:11	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:46:11	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 03:46:11	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:46:11	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 03:46:11	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:46:11	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 03:46:11	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 03:51:14	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:51:14	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:51:14	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:51:14	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:51:15	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:51:15	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:51:15	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 03:51:15	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:51:15	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 03:51:15	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:51:15	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 03:51:15	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 03:51:16	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 03:51:16	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 03:51:16	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 03:51:16	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 03:51:16	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 03:51:16	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 03:51:16	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 03:51:16	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 03:51:16	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 03:51:16	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 03:51:16	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 03:51:16	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 03:51:16	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 04:58:21	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 04:58:21	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 04:58:21	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 04:58:22	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 04:58:22	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 04:58:22	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 04:58:22	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 04:58:22	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 04:58:22	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 04:58:22	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 04:58:22	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 04:58:22	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 05:00:19	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 05:00:19	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 05:00:19	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 05:00:20	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 05:00:20	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 05:00:20	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 05:00:20	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 05:00:20	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 05:00:20	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 05:00:20	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 05:00:20	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 05:00:21	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 05:00:55	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 05:00:55	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 05:00:55	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 05:00:55	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 05:00:55	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 05:01:53	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 05:01:53	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 05:01:53	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 05:01:53	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 05:01:54	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 05:01:54	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 05:01:54	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 05:01:54	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 05:01:54	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 05:01:54	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 05:01:54	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 05:01:55	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 05:03:47	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 05:03:47	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 05:03:47	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 05:03:47	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 05:03:47	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 05:03:47	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 05:03:47	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 05:03:47	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 05:03:47	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 05:03:47	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 05:03:47	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 05:03:48	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 05:05:21	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 05:05:21	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 05:05:21	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 05:05:21	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 05:05:21	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 05:05:21	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 05:05:21	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 05:05:21	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 05:05:21	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 05:05:21	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 05:05:21	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 05:05:21	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 05:06:56	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 05:06:56	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 05:06:56	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 05:06:56	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 05:06:56	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 05:06:56	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 05:06:56	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 05:06:56	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 05:06:56	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 05:06:56	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 05:06:56	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 05:06:57	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 05:07:52	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 05:07:52	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 05:07:52	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 05:07:52	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 05:07:52	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 05:07:52	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 05:07:52	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 05:07:52	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 05:07:52	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 05:07:52	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 05:07:52	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 05:07:52	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 05:08:03	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 05:08:03	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 05:08:03	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 05:08:06	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 05:08:07	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 05:08:07	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 05:08:07	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 05:08:07	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 05:08:07	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 05:08:07	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 05:08:07	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 05:08:07	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 05:08:07	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 05:08:07	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 05:08:07	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 05:09:07	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 05:09:07	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 05:09:07	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 05:09:07	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 05:09:07	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 05:09:07	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 05:09:07	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 05:09:07	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 05:09:07	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 05:09:07	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 05:09:07	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 05:09:07	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 05:11:10	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 05:11:11	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 05:11:11	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 05:11:11	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 05:11:11	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 05:11:11	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 05:11:11	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 05:11:11	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 05:11:11	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 05:11:11	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 05:11:11	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 05:11:11	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 05:11:49	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 05:11:49	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 05:11:49	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 05:11:49	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 05:11:49	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 05:11:49	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 05:11:49	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 05:11:49	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 05:11:49	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 05:11:49	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 05:11:49	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 05:11:49	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 05:14:47	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 05:14:47	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 05:14:47	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 05:14:47	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 05:14:47	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 05:14:47	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 05:14:47	ROSpec añadido de forma exitosa: 172.22.23.225
+16-07-2014 05:14:47	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 05:14:47	Rospec habilitado exitosamente: 172.22.23.225
+16-07-2014 05:14:47	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 05:14:47	ROSpec iniciado correctamente: 172.22.23.225
+16-07-2014 05:14:48	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 05:16:25	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 05:16:25	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 05:16:25	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 05:16:25	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 05:16:25	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 05:16:25	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 05:16:26	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 05:16:26	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 05:16:26	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 05:16:26	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 05:16:26	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 05:16:27	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 05:17:39	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 05:17:39	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 05:17:39	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 05:17:39	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 05:17:39	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 05:17:39	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 05:17:40	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 05:17:40	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 05:17:40	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 05:17:40	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 05:17:40	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 05:17:40	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 05:28:25	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 05:28:25	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 05:28:25	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 05:28:25	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 05:28:26	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 05:28:26	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 05:28:26	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 05:28:26	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 05:28:26	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 05:28:26	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 05:28:26	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 05:28:27	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 05:32:47	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 05:32:47	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 05:32:47	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 05:32:47	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 05:32:47	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 05:32:47	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 05:32:48	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 05:32:48	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 05:32:48	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 05:32:48	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 05:32:48	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 05:32:48	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 05:34:30	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 05:34:30	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 05:34:30	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 05:34:30	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 05:34:30	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 05:34:30	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 05:34:30	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 05:34:30	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 05:34:30	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 05:34:30	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 05:34:30	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 05:34:31	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 05:36:37	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 05:36:37	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 05:36:37	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 05:36:37	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 05:36:37	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 05:36:37	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 05:36:37	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 05:36:37	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 05:36:37	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 05:36:37	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 05:36:37	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 05:36:38	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 05:39:06	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 05:39:07	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 05:39:07	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 05:39:07	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 05:39:07	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 05:39:07	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 05:39:07	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 05:39:07	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 05:39:07	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 05:39:07	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 05:39:07	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 05:39:08	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 05:41:07	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 05:41:08	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 05:41:08	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 05:41:08	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 05:41:08	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 05:41:08	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 05:41:08	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 05:41:08	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 05:41:08	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 05:41:08	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 05:41:08	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 05:41:09	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 05:42:38	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 05:42:39	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 05:42:39	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 05:42:39	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 05:42:39	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 05:42:39	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 05:42:39	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 05:42:39	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 05:42:39	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 05:42:39	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 05:42:39	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 05:42:40	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 05:46:47	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 05:46:47	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 05:46:47	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 05:46:47	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 05:46:47	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 05:46:47	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 05:46:48	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 05:46:48	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 05:46:48	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 05:46:48	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 05:46:48	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 05:46:48	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 06:17:17	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 06:17:17	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 06:17:17	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 06:17:17	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 06:17:17	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 06:17:17	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 06:17:18	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 06:17:18	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 06:17:18	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 06:17:18	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 06:17:18	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 06:17:18	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 06:17:18	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 06:17:18	Reader Lector RFID #11 id: 77 conectado
+16-07-2014 06:18:42	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 06:18:43	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 06:18:43	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 06:18:43	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 06:18:43	ROSpec creado exitosamente: 172.22.23.225
+16-07-2014 06:18:43	Añadiendo el ROSpec: 172.22.23.225
+16-07-2014 06:18:43	Borrando todos los ROSpecs: 172.22.23.225
+16-07-2014 06:18:43	ROSpecs borrados exitosamente: 172.22.23.225
+16-07-2014 06:18:43	Reader Lector RFID #11 id: 77 desconectado
+16-07-2014 06:18:43	Habilitando el ROSpec: 172.22.23.225
+16-07-2014 06:18:43	Iniciando el ROSpec: 172.22.23.225
+16-07-2014 06:18:43	Iniciando configuracion del Reader: 172.22.23.225
+16-07-2014 06:18:43	Reader configurado exitosamente: 172.22.23.225
+16-07-2014 06:18:44	Reader Lector RFID #11 id: 77 conectado
+17-07-2014 09:08:10	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 09:08:10	ROSpecs borrados exitosamente: 172.22.23.225
+17-07-2014 09:08:10	ROSpec creado exitosamente: 172.22.23.225
+17-07-2014 09:08:10	Añadiendo el ROSpec: 172.22.23.225
+17-07-2014 09:08:11	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 09:08:11	ROSpecs borrados exitosamente: 172.22.23.225
+17-07-2014 09:08:11	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 09:08:11	Habilitando el ROSpec: 172.22.23.225
+17-07-2014 09:08:21	Iniciando el ROSpec: 172.22.23.225
+17-07-2014 09:08:21	Iniciando configuracion del Reader: 172.22.23.225
+17-07-2014 09:08:21	Reader configurado exitosamente: 172.22.23.225
+17-07-2014 09:08:21	Reader Lector RFID #11 id: 77 conectado
+17-07-2014 09:10:03	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 09:10:04	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 09:10:43	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 09:10:43	ROSpecs borrados exitosamente: 172.22.23.225
+17-07-2014 09:10:43	ROSpec creado exitosamente: 172.22.23.225
+17-07-2014 09:10:43	Añadiendo el ROSpec: 172.22.23.225
+17-07-2014 09:10:43	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 09:10:43	ROSpecs borrados exitosamente: 172.22.23.225
+17-07-2014 09:10:43	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 09:10:43	Habilitando el ROSpec: 172.22.23.225
+17-07-2014 09:10:44	Iniciando el ROSpec: 172.22.23.225
+17-07-2014 09:10:44	Iniciando configuracion del Reader: 172.22.23.225
+17-07-2014 09:10:44	Reader configurado exitosamente: 172.22.23.225
+17-07-2014 09:10:44	Reader Lector RFID #11 id: 77 conectado
+17-07-2014 09:12:08	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 09:12:08	ROSpecs borrados exitosamente: 172.22.23.225
+17-07-2014 09:12:08	ROSpec creado exitosamente: 172.22.23.225
+17-07-2014 09:12:08	Añadiendo el ROSpec: 172.22.23.225
+17-07-2014 09:12:09	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 09:12:09	ROSpecs borrados exitosamente: 172.22.23.225
+17-07-2014 09:12:09	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 09:12:09	Habilitando el ROSpec: 172.22.23.225
+17-07-2014 09:12:09	Iniciando el ROSpec: 172.22.23.225
+17-07-2014 09:12:10	Reader Lector RFID #11 id: 77 conectado
+17-07-2014 09:16:32	Iniciando configuracion del Reader: 172.22.23.225
+17-07-2014 09:16:33	Reader configurado exitosamente: 172.22.23.225
+17-07-2014 09:16:33	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 09:16:33	ROSpecs borrados exitosamente: 172.22.23.225
+17-07-2014 09:16:33	ROSpec creado exitosamente: 172.22.23.225
+17-07-2014 09:16:33	Añadiendo el ROSpec: 172.22.23.225
+17-07-2014 09:16:33	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 09:16:33	ROSpecs borrados exitosamente: 172.22.23.225
+17-07-2014 09:16:33	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 09:16:33	Habilitando el ROSpec: 172.22.23.225
+17-07-2014 09:16:33	Iniciando el ROSpec: 172.22.23.225
+17-07-2014 09:16:34	Reader Lector RFID #11 id: 77 conectado
+17-07-2014 09:18:11	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 09:18:11	ROSpecs borrados exitosamente: 172.22.23.225
+17-07-2014 09:18:12	ROSpec creado exitosamente: 172.22.23.225
+17-07-2014 09:18:12	Añadiendo el ROSpec: 172.22.23.225
+17-07-2014 09:18:12	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 09:18:12	ROSpecs borrados exitosamente: 172.22.23.225
+17-07-2014 09:18:12	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 09:18:12	Habilitando el ROSpec: 172.22.23.225
+17-07-2014 09:18:12	Iniciando el ROSpec: 172.22.23.225
+17-07-2014 09:18:13	Reader Lector RFID #11 id: 77 conectado
+17-07-2014 09:19:46	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 09:19:46	ROSpecs borrados exitosamente: 172.22.23.225
+17-07-2014 09:19:46	ROSpec creado exitosamente: 172.22.23.225
+17-07-2014 09:19:46	Añadiendo el ROSpec: 172.22.23.225
+17-07-2014 09:19:46	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 09:19:46	ROSpecs borrados exitosamente: 172.22.23.225
+17-07-2014 09:19:46	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 09:19:46	Habilitando el ROSpec: 172.22.23.225
+17-07-2014 09:19:46	Iniciando el ROSpec: 172.22.23.225
+17-07-2014 09:19:47	Reader Lector RFID #11 id: 77 conectado
+17-07-2014 09:51:28	Iniciando configuracion del Reader: 172.22.23.225
+17-07-2014 09:51:28	Reader configurado exitosamente: 172.22.23.225
+17-07-2014 09:51:28	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 09:51:28	ROSpecs borrados exitosamente: 172.22.23.225
+17-07-2014 09:51:28	ROSpec creado exitosamente: 172.22.23.225
+17-07-2014 09:51:28	Añadiendo el ROSpec: 172.22.23.225
+17-07-2014 09:51:28	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 09:51:28	ROSpecs borrados exitosamente: 172.22.23.225
+17-07-2014 09:51:28	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 09:51:28	Habilitando el ROSpec: 172.22.23.225
+17-07-2014 09:51:28	Iniciando el ROSpec: 172.22.23.225
+17-07-2014 09:51:29	Reader Lector RFID #11 id: 77 conectado
+17-07-2014 09:59:45	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 09:59:45	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 09:59:56	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 09:59:56	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:00:31	Iniciando configuracion del Reader: 172.22.23.225
+17-07-2014 10:00:31	Reader configurado exitosamente: 172.22.23.225
+17-07-2014 10:00:31	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:00:31	ROSpecs borrados exitosamente: 172.22.23.225
+17-07-2014 10:00:31	ROSpec creado exitosamente: 172.22.23.225
+17-07-2014 10:00:31	Añadiendo el ROSpec: 172.22.23.225
+17-07-2014 10:00:32	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:00:32	ROSpecs borrados exitosamente: 172.22.23.225
+17-07-2014 10:00:32	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:00:32	Habilitando el ROSpec: 172.22.23.225
+17-07-2014 10:00:32	Iniciando el ROSpec: 172.22.23.225
+17-07-2014 10:00:32	Reader Lector RFID #11 id: 77 conectado
+17-07-2014 10:02:32	Iniciando configuracion del Reader: 172.22.23.225
+17-07-2014 10:02:32	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:02:32	ROSpecs borrados exitosamente: 172.22.23.225
+17-07-2014 10:02:32	ROSpec creado exitosamente: 172.22.23.225
+17-07-2014 10:02:32	Añadiendo el ROSpec: 172.22.23.225
+17-07-2014 10:02:33	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:02:33	ROSpecs borrados exitosamente: 172.22.23.225
+17-07-2014 10:02:33	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:02:33	Habilitando el ROSpec: 172.22.23.225
+17-07-2014 10:02:33	Iniciando el ROSpec: 172.22.23.225
+17-07-2014 10:02:33	Reader Lector RFID #11 id: 77 conectado
+17-07-2014 10:26:04	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:26:14	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:26:36	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:26:36	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:27:08	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:27:08	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:27:39	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:27:39	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:28:11	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:28:11	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:28:42	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:28:42	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:29:14	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:29:14	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:29:45	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:29:45	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:30:17	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:30:17	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:30:48	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:30:48	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:31:20	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:31:20	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:31:51	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:31:51	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:32:23	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:32:23	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:32:54	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:32:54	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:33:26	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:33:26	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:33:57	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:33:57	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:34:29	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:34:29	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:35:00	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:35:00	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:35:32	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:35:32	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:36:03	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:36:03	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:36:35	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:36:35	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:37:07	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:37:07	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:37:38	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:37:38	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:38:10	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:38:10	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:38:41	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:38:41	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:39:13	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:39:13	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:39:44	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:39:44	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:40:16	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:40:16	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:40:47	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:40:47	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:41:19	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:41:19	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:41:50	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:41:50	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:42:22	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:42:22	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:42:53	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:42:53	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:43:25	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:43:25	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:43:56	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:43:56	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:44:28	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:44:28	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:44:59	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:44:59	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:45:31	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:45:31	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:46:02	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:46:02	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:46:34	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:46:34	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:47:05	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:47:05	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:47:37	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:47:37	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:48:08	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:48:08	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:48:40	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:48:40	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:49:11	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:49:11	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:49:43	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:49:43	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:50:14	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:50:14	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:50:46	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:50:46	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:51:17	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:51:17	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:51:49	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:51:49	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:52:20	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:52:20	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:52:52	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:52:52	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:53:23	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:53:23	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:53:55	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:53:55	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:54:27	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:54:27	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:54:58	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:54:58	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:55:30	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:55:30	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:56:01	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:56:01	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:56:33	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:56:33	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:57:32	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:57:32	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 10:58:13	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 10:58:13	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 11:06:46	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 11:06:46	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 11:07:18	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 11:07:18	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 11:08:50	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 11:08:50	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 11:09:22	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 11:09:22	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 11:10:31	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 11:10:31	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 11:11:02	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 11:11:02	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 11:11:34	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 11:11:34	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 11:12:05	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 11:12:05	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 11:12:37	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 11:12:37	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 11:13:42	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 11:13:42	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 11:14:13	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 11:14:13	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 11:14:45	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 11:14:45	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 11:15:33	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 11:15:33	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 11:16:05	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 11:16:05	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 11:17:26	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 11:17:26	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 11:17:58	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 11:17:58	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 11:18:29	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 11:18:29	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 11:19:01	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 11:19:01	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 11:19:32	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 11:19:32	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 11:19:59	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 11:19:59	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 11:20:30	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 11:20:30	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 11:21:53	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 11:21:53	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 11:22:12	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 11:22:13	ROSpecs borrados exitosamente: 172.22.23.225
+17-07-2014 11:22:13	ROSpec creado exitosamente: 172.22.23.225
+17-07-2014 11:22:13	Añadiendo el ROSpec: 172.22.23.225
+17-07-2014 11:22:13	ROSpec añadido de forma exitosa: 172.22.23.225
+17-07-2014 11:22:13	Habilitando el ROSpec: 172.22.23.225
+17-07-2014 11:22:13	Rospec habilitado exitosamente: 172.22.23.225
+17-07-2014 11:22:13	Iniciando el ROSpec: 172.22.23.225
+17-07-2014 11:22:13	ROSpec iniciado correctamente: 172.22.23.225
+17-07-2014 11:22:13	Iniciando configuracion del Reader: 172.22.23.225
+17-07-2014 11:22:13	Reader configurado exitosamente: 172.22.23.225
+17-07-2014 11:22:13	Reader Lector RFID #11 id: 77 conectado
+17-07-2014 11:43:20	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 11:43:30	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 11:43:52	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 11:43:52	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 11:44:25	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 11:44:25	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 12:09:03	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 12:09:03	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 12:09:35	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 12:09:35	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 12:10:06	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 12:10:06	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 01:42:25	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 01:42:25	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 01:42:57	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 01:42:57	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 01:48:35	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 01:48:35	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 01:49:06	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 01:49:06	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 01:49:38	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 01:49:38	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 01:50:09	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 01:50:09	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 01:50:41	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 01:50:41	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 01:51:12	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 01:51:12	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 01:51:44	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 01:51:44	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 01:51:54	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 01:51:54	ROSpecs borrados exitosamente: 172.22.23.225
+17-07-2014 01:51:54	ROSpec creado exitosamente: 172.22.23.225
+17-07-2014 01:51:54	Añadiendo el ROSpec: 172.22.23.225
+17-07-2014 01:51:54	ROSpec añadido de forma exitosa: 172.22.23.225
+17-07-2014 01:51:54	Habilitando el ROSpec: 172.22.23.225
+17-07-2014 01:51:54	Rospec habilitado exitosamente: 172.22.23.225
+17-07-2014 01:51:54	Iniciando el ROSpec: 172.22.23.225
+17-07-2014 01:51:54	ROSpec iniciado correctamente: 172.22.23.225
+17-07-2014 01:51:54	Iniciando configuracion del Reader: 172.22.23.225
+17-07-2014 01:51:54	Reader configurado exitosamente: 172.22.23.225
+17-07-2014 01:51:54	Reader Lector RFID #11 id: 77 conectado
+17-07-2014 01:52:44	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 01:52:54	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 01:53:16	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 01:53:16	Reader Lector RFID #11 id: 77 desconectado
+17-07-2014 01:53:47	Borrando todos los ROSpecs: 172.22.23.225
+17-07-2014 01:53:47	Reader Lector RFID #11 id: 77 desconectado

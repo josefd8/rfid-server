@@ -1,0 +1,38 @@
+21-10-2013 09:36:29	Borrando todos los ROSpecs: 122.31.10.1
+21-10-2013 09:36:29	Reader equipo grabador id: 59 desconectado
+04-11-2013 03:40:54	Borrando todos los ROSpecs: 122.31.10.1
+04-11-2013 03:40:54	Reader equipo grabador id: 59 desconectado
+04-11-2013 03:41:05	Borrando todos los ROSpecs: 122.31.10.1
+04-11-2013 03:41:05	Reader equipo grabador id: 59 desconectado
+04-11-2013 03:41:14	Borrando todos los ROSpecs: 122.31.10.1
+04-11-2013 03:41:14	Reader equipo grabador id: 59 desconectado
+04-11-2013 03:41:17	Borrando todos los ROSpecs: 122.31.10.1
+04-11-2013 03:41:17	Reader equipo grabador id: 59 desconectado
+04-11-2013 03:41:28	Borrando todos los ROSpecs: 122.31.10.1
+04-11-2013 03:41:28	Reader equipo grabador id: 59 desconectado
+11-11-2013 04:25:38	Borrando todos los ROSpecs: 122.31.10.1
+11-11-2013 04:25:38	Reader equipo grabador id: 59 desconectado
+11-11-2013 04:26:30	Borrando todos los ROSpecs: 122.31.10.1
+11-11-2013 04:26:30	Reader equipo grabador id: 59 desconectado
+11-11-2013 04:26:31	Borrando todos los ROSpecs: 122.31.10.1
+11-11-2013 04:26:31	Reader equipo grabador id: 59 desconectado
+11-11-2013 04:26:56	Borrando todos los ROSpecs: 122.31.10.1
+11-11-2013 04:26:56	Reader equipo grabador id: 59 desconectado
+11-11-2013 04:26:58	Borrando todos los ROSpecs: 122.31.10.1
+11-11-2013 04:26:58	Reader equipo grabador id: 59 desconectado
+11-11-2013 04:27:08	Borrando todos los ROSpecs: 122.31.10.1
+11-11-2013 04:27:08	Reader equipo grabador id: 59 desconectado
+11-11-2013 04:27:26	Borrando todos los ROSpecs: 122.31.10.1
+11-11-2013 04:27:26	Reader equipo grabador id: 59 desconectado
+11-11-2013 04:27:33	Borrando todos los ROSpecs: 122.31.10.1
+11-11-2013 04:27:33	Reader equipo grabador id: 59 desconectado
+11-11-2013 04:27:38	Borrando todos los ROSpecs: 122.31.10.1
+11-11-2013 04:27:38	Reader equipo grabador id: 59 desconectado
+11-11-2013 04:27:49	Borrando todos los ROSpecs: 122.31.10.1
+11-11-2013 04:27:49	Reader equipo grabador id: 59 desconectado
+11-11-2013 04:27:54	Borrando todos los ROSpecs: 122.31.10.1
+11-11-2013 04:27:54	Reader equipo grabador id: 59 desconectado
+11-11-2013 04:28:01	Borrando todos los ROSpecs: 122.31.10.1
+11-11-2013 04:28:01	Reader equipo grabador id: 59 desconectado
+11-11-2013 04:28:04	Borrando todos los ROSpecs: 122.31.10.1
+11-11-2013 04:28:04	Reader equipo grabador id: 59 desconectado

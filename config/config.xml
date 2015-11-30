@@ -1,0 +1,6 @@
+<config>
+  <db_server>gdt-rfid.sigis.local</db_server>
+  <db_name>rfid</db_name>
+  <db_user>u_rfid</db_user>
+  <db_pass>u_rfid01*.,</db_pass>  
+</config>

@@ -1,0 +1,1764 @@
+09-07-2014 10:43:01	Error al conectar con el reader 74 en 172.22.23.227: Failed_Reason_Other_Than_A_Connection_Already_Exists
+09-07-2014 10:43:01	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 10:43:01	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 10:43:01	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:43:01	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:43:01	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:43:01	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 10:43:01	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:43:01	Error añadiendo el ROSpec: 172.22.23.227 null
+09-07-2014 10:43:01	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 10:43:01	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:43:01	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 10:43:01	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:43:01	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 10:43:01	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:43:01	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:43:01	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 10:43:01	consultarEstadoReader: TimeoutExceptionnull
+09-07-2014 10:49:50	Error al conectar con el reader 74 en 172.22.23.227: Failed_Reason_Other_Than_A_Connection_Already_Exists
+09-07-2014 10:49:50	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 10:49:50	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 10:49:50	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:49:50	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:49:50	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:49:50	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 10:49:50	Error añadiendo el ROSpec: 172.22.23.227 null
+09-07-2014 10:49:50	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:49:50	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 10:49:50	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:49:50	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 10:49:50	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:49:50	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 10:49:50	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:49:50	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 10:49:50	consultarEstadoReader: TimeoutExceptionnull
+09-07-2014 10:49:50	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:50:16	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:55:00	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:55:10	Error al conectar con el reader 74 en 172.22.23.227: Failed_Reason_Other_Than_A_Connection_Already_Exists
+09-07-2014 10:55:10	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:55:10	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 10:55:10	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:55:10	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 10:55:10	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 10:55:10	Error añadiendo el ROSpec: 172.22.23.227 null
+09-07-2014 10:55:10	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:55:10	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 10:55:11	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:55:11	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:55:11	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 10:55:11	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 10:55:11	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:55:11	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 10:55:11	consultarEstadoReader: TimeoutExceptionnull
+09-07-2014 10:55:11	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:03:49	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:03:49	Error al conectar con el reader 74 en 172.22.23.227: Failed_Reason_Other_Than_A_Connection_Already_Exists
+09-07-2014 11:03:49	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:03:49	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:03:49	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:03:49	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:03:49	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:03:49	Error añadiendo el ROSpec: 172.22.23.227 null
+09-07-2014 11:03:49	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:03:49	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:03:49	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:03:49	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:03:49	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:03:49	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:03:49	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:03:49	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:03:49	consultarEstadoReader: TimeoutExceptionnull
+09-07-2014 11:03:49	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:05:34	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:05:51	Error al conectar con el reader 74 en 172.22.23.227: Failed_Reason_Other_Than_A_Connection_Already_Exists
+09-07-2014 11:06:00	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:06:00	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:06:21	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:06:21	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:06:26	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:06:26	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:06:26	Error añadiendo el ROSpec: 172.22.23.227 null
+09-07-2014 11:06:37	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:06:52	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:06:53	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:09:37	Error al conectar con el reader 74 en 172.22.23.227: Failed_Reason_Other_Than_A_Connection_Already_Exists
+09-07-2014 11:09:37	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:09:37	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:09:37	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:09:37	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:09:37	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:09:37	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:09:37	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:09:37	Error añadiendo el ROSpec: 172.22.23.227 null
+09-07-2014 11:09:37	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:09:37	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:09:37	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:09:37	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:09:37	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:09:37	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:09:37	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:09:37	consultarEstadoReader: TimeoutExceptionnull
+09-07-2014 11:09:37	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:11:34	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:11:37	Error al conectar con el reader 74 en 172.22.23.227: Failed_Reason_Other_Than_A_Connection_Already_Exists
+09-07-2014 11:11:47	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:11:47	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:12:24	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:12:25	Error al conectar con el reader 74 en 172.22.23.227: Failed_Reason_Other_Than_A_Connection_Already_Exists
+09-07-2014 11:12:56	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:12:56	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:14:36	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:14:36	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:15:29	Error al conectar con el reader 74 en 172.22.23.227: Failed_Reason_Other_Than_A_Connection_Already_Exists
+09-07-2014 11:15:29	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:15:29	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:15:29	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:17:14	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:17:14	Error al conectar con el reader 74 en 172.22.23.227: Failed_Reason_Other_Than_A_Connection_Already_Exists
+09-07-2014 11:17:14	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:17:14	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:20:07	Error al conectar con el reader 74 en 172.22.23.227: Failed_Reason_Other_Than_A_Connection_Already_Exists
+09-07-2014 11:20:07	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:20:08	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:20:08	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:20:10	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:20:10	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:56:02	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:56:03	Error añadiendo el ROSpec: 172.22.23.227 ,LLRP [420] : //RFTransmitter/TransmitPower : out-of-range
+09-07-2014 11:56:03	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:57:11	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:58:16	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:58:16	Error añadiendo el ROSpec: 172.22.23.227 ,LLRP [420] : //RFTransmitter/TransmitPower : out-of-range
+09-07-2014 11:58:17	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:58:23	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 12:03:58	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 12:03:59	Error añadiendo el ROSpec: 172.22.23.227 ,LLRP [420] : //RFTransmitter/TransmitPower : out-of-range
+09-07-2014 12:03:59	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 12:10:45	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 12:10:46	Error añadiendo el ROSpec: 172.22.23.227 ,LLRP [420] : //RFTransmitter/TransmitPower : out-of-range
+09-07-2014 12:10:46	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 02:22:04	Error al conectar con el reader 74 en 172.22.23.227: Failed_A_Client_Initiated_Connection_Already_Exists
+09-07-2014 02:22:04	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 02:22:04	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 02:22:04	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 02:22:05	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 02:22:05	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 02:22:05	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 02:22:05	Error añadiendo el ROSpec: 172.22.23.227 null
+09-07-2014 02:22:05	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 02:22:05	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 02:22:05	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 02:22:06	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 02:22:06	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 02:22:06	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 02:22:06	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 02:22:06	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 02:22:06	consultarEstadoReader: TimeoutExceptionnull
+09-07-2014 02:22:06	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 02:23:34	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 02:59:09	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 02:59:09	Error añadiendo el ROSpec: 172.22.23.227 ,LLRP [420] : //RFTransmitter/TransmitPower : out-of-range
+09-07-2014 02:59:09	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 03:01:03	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 03:01:08	Se ha producido un error (ltkjava): java.util.ConcurrentModificationException
+09-07-2014 03:01:10	Se ha producido un error (ltkjava): java.util.ConcurrentModificationException
+09-07-2014 03:01:12	Se ha producido un error (ltkjava): java.util.ConcurrentModificationException
+09-07-2014 03:05:32	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 03:05:43	Se ha producido un error (ltkjava): java.util.ConcurrentModificationException
+09-07-2014 03:06:13	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 03:06:13	Error añadiendo el ROSpec: 172.22.23.227 ,LLRP [420] : //RFTransmitter/TransmitPower : out-of-range
+09-07-2014 03:06:13	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 03:13:06	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 03:13:25	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 03:15:54	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 03:19:05	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 03:19:26	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 03:22:39	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 03:25:48	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 05:27:49	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 05:27:50	Se ha producido un error (ltkjava): java.util.ConcurrentModificationException
+09-07-2014 05:28:38	Error al borrar los ROSpec: 172.22.23.227, Request timed out after 10000 ms.
+09-07-2014 05:28:59	Error al conectar con el reader 74 en 172.22.23.227: failed to connect
+09-07-2014 05:28:59	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 03:42:43	Se ha producido un error (ltkjava): java.lang.NullPointerException
+15-07-2014 03:43:38	Se ha producido un error (ltkjava): java.lang.NullPointerException
+15-07-2014 03:55:37	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 03:55:37	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 03:55:37	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 03:56:08	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 03:56:09	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 03:56:09	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 03:56:40	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 03:56:40	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 03:56:40	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 03:57:11	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 03:57:12	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 03:57:12	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 03:57:40	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 03:57:40	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 03:57:40	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 03:58:11	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 03:58:12	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 03:58:12	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 03:58:12	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 03:58:12	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 03:58:12	consultarEstadoReader: TimeoutExceptionnull
+15-07-2014 03:58:42	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 03:58:43	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 03:58:43	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 03:59:14	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 03:59:14	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 03:59:14	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:02:44	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:02:44	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:02:44	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:22:25	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:22:26	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:22:26	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:22:57	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:22:57	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:22:57	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:23:28	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:23:29	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:23:29	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:24:00	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:24:00	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:24:00	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:24:55	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:24:55	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:24:55	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:25:26	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:25:27	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:25:27	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:25:58	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:25:59	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:25:59	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:26:30	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:26:30	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:26:30	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:27:01	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:27:02	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:27:02	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:27:33	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:27:33	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:27:33	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:28:04	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:28:05	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:28:05	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:28:36	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:28:36	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:28:36	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:29:07	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:29:08	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:29:08	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:29:39	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:29:39	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:29:39	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:30:10	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:30:11	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:30:11	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:30:42	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:30:42	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:30:42	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:31:13	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:31:14	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:31:14	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:31:45	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:31:45	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:31:45	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:32:16	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:32:17	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:32:17	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:32:48	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:32:48	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:32:48	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:33:19	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:33:20	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:33:20	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:33:51	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:33:51	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:33:51	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:34:22	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:34:23	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:34:23	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:34:54	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:34:54	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:34:54	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:35:25	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:35:26	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:35:26	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:35:57	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:35:57	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:35:57	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:36:28	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:36:29	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:36:29	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:37:00	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:37:00	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:37:00	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:37:31	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:37:32	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:37:32	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:38:03	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:38:03	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:38:03	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:38:34	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:38:35	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:38:35	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:39:06	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:39:06	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:39:06	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:39:37	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:39:38	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:39:38	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:40:09	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:40:09	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:40:09	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:40:40	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:40:41	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:40:41	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:41:12	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:41:12	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:41:12	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:41:43	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:41:44	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:41:44	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:42:15	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:42:15	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:42:15	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:42:46	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:42:47	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:42:47	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:43:18	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:43:18	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:43:18	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:43:49	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:43:50	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:43:50	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:44:21	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:44:22	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:44:22	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:44:53	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:44:53	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:44:53	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:45:24	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:45:25	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:45:25	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:45:56	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:45:56	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:45:56	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:46:27	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:46:28	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:46:28	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:46:59	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:46:59	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:46:59	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:47:30	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:47:31	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:47:31	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:48:02	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:48:02	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:48:02	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:48:33	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:48:34	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:48:34	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:49:05	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:49:05	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:49:05	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:49:36	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:49:37	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:49:37	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:50:08	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:50:08	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:50:08	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:50:39	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:50:40	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:50:40	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:51:11	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:51:11	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:51:11	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:51:42	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:51:43	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:51:43	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:52:14	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:52:14	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:52:14	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:52:45	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:52:46	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:52:46	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:53:17	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:53:17	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:53:17	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:53:48	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:53:49	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:53:49	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:54:20	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:54:20	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:54:20	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:54:51	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:54:52	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:54:52	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:55:23	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:55:23	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:55:23	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:55:54	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:55:55	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:55:55	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:56:26	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:56:26	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:56:26	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:56:57	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:56:58	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:56:58	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:57:29	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:57:29	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:57:29	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:58:00	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:58:01	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:58:01	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:58:32	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:58:32	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:58:32	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:59:03	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:59:04	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:59:04	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 04:59:35	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 04:59:35	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 04:59:35	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 05:00:06	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 05:00:07	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 05:00:07	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 05:00:38	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 05:00:38	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 05:00:38	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 05:01:09	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 05:01:10	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 05:01:10	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 05:01:41	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 05:01:41	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 05:01:41	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 05:02:13	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 05:02:13	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 05:02:13	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 05:02:44	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 05:02:45	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 05:02:45	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 05:03:16	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 05:03:16	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 05:03:16	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 05:03:47	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 05:03:48	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 05:03:48	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 05:04:19	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 05:04:19	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 05:04:19	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 05:04:50	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 05:04:51	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 05:04:51	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 05:05:22	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 05:05:22	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 05:05:22	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 05:05:53	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 05:05:54	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 05:05:54	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 05:06:25	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 05:06:25	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 05:06:25	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 05:06:56	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 05:06:57	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 05:06:57	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 05:07:28	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 05:07:28	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 05:07:28	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 05:07:59	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 05:08:00	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 05:08:00	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 05:08:31	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 05:08:31	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 05:08:31	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 05:09:02	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 05:09:03	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 05:09:03	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 05:09:34	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 05:09:34	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 05:09:34	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 05:10:05	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 05:10:06	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 05:10:06	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 05:10:37	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 05:10:37	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 05:10:37	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 05:11:08	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 05:11:09	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 05:11:09	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 05:11:40	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 05:11:40	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 05:11:40	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 05:12:11	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 05:12:12	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 05:12:12	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 05:12:43	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 05:12:43	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 05:12:43	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 05:13:14	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 05:13:15	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 05:13:15	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 05:13:46	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 05:13:46	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 05:13:46	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 05:14:17	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 05:14:18	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 05:14:18	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 05:14:49	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 05:14:49	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 05:14:49	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 05:15:20	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 05:15:21	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 05:15:21	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 05:15:52	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 05:15:52	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 05:15:52	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 05:16:23	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 05:16:24	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 05:16:24	Error al borrar los ROSpec: 172.22.23.227, null
+15-07-2014 05:16:55	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+15-07-2014 05:16:55	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 05:16:55	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 09:58:44	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 09:58:44	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 09:58:44	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 09:59:15	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 09:59:16	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 09:59:16	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 09:59:47	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 09:59:47	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 09:59:47	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 10:00:18	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 10:00:19	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 10:00:19	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 10:00:50	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 10:00:50	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 10:00:50	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 10:01:21	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 10:01:22	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 10:01:22	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 10:01:53	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 10:01:53	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 10:01:53	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 10:02:24	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 10:02:25	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 10:02:25	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 10:17:54	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 10:17:55	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 10:17:55	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 10:19:40	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 10:19:40	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 10:19:40	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 10:35:07	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 10:35:08	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 10:35:08	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 10:35:39	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 10:35:39	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 10:35:39	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 10:52:29	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 10:52:29	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 10:52:29	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 10:57:16	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 10:57:17	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 10:57:17	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 10:59:05	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 10:59:05	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 10:59:05	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 10:59:44	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 10:59:44	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 10:59:44	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 11:00:15	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 11:00:16	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 11:00:16	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 11:00:47	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 11:00:47	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 11:00:47	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 11:04:28	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 11:04:29	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 11:04:29	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 11:05:00	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 11:05:00	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 11:05:00	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 11:05:31	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 11:05:32	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 11:05:32	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 11:06:03	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 11:06:03	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 11:06:03	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 11:06:34	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 11:06:35	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 11:06:35	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 11:07:06	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 11:07:06	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 11:07:06	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 11:07:24	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 11:07:24	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 11:07:24	consultarEstadoReader: TimeoutExceptionnull
+16-07-2014 11:07:38	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 11:07:38	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 11:07:38	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 01:52:21	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 01:52:22	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 01:52:22	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:02:05	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:02:05	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:02:05	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:03:16	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:03:17	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:03:17	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:03:56	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:03:57	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:03:57	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:04:28	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:04:28	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:04:28	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:05:28	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:05:28	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:05:28	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:05:59	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:06:00	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:06:00	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:07:14	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:07:14	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:07:14	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:07:54	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:07:54	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:07:54	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:08:25	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:08:26	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:08:26	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:08:57	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:08:57	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:08:57	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:09:28	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:09:29	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:09:29	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:10:00	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:10:00	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:10:00	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:10:31	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:10:32	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:10:32	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:11:03	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:11:03	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:11:03	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:11:34	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:11:35	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:11:35	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:12:06	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:12:06	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:12:06	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:12:37	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:12:38	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:12:38	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:13:09	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:13:09	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:13:09	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:13:40	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:13:41	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:13:41	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:14:16	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:14:17	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:14:17	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:14:48	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:14:48	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:14:48	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:14:58	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:14:58	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:16:08	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:16:09	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:16:09	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:21:41	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:21:42	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:21:42	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:22:39	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:22:39	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:22:39	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:24:35	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:24:36	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:24:36	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:26:48	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:26:48	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:26:48	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:27:19	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:27:20	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:27:20	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:27:54	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:27:55	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:27:55	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:28:47	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:28:48	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:28:48	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:29:19	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:29:19	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:29:19	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:29:50	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:29:51	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:29:51	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:30:22	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:30:22	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:30:22	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:30:53	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:30:54	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:30:54	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:31:25	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:31:25	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:31:25	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:31:56	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:31:56	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:31:56	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:34:21	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:34:21	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:34:21	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:34:52	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:34:53	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:34:53	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:35:11	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:35:11	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:35:24	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:35:24	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:35:24	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:35:34	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:35:34	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:35:34	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:35:55	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:35:56	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:35:56	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:40:01	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:40:01	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:40:01	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:40:32	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:40:33	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:40:33	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:41:04	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:41:04	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:41:04	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:41:35	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:41:36	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:41:36	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:42:07	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:42:07	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:42:07	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:47:17	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:47:18	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:47:18	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:47:49	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:47:49	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:47:49	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:48:27	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:48:28	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:48:28	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:48:59	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:48:59	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:48:59	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:49:30	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:49:31	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:49:31	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:50:02	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:50:02	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:50:02	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:50:33	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:50:34	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:50:34	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:51:05	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:51:05	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:51:05	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:51:36	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:51:37	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:51:37	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:52:08	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:52:08	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:52:08	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:52:39	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:52:40	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:52:40	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:53:11	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:53:11	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:53:11	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:54:19	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:54:20	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:54:20	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:54:36	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:54:36	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:54:51	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:54:51	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:54:51	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:54:58	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:54:59	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:54:59	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:55:22	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:55:23	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:55:23	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:55:30	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:55:30	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:55:30	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:56:18	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:56:18	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:56:18	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:56:49	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:56:50	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:56:50	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:57:21	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:57:22	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:57:22	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 02:58:28	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 02:58:28	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:58:28	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:00:07	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:00:07	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:00:07	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:00:38	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:00:39	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:00:39	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:01:10	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:01:10	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:01:10	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:01:41	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:01:42	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:01:42	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:03:33	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:03:34	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:03:34	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:05:57	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:05:58	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:05:58	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:08:03	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:08:03	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:08:03	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:08:34	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:08:35	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:08:35	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:09:40	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:09:41	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:09:41	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:10:12	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:10:12	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:10:12	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:10:43	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:10:44	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:10:44	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:11:15	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:11:15	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:11:15	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:11:46	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:11:47	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:11:47	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:12:18	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:12:18	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:12:18	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:12:49	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:12:50	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:12:50	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:13:46	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:13:46	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:13:46	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:13:52	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:13:52	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:15:38	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:15:38	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:15:38	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:16:09	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:16:10	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:16:10	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:16:41	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:16:41	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:16:41	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:17:12	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:17:13	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:17:13	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:17:21	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:17:21	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:22:50	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:22:50	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:22:50	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:36:15	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:36:15	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:36:15	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:36:46	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:36:47	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:36:47	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:36:54	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:36:54	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:37:16	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:37:16	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:37:16	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:37:18	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:37:18	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:37:18	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:38:17	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:38:17	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:38:17	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:38:48	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:38:49	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:38:49	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:39:20	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:39:20	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:39:20	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:39:51	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:39:52	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:39:52	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:40:50	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:40:50	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:40:50	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:41:21	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:41:22	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:41:22	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:41:53	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:41:53	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:41:53	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:42:24	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:42:25	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:42:25	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:42:56	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:42:56	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:42:56	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:43:27	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:43:28	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:43:28	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:43:59	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:43:59	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:43:59	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:44:57	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:44:57	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:44:57	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:46:31	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:46:31	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:46:31	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:47:02	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:47:03	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:47:03	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 03:47:34	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 03:47:34	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:47:34	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:01:15	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:01:16	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:01:16	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:02:14	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:02:14	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:02:14	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:02:45	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:02:46	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:02:46	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:04:07	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:04:07	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:04:07	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:04:38	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:04:39	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:04:39	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:05:10	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:05:10	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:05:10	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:05:41	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:05:42	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:05:42	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:07:16	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:07:17	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:07:17	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:08:05	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:08:05	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:08:12	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:08:13	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:08:13	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:09:27	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:09:28	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:09:28	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:09:59	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:09:59	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:09:59	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:10:30	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:10:31	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:10:31	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:12:09	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:12:10	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:12:10	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:15:07	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:15:08	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:15:08	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:15:39	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:15:39	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:15:39	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:16:10	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:16:11	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:16:11	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:17:59	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:18:00	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:18:00	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:18:31	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:18:31	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:18:31	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:19:02	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:19:03	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:19:03	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:19:34	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:33:07	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:33:08	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:33:08	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:33:39	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:33:39	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:33:39	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:34:50	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:34:50	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:34:50	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:35:21	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:35:22	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:35:22	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:35:53	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:35:53	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:35:53	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:36:57	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:36:57	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:36:57	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:39:27	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:39:27	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:39:27	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:39:58	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:39:59	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:39:59	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:41:28	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:41:28	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:41:28	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:42:59	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:42:59	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:42:59	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:43:30	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:43:31	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:43:31	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:44:02	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:44:02	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:44:02	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:44:33	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:44:34	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:44:34	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:45:05	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:45:05	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:45:05	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:45:36	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:45:37	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:45:37	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:46:08	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:46:08	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:46:08	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:47:07	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:47:08	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:47:08	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 05:47:39	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 05:47:39	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:47:39	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 06:17:37	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 06:17:38	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 06:17:38	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 06:18:09	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 06:18:09	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 06:18:09	Error al borrar los ROSpec: 172.22.23.227, null
+16-07-2014 06:19:03	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+16-07-2014 06:19:03	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 06:19:03	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 09:08:30	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 09:08:31	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:08:31	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 09:09:02	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 09:09:02	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:09:02	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 09:09:33	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 09:09:34	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:09:34	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 09:10:05	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 09:10:05	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:10:05	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 09:11:03	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 09:11:04	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:11:04	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 09:11:35	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 09:11:35	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:11:35	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 09:12:28	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 09:12:29	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:12:29	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 09:16:53	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 09:16:53	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:16:53	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 09:18:29	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:18:29	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:18:29	consultarEstadoReader: TimeoutExceptionnull
+17-07-2014 09:18:32	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 09:18:32	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:18:32	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 09:18:46	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:18:46	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:18:46	consultarEstadoReader: TimeoutExceptionnull
+17-07-2014 09:18:54	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:18:54	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:18:54	consultarEstadoReader: TimeoutExceptionnull
+17-07-2014 09:19:03	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 09:19:04	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:19:04	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 09:19:14	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:19:14	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:19:14	consultarEstadoReader: TimeoutExceptionnull
+17-07-2014 09:19:50	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:19:50	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:19:50	consultarEstadoReader: TimeoutExceptionnull
+17-07-2014 09:20:06	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 09:20:06	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:20:06	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 09:20:13	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:20:13	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:20:13	consultarEstadoReader: TimeoutExceptionnull
+17-07-2014 09:20:31	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:20:31	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:20:31	consultarEstadoReader: TimeoutExceptionnull
+17-07-2014 09:20:37	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 09:20:38	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:20:38	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 09:22:13	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 09:22:13	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:22:13	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 09:22:44	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 09:22:45	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:22:45	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 09:23:16	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 09:23:16	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:23:16	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 09:23:47	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 09:23:48	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:23:48	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 09:24:19	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 09:24:19	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:24:19	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 09:24:50	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 09:24:51	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:24:51	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 09:25:22	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 09:25:22	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:25:22	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 09:25:53	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 09:25:54	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:25:54	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 09:26:25	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 09:26:26	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:26:26	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 09:51:48	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 09:51:48	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:51:48	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 09:52:19	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 09:52:20	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:52:20	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 09:52:51	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 09:52:51	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:52:51	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 09:53:22	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 09:53:23	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:53:23	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 09:53:54	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 09:53:55	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:53:55	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 09:54:26	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 09:54:26	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:54:26	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 09:54:57	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 09:54:58	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:54:58	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 09:55:29	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 09:55:29	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:55:29	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 09:56:00	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 09:56:01	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:56:01	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 09:56:32	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 09:56:32	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:56:32	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 09:57:03	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 09:57:04	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:57:04	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 09:57:35	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 09:57:35	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:57:35	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 09:58:06	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 09:58:07	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:58:07	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 09:58:38	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 09:58:38	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:58:38	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 09:59:09	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 09:59:10	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:59:10	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 09:59:41	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 09:59:41	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 09:59:41	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:00:51	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:00:51	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:00:51	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:01:04	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:01:04	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:01:04	consultarEstadoReader: TimeoutExceptionnull
+17-07-2014 10:02:52	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:02:53	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:02:53	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:03:24	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:03:24	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:03:24	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:03:55	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:03:56	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:03:56	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:04:27	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:04:27	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:04:27	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:04:58	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:04:59	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:04:59	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:05:30	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:05:30	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:05:30	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:06:01	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:06:02	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:06:02	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:06:33	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:06:33	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:06:33	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:07:04	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:07:05	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:07:05	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:07:36	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:07:36	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:07:36	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:08:07	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:08:08	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:08:08	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:08:39	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:08:39	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:08:39	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:09:10	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:09:11	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:09:11	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:09:42	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:09:42	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:09:42	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:10:13	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:10:14	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:10:14	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:10:45	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:10:45	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:10:45	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:11:16	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:11:17	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:11:17	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:11:48	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:11:48	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:11:48	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:12:19	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:12:20	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:12:20	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:12:51	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:12:51	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:12:51	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:13:22	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:13:23	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:13:23	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:13:54	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:13:54	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:13:54	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:14:25	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:14:26	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:14:26	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:14:57	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:14:58	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:14:58	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:15:29	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:15:29	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:15:29	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:16:00	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:16:01	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:16:01	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:16:32	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:16:32	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:16:32	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:17:03	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:17:04	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:17:04	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:17:35	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:17:35	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:17:35	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:18:06	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:18:07	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:18:07	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:18:38	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:18:38	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:18:38	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:19:09	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:19:10	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:19:10	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:19:41	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:19:41	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:19:41	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:20:12	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:20:13	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:20:13	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:20:44	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:20:44	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:20:44	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:21:15	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:21:16	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:21:16	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:21:47	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:21:47	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:21:47	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:22:18	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:22:19	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:22:19	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:22:50	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:22:50	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:22:50	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:23:21	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:23:22	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:23:22	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:23:53	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:23:53	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:23:53	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:24:24	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:24:25	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:24:25	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:24:56	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:24:56	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:24:56	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:25:27	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:25:28	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:25:28	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:25:59	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:25:59	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:25:59	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:26:30	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:26:31	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:26:31	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:27:02	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:27:02	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:27:02	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:27:33	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:27:34	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:27:34	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:28:05	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:28:05	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:28:05	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:28:36	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:28:37	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:28:37	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:29:08	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:29:08	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:29:08	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:29:39	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:29:40	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:29:40	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:30:11	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:30:11	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:30:11	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:30:42	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:30:43	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:30:43	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:31:14	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:31:14	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:31:14	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:31:45	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:31:46	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:31:46	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:32:17	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:32:17	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:32:17	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:32:48	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:32:49	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:32:49	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:33:20	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:33:20	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:33:20	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:33:51	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:33:52	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:33:52	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:34:23	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:34:23	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:34:23	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:34:54	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:34:55	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:34:55	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:35:26	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:35:26	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:35:26	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:35:57	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:35:58	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:35:58	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:36:29	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:36:29	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:36:29	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:37:00	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:37:01	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:37:01	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:37:32	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:37:33	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:37:33	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:38:04	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:38:04	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:38:04	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:38:35	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:38:36	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:38:36	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:39:07	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:39:07	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:39:07	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:39:38	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:39:39	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:39:39	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:40:10	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:40:10	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:40:10	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:40:41	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:40:42	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:40:42	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:41:13	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:41:13	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:41:13	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:41:44	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:41:45	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:41:45	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:42:16	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:42:16	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:42:16	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:42:47	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:42:48	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:42:48	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:43:19	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:43:19	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:43:19	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:43:50	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:43:51	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:43:51	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:44:22	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:44:22	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:44:22	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:44:53	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:44:54	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:44:54	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:45:25	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:45:25	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:45:25	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:45:56	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:45:57	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:45:57	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:46:28	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:46:28	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:46:28	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:46:59	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:47:00	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:47:00	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:47:31	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:47:31	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:47:31	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:48:02	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:48:03	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:48:03	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:48:34	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:48:34	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:48:34	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:49:05	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:49:06	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:49:06	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:49:37	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:49:37	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:49:37	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:50:08	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:50:09	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:50:09	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:50:40	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:50:40	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:50:40	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:51:11	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:51:12	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:51:12	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:51:43	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:51:43	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:51:43	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:52:14	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:52:15	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:52:15	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:52:46	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:52:46	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:52:46	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:53:17	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:53:18	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:53:18	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:53:49	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:53:49	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:53:49	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:54:20	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:54:21	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:54:21	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:54:52	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:54:52	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:54:52	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:55:24	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:55:24	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:55:24	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:55:55	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:55:56	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:55:56	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:56:27	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:56:27	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:56:27	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:57:31	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:57:32	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:57:32	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 10:58:13	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 10:58:13	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 10:58:13	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:06:46	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:06:46	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:06:46	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:07:17	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:07:18	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:07:18	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:08:50	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:08:50	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:08:50	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:09:21	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:09:22	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:09:22	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:10:30	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:10:31	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:10:31	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:11:02	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:11:02	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:11:02	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:11:33	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:11:34	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:11:34	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:12:05	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:12:05	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:12:05	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:12:36	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:12:37	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:12:37	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:13:41	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:13:42	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:13:42	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:14:13	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:14:13	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:14:13	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:14:44	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:14:45	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:14:45	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:15:32	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:15:33	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:15:33	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:16:04	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:16:05	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:16:05	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:17:26	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:17:26	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:17:26	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:17:57	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:17:58	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:17:58	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:18:29	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:18:29	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:18:29	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:19:00	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:19:01	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:19:01	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:19:32	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:19:32	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:19:32	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:19:58	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:19:59	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:19:59	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:20:30	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:20:30	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:20:30	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:21:52	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:21:53	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:21:53	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:22:21	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:22:21	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:22:21	consultarEstadoReader: TimeoutExceptionnull
+17-07-2014 11:22:24	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:22:24	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:22:24	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:22:55	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:22:56	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:22:56	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:23:27	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:23:27	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:23:27	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:23:58	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:23:59	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:23:59	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:24:30	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:24:30	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:24:30	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:25:01	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:25:02	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:25:02	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:25:33	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:25:33	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:25:33	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:26:04	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:26:05	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:26:05	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:26:36	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:26:36	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:26:36	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:27:07	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:27:08	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:27:08	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:27:39	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:27:39	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:27:39	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:28:10	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:28:11	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:28:11	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:28:42	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:28:42	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:28:42	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:29:13	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:29:14	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:29:14	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:29:45	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:29:46	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:29:46	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:30:17	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:30:17	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:30:17	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:30:48	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:30:49	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:30:49	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:31:20	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:31:20	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:31:20	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:31:51	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:31:52	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:31:52	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:32:23	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:32:23	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:32:23	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:32:54	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:32:55	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:32:55	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:33:26	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:33:26	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:33:26	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:33:57	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:33:58	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:33:58	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:34:29	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:34:29	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:34:29	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:35:00	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:35:01	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:35:01	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:35:32	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:35:32	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:35:32	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:36:03	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:36:04	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:36:04	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:36:35	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:36:35	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:36:35	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:37:06	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:37:07	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:37:07	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:37:38	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:37:38	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:37:38	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:38:09	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:38:10	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:38:10	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:38:41	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:38:41	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:38:41	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:39:12	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:39:13	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:39:13	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:39:44	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:39:44	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:39:44	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:40:15	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:40:16	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:40:16	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:40:47	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:40:47	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:40:47	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:41:18	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:41:19	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:41:19	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:41:50	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:41:50	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:41:50	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:42:21	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:42:22	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:42:22	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:42:53	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:42:53	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:42:53	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:43:24	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:43:25	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:43:25	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 11:44:25	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 11:44:25	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:44:25	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 12:09:02	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 12:09:03	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 12:09:03	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 12:09:34	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 12:09:35	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 12:09:35	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 12:10:06	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 12:10:06	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 12:10:06	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 12:10:12	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 12:10:12	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 12:10:12	consultarEstadoReader: TimeoutExceptionnull
+17-07-2014 01:40:59	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 01:40:59	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 01:40:59	consultarEstadoReader: TimeoutExceptionnull
+17-07-2014 01:42:25	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 01:42:25	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 01:42:25	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 01:42:56	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 01:42:57	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 01:42:57	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 01:48:34	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 01:48:35	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 01:48:35	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 01:49:06	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 01:49:06	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 01:49:06	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 01:49:37	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 01:49:38	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 01:49:38	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 01:50:09	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 01:50:09	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 01:50:09	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 01:50:40	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 01:50:41	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 01:50:41	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 01:51:12	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 01:51:12	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 01:51:12	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 01:51:43	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 01:51:44	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 01:51:44	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 01:52:15	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 01:52:15	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 01:52:15	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 01:52:46	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 01:52:47	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 01:52:47	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 01:53:18	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 01:53:18	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 01:53:18	Error al borrar los ROSpec: 172.22.23.227, null
+17-07-2014 01:53:49	No se pudo realizar la conexión con el reader 74 en 172.22.23.227, failed to connect
+17-07-2014 01:53:50	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 01:53:50	Error al borrar los ROSpec: 172.22.23.227, null

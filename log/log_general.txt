@@ -1,0 +1,2755 @@
+09-10-2013 11:15:13	Estableciendo servidor TCP en 127.0.0.1:3223
+09-10-2013 11:26:11	Estableciendo servidor TCP en 127.0.0.1:3333
+09-10-2013 11:26:11	Estableciendo servidor TCP en 127.0.0.1:3335
+09-10-2013 11:26:21	Estableciendo servidor TCP en 127.0.0.1:3349
+09-10-2013 11:26:21	Estableciendo servidor TCP en 127.0.0.1:3351
+09-10-2013 11:27:20	Estableciendo servidor TCP en 127.0.0.1:3371
+09-10-2013 11:27:20	Estableciendo servidor TCP en 127.0.0.1:3373
+09-10-2013 11:28:38	Estableciendo servidor TCP en 127.0.0.1:3398
+09-10-2013 11:28:38	Estableciendo servidor TCP en 127.0.0.1:3400
+09-10-2013 11:29:00	Estableciendo servidor TCP en 127.0.0.1:3415
+09-10-2013 11:29:00	Estableciendo servidor TCP en 127.0.0.1:3417
+09-10-2013 11:29:22	Estableciendo servidor TCP en 127.0.0.1:3431
+09-10-2013 11:29:22	Estableciendo servidor TCP en 127.0.0.1:3433
+09-10-2013 11:30:57	Estableciendo servidor TCP en 127.0.0.1:3459
+09-10-2013 11:33:49	Estableciendo servidor TCP en 127.0.0.1:3493
+09-10-2013 11:33:50	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:3493
+09-10-2013 11:57:40	Se han encontrado 2 Readers en BD:
+09-10-2013 11:57:40	   Equipo Test en 172.22.22.208, tipo 2, ID: 51
+09-10-2013 11:57:40	   Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+09-10-2013 12:14:06	Se han encontrado 3 Readers en BD:
+09-10-2013 12:14:06	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+09-10-2013 12:14:06	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+09-10-2013 12:14:06	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+09-10-2013 12:14:13	Se han encontrado 3 Readers en BD:
+09-10-2013 12:14:13	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+09-10-2013 12:14:13	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+09-10-2013 12:14:13	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+09-10-2013 12:16:54	Se han encontrado 3 Readers en BD:
+09-10-2013 12:16:54	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+09-10-2013 12:16:54	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+09-10-2013 12:16:54	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+09-10-2013 02:17:43	Se han encontrado 3 Readers en BD:
+09-10-2013 02:17:43	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+09-10-2013 02:17:43	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+09-10-2013 02:17:43	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+09-10-2013 02:18:33	Se han encontrado 3 Readers en BD:
+09-10-2013 02:18:33	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+09-10-2013 02:18:33	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+09-10-2013 02:18:33	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+09-10-2013 02:20:53	Se han encontrado 3 Readers en BD:
+09-10-2013 02:20:53	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+09-10-2013 02:20:53	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+09-10-2013 02:20:53	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+09-10-2013 02:57:56	Se han encontrado 3 Readers en BD:
+09-10-2013 02:57:56	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+09-10-2013 02:57:56	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+09-10-2013 02:57:56	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+09-10-2013 03:05:33	Se ha creado el archivo 'config.xml'
+09-10-2013 03:08:25	Se ha creado el archivo 'config.xml'
+09-10-2013 03:14:51	Se ha creado el archivo 'config.xml'
+09-10-2013 03:14:53	PostgreSQL: Conexión rechazada. Verifique que el nombre del Host y el puerto sean correctos y que postmaster este aceptando conexiones TCP/IP.
+09-10-2013 03:14:53	Estableciendo servidor TCP en 127.0.0.1:2581
+09-10-2013 03:14:55	PostgreSQL: Conexión rechazada. Verifique que el nombre del Host y el puerto sean correctos y que postmaster este aceptando conexiones TCP/IP.
+09-10-2013 03:14:55	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:2581
+09-10-2013 03:15:32	Se ha creado el archivo 'config.xml'
+09-10-2013 03:15:34	PostgreSQL: Conexión rechazada. Verifique que el nombre del Host y el puerto sean correctos y que postmaster este aceptando conexiones TCP/IP.
+09-10-2013 03:15:34	Estableciendo servidor TCP en 127.0.0.1:2597
+09-10-2013 03:15:36	PostgreSQL: Conexión rechazada. Verifique que el nombre del Host y el puerto sean correctos y que postmaster este aceptando conexiones TCP/IP.
+09-10-2013 03:15:36	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:2597
+09-10-2013 03:15:38	PostgreSQL: Conexión rechazada. Verifique que el nombre del Host y el puerto sean correctos y que postmaster este aceptando conexiones TCP/IP.
+09-10-2013 03:15:38	Se han encontrado 0 Readers en BD:
+09-10-2013 03:16:34	Se ha creado el archivo 'config.xml'
+09-10-2013 03:16:36	PostgreSQL: Conexión rechazada. Verifique que el nombre del Host y el puerto sean correctos y que postmaster este aceptando conexiones TCP/IP.
+09-10-2013 03:16:36	Estableciendo servidor TCP en 127.0.0.1:2612
+09-10-2013 03:16:45	Se ha creado el archivo 'config.xml'
+09-10-2013 03:55:14	PostgreSQL: Conexión rechazada. Verifique que el nombre del Host y el puerto sean correctos y que postmaster este aceptando conexiones TCP/IP.
+09-10-2013 03:55:14	Estableciendo servidor TCP en 127.0.0.1:2932
+09-10-2013 03:55:16	PostgreSQL: Conexión rechazada. Verifique que el nombre del Host y el puerto sean correctos y que postmaster este aceptando conexiones TCP/IP.
+09-10-2013 03:55:16	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:2932
+09-10-2013 03:55:18	PostgreSQL: Conexión rechazada. Verifique que el nombre del Host y el puerto sean correctos y que postmaster este aceptando conexiones TCP/IP.
+09-10-2013 03:55:18	Se han encontrado 0 Readers en BD:
+09-10-2013 04:27:33	PostgreSQL: FATAL: password authentication failed for user "rfid"
+09-10-2013 04:27:33	Estableciendo servidor TCP en 127.0.0.1:3197
+09-10-2013 04:27:33	PostgreSQL: FATAL: password authentication failed for user "rfid"
+09-10-2013 04:27:33	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:3197
+09-10-2013 04:27:33	PostgreSQL: FATAL: password authentication failed for user "rfid"
+09-10-2013 04:27:33	Se han encontrado 0 Readers en BD:
+09-10-2013 04:27:54	PostgreSQL: FATAL: password authentication failed for user "rfid"
+09-10-2013 04:27:54	Estableciendo servidor TCP en 127.0.0.1:3205
+09-10-2013 04:27:54	PostgreSQL: FATAL: password authentication failed for user "rfid"
+09-10-2013 04:27:54	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:3205
+09-10-2013 04:27:54	PostgreSQL: FATAL: password authentication failed for user "rfid"
+09-10-2013 04:27:54	Se han encontrado 0 Readers en BD:
+09-10-2013 04:28:54	PostgreSQL: FATAL: password authentication failed for user "rfid"
+09-10-2013 04:28:54	Estableciendo servidor TCP en 127.0.0.1:3218
+09-10-2013 04:28:54	PostgreSQL: FATAL: password authentication failed for user "rfid"
+09-10-2013 04:28:54	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:3218
+09-10-2013 04:28:54	PostgreSQL: FATAL: password authentication failed for user "rfid"
+09-10-2013 04:28:54	Se han encontrado 0 Readers en BD:
+09-10-2013 04:30:54	Se han encontrado 3 Readers en BD:
+09-10-2013 04:30:54	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+09-10-2013 04:30:54	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+09-10-2013 04:30:54	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+09-10-2013 04:31:47	Se han encontrado 3 Readers en BD:
+09-10-2013 04:31:47	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+09-10-2013 04:31:47	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+09-10-2013 04:31:47	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+09-10-2013 04:33:39	Estableciendo servidor TCP en 127.0.0.1:3319
+09-10-2013 04:33:39	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:3319
+09-10-2013 04:33:39	Se han encontrado 3 Readers en BD:
+09-10-2013 04:33:39	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+09-10-2013 04:33:39	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+09-10-2013 04:33:39	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+09-10-2013 04:52:47	Estableciendo servidor TCP en 127.0.0.1:3480
+09-10-2013 04:52:47	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:3480
+09-10-2013 04:52:48	Se han encontrado 3 Readers en BD:
+09-10-2013 04:52:48	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+09-10-2013 04:52:48	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+09-10-2013 04:52:48	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+09-10-2013 05:04:03	Estableciendo servidor TCP en 127.0.0.1:3679
+09-10-2013 05:04:03	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:3679
+09-10-2013 05:04:03	Se han encontrado 3 Readers en BD:
+09-10-2013 05:04:03	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+09-10-2013 05:04:03	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+09-10-2013 05:04:03	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+09-10-2013 05:07:58	Estableciendo servidor TCP en 127.0.0.1:3748
+09-10-2013 05:07:58	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:3748
+09-10-2013 05:07:59	Se han encontrado 3 Readers en BD:
+09-10-2013 05:07:59	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+09-10-2013 05:07:59	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+09-10-2013 05:07:59	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+09-10-2013 05:09:17	Estableciendo servidor TCP en 127.0.0.1:3776
+09-10-2013 05:09:17	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:3776
+09-10-2013 05:09:17	Se han encontrado 3 Readers en BD:
+09-10-2013 05:09:17	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+09-10-2013 05:09:17	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+09-10-2013 05:09:17	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+09-10-2013 05:10:16	Estableciendo servidor TCP en 127.0.0.1:3799
+09-10-2013 05:10:16	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:3799
+09-10-2013 05:10:16	Se han encontrado 3 Readers en BD:
+09-10-2013 05:10:16	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+09-10-2013 05:10:16	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+09-10-2013 05:10:16	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+09-10-2013 05:12:55	Estableciendo servidor TCP en 127.0.0.1:3831
+09-10-2013 05:12:55	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:3831
+09-10-2013 05:12:55	Se han encontrado 3 Readers en BD:
+09-10-2013 05:12:55	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+09-10-2013 05:12:55	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+09-10-2013 05:12:55	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+10-10-2013 09:38:23	Estableciendo servidor TCP en 127.0.0.1:1412
+10-10-2013 09:38:23	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:1412
+10-10-2013 09:38:23	Se han encontrado 3 Readers en BD:
+10-10-2013 09:38:23	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+10-10-2013 09:38:23	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+10-10-2013 09:38:23	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+10-10-2013 09:55:33	Estableciendo servidor TCP en 127.0.0.1:1584
+10-10-2013 09:55:33	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:1584
+10-10-2013 09:55:33	Se han encontrado 3 Readers en BD:
+10-10-2013 09:55:33	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+10-10-2013 09:55:33	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+10-10-2013 09:55:33	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+10-10-2013 10:37:40	Estableciendo servidor TCP en 127.0.0.1:2657
+10-10-2013 10:37:40	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:2657
+10-10-2013 10:37:40	Se han encontrado 3 Readers en BD:
+10-10-2013 10:37:40	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+10-10-2013 10:37:40	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+10-10-2013 10:37:40	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+10-10-2013 10:38:04	Estableciendo servidor TCP en 127.0.0.1:2713
+10-10-2013 10:38:04	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:2713
+10-10-2013 10:38:04	Se han encontrado 3 Readers en BD:
+10-10-2013 10:38:04	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+10-10-2013 10:38:04	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+10-10-2013 10:38:04	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+10-10-2013 10:40:16	Estableciendo servidor TCP en 127.0.0.1:2859
+10-10-2013 10:40:16	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:2859
+10-10-2013 10:40:16	Se han encontrado 3 Readers en BD:
+10-10-2013 10:40:16	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+10-10-2013 10:40:16	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+10-10-2013 10:40:16	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+10-10-2013 10:46:26	Estableciendo servidor TCP en 127.0.0.1:3013
+10-10-2013 10:46:26	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:3013
+10-10-2013 10:46:26	Se han encontrado 3 Readers en BD:
+10-10-2013 10:46:26	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+10-10-2013 10:46:26	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+10-10-2013 10:46:26	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+10-10-2013 10:47:22	Estableciendo servidor TCP en 127.0.0.1:3071
+10-10-2013 10:47:22	Estableciendo servidor TCP para Grabador de etiquetas en 127.0.0.1:3071
+10-10-2013 10:47:22	Se han encontrado 3 Readers en BD:
+10-10-2013 10:47:22	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+10-10-2013 10:47:22	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+10-10-2013 10:47:22	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+11-10-2013 02:32:55	Se han encontrado 3 Readers en BD:
+11-10-2013 02:32:55	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-10-2013 02:32:55	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-10-2013 02:32:55	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+11-10-2013 02:34:13	Se han encontrado 3 Readers en BD:
+11-10-2013 02:34:13	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-10-2013 02:34:13	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-10-2013 02:34:13	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+11-10-2013 02:36:00	Se han encontrado 3 Readers en BD:
+11-10-2013 02:36:00	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-10-2013 02:36:00	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-10-2013 02:36:00	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+11-10-2013 02:36:40	Se han encontrado 3 Readers en BD:
+11-10-2013 02:36:40	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+11-10-2013 02:36:40	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+11-10-2013 02:36:40	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+14-10-2013 08:56:21	Se han encontrado 3 Readers en BD:
+14-10-2013 08:56:21	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+14-10-2013 08:56:21	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+14-10-2013 08:56:21	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+14-10-2013 02:10:08	Se han encontrado 3 Readers en BD:
+14-10-2013 02:10:08	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+14-10-2013 02:10:08	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+14-10-2013 02:10:08	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+14-10-2013 02:10:17	Se han encontrado 3 Readers en BD:
+14-10-2013 02:10:17	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+14-10-2013 02:10:17	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+14-10-2013 02:10:17	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+14-10-2013 02:11:28	Se han encontrado 3 Readers en BD:
+14-10-2013 02:11:28	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+14-10-2013 02:11:28	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+14-10-2013 02:11:28	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+14-10-2013 02:11:38	Se han encontrado 3 Readers en BD:
+14-10-2013 02:11:38	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+14-10-2013 02:11:38	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+14-10-2013 02:11:38	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+14-10-2013 02:13:36	Se han encontrado 3 Readers en BD:
+14-10-2013 02:13:36	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+14-10-2013 02:13:36	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+14-10-2013 02:13:36	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+14-10-2013 03:41:06	Se han encontrado 3 Readers en BD:
+14-10-2013 03:41:06	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+14-10-2013 03:41:06	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+14-10-2013 03:41:06	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+14-10-2013 03:43:47	Se han encontrado 3 Readers en BD:
+14-10-2013 03:43:47	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+14-10-2013 03:43:47	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+14-10-2013 03:43:47	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+16-10-2013 10:33:22	Se han encontrado 3 Readers en BD:
+16-10-2013 10:33:22	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+16-10-2013 10:33:22	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+16-10-2013 10:33:22	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+16-10-2013 10:40:32	Se han encontrado 3 Readers en BD:
+16-10-2013 10:40:32	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+16-10-2013 10:40:32	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+16-10-2013 10:40:32	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+16-10-2013 10:41:18	Se han encontrado 3 Readers en BD:
+16-10-2013 10:41:18	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+16-10-2013 10:41:18	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+16-10-2013 10:41:18	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+16-10-2013 10:42:17	Se han encontrado 3 Readers en BD:
+16-10-2013 10:42:17	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+16-10-2013 10:42:17	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+16-10-2013 10:42:17	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+16-10-2013 10:43:19	Se han encontrado 3 Readers en BD:
+16-10-2013 10:43:19	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+16-10-2013 10:43:19	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+16-10-2013 10:43:19	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+16-10-2013 10:43:21	Reader 51 conectado.
+16-10-2013 10:46:32	Se han encontrado 3 Readers en BD:
+16-10-2013 10:46:32	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+16-10-2013 10:46:32	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+16-10-2013 10:46:32	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+16-10-2013 10:46:34	Reader 51 conectado.
+16-10-2013 10:52:47	Se han encontrado 3 Readers en BD:
+16-10-2013 10:52:47	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+16-10-2013 10:52:47	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+16-10-2013 10:52:47	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+16-10-2013 10:57:16	Reader 51 conectado.
+16-10-2013 10:59:33	Se han encontrado 3 Readers en BD:
+16-10-2013 10:59:33	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+16-10-2013 10:59:33	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+16-10-2013 10:59:33	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+16-10-2013 10:59:42	Reader 51 conectado.
+16-10-2013 11:02:19	Se han encontrado 3 Readers en BD:
+16-10-2013 11:02:19	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+16-10-2013 11:02:19	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+16-10-2013 11:02:19	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+16-10-2013 11:02:23	Reader 51 conectado.
+16-10-2013 11:02:30	Reader 51 desconectado.
+16-10-2013 11:02:31	Reader 51 conectado.
+16-10-2013 11:03:26	Se han encontrado 3 Readers en BD:
+16-10-2013 11:03:26	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+16-10-2013 11:03:26	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+16-10-2013 11:03:26	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+16-10-2013 11:03:29	Reader 51 conectado.
+16-10-2013 11:04:59	Se han encontrado 3 Readers en BD:
+16-10-2013 11:04:59	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+16-10-2013 11:04:59	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+16-10-2013 11:04:59	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+16-10-2013 11:05:03	Reader 51 conectado.
+16-10-2013 11:06:34	Se han encontrado 3 Readers en BD:
+16-10-2013 11:06:34	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+16-10-2013 11:06:34	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+16-10-2013 11:06:34	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+16-10-2013 11:06:37	Reader 51 conectado.
+21-10-2013 09:19:38	Se han encontrado 3 Readers en BD:
+21-10-2013 09:19:38	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+21-10-2013 09:19:38	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+21-10-2013 09:19:38	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+21-10-2013 09:36:28	Se han encontrado 3 Readers en BD:
+21-10-2013 09:36:28	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+21-10-2013 09:36:28	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+21-10-2013 09:36:28	equipo grabador en 122.31.10.1, tipo 1, ID: 59
+21-10-2013 10:46:56	Se han encontrado 3 Readers en BD:
+21-10-2013 10:46:56	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+21-10-2013 10:46:56	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+21-10-2013 10:46:56	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+01-11-2013 03:38:47	Se han encontrado 3 Readers en BD:
+01-11-2013 03:38:47	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+01-11-2013 03:38:47	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+01-11-2013 03:38:47	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+01-11-2013 03:38:55	Reader 51 conectado.
+01-11-2013 03:41:13	Se han encontrado 3 Readers en BD:
+01-11-2013 03:41:13	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+01-11-2013 03:41:13	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+01-11-2013 03:41:13	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+01-11-2013 03:41:15	Reader 51 conectado.
+01-11-2013 03:43:34	Se han encontrado 3 Readers en BD:
+01-11-2013 03:43:34	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+01-11-2013 03:43:34	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+01-11-2013 03:43:34	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+01-11-2013 03:43:35	Reader 51 conectado.
+01-11-2013 03:44:10	Se han encontrado 3 Readers en BD:
+01-11-2013 03:44:10	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+01-11-2013 03:44:10	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+01-11-2013 03:44:10	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+01-11-2013 03:44:30	Reader 51 conectado.
+01-11-2013 03:44:51	Reader 51 desconectado.
+01-11-2013 03:45:41	Se han encontrado 3 Readers en BD:
+01-11-2013 03:45:41	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+01-11-2013 03:45:41	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+01-11-2013 03:45:41	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+01-11-2013 03:45:44	Reader 51 conectado.
+01-11-2013 03:46:09	Reader 51 desconectado.
+01-11-2013 03:46:10	Reader 51 conectado.
+01-11-2013 03:47:18	Se han encontrado 3 Readers en BD:
+01-11-2013 03:47:18	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+01-11-2013 03:47:18	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+01-11-2013 03:47:18	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+01-11-2013 03:47:19	Reader 51 conectado.
+01-11-2013 03:47:46	Se han encontrado 3 Readers en BD:
+01-11-2013 03:47:46	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+01-11-2013 03:47:46	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+01-11-2013 03:47:46	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+01-11-2013 03:47:55	Reader 51 conectado.
+01-11-2013 03:48:16	Reader 51 desconectado.
+01-11-2013 03:48:17	Reader 51 conectado.
+01-11-2013 03:49:23	Se han encontrado 3 Readers en BD:
+01-11-2013 03:49:23	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+01-11-2013 03:49:23	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+01-11-2013 03:49:23	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+01-11-2013 03:49:24	Reader 51 conectado.
+01-11-2013 03:50:40	Se han encontrado 3 Readers en BD:
+01-11-2013 03:50:40	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+01-11-2013 03:50:40	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+01-11-2013 03:50:40	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+01-11-2013 03:50:41	Reader 51 conectado.
+01-11-2013 03:53:02	Se han encontrado 3 Readers en BD:
+01-11-2013 03:53:02	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+01-11-2013 03:53:02	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+01-11-2013 03:53:02	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+01-11-2013 03:53:03	Reader 51 conectado.
+01-11-2013 03:53:29	Se han encontrado 3 Readers en BD:
+01-11-2013 03:53:29	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+01-11-2013 03:53:29	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+01-11-2013 03:53:29	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+01-11-2013 03:53:30	Reader 51 conectado.
+04-11-2013 03:15:13	Se han encontrado 3 Readers en BD:
+04-11-2013 03:15:13	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+04-11-2013 03:15:13	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+04-11-2013 03:15:13	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+04-11-2013 03:15:17	Reader 51 conectado.
+04-11-2013 03:15:26	Se han encontrado 3 Readers en BD:
+04-11-2013 03:15:26	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+04-11-2013 03:15:26	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+04-11-2013 03:15:26	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+04-11-2013 03:15:53	Se han encontrado 3 Readers en BD:
+04-11-2013 03:15:53	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+04-11-2013 03:15:53	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+04-11-2013 03:15:53	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+04-11-2013 03:15:54	Reader 51 conectado.
+04-11-2013 03:19:22	Se han encontrado 3 Readers en BD:
+04-11-2013 03:19:22	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+04-11-2013 03:19:22	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+04-11-2013 03:19:22	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+04-11-2013 03:20:44	Se han encontrado 3 Readers en BD:
+04-11-2013 03:20:44	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+04-11-2013 03:20:44	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+04-11-2013 03:20:44	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+04-11-2013 03:20:46	Reader 51 conectado.
+04-11-2013 03:30:11	Se han encontrado 3 Readers en BD:
+04-11-2013 03:30:11	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+04-11-2013 03:30:11	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+04-11-2013 03:30:11	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+04-11-2013 03:30:12	Reader 51 conectado.
+04-11-2013 03:31:26	Se han encontrado 3 Readers en BD:
+04-11-2013 03:31:26	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+04-11-2013 03:31:26	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+04-11-2013 03:31:26	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+04-11-2013 03:31:27	Reader 51 conectado.
+04-11-2013 03:32:21	Se han encontrado 3 Readers en BD:
+04-11-2013 03:32:21	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+04-11-2013 03:32:21	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+04-11-2013 03:32:21	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+04-11-2013 03:32:23	Reader 51 conectado.
+04-11-2013 03:34:25	Se han encontrado 3 Readers en BD:
+04-11-2013 03:34:25	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+04-11-2013 03:34:25	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+04-11-2013 03:34:25	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+04-11-2013 03:34:26	Reader 51 conectado.
+04-11-2013 03:36:10	Se han encontrado 3 Readers en BD:
+04-11-2013 03:36:10	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+04-11-2013 03:36:10	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+04-11-2013 03:36:10	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+04-11-2013 03:36:11	Reader 51 conectado.
+04-11-2013 03:37:13	Se han encontrado 3 Readers en BD:
+04-11-2013 03:37:13	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+04-11-2013 03:37:13	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+04-11-2013 03:37:13	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+04-11-2013 03:37:14	Reader 51 conectado.
+04-11-2013 03:38:25	Se han encontrado 3 Readers en BD:
+04-11-2013 03:38:25	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+04-11-2013 03:38:25	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+04-11-2013 03:38:25	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+04-11-2013 03:39:12	Se han encontrado 3 Readers en BD:
+04-11-2013 03:39:12	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+04-11-2013 03:39:12	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+04-11-2013 03:39:12	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+04-11-2013 03:39:13	Reader 51 conectado.
+04-11-2013 03:39:48	Se han encontrado 3 Readers en BD:
+04-11-2013 03:39:48	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+04-11-2013 03:39:48	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+04-11-2013 03:39:48	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+04-11-2013 03:39:56	Reader 51 conectado.
+04-11-2013 03:45:32	Se han encontrado 3 Readers en BD:
+04-11-2013 03:45:32	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+04-11-2013 03:45:32	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+04-11-2013 03:45:32	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+04-11-2013 03:45:34	Reader 51 conectado.
+04-11-2013 03:47:20	Se han encontrado 3 Readers en BD:
+04-11-2013 03:47:20	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+04-11-2013 03:47:20	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+04-11-2013 03:47:20	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+04-11-2013 03:47:22	Reader 51 conectado.
+04-11-2013 04:02:42	Reader 51 desconectado.
+04-11-2013 04:02:43	Reader 51 conectado.
+04-11-2013 04:12:46	Se han encontrado 3 Readers en BD:
+04-11-2013 04:12:46	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+04-11-2013 04:12:46	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+04-11-2013 04:12:46	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+04-11-2013 04:12:49	Reader 51 conectado.
+05-11-2013 09:23:56	Se han encontrado 3 Readers en BD:
+05-11-2013 09:23:56	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+05-11-2013 09:23:56	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+05-11-2013 09:23:56	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+05-11-2013 12:07:02	Se han encontrado 3 Readers en BD:
+05-11-2013 12:07:02	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+05-11-2013 12:07:02	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+05-11-2013 12:07:02	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+05-11-2013 01:47:52	Se han encontrado 3 Readers en BD:
+05-11-2013 01:47:52	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+05-11-2013 01:47:52	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+05-11-2013 01:47:52	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+05-11-2013 01:47:55	Reader 51 conectado.
+05-11-2013 01:48:00	Cambio de estado de antenas de reader 51 a 0000
+05-11-2013 01:48:00	Cambio de estado de antenas de reader 51 a 0000
+05-11-2013 01:48:00	Cambio de estado de antenas de reader 51 a 0000
+05-11-2013 01:55:39	Se han encontrado 3 Readers en BD:
+05-11-2013 01:55:39	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+05-11-2013 01:55:39	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+05-11-2013 01:55:39	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+05-11-2013 01:55:41	Reader 51 conectado.
+05-11-2013 01:56:07	Se han encontrado 3 Readers en BD:
+05-11-2013 01:56:07	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+05-11-2013 01:56:07	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+05-11-2013 01:56:07	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+05-11-2013 01:56:08	Reader 51 conectado.
+05-11-2013 02:01:46	Se han encontrado 3 Readers en BD:
+05-11-2013 02:01:46	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+05-11-2013 02:01:46	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+05-11-2013 02:01:46	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+05-11-2013 02:01:48	Reader 51 conectado.
+05-11-2013 02:06:00	Se han encontrado 3 Readers en BD:
+05-11-2013 02:06:00	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+05-11-2013 02:06:00	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+05-11-2013 02:06:00	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+05-11-2013 02:06:01	Reader 51 conectado.
+05-11-2013 02:09:16	Se han encontrado 3 Readers en BD:
+05-11-2013 02:09:16	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+05-11-2013 02:09:16	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+05-11-2013 02:09:16	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+05-11-2013 02:09:17	Reader 51 conectado.
+05-11-2013 02:13:35	Se han encontrado 3 Readers en BD:
+05-11-2013 02:13:35	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+05-11-2013 02:13:35	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+05-11-2013 02:13:35	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+05-11-2013 02:13:36	Reader 51 conectado.
+05-11-2013 02:15:10	Se han encontrado 3 Readers en BD:
+05-11-2013 02:15:10	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+05-11-2013 02:15:10	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+05-11-2013 02:15:10	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+05-11-2013 02:15:11	Reader 51 conectado.
+05-11-2013 02:16:06	Se han encontrado 3 Readers en BD:
+05-11-2013 02:16:06	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+05-11-2013 02:16:06	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+05-11-2013 02:16:06	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+05-11-2013 02:16:20	Reader 51 conectado.
+05-11-2013 02:19:50	Se han encontrado 3 Readers en BD:
+05-11-2013 02:19:50	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+05-11-2013 02:19:50	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+05-11-2013 02:19:50	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+05-11-2013 02:19:51	Reader 51 conectado.
+06-11-2013 01:50:38	Se han encontrado 4 Readers en BD:
+06-11-2013 01:50:38	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+06-11-2013 01:50:38	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+06-11-2013 01:50:38	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+06-11-2013 01:50:38	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+06-11-2013 01:51:12	Reader 51 conectado.
+06-11-2013 01:51:16	Cambio de estado de antenas de reader 51 a 0000
+06-11-2013 01:51:16	Cambio de estado de antenas de reader 51 a 0000
+06-11-2013 01:51:16	Cambio de estado de antenas de reader 51 a 0000
+06-11-2013 03:33:49	Se han encontrado 4 Readers en BD:
+06-11-2013 03:33:49	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+06-11-2013 03:33:49	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+06-11-2013 03:33:49	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+06-11-2013 03:33:49	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+06-11-2013 03:33:51	Reader 51 conectado.
+06-11-2013 04:09:36	Se han encontrado 4 Readers en BD:
+06-11-2013 04:09:36	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+06-11-2013 04:09:36	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+06-11-2013 04:09:36	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+06-11-2013 04:09:36	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+06-11-2013 04:09:36	Reader 51 conectado.
+06-11-2013 04:09:36	Reader 63 conectado.
+06-11-2013 04:10:47	Se han encontrado 4 Readers en BD:
+06-11-2013 04:10:47	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+06-11-2013 04:10:47	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+06-11-2013 04:10:47	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+06-11-2013 04:10:47	Equipo Test en 172.22.22.208, tipo 2, ID: 51
+06-11-2013 04:10:47	Reader 63 conectado.
+06-11-2013 04:10:47	Reader 51 conectado.
+06-11-2013 04:15:13	Se han encontrado 4 Readers en BD:
+06-11-2013 04:15:13	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+06-11-2013 04:15:13	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+06-11-2013 04:15:13	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+06-11-2013 04:15:13	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+06-11-2013 04:15:13	Reader 63 conectado.
+06-11-2013 04:15:15	Reader 51 conectado.
+06-11-2013 04:17:35	Se han encontrado 4 Readers en BD:
+06-11-2013 04:17:35	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+06-11-2013 04:17:35	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+06-11-2013 04:17:35	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+06-11-2013 04:17:35	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+06-11-2013 04:17:35	Reader 63 conectado.
+06-11-2013 04:17:36	Reader 51 conectado.
+06-11-2013 04:18:05	Se han encontrado 4 Readers en BD:
+06-11-2013 04:18:05	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+06-11-2013 04:18:05	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+06-11-2013 04:18:05	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+06-11-2013 04:18:05	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+06-11-2013 04:18:05	Reader 63 conectado.
+06-11-2013 04:18:06	Reader 51 conectado.
+06-11-2013 04:19:32	Se han encontrado 4 Readers en BD:
+06-11-2013 04:19:32	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+06-11-2013 04:19:32	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+06-11-2013 04:19:32	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+06-11-2013 04:19:32	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+06-11-2013 04:19:32	Reader 63 conectado.
+06-11-2013 04:19:33	Reader 51 conectado.
+06-11-2013 04:26:44	Se han encontrado 4 Readers en BD:
+06-11-2013 04:26:44	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+06-11-2013 04:26:44	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+06-11-2013 04:26:44	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+06-11-2013 04:26:44	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+06-11-2013 04:26:44	Reader 63 conectado.
+06-11-2013 04:26:45	Reader 51 conectado.
+06-11-2013 04:38:28	Se han encontrado 4 Readers en BD:
+06-11-2013 04:38:28	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+06-11-2013 04:38:28	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+06-11-2013 04:38:28	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+06-11-2013 04:38:28	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+06-11-2013 04:38:28	Reader 63 conectado.
+06-11-2013 04:38:29	Reader 51 conectado.
+06-11-2013 05:32:35	Se han encontrado 4 Readers en BD:
+06-11-2013 05:32:35	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+06-11-2013 05:32:35	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+06-11-2013 05:32:35	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+06-11-2013 05:32:35	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+06-11-2013 05:32:35	Reader 63 conectado.
+06-11-2013 05:32:36	Reader 51 conectado.
+06-11-2013 05:32:42	Reader 51 desconectado.
+06-11-2013 05:32:46	Se han encontrado 4 Readers en BD:
+06-11-2013 05:32:46	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+06-11-2013 05:32:46	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+06-11-2013 05:32:46	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+06-11-2013 05:32:46	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+06-11-2013 05:32:46	Reader 63 conectado.
+06-11-2013 05:32:46	Reader 51 conectado.
+07-11-2013 10:08:37	Se han encontrado 4 Readers en BD:
+07-11-2013 10:08:37	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+07-11-2013 10:08:37	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+07-11-2013 10:08:37	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+07-11-2013 10:08:37	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+07-11-2013 10:08:37	Reader 63 conectado.
+07-11-2013 10:08:41	Reader 51 conectado.
+07-11-2013 10:22:49	Se han encontrado 4 Readers en BD:
+07-11-2013 10:22:49	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+07-11-2013 10:22:49	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+07-11-2013 10:22:49	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+07-11-2013 10:22:49	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+07-11-2013 10:22:49	Reader 63 conectado.
+07-11-2013 10:22:50	Reader 51 conectado.
+07-11-2013 10:35:07	Se han encontrado 4 Readers en BD:
+07-11-2013 10:35:07	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+07-11-2013 10:35:07	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+07-11-2013 10:35:07	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+07-11-2013 10:35:07	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+07-11-2013 10:35:07	Reader 63 conectado.
+07-11-2013 10:35:08	Reader 51 conectado.
+07-11-2013 05:23:13	Se han encontrado 4 Readers en BD:
+07-11-2013 05:23:13	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+07-11-2013 05:23:13	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+07-11-2013 05:23:13	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+07-11-2013 05:23:13	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+07-11-2013 05:23:13	Reader 63 conectado.
+07-11-2013 05:23:14	Reader 51 conectado.
+07-11-2013 05:26:45	Se han encontrado 4 Readers en BD:
+07-11-2013 05:26:45	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+07-11-2013 05:26:45	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+07-11-2013 05:26:45	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+07-11-2013 05:26:45	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+07-11-2013 05:26:46	Reader 51 conectado.
+08-11-2013 10:05:45	Se han encontrado 4 Readers en BD:
+08-11-2013 10:05:45	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+08-11-2013 10:05:45	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+08-11-2013 10:05:45	Pruebas HandHeld Miguel en 172.22.23.225, tipo 2, ID: 63
+08-11-2013 10:05:45	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+14-01-2014 11:48:35	Se han encontrado 6 Readers en BD:
+14-01-2014 11:48:35	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+14-01-2014 11:48:35	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+14-01-2014 11:48:35	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+14-01-2014 11:48:35	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+14-01-2014 11:48:35	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+14-01-2014 11:48:35	Sampler en 172.33.21.1, tipo 1, ID: 65
+17-01-2014 10:07:25	Se han encontrado 6 Readers en BD:
+17-01-2014 10:07:26	Pruebas zolandia en 172.22.23.238, tipo 1, ID: 62
+17-01-2014 10:07:26	Pruebas HandHeld Miguel en 172.22.23.226, tipo 2, ID: 63
+17-01-2014 10:07:26	Equipo Multiple en 171.33.120.1, tipo 1, ID: 58
+17-01-2014 10:07:26	Prueba HH 2 en 172.22.23.225, tipo 2, ID: 64
+17-01-2014 10:07:26	Equipo Test en 172.22.22.208, tipo 1, ID: 51
+17-01-2014 10:07:26	Sampler en 172.33.21.1, tipo 1, ID: 65
+18-03-2014 04:11:15	Se han encontrado 5 Readers en BD:
+18-03-2014 04:11:15	Speedway 1 en 122.22.78.12, tipo 1, ID: 68
+18-03-2014 04:11:15	Speedway 3 en 194.100.1.1, tipo 1, ID: 69
+18-03-2014 04:11:15	Speedway salidas en 127.14.788.1, tipo 1, ID: 70
+18-03-2014 04:11:15	Equipo Handheld en 172.32.22.1, tipo 2, ID: 67
+18-03-2014 04:11:15	Equipo Antena Salida en 148.14.122.2, tipo 1, ID: 72
+18-03-2014 04:11:50	Se han encontrado 5 Readers en BD:
+18-03-2014 04:11:50	Speedway 1 en 122.22.78.12, tipo 1, ID: 68
+18-03-2014 04:11:50	Speedway 3 en 194.100.1.1, tipo 1, ID: 69
+18-03-2014 04:11:50	Speedway salidas en 127.14.788.1, tipo 1, ID: 70
+18-03-2014 04:11:50	Equipo Handheld en 172.32.22.1, tipo 2, ID: 67
+18-03-2014 04:11:50	Equipo Antena Salida en 148.14.122.2, tipo 1, ID: 72
+18-03-2014 04:12:09	Se han encontrado 5 Readers en BD:
+18-03-2014 04:12:09	Speedway 1 en 122.22.78.12, tipo 1, ID: 68
+18-03-2014 04:12:09	Speedway 3 en 194.100.1.1, tipo 1, ID: 69
+18-03-2014 04:12:09	Speedway salidas en 127.14.788.1, tipo 1, ID: 70
+18-03-2014 04:12:09	Equipo Handheld en 172.32.22.1, tipo 2, ID: 67
+18-03-2014 04:12:09	Equipo Antena Salida en 148.14.122.2, tipo 1, ID: 72
+09-07-2014 10:37:34	Se han encontrado 6 Readers en BD:
+09-07-2014 10:37:34	Equipo Handheld en 172.32.22.1, tipo 2, ID: 67
+09-07-2014 10:37:34	Speedway 1 en 172.22.23.226, tipo 1, ID: 68
+09-07-2014 10:37:34	Antena XPortal en 172.22.23.227, tipo 1, ID: 99
+09-07-2014 10:37:34	Speedway 3 en 194.100.1.1, tipo 2, ID: 69
+09-07-2014 10:37:34	Speedway salidas en 127.14.788.1, tipo 2, ID: 70
+09-07-2014 10:37:34	Equipo Antena Salida en 148.14.122.2, tipo 2, ID: 72
+09-07-2014 10:43:00	Se han encontrado 3 Readers en BD:
+09-07-2014 10:43:00	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+09-07-2014 10:43:00	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+09-07-2014 10:43:00	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+09-07-2014 10:49:49	Se han encontrado 3 Readers en BD:
+09-07-2014 10:49:49	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+09-07-2014 10:49:49	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+09-07-2014 10:49:49	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+09-07-2014 10:50:05	Se han encontrado 3 Readers en BD:
+09-07-2014 10:50:05	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+09-07-2014 10:50:05	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+09-07-2014 10:50:05	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+09-07-2014 10:54:57	Se han encontrado 3 Readers en BD:
+09-07-2014 10:54:57	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+09-07-2014 10:54:57	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+09-07-2014 10:54:57	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+09-07-2014 10:56:40	Se han encontrado 3 Readers en BD:
+09-07-2014 10:56:40	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+09-07-2014 10:56:40	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+09-07-2014 10:56:40	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+09-07-2014 11:05:23	Se han encontrado 3 Readers en BD:
+09-07-2014 11:05:23	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+09-07-2014 11:05:23	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+09-07-2014 11:05:23	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+09-07-2014 11:08:34	Se han encontrado 3 Readers en BD:
+09-07-2014 11:08:34	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+09-07-2014 11:08:34	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+09-07-2014 11:08:34	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+09-07-2014 11:09:36	Se han encontrado 3 Readers en BD:
+09-07-2014 11:09:36	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+09-07-2014 11:09:36	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+09-07-2014 11:09:36	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+09-07-2014 11:11:27	Se han encontrado 3 Readers en BD:
+09-07-2014 11:11:27	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+09-07-2014 11:11:27	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+09-07-2014 11:11:27	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+09-07-2014 11:12:20	Se han encontrado 3 Readers en BD:
+09-07-2014 11:12:20	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+09-07-2014 11:12:20	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+09-07-2014 11:12:20	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+09-07-2014 11:15:23	Se han encontrado 3 Readers en BD:
+09-07-2014 11:15:23	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+09-07-2014 11:15:23	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+09-07-2014 11:15:23	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+09-07-2014 11:17:06	Se han encontrado 3 Readers en BD:
+09-07-2014 11:17:06	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+09-07-2014 11:17:06	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+09-07-2014 11:17:06	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+09-07-2014 11:20:06	Se han encontrado 3 Readers en BD:
+09-07-2014 11:20:06	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+09-07-2014 11:20:06	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+09-07-2014 11:20:06	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+09-07-2014 11:21:08	Se han encontrado 3 Readers en BD:
+09-07-2014 11:21:08	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+09-07-2014 11:21:08	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+09-07-2014 11:21:08	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+09-07-2014 11:21:42	Se han encontrado 3 Readers en BD:
+09-07-2014 11:21:42	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+09-07-2014 11:21:42	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+09-07-2014 11:21:42	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+09-07-2014 11:22:11	Se han encontrado 3 Readers en BD:
+09-07-2014 11:22:11	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+09-07-2014 11:22:11	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+09-07-2014 11:22:11	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+09-07-2014 11:52:53	PostgreSQL: Conexión rechazada. Verifique que el nombre del Host y el puerto sean correctos y que postmaster este aceptando conexiones TCP/IP.
+09-07-2014 11:52:53	Estableciendo servidor TCP en 127.0.0.1:65230
+09-07-2014 11:56:01	Se han encontrado 3 Readers en BD:
+09-07-2014 11:56:01	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+09-07-2014 11:56:01	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+09-07-2014 11:56:01	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+09-07-2014 11:56:03	Reader 73 conectado.
+09-07-2014 11:56:04	Reader 74 conectado.
+09-07-2014 11:57:11	Reader 74 desconectado.
+09-07-2014 11:58:15	Se han encontrado 3 Readers en BD:
+09-07-2014 11:58:15	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+09-07-2014 11:58:15	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+09-07-2014 11:58:15	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+09-07-2014 11:58:16	Reader 73 conectado.
+09-07-2014 11:58:18	Reader 74 conectado.
+09-07-2014 12:03:57	Se han encontrado 3 Readers en BD:
+09-07-2014 12:03:57	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+09-07-2014 12:03:57	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+09-07-2014 12:03:57	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+09-07-2014 12:03:59	Reader 73 conectado.
+09-07-2014 12:04:00	Reader 74 conectado.
+09-07-2014 12:10:44	Se han encontrado 3 Readers en BD:
+09-07-2014 12:10:44	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+09-07-2014 12:10:44	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+09-07-2014 12:10:44	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+09-07-2014 12:10:46	Reader 73 conectado.
+09-07-2014 12:10:47	Reader 74 conectado.
+09-07-2014 02:22:03	Se han encontrado 3 Readers en BD:
+09-07-2014 02:22:03	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+09-07-2014 02:22:03	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+09-07-2014 02:22:03	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+09-07-2014 02:22:05	Reader 73 conectado.
+09-07-2014 02:22:09	Cambio de estado de antenas de reader 73 a 0000
+09-07-2014 02:22:09	Cambio de estado de antenas de reader 73 a 0000
+09-07-2014 02:22:10	Cambio de estado de antenas de reader 73 a 0000
+09-07-2014 02:23:33	Se han encontrado 3 Readers en BD:
+09-07-2014 02:23:33	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+09-07-2014 02:23:33	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+09-07-2014 02:23:33	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+09-07-2014 02:23:35	Reader 73 conectado.
+09-07-2014 02:23:35	Reader 74 conectado.
+09-07-2014 02:59:07	Se han encontrado 3 Readers en BD:
+09-07-2014 02:59:07	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+09-07-2014 02:59:07	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+09-07-2014 02:59:07	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+09-07-2014 02:59:09	Reader 73 conectado.
+09-07-2014 02:59:11	Reader 74 conectado.
+09-07-2014 03:01:02	Se han encontrado 3 Readers en BD:
+09-07-2014 03:01:02	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+09-07-2014 03:01:02	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+09-07-2014 03:01:02	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+09-07-2014 03:01:03	Reader 73 conectado.
+09-07-2014 03:01:03	Reader 74 conectado.
+09-07-2014 03:05:31	Se han encontrado 3 Readers en BD:
+09-07-2014 03:05:31	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+09-07-2014 03:05:31	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+09-07-2014 03:05:31	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+09-07-2014 03:05:33	Reader 74 conectado.
+09-07-2014 03:05:33	Reader 73 conectado.
+09-07-2014 03:06:12	Se han encontrado 3 Readers en BD:
+09-07-2014 03:06:12	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+09-07-2014 03:06:12	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+09-07-2014 03:06:12	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+09-07-2014 03:06:13	Reader 73 conectado.
+09-07-2014 03:06:15	Reader 74 conectado.
+09-07-2014 03:13:05	Se han encontrado 3 Readers en BD:
+09-07-2014 03:13:05	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+09-07-2014 03:13:05	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+09-07-2014 03:13:05	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+09-07-2014 03:13:06	Reader 74 conectado.
+09-07-2014 03:13:06	Reader 73 conectado.
+09-07-2014 03:13:24	Se han encontrado 3 Readers en BD:
+09-07-2014 03:13:24	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+09-07-2014 03:13:24	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+09-07-2014 03:13:24	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+09-07-2014 03:13:26	Reader 74 conectado.
+09-07-2014 03:13:26	Reader 73 conectado.
+09-07-2014 03:15:53	Se han encontrado 3 Readers en BD:
+09-07-2014 03:15:53	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+09-07-2014 03:15:53	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+09-07-2014 03:15:53	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+09-07-2014 03:15:54	Reader 74 conectado.
+09-07-2014 03:15:54	Reader 73 conectado.
+09-07-2014 03:19:04	Se han encontrado 3 Readers en BD:
+09-07-2014 03:19:04	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+09-07-2014 03:19:04	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+09-07-2014 03:19:04	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+09-07-2014 03:19:06	Reader 74 conectado.
+09-07-2014 03:19:06	Reader 73 conectado.
+09-07-2014 03:19:24	Se han encontrado 3 Readers en BD:
+09-07-2014 03:19:24	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+09-07-2014 03:19:24	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+09-07-2014 03:19:24	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+09-07-2014 03:19:26	Reader 73 conectado.
+09-07-2014 03:19:26	Reader 74 conectado.
+09-07-2014 03:22:38	Se han encontrado 3 Readers en BD:
+09-07-2014 03:22:38	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+09-07-2014 03:22:38	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+09-07-2014 03:22:38	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+09-07-2014 03:22:40	Reader 74 conectado.
+09-07-2014 03:22:40	Reader 73 conectado.
+09-07-2014 03:25:47	Se han encontrado 3 Readers en BD:
+09-07-2014 03:25:47	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+09-07-2014 03:25:47	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+09-07-2014 03:25:47	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+09-07-2014 03:25:48	Reader 73 conectado.
+09-07-2014 03:25:48	Reader 74 conectado.
+09-07-2014 05:27:47	Se han encontrado 3 Readers en BD:
+09-07-2014 05:27:47	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+09-07-2014 05:27:47	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+09-07-2014 05:27:47	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+09-07-2014 05:27:49	Reader 74 conectado.
+09-07-2014 05:27:49	Reader 73 conectado.
+09-07-2014 05:28:38	Reader 74 desconectado.
+15-07-2014 09:49:30	Se han encontrado 6 Readers en BD:
+15-07-2014 09:49:30	Equipo Handheld en 172.32.22.1, tipo 2, ID: 67
+15-07-2014 09:49:30	Speedway 1 en 172.22.23.226, tipo 1, ID: 68
+15-07-2014 09:49:30	Antena XPortal en 172.22.23.227, tipo 1, ID: 99
+15-07-2014 09:49:30	Speedway 3 en 194.100.1.1, tipo 2, ID: 69
+15-07-2014 09:49:30	Speedway salidas en 127.14.788.1, tipo 2, ID: 70
+15-07-2014 09:49:30	Equipo Antena Salida en 148.14.122.2, tipo 2, ID: 72
+15-07-2014 09:49:33	Reader 68 conectado.
+15-07-2014 09:49:38	Cambio de estado de antenas de reader 68 a 0000
+15-07-2014 09:49:38	Cambio de estado de antenas de reader 68 a 0000
+15-07-2014 09:50:45	Se han encontrado 6 Readers en BD:
+15-07-2014 09:50:45	Equipo Handheld en 172.32.22.1, tipo 2, ID: 67
+15-07-2014 09:50:45	Antena XPortal en 172.22.23.227, tipo 1, ID: 99
+15-07-2014 09:50:45	Speedway 3 en 194.100.1.1, tipo 2, ID: 69
+15-07-2014 09:50:45	Speedway salidas en 127.14.788.1, tipo 2, ID: 70
+15-07-2014 09:50:45	Equipo Antena Salida en 148.14.122.2, tipo 2, ID: 72
+15-07-2014 09:50:45	Speedway 1 en 172.22.23.226, tipo 1, ID: 68
+15-07-2014 09:50:47	Reader 68 conectado.
+15-07-2014 09:52:44	Se han encontrado 6 Readers en BD:
+15-07-2014 09:52:44	Equipo Handheld en 172.32.22.1, tipo 2, ID: 67
+15-07-2014 09:52:44	Antena XPortal en 172.22.23.227, tipo 1, ID: 99
+15-07-2014 09:52:44	Speedway 3 en 194.100.1.1, tipo 2, ID: 69
+15-07-2014 09:52:44	Speedway salidas en 127.14.788.1, tipo 2, ID: 70
+15-07-2014 09:52:44	Equipo Antena Salida en 148.14.122.2, tipo 2, ID: 72
+15-07-2014 09:52:44	Speedway 1 en 172.22.23.226, tipo 1, ID: 68
+15-07-2014 09:52:45	Reader 68 conectado.
+15-07-2014 09:54:19	Cambio de estado de antenas de reader 68 a 0000
+15-07-2014 09:54:19	Cambio de estado de antenas de reader 68 a 0010
+15-07-2014 09:54:38	Cambio de estado de antenas de reader 68 a 0110
+15-07-2014 09:54:39	Cambio de estado de antenas de reader 68 a 0100
+15-07-2014 09:54:50	Cambio de estado de antenas de reader 68 a 0000
+15-07-2014 09:54:55	Cambio de estado de antenas de reader 68 a 0100
+15-07-2014 09:59:40	Reader 68 desconectado.
+15-07-2014 10:00:40	Se han encontrado 6 Readers en BD:
+15-07-2014 10:00:40	Equipo Handheld en 172.32.22.1, tipo 2, ID: 67
+15-07-2014 10:00:40	Antena XPortal en 172.22.23.227, tipo 1, ID: 99
+15-07-2014 10:00:40	Speedway 3 en 194.100.1.1, tipo 2, ID: 69
+15-07-2014 10:00:40	Speedway salidas en 127.14.788.1, tipo 2, ID: 70
+15-07-2014 10:00:40	Equipo Antena Salida en 148.14.122.2, tipo 2, ID: 72
+15-07-2014 10:00:40	Speedway 1 en 172.22.23.226, tipo 1, ID: 68
+15-07-2014 10:00:41	Reader 68 conectado.
+15-07-2014 10:00:46	Cambio de estado de antenas de reader 68 a 0000
+15-07-2014 10:00:46	Cambio de estado de antenas de reader 68 a 0000
+15-07-2014 10:00:59	Se han encontrado 6 Readers en BD:
+15-07-2014 10:00:59	Equipo Handheld en 172.32.22.1, tipo 2, ID: 67
+15-07-2014 10:00:59	Antena XPortal en 172.22.23.227, tipo 1, ID: 99
+15-07-2014 10:00:59	Speedway 3 en 194.100.1.1, tipo 2, ID: 69
+15-07-2014 10:00:59	Speedway salidas en 127.14.788.1, tipo 2, ID: 70
+15-07-2014 10:00:59	Equipo Antena Salida en 148.14.122.2, tipo 2, ID: 72
+15-07-2014 10:00:59	Speedway 1 en 172.22.23.226, tipo 1, ID: 68
+15-07-2014 10:44:26	Se han encontrado 6 Readers en BD:
+15-07-2014 10:44:26	Equipo Handheld en 172.32.22.1, tipo 2, ID: 67
+15-07-2014 10:44:26	Antena XPortal en 172.22.23.227, tipo 1, ID: 99
+15-07-2014 10:44:26	Speedway 3 en 194.100.1.1, tipo 2, ID: 69
+15-07-2014 10:44:26	Speedway salidas en 127.14.788.1, tipo 2, ID: 70
+15-07-2014 10:44:26	Equipo Antena Salida en 148.14.122.2, tipo 2, ID: 72
+15-07-2014 10:44:26	Speedway 1 en 172.22.23.226, tipo 1, ID: 68
+15-07-2014 10:44:29	Reader 99 conectado.
+15-07-2014 03:42:40	Se han encontrado 4 Readers en BD:
+15-07-2014 03:42:40	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+15-07-2014 03:42:40	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+15-07-2014 03:42:40	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+15-07-2014 03:42:40	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+15-07-2014 03:42:44	Reader 74 conectado.
+15-07-2014 03:42:44	Reader 73 conectado.
+15-07-2014 03:43:37	Se han encontrado 4 Readers en BD:
+15-07-2014 03:43:37	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+15-07-2014 03:43:37	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+15-07-2014 03:43:37	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+15-07-2014 03:43:37	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+15-07-2014 03:43:38	Reader 74 conectado.
+15-07-2014 03:44:10	Reader 73 conectado.
+15-07-2014 03:54:01	Se han encontrado 4 Readers en BD:
+15-07-2014 03:54:01	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+15-07-2014 03:54:01	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+15-07-2014 03:54:01	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+15-07-2014 03:54:01	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+15-07-2014 03:54:02	Reader 73 conectado.
+15-07-2014 03:54:23	Se han encontrado 4 Readers en BD:
+15-07-2014 03:54:23	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+15-07-2014 03:54:23	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+15-07-2014 03:54:23	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+15-07-2014 03:54:23	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+15-07-2014 03:54:25	Reader 73 conectado.
+15-07-2014 03:54:49	Se han encontrado 4 Readers en BD:
+15-07-2014 03:54:49	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+15-07-2014 03:54:49	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+15-07-2014 03:54:49	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+15-07-2014 03:54:49	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+15-07-2014 03:54:50	Reader 73 conectado.
+15-07-2014 03:55:16	Se han encontrado 4 Readers en BD:
+15-07-2014 03:55:16	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+15-07-2014 03:55:16	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+15-07-2014 03:55:16	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+15-07-2014 03:55:16	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+15-07-2014 03:57:18	Se han encontrado 4 Readers en BD:
+15-07-2014 03:57:18	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+15-07-2014 03:57:18	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+15-07-2014 03:57:18	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+15-07-2014 03:57:18	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+15-07-2014 03:57:51	Reader 73 conectado.
+15-07-2014 03:57:56	Cambio de estado de antenas de reader 73 a 0000
+15-07-2014 03:57:56	Cambio de estado de antenas de reader 73 a 0000
+15-07-2014 03:57:56	Cambio de estado de antenas de reader 73 a 0000
+15-07-2014 03:58:21	Se han encontrado 4 Readers en BD:
+15-07-2014 03:58:21	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+15-07-2014 03:58:21	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+15-07-2014 03:58:21	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+15-07-2014 03:58:21	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+15-07-2014 03:58:22	Reader 73 conectado.
+15-07-2014 04:02:23	Se han encontrado 4 Readers en BD:
+15-07-2014 04:02:23	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+15-07-2014 04:02:23	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+15-07-2014 04:02:23	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+15-07-2014 04:02:23	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+15-07-2014 04:02:24	Reader 73 conectado.
+15-07-2014 04:21:16	Se han encontrado 4 Readers en BD:
+15-07-2014 04:21:16	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+15-07-2014 04:21:16	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+15-07-2014 04:21:16	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+15-07-2014 04:21:16	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+15-07-2014 04:21:18	Reader 73 conectado.
+15-07-2014 04:21:32	Se han encontrado 4 Readers en BD:
+15-07-2014 04:21:32	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+15-07-2014 04:21:32	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+15-07-2014 04:21:32	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+15-07-2014 04:21:32	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+15-07-2014 04:22:04	Se han encontrado 4 Readers en BD:
+15-07-2014 04:22:04	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+15-07-2014 04:22:04	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+15-07-2014 04:22:04	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+15-07-2014 04:22:04	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+15-07-2014 04:24:06	Reader 73 conectado.
+15-07-2014 04:24:34	Se han encontrado 4 Readers en BD:
+15-07-2014 04:24:34	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+15-07-2014 04:24:34	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+15-07-2014 04:24:34	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+15-07-2014 04:24:34	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+15-07-2014 04:24:35	Reader 73 conectado.
+16-07-2014 09:36:39	Se han encontrado 4 Readers en BD:
+16-07-2014 09:36:39	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 09:36:39	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 09:36:39	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 09:36:39	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 09:36:43	Reader 73 conectado.
+16-07-2014 09:45:45	Se han encontrado 4 Readers en BD:
+16-07-2014 09:45:45	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 09:45:45	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 09:45:45	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 09:45:45	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 09:45:47	Reader 73 conectado.
+16-07-2014 09:46:45	Se han encontrado 4 Readers en BD:
+16-07-2014 09:46:45	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 09:46:45	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 09:46:45	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 09:46:45	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 09:46:46	Reader 73 conectado.
+16-07-2014 09:47:03	Se han encontrado 4 Readers en BD:
+16-07-2014 09:47:03	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 09:47:03	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 09:47:03	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 09:47:03	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 09:47:29	Se han encontrado 4 Readers en BD:
+16-07-2014 09:47:29	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 09:47:29	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 09:47:29	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 09:47:29	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 09:47:30	Reader 73 conectado.
+16-07-2014 09:47:54	Se han encontrado 4 Readers en BD:
+16-07-2014 09:47:54	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 09:47:54	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 09:47:54	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 09:47:54	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 09:48:21	Se han encontrado 4 Readers en BD:
+16-07-2014 09:48:21	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 09:48:21	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 09:48:21	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 09:48:21	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 09:48:45	Se han encontrado 4 Readers en BD:
+16-07-2014 09:48:45	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 09:48:45	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 09:48:45	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 09:48:45	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 09:49:10	Se han encontrado 4 Readers en BD:
+16-07-2014 09:49:10	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 09:49:10	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 09:49:10	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 09:49:10	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 09:49:11	Reader 73 conectado.
+16-07-2014 09:51:27	Se han encontrado 4 Readers en BD:
+16-07-2014 09:51:27	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 09:51:27	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 09:51:27	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 09:51:27	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 09:51:28	Reader 73 conectado.
+16-07-2014 09:58:22	Se han encontrado 4 Readers en BD:
+16-07-2014 09:58:22	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 09:58:22	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 09:58:22	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 09:58:22	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 09:58:24	Reader 73 conectado.
+16-07-2014 10:17:33	Se han encontrado 4 Readers en BD:
+16-07-2014 10:17:33	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 10:17:33	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 10:17:33	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 10:17:33	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 10:18:06	Reader 73 conectado.
+16-07-2014 10:18:10	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 10:18:10	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 10:18:11	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 10:18:37	Se han encontrado 4 Readers en BD:
+16-07-2014 10:18:37	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 10:18:37	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 10:18:37	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 10:18:37	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 10:18:39	Reader 73 conectado.
+16-07-2014 10:19:19	Se han encontrado 4 Readers en BD:
+16-07-2014 10:19:19	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 10:19:19	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 10:19:19	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 10:19:19	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 10:19:20	Reader 73 conectado.
+16-07-2014 10:33:55	Se han encontrado 4 Readers en BD:
+16-07-2014 10:33:55	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 10:33:55	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 10:33:55	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 10:33:55	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 10:33:57	Reader 73 conectado.
+16-07-2014 10:34:46	Se han encontrado 4 Readers en BD:
+16-07-2014 10:34:46	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 10:34:46	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 10:34:46	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 10:34:46	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 10:34:47	Reader 73 conectado.
+16-07-2014 10:35:34	Se han encontrado 4 Readers en BD:
+16-07-2014 10:35:34	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 10:35:34	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 10:35:34	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 10:35:34	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 10:43:18	Se han encontrado 4 Readers en BD:
+16-07-2014 10:43:18	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 10:43:18	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 10:43:18	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 10:43:18	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 10:43:19	Reader 73 conectado.
+16-07-2014 10:49:40	Se han encontrado 4 Readers en BD:
+16-07-2014 10:49:40	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 10:49:40	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 10:49:40	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 10:49:40	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 10:49:43	Reader 73 conectado.
+16-07-2014 10:50:10	Se han encontrado 4 Readers en BD:
+16-07-2014 10:50:10	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 10:50:10	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 10:50:10	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 10:50:10	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 10:50:11	Reader 73 conectado.
+16-07-2014 10:52:07	Se han encontrado 4 Readers en BD:
+16-07-2014 10:52:07	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 10:52:07	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 10:52:07	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 10:52:07	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 10:52:41	Reader 73 conectado.
+16-07-2014 10:53:03	Se han encontrado 4 Readers en BD:
+16-07-2014 10:53:03	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 10:53:03	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 10:53:03	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 10:53:03	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 10:53:04	Reader 73 conectado.
+16-07-2014 10:53:31	Se han encontrado 4 Readers en BD:
+16-07-2014 10:53:31	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 10:53:31	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 10:53:31	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 10:53:31	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 10:53:33	Reader 73 conectado.
+16-07-2014 10:54:18	Se han encontrado 4 Readers en BD:
+16-07-2014 10:54:18	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 10:54:18	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 10:54:18	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 10:54:18	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 10:54:19	Reader 73 conectado.
+16-07-2014 10:56:55	Se han encontrado 4 Readers en BD:
+16-07-2014 10:56:55	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 10:56:55	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 10:56:55	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 10:56:55	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 10:57:28	Reader 73 conectado.
+16-07-2014 10:57:33	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 10:57:33	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 10:57:53	Se han encontrado 4 Readers en BD:
+16-07-2014 10:57:53	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 10:57:53	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 10:57:53	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 10:57:53	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 10:57:54	Reader 73 conectado.
+16-07-2014 10:58:18	Se han encontrado 4 Readers en BD:
+16-07-2014 10:58:18	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 10:58:18	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 10:58:18	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 10:58:18	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 10:58:19	Reader 73 conectado.
+16-07-2014 10:58:44	Se han encontrado 4 Readers en BD:
+16-07-2014 10:58:44	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 10:58:44	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 10:58:44	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 10:58:44	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 10:59:22	Se han encontrado 4 Readers en BD:
+16-07-2014 10:59:22	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 10:59:22	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 10:59:22	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 10:59:22	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 10:59:25	Reader 73 conectado.
+16-07-2014 11:01:27	Se han encontrado 4 Readers en BD:
+16-07-2014 11:01:27	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 11:01:27	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 11:01:27	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 11:01:27	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 11:01:30	Reader 73 conectado.
+16-07-2014 11:04:07	Se han encontrado 4 Readers en BD:
+16-07-2014 11:04:07	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 11:04:07	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 11:04:07	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 11:04:07	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 11:05:44	Cambio de estado de antenas de reader 73 a 0---
+16-07-2014 11:05:44	Cambio de estado de antenas de reader 73 a 0--0
+16-07-2014 11:05:44	Reader 73 conectado.
+16-07-2014 11:07:54	Se han encontrado 4 Readers en BD:
+16-07-2014 11:07:54	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 11:07:54	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 11:07:54	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 11:07:54	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 11:07:56	Reader 73 conectado.
+16-07-2014 11:23:34	Se han encontrado 4 Readers en BD:
+16-07-2014 11:23:34	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 11:23:34	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 11:23:34	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 11:23:34	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 11:23:36	Reader 73 conectado.
+16-07-2014 11:29:42	Se han encontrado 4 Readers en BD:
+16-07-2014 11:29:42	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 11:29:42	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 11:29:42	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 11:29:42	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 11:29:43	Reader 73 conectado.
+16-07-2014 11:30:54	Se han encontrado 4 Readers en BD:
+16-07-2014 11:30:54	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 11:30:54	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 11:30:54	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 11:30:54	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 11:30:56	Reader 73 conectado.
+16-07-2014 11:31:18	Se han encontrado 4 Readers en BD:
+16-07-2014 11:31:18	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 11:31:18	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 11:31:18	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 11:31:18	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 11:31:20	Reader 73 conectado.
+16-07-2014 11:31:45	Se han encontrado 4 Readers en BD:
+16-07-2014 11:31:45	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 11:31:45	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 11:31:45	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 11:31:45	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 11:31:48	Reader 73 conectado.
+16-07-2014 11:34:39	Se han encontrado 4 Readers en BD:
+16-07-2014 11:34:39	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 11:34:39	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 11:34:39	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 11:34:39	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 11:34:42	Cambio de estado de antenas de reader 73 a 0---
+16-07-2014 11:34:42	Cambio de estado de antenas de reader 73 a 0--0
+16-07-2014 11:34:42	Reader 73 conectado.
+16-07-2014 11:35:11	Se han encontrado 4 Readers en BD:
+16-07-2014 11:35:11	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 11:35:11	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 11:35:11	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 11:35:11	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 11:35:13	Reader 73 conectado.
+16-07-2014 01:52:00	Se han encontrado 4 Readers en BD:
+16-07-2014 01:52:00	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 01:52:00	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 01:52:00	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 01:52:00	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 01:52:00	Reader 74 desconectado.
+16-07-2014 01:52:00	Reader 73 desconectado.
+16-07-2014 01:52:00	Reader 77 desconectado.
+16-07-2014 01:52:00	Reader 75 desconectado.
+16-07-2014 01:52:03	Cambio de estado de antenas de reader 77 a 1---
+16-07-2014 01:52:03	Cambio de estado de antenas de reader 77 a 10--
+16-07-2014 01:52:03	Reader 77 conectado.
+16-07-2014 01:52:03	Reader 73 conectado.
+16-07-2014 02:01:43	Se han encontrado 4 Readers en BD:
+16-07-2014 02:01:44	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 02:01:44	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 02:01:44	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 02:01:44	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 02:01:44	Reader 74 desconectado.
+16-07-2014 02:01:44	Reader 75 desconectado.
+16-07-2014 02:01:44	Reader 77 desconectado.
+16-07-2014 02:01:44	Reader 73 desconectado.
+16-07-2014 02:01:46	Cambio de estado de antenas de reader 73 a 0---
+16-07-2014 02:01:46	Cambio de estado de antenas de reader 73 a 00--
+16-07-2014 02:01:46	Cambio de estado de antenas de reader 73 a 00-0
+16-07-2014 02:01:46	Cambio de estado de antenas de reader 77 a ---0
+16-07-2014 02:01:46	Cambio de estado de antenas de reader 77 a 1--0
+16-07-2014 02:01:46	Cambio de estado de antenas de reader 77 a 10-0
+16-07-2014 02:01:46	Reader 73 conectado.
+16-07-2014 02:01:46	Reader 77 conectado.
+16-07-2014 02:02:55	Se han encontrado 4 Readers en BD:
+16-07-2014 02:02:55	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 02:02:55	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 02:02:55	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 02:02:55	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 02:02:55	Reader 74 desconectado.
+16-07-2014 02:02:55	Reader 75 desconectado.
+16-07-2014 02:02:55	Reader 73 desconectado.
+16-07-2014 02:02:55	Reader 77 desconectado.
+16-07-2014 02:02:56	Reader 73 conectado.
+16-07-2014 02:02:56	Reader 77 conectado.
+16-07-2014 02:03:01	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 02:03:35	Se han encontrado 4 Readers en BD:
+16-07-2014 02:03:35	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 02:03:35	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 02:03:35	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 02:03:35	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 02:03:35	Reader 74 desconectado.
+16-07-2014 02:03:35	Reader 75 desconectado.
+16-07-2014 02:03:35	Reader 77 desconectado.
+16-07-2014 02:03:35	Reader 73 desconectado.
+16-07-2014 02:03:37	Reader 73 conectado.
+16-07-2014 02:03:37	Reader 77 conectado.
+16-07-2014 02:05:07	Se han encontrado 4 Readers en BD:
+16-07-2014 02:05:07	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 02:05:07	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 02:05:07	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 02:05:07	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 02:05:07	Reader 74 desconectado.
+16-07-2014 02:05:07	Reader 75 desconectado.
+16-07-2014 02:05:07	Reader 73 desconectado.
+16-07-2014 02:05:07	Reader 77 desconectado.
+16-07-2014 02:05:08	Reader 73 conectado.
+16-07-2014 02:05:08	Reader 77 conectado.
+16-07-2014 02:05:28	Cambio de estado de antenas de reader 73 a 0010
+16-07-2014 02:05:41	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 02:05:44	Cambio de estado de antenas de reader 73 a 0100
+16-07-2014 02:05:51	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 02:05:55	Cambio de estado de antenas de reader 73 a 1000
+16-07-2014 02:06:52	Se han encontrado 4 Readers en BD:
+16-07-2014 02:06:52	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 02:06:52	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 02:06:52	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 02:06:52	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 02:06:53	Reader 74 desconectado.
+16-07-2014 02:06:53	Reader 75 desconectado.
+16-07-2014 02:06:53	Reader 77 desconectado.
+16-07-2014 02:06:53	Reader 73 desconectado.
+16-07-2014 02:06:55	Cambio de estado de antenas de reader 77 a 1---
+16-07-2014 02:06:55	Cambio de estado de antenas de reader 77 a 10--
+16-07-2014 02:06:55	Reader 73 conectado.
+16-07-2014 02:06:55	Reader 77 conectado.
+16-07-2014 02:07:33	Se han encontrado 4 Readers en BD:
+16-07-2014 02:07:33	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 02:07:33	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 02:07:33	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 02:07:33	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 02:07:33	Reader 74 desconectado.
+16-07-2014 02:07:33	Reader 75 desconectado.
+16-07-2014 02:07:33	Reader 73 desconectado.
+16-07-2014 02:07:33	Reader 77 desconectado.
+16-07-2014 02:07:35	Cambio de estado de antenas de reader 77 a 1---
+16-07-2014 02:07:35	Cambio de estado de antenas de reader 77 a 10--
+16-07-2014 02:07:35	Reader 77 conectado.
+16-07-2014 02:07:35	Cambio de estado de antenas de reader 73 a 0---
+16-07-2014 02:07:35	Cambio de estado de antenas de reader 73 a 0-1-
+16-07-2014 02:07:35	Reader 73 conectado.
+16-07-2014 02:13:24	Se han encontrado 4 Readers en BD:
+16-07-2014 02:13:24	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 02:13:24	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 02:13:24	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 02:13:24	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 02:13:24	Reader 74 desconectado.
+16-07-2014 02:13:24	Reader 75 desconectado.
+16-07-2014 02:13:24	Reader 77 desconectado.
+16-07-2014 02:13:24	Reader 73 desconectado.
+16-07-2014 02:13:55	Se han encontrado 4 Readers en BD:
+16-07-2014 02:13:55	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 02:13:55	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 02:13:55	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 02:13:55	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 02:13:55	Reader 74 desconectado.
+16-07-2014 02:13:55	Reader 75 desconectado.
+16-07-2014 02:13:55	Reader 77 desconectado.
+16-07-2014 02:13:55	Reader 73 desconectado.
+16-07-2014 02:13:57	Cambio de estado de antenas de reader 73 a -1--
+16-07-2014 02:13:57	Reader 73 conectado.
+16-07-2014 02:13:57	Reader 77 conectado.
+16-07-2014 02:14:12	Cambio de estado de antenas de reader 73 a 0010
+16-07-2014 02:14:24	Cambio de estado de antenas de reader 73 a 1010
+16-07-2014 02:14:45	Cambio de estado de antenas de reader 73 a 0010
+16-07-2014 02:14:49	Cambio de estado de antenas de reader 73 a 0011
+16-07-2014 02:14:56	Reader 77 desconectado.
+16-07-2014 02:14:57	Reader 73 desconectado.
+16-07-2014 02:15:00	Se han encontrado 4 Readers en BD:
+16-07-2014 02:15:00	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 02:15:00	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 02:15:00	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 02:15:00	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 02:15:00	Reader 77 desconectado.
+16-07-2014 02:15:00	Reader 73 desconectado.
+16-07-2014 02:15:00	Reader 74 desconectado.
+16-07-2014 02:15:00	Reader 75 desconectado.
+16-07-2014 02:15:00	Reader 73 conectado.
+16-07-2014 02:15:00	Reader 77 conectado.
+16-07-2014 02:15:47	Se han encontrado 4 Readers en BD:
+16-07-2014 02:15:47	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 02:15:47	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 02:15:47	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 02:15:47	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 02:15:47	Reader 74 desconectado.
+16-07-2014 02:15:47	Reader 75 desconectado.
+16-07-2014 02:15:47	Reader 73 desconectado.
+16-07-2014 02:15:47	Reader 77 desconectado.
+16-07-2014 02:15:49	Reader 77 conectado.
+16-07-2014 02:16:19	Reader 73 conectado.
+16-07-2014 02:16:24	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 02:16:24	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 02:16:24	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 02:21:20	Se han encontrado 4 Readers en BD:
+16-07-2014 02:21:20	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 02:21:20	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 02:21:20	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 02:21:20	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 02:21:20	Reader 74 desconectado.
+16-07-2014 02:21:20	Reader 75 desconectado.
+16-07-2014 02:21:20	Reader 77 desconectado.
+16-07-2014 02:21:20	Reader 73 desconectado.
+16-07-2014 02:21:22	Cambio de estado de antenas de reader 77 a 1---
+16-07-2014 02:21:22	Cambio de estado de antenas de reader 77 a 10--
+16-07-2014 02:21:23	Reader 73 conectado.
+16-07-2014 02:21:23	Reader 77 conectado.
+16-07-2014 02:22:18	Se han encontrado 4 Readers en BD:
+16-07-2014 02:22:18	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 02:22:18	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 02:22:18	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 02:22:18	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 02:22:18	Reader 74 desconectado.
+16-07-2014 02:22:18	Reader 75 desconectado.
+16-07-2014 02:22:18	Reader 73 desconectado.
+16-07-2014 02:22:18	Reader 77 desconectado.
+16-07-2014 02:22:19	Reader 73 conectado.
+16-07-2014 02:22:19	Reader 77 conectado.
+16-07-2014 02:22:19	Cambio de estado de antenas de reader 73 a 0101
+16-07-2014 02:22:24	Cambio de estado de antenas de reader 73 a 0100
+16-07-2014 02:22:35	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 02:22:38	Cambio de estado de antenas de reader 73 a 0010
+16-07-2014 02:24:14	Se han encontrado 4 Readers en BD:
+16-07-2014 02:24:14	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 02:24:14	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 02:24:14	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 02:24:14	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 02:24:14	Reader 74 desconectado.
+16-07-2014 02:24:14	Reader 75 desconectado.
+16-07-2014 02:24:14	Reader 77 desconectado.
+16-07-2014 02:24:14	Reader 73 desconectado.
+16-07-2014 02:24:16	Cambio de estado de antenas de reader 77 a 1---
+16-07-2014 02:24:16	Cambio de estado de antenas de reader 77 a 10--
+16-07-2014 02:24:17	Reader 77 conectado.
+16-07-2014 02:24:17	Reader 73 conectado.
+16-07-2014 02:26:27	Se han encontrado 4 Readers en BD:
+16-07-2014 02:26:27	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 02:26:27	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 02:26:27	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 02:26:27	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 02:26:27	Reader 74 desconectado.
+16-07-2014 02:26:27	Reader 75 desconectado.
+16-07-2014 02:26:27	Reader 77 desconectado.
+16-07-2014 02:26:27	Reader 73 desconectado.
+16-07-2014 02:26:29	Cambio de estado de antenas de reader 77 a 1---
+16-07-2014 02:26:29	Cambio de estado de antenas de reader 77 a 10--
+16-07-2014 02:26:29	Cambio de estado de antenas de reader 73 a 1---
+16-07-2014 02:26:29	Cambio de estado de antenas de reader 73 a 1-0-
+16-07-2014 02:26:29	Reader 77 conectado.
+16-07-2014 02:26:29	Reader 73 conectado.
+16-07-2014 02:27:33	Se han encontrado 4 Readers en BD:
+16-07-2014 02:27:33	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 02:27:33	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 02:27:33	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 02:27:33	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 02:27:33	Reader 74 desconectado.
+16-07-2014 02:27:33	Reader 75 desconectado.
+16-07-2014 02:27:33	Reader 77 desconectado.
+16-07-2014 02:27:33	Reader 73 desconectado.
+16-07-2014 02:27:35	Reader 73 conectado.
+16-07-2014 02:27:35	Reader 77 conectado.
+16-07-2014 02:27:47	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 02:27:50	Cambio de estado de antenas de reader 73 a 1000
+16-07-2014 02:28:26	Se han encontrado 4 Readers en BD:
+16-07-2014 02:28:26	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 02:28:26	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 02:28:26	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 02:28:26	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 02:28:26	Reader 74 desconectado.
+16-07-2014 02:28:26	Reader 75 desconectado.
+16-07-2014 02:28:26	Reader 77 desconectado.
+16-07-2014 02:28:26	Reader 73 desconectado.
+16-07-2014 02:28:28	Cambio de estado de antenas de reader 77 a 1---
+16-07-2014 02:28:28	Cambio de estado de antenas de reader 77 a 10--
+16-07-2014 02:28:28	Reader 73 conectado.
+16-07-2014 02:28:28	Reader 77 conectado.
+16-07-2014 02:31:34	Se han encontrado 4 Readers en BD:
+16-07-2014 02:31:34	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 02:31:34	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 02:31:34	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 02:31:35	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 02:31:35	Reader 74 desconectado.
+16-07-2014 02:31:35	Reader 75 desconectado.
+16-07-2014 02:31:35	Reader 73 desconectado.
+16-07-2014 02:31:35	Reader 77 desconectado.
+16-07-2014 02:31:37	Reader 77 conectado.
+16-07-2014 02:31:37	Reader 73 conectado.
+16-07-2014 02:31:50	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 02:31:54	Cambio de estado de antenas de reader 73 a 0001
+16-07-2014 02:33:59	Se han encontrado 4 Readers en BD:
+16-07-2014 02:33:59	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 02:33:59	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 02:33:59	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 02:33:59	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 02:33:59	Reader 74 desconectado.
+16-07-2014 02:33:59	Reader 75 desconectado.
+16-07-2014 02:34:00	Reader 77 desconectado.
+16-07-2014 02:34:00	Reader 73 desconectado.
+16-07-2014 02:34:01	Reader 77 conectado.
+16-07-2014 02:34:32	Reader 73 conectado.
+16-07-2014 02:34:37	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 02:34:37	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 02:34:37	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 02:35:09	Reader 77 desconectado.
+16-07-2014 02:35:10	Reader 73 desconectado.
+16-07-2014 02:35:13	Se han encontrado 4 Readers en BD:
+16-07-2014 02:35:13	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 02:35:13	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 02:35:13	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 02:35:13	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 02:35:13	Reader 74 desconectado.
+16-07-2014 02:35:13	Reader 75 desconectado.
+16-07-2014 02:35:13	Reader 77 desconectado.
+16-07-2014 02:35:13	Reader 73 desconectado.
+16-07-2014 02:35:13	Reader 77 conectado.
+16-07-2014 02:35:23	Reader 73 conectado.
+16-07-2014 02:36:46	Se han encontrado 4 Readers en BD:
+16-07-2014 02:36:46	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 02:36:46	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 02:36:46	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 02:36:46	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 02:36:46	Reader 74 desconectado.
+16-07-2014 02:36:46	Reader 75 desconectado.
+16-07-2014 02:36:46	Reader 77 desconectado.
+16-07-2014 02:36:46	Reader 73 desconectado.
+16-07-2014 02:36:48	Reader 77 conectado.
+16-07-2014 02:36:48	Reader 73 conectado.
+16-07-2014 02:37:11	Se han encontrado 4 Readers en BD:
+16-07-2014 02:37:11	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 02:37:11	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 02:37:11	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 02:37:11	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 02:37:11	Reader 74 desconectado.
+16-07-2014 02:37:11	Reader 75 desconectado.
+16-07-2014 02:37:11	Reader 77 desconectado.
+16-07-2014 02:37:11	Reader 73 desconectado.
+16-07-2014 02:37:13	Reader 73 conectado.
+16-07-2014 02:37:13	Reader 77 conectado.
+16-07-2014 02:39:40	Se han encontrado 4 Readers en BD:
+16-07-2014 02:39:40	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 02:39:40	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 02:39:40	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 02:39:40	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 02:39:40	Reader 74 desconectado.
+16-07-2014 02:39:40	Reader 75 desconectado.
+16-07-2014 02:39:40	Reader 73 desconectado.
+16-07-2014 02:39:40	Reader 77 desconectado.
+16-07-2014 02:39:42	Cambio de estado de antenas de reader 77 a 1---
+16-07-2014 02:39:42	Cambio de estado de antenas de reader 77 a 10--
+16-07-2014 02:39:42	Reader 77 conectado.
+16-07-2014 02:39:42	Reader 73 conectado.
+16-07-2014 02:42:22	Se han encontrado 4 Readers en BD:
+16-07-2014 02:42:22	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 02:42:22	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 02:42:22	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 02:42:22	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 02:42:22	Reader 74 desconectado.
+16-07-2014 02:42:22	Reader 75 desconectado.
+16-07-2014 02:42:22	Reader 77 desconectado.
+16-07-2014 02:42:22	Reader 73 desconectado.
+16-07-2014 02:46:56	Se han encontrado 4 Readers en BD:
+16-07-2014 02:46:56	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 02:46:56	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 02:46:56	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 02:46:56	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 02:46:56	Reader 74 desconectado.
+16-07-2014 02:46:56	Reader 75 desconectado.
+16-07-2014 02:46:56	Reader 77 desconectado.
+16-07-2014 02:46:56	Reader 73 desconectado.
+16-07-2014 02:46:58	Cambio de estado de antenas de reader 77 a 1---
+16-07-2014 02:46:58	Cambio de estado de antenas de reader 77 a 10--
+16-07-2014 02:46:58	Reader 77 conectado.
+16-07-2014 02:46:58	Cambio de estado de antenas de reader 73 a 1---
+16-07-2014 02:46:58	Cambio de estado de antenas de reader 73 a 1--0
+16-07-2014 02:46:58	Reader 73 conectado.
+16-07-2014 02:48:06	Se han encontrado 4 Readers en BD:
+16-07-2014 02:48:06	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 02:48:06	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 02:48:06	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 02:48:06	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 02:48:06	Reader 74 desconectado.
+16-07-2014 02:48:06	Reader 75 desconectado.
+16-07-2014 02:48:06	Reader 77 desconectado.
+16-07-2014 02:48:06	Reader 73 desconectado.
+16-07-2014 02:48:08	Cambio de estado de antenas de reader 77 a 1---
+16-07-2014 02:48:08	Cambio de estado de antenas de reader 77 a 10--
+16-07-2014 02:48:08	Reader 77 conectado.
+16-07-2014 02:48:08	Cambio de estado de antenas de reader 73 a 0---
+16-07-2014 02:48:08	Cambio de estado de antenas de reader 73 a 01--
+16-07-2014 02:48:09	Reader 73 conectado.
+16-07-2014 02:53:58	Se han encontrado 4 Readers en BD:
+16-07-2014 02:53:58	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 02:53:58	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 02:53:58	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 02:53:58	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 02:53:58	Reader 74 desconectado.
+16-07-2014 02:53:58	Reader 75 desconectado.
+16-07-2014 02:53:58	Reader 77 desconectado.
+16-07-2014 02:53:58	Reader 73 desconectado.
+16-07-2014 02:53:59	Reader 73 conectado.
+16-07-2014 02:53:59	Reader 77 conectado.
+16-07-2014 02:54:24	Reader 77 desconectado.
+16-07-2014 02:54:35	Reader 73 desconectado.
+16-07-2014 02:54:37	Se han encontrado 4 Readers en BD:
+16-07-2014 02:54:37	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 02:54:37	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 02:54:37	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 02:54:37	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 02:54:37	Reader 74 desconectado.
+16-07-2014 02:54:37	Reader 75 desconectado.
+16-07-2014 02:54:37	Reader 77 desconectado.
+16-07-2014 02:54:37	Reader 73 desconectado.
+16-07-2014 02:54:38	Reader 77 conectado.
+16-07-2014 02:55:09	Reader 73 conectado.
+16-07-2014 02:55:57	Se han encontrado 4 Readers en BD:
+16-07-2014 02:55:57	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 02:55:57	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 02:55:57	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 02:55:57	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 02:55:57	Reader 74 desconectado.
+16-07-2014 02:55:57	Reader 75 desconectado.
+16-07-2014 02:55:57	Reader 77 desconectado.
+16-07-2014 02:55:57	Reader 73 desconectado.
+16-07-2014 02:55:58	Reader 77 conectado.
+16-07-2014 02:55:58	Reader 73 conectado.
+16-07-2014 02:56:15	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 02:56:18	Cambio de estado de antenas de reader 73 a 0100
+16-07-2014 02:57:40	Se han encontrado 4 Readers en BD:
+16-07-2014 02:57:40	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 02:57:40	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 02:57:40	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 02:57:40	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 02:57:40	Reader 73 desconectado.
+16-07-2014 02:57:40	Reader 74 desconectado.
+16-07-2014 02:57:40	Reader 75 desconectado.
+16-07-2014 02:57:40	Reader 77 desconectado.
+16-07-2014 02:58:07	Se han encontrado 4 Readers en BD:
+16-07-2014 02:58:07	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 02:58:07	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 02:58:07	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 02:58:07	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 02:58:07	Reader 73 desconectado.
+16-07-2014 02:58:07	Reader 74 desconectado.
+16-07-2014 02:58:07	Reader 75 desconectado.
+16-07-2014 02:58:07	Reader 77 desconectado.
+16-07-2014 02:58:08	Reader 73 conectado.
+16-07-2014 02:58:08	Reader 77 conectado.
+16-07-2014 02:58:18	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 02:58:26	Cambio de estado de antenas de reader 73 a 0001
+16-07-2014 02:59:46	Se han encontrado 4 Readers en BD:
+16-07-2014 02:59:46	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 02:59:46	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 02:59:46	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 02:59:46	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 02:59:46	Reader 74 desconectado.
+16-07-2014 02:59:46	Reader 75 desconectado.
+16-07-2014 02:59:46	Reader 77 desconectado.
+16-07-2014 02:59:46	Reader 73 desconectado.
+16-07-2014 02:59:47	Reader 77 conectado.
+16-07-2014 03:00:26	Reader 73 conectado.
+16-07-2014 03:00:31	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 03:00:31	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 03:00:32	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 03:02:19	Se han encontrado 4 Readers en BD:
+16-07-2014 03:02:19	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 03:02:19	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 03:02:19	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 03:02:19	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 03:02:19	Reader 74 desconectado.
+16-07-2014 03:02:19	Reader 75 desconectado.
+16-07-2014 03:02:19	Reader 77 desconectado.
+16-07-2014 03:02:19	Reader 73 desconectado.
+16-07-2014 03:02:20	Reader 77 conectado.
+16-07-2014 03:02:20	Reader 73 conectado.
+16-07-2014 03:03:12	Se han encontrado 4 Readers en BD:
+16-07-2014 03:03:12	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 03:03:12	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 03:03:12	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 03:03:12	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 03:03:12	Reader 74 desconectado.
+16-07-2014 03:03:12	Reader 75 desconectado.
+16-07-2014 03:03:12	Reader 77 desconectado.
+16-07-2014 03:03:12	Reader 73 desconectado.
+16-07-2014 03:03:14	Reader 77 conectado.
+16-07-2014 03:03:14	Reader 73 conectado.
+16-07-2014 03:04:22	Se han encontrado 4 Readers en BD:
+16-07-2014 03:04:22	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 03:04:22	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 03:04:22	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 03:04:22	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 03:04:22	Reader 74 desconectado.
+16-07-2014 03:04:22	Reader 75 desconectado.
+16-07-2014 03:04:22	Reader 77 desconectado.
+16-07-2014 03:04:22	Reader 73 desconectado.
+16-07-2014 03:04:23	Reader 77 conectado.
+16-07-2014 03:04:23	Reader 73 conectado.
+16-07-2014 03:04:47	Se han encontrado 4 Readers en BD:
+16-07-2014 03:04:47	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 03:04:47	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 03:04:47	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 03:04:47	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 03:04:47	Reader 74 desconectado.
+16-07-2014 03:04:47	Reader 75 desconectado.
+16-07-2014 03:04:47	Reader 77 desconectado.
+16-07-2014 03:04:47	Reader 73 desconectado.
+16-07-2014 03:04:48	Reader 77 conectado.
+16-07-2014 03:04:48	Reader 73 conectado.
+16-07-2014 03:05:36	Se han encontrado 4 Readers en BD:
+16-07-2014 03:05:36	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 03:05:36	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 03:05:36	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 03:05:36	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 03:05:36	Reader 74 desconectado.
+16-07-2014 03:05:36	Reader 75 desconectado.
+16-07-2014 03:05:36	Reader 77 desconectado.
+16-07-2014 03:05:36	Reader 73 desconectado.
+16-07-2014 03:05:38	Cambio de estado de antenas de reader 77 a 1---
+16-07-2014 03:05:38	Cambio de estado de antenas de reader 77 a 10--
+16-07-2014 03:05:39	Reader 77 conectado.
+16-07-2014 03:05:39	Reader 73 conectado.
+16-07-2014 03:07:41	Se han encontrado 4 Readers en BD:
+16-07-2014 03:07:41	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 03:07:41	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 03:07:41	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 03:07:41	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 03:07:41	Reader 74 desconectado.
+16-07-2014 03:07:41	Reader 75 desconectado.
+16-07-2014 03:07:41	Reader 77 desconectado.
+16-07-2014 03:07:41	Reader 73 desconectado.
+16-07-2014 03:07:43	Cambio de estado de antenas de reader 77 a 1---
+16-07-2014 03:07:43	Cambio de estado de antenas de reader 77 a 10--
+16-07-2014 03:07:44	Reader 77 conectado.
+16-07-2014 03:07:44	Cambio de estado de antenas de reader 73 a --1-
+16-07-2014 03:07:44	Cambio de estado de antenas de reader 73 a --10
+16-07-2014 03:07:44	Reader 73 conectado.
+16-07-2014 03:09:19	Se han encontrado 4 Readers en BD:
+16-07-2014 03:09:19	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 03:09:19	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 03:09:19	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 03:09:19	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 03:09:19	Reader 74 desconectado.
+16-07-2014 03:09:19	Reader 75 desconectado.
+16-07-2014 03:09:19	Reader 77 desconectado.
+16-07-2014 03:09:19	Reader 73 desconectado.
+16-07-2014 03:09:21	Cambio de estado de antenas de reader 77 a 1---
+16-07-2014 03:09:21	Cambio de estado de antenas de reader 77 a 10--
+16-07-2014 03:09:21	Reader 77 conectado.
+16-07-2014 03:09:21	Cambio de estado de antenas de reader 73 a 1---
+16-07-2014 03:09:21	Cambio de estado de antenas de reader 73 a 1-0-
+16-07-2014 03:09:22	Reader 73 conectado.
+16-07-2014 03:13:01	Se han encontrado 4 Readers en BD:
+16-07-2014 03:13:01	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 03:13:01	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 03:13:01	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 03:13:01	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 03:13:01	Reader 74 desconectado.
+16-07-2014 03:13:01	Reader 75 desconectado.
+16-07-2014 03:13:01	Reader 77 desconectado.
+16-07-2014 03:13:01	Reader 73 desconectado.
+16-07-2014 03:13:24	Se han encontrado 4 Readers en BD:
+16-07-2014 03:13:24	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 03:13:24	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 03:13:24	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 03:13:24	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 03:13:24	Reader 74 desconectado.
+16-07-2014 03:13:24	Reader 75 desconectado.
+16-07-2014 03:13:24	Reader 77 desconectado.
+16-07-2014 03:13:24	Reader 73 desconectado.
+16-07-2014 03:13:26	Cambio de estado de antenas de reader 73 a -1--
+16-07-2014 03:13:26	Reader 73 conectado.
+16-07-2014 03:13:26	Reader 77 conectado.
+16-07-2014 03:13:50	Reader 77 desconectado.
+16-07-2014 03:13:51	Reader 73 desconectado.
+16-07-2014 03:13:53	Se han encontrado 4 Readers en BD:
+16-07-2014 03:13:53	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 03:13:53	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 03:13:53	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 03:13:53	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 03:13:53	Reader 74 desconectado.
+16-07-2014 03:13:53	Reader 75 desconectado.
+16-07-2014 03:13:53	Reader 77 desconectado.
+16-07-2014 03:13:53	Reader 73 desconectado.
+16-07-2014 03:13:54	Reader 77 conectado.
+16-07-2014 03:13:54	Reader 73 conectado.
+16-07-2014 03:14:25	Se han encontrado 4 Readers en BD:
+16-07-2014 03:14:25	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 03:14:25	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 03:14:25	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 03:14:25	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 03:14:25	Reader 74 desconectado.
+16-07-2014 03:14:25	Reader 75 desconectado.
+16-07-2014 03:14:25	Reader 77 desconectado.
+16-07-2014 03:14:25	Reader 73 desconectado.
+16-07-2014 03:14:26	Reader 77 conectado.
+16-07-2014 03:14:26	Reader 73 conectado.
+16-07-2014 03:15:16	Se han encontrado 4 Readers en BD:
+16-07-2014 03:15:16	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 03:15:16	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 03:15:16	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 03:15:16	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 03:15:16	Reader 74 desconectado.
+16-07-2014 03:15:16	Reader 75 desconectado.
+16-07-2014 03:15:16	Reader 77 desconectado.
+16-07-2014 03:15:16	Reader 73 desconectado.
+16-07-2014 03:15:18	Reader 77 conectado.
+16-07-2014 03:16:20	Reader 73 conectado.
+16-07-2014 03:16:25	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 03:16:25	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 03:16:25	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 03:17:19	Reader 77 desconectado.
+16-07-2014 03:17:20	Reader 73 desconectado.
+16-07-2014 03:17:22	Se han encontrado 4 Readers en BD:
+16-07-2014 03:17:22	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 03:17:22	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 03:17:22	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 03:17:22	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 03:17:22	Reader 77 desconectado.
+16-07-2014 03:17:22	Reader 73 desconectado.
+16-07-2014 03:17:22	Reader 74 desconectado.
+16-07-2014 03:17:22	Reader 75 desconectado.
+16-07-2014 03:17:23	Reader 77 conectado.
+16-07-2014 03:17:23	Reader 73 conectado.
+16-07-2014 03:18:19	Se han encontrado 4 Readers en BD:
+16-07-2014 03:18:19	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 03:18:19	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 03:18:19	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 03:18:19	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 03:18:19	Reader 74 desconectado.
+16-07-2014 03:18:19	Reader 75 desconectado.
+16-07-2014 03:18:19	Reader 77 desconectado.
+16-07-2014 03:18:19	Reader 73 desconectado.
+16-07-2014 03:18:21	Reader 77 conectado.
+16-07-2014 03:18:21	Reader 73 conectado.
+16-07-2014 03:22:28	Se han encontrado 4 Readers en BD:
+16-07-2014 03:22:28	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 03:22:28	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 03:22:28	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 03:22:28	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 03:22:28	Reader 74 desconectado.
+16-07-2014 03:22:28	Reader 75 desconectado.
+16-07-2014 03:22:28	Reader 77 desconectado.
+16-07-2014 03:22:28	Reader 73 desconectado.
+16-07-2014 03:22:31	Reader 73 conectado.
+16-07-2014 03:22:31	Reader 77 conectado.
+16-07-2014 03:23:49	Se han encontrado 4 Readers en BD:
+16-07-2014 03:23:49	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 03:23:49	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 03:23:49	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 03:23:49	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 03:23:49	Reader 74 desconectado.
+16-07-2014 03:23:49	Reader 75 desconectado.
+16-07-2014 03:23:49	Reader 73 desconectado.
+16-07-2014 03:23:49	Reader 77 desconectado.
+16-07-2014 03:23:51	Reader 73 conectado.
+16-07-2014 03:23:51	Reader 77 conectado.
+16-07-2014 03:24:20	Se han encontrado 4 Readers en BD:
+16-07-2014 03:24:20	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 03:24:20	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 03:24:20	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 03:24:20	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 03:24:20	Reader 74 desconectado.
+16-07-2014 03:24:20	Reader 75 desconectado.
+16-07-2014 03:24:20	Reader 73 desconectado.
+16-07-2014 03:24:20	Reader 77 desconectado.
+16-07-2014 03:24:22	Reader 77 conectado.
+16-07-2014 03:24:22	Reader 73 conectado.
+16-07-2014 03:31:47	Se han encontrado 4 Readers en BD:
+16-07-2014 03:31:47	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 03:31:47	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 03:31:47	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 03:31:47	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 03:31:47	Reader 74 desconectado.
+16-07-2014 03:31:47	Reader 75 desconectado.
+16-07-2014 03:31:47	Reader 77 desconectado.
+16-07-2014 03:31:47	Reader 73 desconectado.
+16-07-2014 03:31:48	Reader 77 conectado.
+16-07-2014 03:35:53	Se han encontrado 4 Readers en BD:
+16-07-2014 03:35:53	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 03:35:53	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 03:35:53	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 03:35:53	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 03:35:53	Reader 74 desconectado.
+16-07-2014 03:35:53	Reader 75 desconectado.
+16-07-2014 03:35:53	Reader 73 desconectado.
+16-07-2014 03:35:53	Reader 77 desconectado.
+16-07-2014 03:35:55	Reader 77 conectado.
+16-07-2014 03:35:55	Reader 77 desconectado.
+16-07-2014 03:35:56	Cambio de estado de antenas de reader 77 a 1---
+16-07-2014 03:35:56	Cambio de estado de antenas de reader 77 a 10--
+16-07-2014 03:35:56	Reader 77 conectado.
+16-07-2014 03:36:25	Reader 73 conectado.
+16-07-2014 03:36:26	Reader 73 desconectado.
+16-07-2014 03:36:37	Reader 73 conectado.
+16-07-2014 03:36:37	Reader 73 desconectado.
+16-07-2014 03:36:38	Reader 73 conectado.
+16-07-2014 03:36:51	Reader 77 desconectado.
+16-07-2014 03:36:53	Reader 73 desconectado.
+16-07-2014 03:36:55	Se han encontrado 4 Readers en BD:
+16-07-2014 03:36:55	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 03:36:55	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 03:36:55	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 03:36:55	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 03:36:55	Reader 74 desconectado.
+16-07-2014 03:36:55	Reader 75 desconectado.
+16-07-2014 03:36:55	Reader 77 desconectado.
+16-07-2014 03:36:55	Reader 73 desconectado.
+16-07-2014 03:36:55	Reader 77 conectado.
+16-07-2014 03:36:55	Reader 73 conectado.
+16-07-2014 03:36:56	Reader 77 desconectado.
+16-07-2014 03:36:56	Reader 73 desconectado.
+16-07-2014 03:36:56	Reader 73 conectado.
+16-07-2014 03:37:06	Cambio de estado de antenas de reader 77 a 1---
+16-07-2014 03:37:06	Cambio de estado de antenas de reader 77 a 10--
+16-07-2014 03:37:06	Reader 77 conectado.
+16-07-2014 03:37:56	Se han encontrado 4 Readers en BD:
+16-07-2014 03:37:56	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 03:37:56	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 03:37:56	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 03:37:56	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 03:37:56	Reader 74 desconectado.
+16-07-2014 03:37:56	Reader 75 desconectado.
+16-07-2014 03:37:56	Reader 73 desconectado.
+16-07-2014 03:37:56	Reader 77 desconectado.
+16-07-2014 03:37:57	Reader 73 conectado.
+16-07-2014 03:37:57	Cambio de estado de antenas de reader 73 a --1-
+16-07-2014 03:37:57	Reader 77 conectado.
+16-07-2014 03:37:58	Reader 73 desconectado.
+16-07-2014 03:37:58	Reader 77 desconectado.
+16-07-2014 03:37:58	Cambio de estado de antenas de reader 77 a 1---
+16-07-2014 03:37:58	Cambio de estado de antenas de reader 77 a 10--
+16-07-2014 03:37:58	Reader 77 conectado.
+16-07-2014 03:37:58	Cambio de estado de antenas de reader 73 a 0-1-
+16-07-2014 03:37:59	Reader 73 conectado.
+16-07-2014 03:40:00	Se han encontrado 4 Readers en BD:
+16-07-2014 03:40:00	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 03:40:00	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 03:40:00	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 03:40:00	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 03:40:00	Reader 74 desconectado.
+16-07-2014 03:40:01	Reader 75 desconectado.
+16-07-2014 03:40:01	Reader 77 desconectado.
+16-07-2014 03:40:01	Reader 73 desconectado.
+16-07-2014 03:40:29	Se han encontrado 4 Readers en BD:
+16-07-2014 03:40:29	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 03:40:29	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 03:40:29	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 03:40:29	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 03:40:29	Reader 74 desconectado.
+16-07-2014 03:40:29	Reader 75 desconectado.
+16-07-2014 03:40:29	Reader 77 desconectado.
+16-07-2014 03:40:29	Reader 73 desconectado.
+16-07-2014 03:40:30	Cambio de estado de antenas de reader 73 a -1--
+16-07-2014 03:40:30	Reader 73 conectado.
+16-07-2014 03:40:30	Reader 77 conectado.
+16-07-2014 03:40:31	Reader 77 desconectado.
+16-07-2014 03:40:31	Reader 73 desconectado.
+16-07-2014 03:40:31	Cambio de estado de antenas de reader 77 a 1---
+16-07-2014 03:40:31	Cambio de estado de antenas de reader 77 a 10--
+16-07-2014 03:40:31	Reader 77 conectado.
+16-07-2014 03:40:31	Cambio de estado de antenas de reader 73 a -10-
+16-07-2014 03:40:31	Reader 73 conectado.
+16-07-2014 03:44:35	Se han encontrado 4 Readers en BD:
+16-07-2014 03:44:35	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 03:44:35	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 03:44:35	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 03:44:35	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 03:44:36	Reader 74 desconectado.
+16-07-2014 03:44:36	Reader 75 desconectado.
+16-07-2014 03:44:36	Reader 77 desconectado.
+16-07-2014 03:44:36	Reader 73 desconectado.
+16-07-2014 03:44:37	Reader 77 conectado.
+16-07-2014 03:44:37	Reader 77 desconectado.
+16-07-2014 03:44:37	Reader 73 conectado.
+16-07-2014 03:44:37	Reader 73 desconectado.
+16-07-2014 03:44:37	Reader 73 conectado.
+16-07-2014 03:44:37	Reader 77 conectado.
+16-07-2014 03:44:42	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 03:44:52	Cambio de estado de antenas de reader 73 a 0100
+16-07-2014 03:45:06	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 03:45:09	Cambio de estado de antenas de reader 73 a 1000
+16-07-2014 03:46:09	Se han encontrado 4 Readers en BD:
+16-07-2014 03:46:09	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 03:46:09	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 03:46:09	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 03:46:09	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 03:46:09	Reader 74 desconectado.
+16-07-2014 03:46:09	Reader 75 desconectado.
+16-07-2014 03:46:09	Reader 77 desconectado.
+16-07-2014 03:46:09	Reader 73 desconectado.
+16-07-2014 03:46:11	Reader 77 conectado.
+16-07-2014 03:46:11	Reader 77 desconectado.
+16-07-2014 03:46:11	Reader 77 conectado.
+16-07-2014 03:47:13	Reader 73 conectado.
+16-07-2014 03:47:13	Reader 73 desconectado.
+16-07-2014 03:47:13	Reader 73 conectado.
+16-07-2014 03:47:13	Reader 73 desconectado.
+16-07-2014 03:47:13	Reader 73 conectado.
+16-07-2014 03:47:13	Reader 73 desconectado.
+16-07-2014 03:47:13	Reader 73 conectado.
+16-07-2014 03:47:18	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 03:47:18	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 03:47:18	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 03:51:13	Se han encontrado 4 Readers en BD:
+16-07-2014 03:51:13	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 03:51:13	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 03:51:13	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 03:51:13	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 03:51:13	Reader 73 desconectado.
+16-07-2014 03:51:13	Reader 74 desconectado.
+16-07-2014 03:51:13	Reader 75 desconectado.
+16-07-2014 03:51:13	Reader 77 desconectado.
+16-07-2014 03:51:15	Reader 73 conectado.
+16-07-2014 03:51:15	Reader 77 conectado.
+16-07-2014 03:51:16	Reader 73 desconectado.
+16-07-2014 03:51:16	Reader 77 desconectado.
+16-07-2014 03:51:16	Reader 77 conectado.
+16-07-2014 03:51:16	Reader 73 conectado.
+16-07-2014 04:58:20	Se han encontrado 4 Readers en BD:
+16-07-2014 04:58:20	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 04:58:20	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 04:58:20	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 04:58:20	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 04:58:20	Reader 74 desconectado.
+16-07-2014 04:58:20	Reader 75 desconectado.
+16-07-2014 04:58:20	Reader 77 desconectado.
+16-07-2014 04:58:21	Reader 73 desconectado.
+16-07-2014 04:58:22	Reader 73 conectado.
+16-07-2014 04:58:22	Reader 77 conectado.
+16-07-2014 05:00:18	Se han encontrado 4 Readers en BD:
+16-07-2014 05:00:18	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 05:00:18	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 05:00:18	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 05:00:18	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 05:00:18	Reader 74 desconectado.
+16-07-2014 05:00:19	Reader 75 desconectado.
+16-07-2014 05:00:19	Reader 73 desconectado.
+16-07-2014 05:00:19	Reader 77 desconectado.
+16-07-2014 05:00:21	Cambio de estado de antenas de reader 77 a 1---
+16-07-2014 05:00:21	Cambio de estado de antenas de reader 77 a 10--
+16-07-2014 05:00:21	Reader 77 conectado.
+16-07-2014 05:00:21	Reader 73 conectado.
+16-07-2014 05:00:54	Se han encontrado 4 Readers en BD:
+16-07-2014 05:00:54	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 05:00:54	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 05:00:54	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 05:00:54	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 05:00:54	Reader 74 desconectado.
+16-07-2014 05:00:54	Reader 75 desconectado.
+16-07-2014 05:00:54	Reader 77 desconectado.
+16-07-2014 05:00:54	Reader 73 desconectado.
+16-07-2014 05:01:52	Se han encontrado 4 Readers en BD:
+16-07-2014 05:01:52	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 05:01:52	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 05:01:52	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 05:01:52	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 05:01:52	Reader 74 desconectado.
+16-07-2014 05:01:52	Reader 75 desconectado.
+16-07-2014 05:01:52	Reader 77 desconectado.
+16-07-2014 05:01:52	Reader 73 desconectado.
+16-07-2014 05:01:55	Cambio de estado de antenas de reader 77 a 1---
+16-07-2014 05:01:55	Cambio de estado de antenas de reader 77 a 10--
+16-07-2014 05:01:55	Reader 73 conectado.
+16-07-2014 05:01:55	Reader 77 conectado.
+16-07-2014 05:03:46	Se han encontrado 4 Readers en BD:
+16-07-2014 05:03:46	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 05:03:46	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 05:03:46	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 05:03:46	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 05:03:46	Reader 74 desconectado.
+16-07-2014 05:03:46	Reader 75 desconectado.
+16-07-2014 05:03:46	Reader 73 desconectado.
+16-07-2014 05:03:46	Reader 77 desconectado.
+16-07-2014 05:03:48	Cambio de estado de antenas de reader 77 a 1---
+16-07-2014 05:03:48	Cambio de estado de antenas de reader 77 a 10--
+16-07-2014 05:03:48	Reader 77 conectado.
+16-07-2014 05:03:48	Cambio de estado de antenas de reader 73 a 0---
+16-07-2014 05:03:48	Cambio de estado de antenas de reader 73 a 0-1-
+16-07-2014 05:03:48	Reader 73 conectado.
+16-07-2014 05:05:20	Se han encontrado 4 Readers en BD:
+16-07-2014 05:05:20	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 05:05:20	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 05:05:20	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 05:05:20	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 05:05:20	Reader 74 desconectado.
+16-07-2014 05:05:20	Reader 75 desconectado.
+16-07-2014 05:05:20	Reader 77 desconectado.
+16-07-2014 05:05:20	Reader 73 desconectado.
+16-07-2014 05:05:21	Reader 77 conectado.
+16-07-2014 05:05:21	Reader 73 conectado.
+16-07-2014 05:05:37	Cambio de estado de antenas de reader 73 a 0110
+16-07-2014 05:05:51	Cambio de estado de antenas de reader 73 a 0010
+16-07-2014 05:06:55	Se han encontrado 4 Readers en BD:
+16-07-2014 05:06:55	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 05:06:55	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 05:06:55	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 05:06:55	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 05:06:55	Reader 74 desconectado.
+16-07-2014 05:06:55	Reader 75 desconectado.
+16-07-2014 05:06:55	Reader 77 desconectado.
+16-07-2014 05:06:55	Reader 73 desconectado.
+16-07-2014 05:06:57	Reader 77 conectado.
+16-07-2014 05:07:27	Reader 73 conectado.
+16-07-2014 05:07:32	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 05:07:32	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 05:07:32	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 05:07:51	Se han encontrado 4 Readers en BD:
+16-07-2014 05:07:51	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 05:07:51	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 05:07:51	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 05:07:51	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 05:07:51	Reader 74 desconectado.
+16-07-2014 05:07:51	Reader 75 desconectado.
+16-07-2014 05:07:51	Reader 77 desconectado.
+16-07-2014 05:07:51	Reader 73 desconectado.
+16-07-2014 05:07:52	Reader 77 conectado.
+16-07-2014 05:07:52	Reader 73 conectado.
+16-07-2014 05:08:03	Reader 77 desconectado.
+16-07-2014 05:08:04	Reader 73 desconectado.
+16-07-2014 05:08:06	Se han encontrado 4 Readers en BD:
+16-07-2014 05:08:06	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 05:08:06	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 05:08:06	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 05:08:06	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 05:08:06	Reader 74 desconectado.
+16-07-2014 05:08:06	Reader 75 desconectado.
+16-07-2014 05:08:06	Reader 77 desconectado.
+16-07-2014 05:08:06	Reader 73 desconectado.
+16-07-2014 05:08:07	Reader 77 conectado.
+16-07-2014 05:08:07	Reader 73 conectado.
+16-07-2014 05:08:17	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 05:08:21	Cambio de estado de antenas de reader 73 a 1000
+16-07-2014 05:09:06	Se han encontrado 4 Readers en BD:
+16-07-2014 05:09:06	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 05:09:06	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 05:09:06	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 05:09:06	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 05:09:06	Reader 74 desconectado.
+16-07-2014 05:09:06	Reader 75 desconectado.
+16-07-2014 05:09:06	Reader 77 desconectado.
+16-07-2014 05:09:06	Reader 73 desconectado.
+16-07-2014 05:09:07	Reader 77 conectado.
+16-07-2014 05:09:47	Reader 73 conectado.
+16-07-2014 05:09:52	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 05:09:52	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 05:09:52	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 05:11:09	Se han encontrado 4 Readers en BD:
+16-07-2014 05:11:09	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 05:11:09	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 05:11:09	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 05:11:09	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 05:11:09	Reader 74 desconectado.
+16-07-2014 05:11:09	Reader 75 desconectado.
+16-07-2014 05:11:09	Reader 77 desconectado.
+16-07-2014 05:11:10	Reader 73 desconectado.
+16-07-2014 05:11:11	Reader 77 conectado.
+16-07-2014 05:11:11	Reader 73 conectado.
+16-07-2014 05:11:48	Se han encontrado 4 Readers en BD:
+16-07-2014 05:11:48	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 05:11:48	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 05:11:48	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 05:11:48	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 05:11:48	Reader 74 desconectado.
+16-07-2014 05:11:48	Reader 75 desconectado.
+16-07-2014 05:11:48	Reader 77 desconectado.
+16-07-2014 05:11:48	Reader 73 desconectado.
+16-07-2014 05:11:49	Reader 77 conectado.
+16-07-2014 05:12:29	Reader 73 conectado.
+16-07-2014 05:12:34	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 05:12:34	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 05:12:34	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 05:14:46	Se han encontrado 4 Readers en BD:
+16-07-2014 05:14:46	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 05:14:46	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 05:14:46	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 05:14:46	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 05:14:46	Reader 73 desconectado.
+16-07-2014 05:14:46	Reader 74 desconectado.
+16-07-2014 05:14:46	Reader 75 desconectado.
+16-07-2014 05:14:46	Reader 77 desconectado.
+16-07-2014 05:14:48	Reader 77 conectado.
+16-07-2014 05:15:27	Reader 73 conectado.
+16-07-2014 05:15:32	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 05:15:32	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 05:15:32	Cambio de estado de antenas de reader 73 a 0000
+16-07-2014 05:16:24	Se han encontrado 4 Readers en BD:
+16-07-2014 05:16:24	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 05:16:24	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 05:16:24	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 05:16:24	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 05:16:24	Reader 74 desconectado.
+16-07-2014 05:16:24	Reader 75 desconectado.
+16-07-2014 05:16:24	Reader 77 desconectado.
+16-07-2014 05:16:24	Reader 73 desconectado.
+16-07-2014 05:16:26	Cambio de estado de antenas de reader 77 a 1---
+16-07-2014 05:16:26	Cambio de estado de antenas de reader 77 a 10--
+16-07-2014 05:16:27	Reader 77 conectado.
+16-07-2014 05:16:27	Reader 73 conectado.
+16-07-2014 05:17:38	Se han encontrado 4 Readers en BD:
+16-07-2014 05:17:38	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 05:17:38	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 05:17:38	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 05:17:38	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 05:17:38	Reader 74 desconectado.
+16-07-2014 05:17:38	Reader 75 desconectado.
+16-07-2014 05:17:38	Reader 77 desconectado.
+16-07-2014 05:17:38	Reader 73 desconectado.
+16-07-2014 05:17:40	Cambio de estado de antenas de reader 77 a 1---
+16-07-2014 05:17:40	Cambio de estado de antenas de reader 77 a 10--
+16-07-2014 05:17:40	Reader 77 conectado.
+16-07-2014 05:18:15	Cambio de estado de antenas de reader 73 a -0--
+16-07-2014 05:18:15	Cambio de estado de antenas de reader 73 a -00-
+16-07-2014 05:18:15	Cambio de estado de antenas de reader 73 a -000
+16-07-2014 05:18:15	Reader 73 conectado.
+16-07-2014 05:28:23	Se han encontrado 4 Readers en BD:
+16-07-2014 05:28:23	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 05:28:23	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 05:28:23	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 05:28:23	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 05:28:23	Reader 74 desconectado.
+16-07-2014 05:28:23	Reader 75 desconectado.
+16-07-2014 05:28:23	Reader 77 desconectado.
+16-07-2014 05:28:23	Reader 73 desconectado.
+16-07-2014 05:28:27	Cambio de estado de antenas de reader 77 a 1---
+16-07-2014 05:28:27	Cambio de estado de antenas de reader 77 a 10--
+16-07-2014 05:28:27	Reader 77 conectado.
+16-07-2014 05:28:27	Cambio de estado de antenas de reader 73 a 0---
+16-07-2014 05:28:27	Cambio de estado de antenas de reader 73 a 01--
+16-07-2014 05:28:27	Reader 73 conectado.
+16-07-2014 05:32:46	Se han encontrado 4 Readers en BD:
+16-07-2014 05:32:46	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 05:32:46	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 05:32:46	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 05:32:46	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 05:32:46	Reader 74 desconectado.
+16-07-2014 05:32:46	Reader 75 desconectado.
+16-07-2014 05:32:46	Reader 77 desconectado.
+16-07-2014 05:32:46	Reader 73 desconectado.
+16-07-2014 05:32:48	Cambio de estado de antenas de reader 77 a 1---
+16-07-2014 05:32:48	Cambio de estado de antenas de reader 77 a 10--
+16-07-2014 05:32:48	Reader 77 conectado.
+16-07-2014 05:33:19	Cambio de estado de antenas de reader 73 a 0---
+16-07-2014 05:33:19	Cambio de estado de antenas de reader 73 a 0-0-
+16-07-2014 05:33:19	Cambio de estado de antenas de reader 73 a 0-00
+16-07-2014 05:33:19	Reader 73 conectado.
+16-07-2014 05:34:29	Se han encontrado 4 Readers en BD:
+16-07-2014 05:34:29	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 05:34:29	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 05:34:29	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 05:34:29	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 05:34:29	Reader 74 desconectado.
+16-07-2014 05:34:29	Reader 75 desconectado.
+16-07-2014 05:34:29	Reader 77 desconectado.
+16-07-2014 05:34:29	Reader 73 desconectado.
+16-07-2014 05:34:31	Cambio de estado de antenas de reader 77 a 1---
+16-07-2014 05:34:31	Cambio de estado de antenas de reader 77 a 10--
+16-07-2014 05:34:31	Reader 77 conectado.
+16-07-2014 05:35:37	Cambio de estado de antenas de reader 73 a 0---
+16-07-2014 05:35:37	Cambio de estado de antenas de reader 73 a 00--
+16-07-2014 05:35:37	Cambio de estado de antenas de reader 73 a 000-
+16-07-2014 05:35:37	Reader 73 conectado.
+16-07-2014 05:36:36	Se han encontrado 4 Readers en BD:
+16-07-2014 05:36:36	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 05:36:36	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 05:36:36	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 05:36:36	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 05:36:36	Reader 74 desconectado.
+16-07-2014 05:36:36	Reader 75 desconectado.
+16-07-2014 05:36:36	Reader 77 desconectado.
+16-07-2014 05:36:36	Reader 73 desconectado.
+16-07-2014 05:36:38	Cambio de estado de antenas de reader 77 a 1---
+16-07-2014 05:36:38	Cambio de estado de antenas de reader 77 a 10--
+16-07-2014 05:36:38	Reader 77 conectado.
+16-07-2014 05:36:38	Cambio de estado de antenas de reader 73 a --1-
+16-07-2014 05:36:38	Cambio de estado de antenas de reader 73 a --10
+16-07-2014 05:36:38	Reader 73 conectado.
+16-07-2014 05:39:05	Se han encontrado 4 Readers en BD:
+16-07-2014 05:39:05	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 05:39:05	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 05:39:05	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 05:39:05	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 05:39:06	Reader 74 desconectado.
+16-07-2014 05:39:06	Reader 75 desconectado.
+16-07-2014 05:39:06	Reader 77 desconectado.
+16-07-2014 05:39:06	Reader 73 desconectado.
+16-07-2014 05:39:08	Cambio de estado de antenas de reader 77 a 1---
+16-07-2014 05:39:08	Cambio de estado de antenas de reader 77 a 10--
+16-07-2014 05:39:08	Reader 77 conectado.
+16-07-2014 05:39:39	Cambio de estado de antenas de reader 73 a -1--
+16-07-2014 05:39:39	Cambio de estado de antenas de reader 73 a -10-
+16-07-2014 05:39:39	Reader 73 conectado.
+16-07-2014 05:41:06	Se han encontrado 4 Readers en BD:
+16-07-2014 05:41:06	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 05:41:06	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 05:41:06	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 05:41:06	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 05:41:06	Reader 74 desconectado.
+16-07-2014 05:41:07	Reader 75 desconectado.
+16-07-2014 05:41:07	Reader 77 desconectado.
+16-07-2014 05:41:07	Reader 73 desconectado.
+16-07-2014 05:41:09	Cambio de estado de antenas de reader 73 a -0--
+16-07-2014 05:41:09	Cambio de estado de antenas de reader 77 a -0--
+16-07-2014 05:41:09	Cambio de estado de antenas de reader 77 a 10--
+16-07-2014 05:41:09	Cambio de estado de antenas de reader 73 a -01-
+16-07-2014 05:41:09	Cambio de estado de antenas de reader 77 a 10--
+16-07-2014 05:41:09	Reader 77 conectado.
+16-07-2014 05:41:09	Reader 73 conectado.
+16-07-2014 05:42:37	Se han encontrado 4 Readers en BD:
+16-07-2014 05:42:37	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 05:42:37	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 05:42:37	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 05:42:37	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 05:42:38	Reader 74 desconectado.
+16-07-2014 05:42:38	Reader 75 desconectado.
+16-07-2014 05:42:38	Reader 77 desconectado.
+16-07-2014 05:42:38	Reader 73 desconectado.
+16-07-2014 05:42:40	Cambio de estado de antenas de reader 77 a 1---
+16-07-2014 05:42:40	Cambio de estado de antenas de reader 77 a 10--
+16-07-2014 05:42:40	Reader 77 conectado.
+16-07-2014 05:42:40	Cambio de estado de antenas de reader 73 a -1--
+16-07-2014 05:42:40	Cambio de estado de antenas de reader 73 a -10-
+16-07-2014 05:42:40	Reader 73 conectado.
+16-07-2014 05:46:46	Se han encontrado 4 Readers en BD:
+16-07-2014 05:46:46	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 05:46:46	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 05:46:46	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 05:46:46	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 05:46:46	Reader 74 desconectado.
+16-07-2014 05:46:46	Reader 75 desconectado.
+16-07-2014 05:46:46	Reader 77 desconectado.
+16-07-2014 05:46:46	Reader 73 desconectado.
+16-07-2014 05:46:48	Reader 73 conectado.
+16-07-2014 05:46:48	Reader 77 conectado.
+16-07-2014 06:17:16	Se han encontrado 4 Readers en BD:
+16-07-2014 06:17:16	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 06:17:16	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 06:17:16	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 06:17:16	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 06:17:16	Reader 74 desconectado.
+16-07-2014 06:17:16	Reader 75 desconectado.
+16-07-2014 06:17:16	Reader 73 desconectado.
+16-07-2014 06:17:16	Reader 77 desconectado.
+16-07-2014 06:17:18	Cambio de estado de antenas de reader 77 a -1--
+16-07-2014 06:17:18	Cambio de estado de antenas de reader 77 a -10-
+16-07-2014 06:17:18	Reader 77 conectado.
+16-07-2014 06:17:49	Cambio de estado de antenas de reader 73 a 0---
+16-07-2014 06:17:49	Cambio de estado de antenas de reader 73 a 00--
+16-07-2014 06:17:49	Cambio de estado de antenas de reader 73 a 000-
+16-07-2014 06:17:49	Reader 73 conectado.
+16-07-2014 06:18:41	Se han encontrado 4 Readers en BD:
+16-07-2014 06:18:41	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+16-07-2014 06:18:41	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+16-07-2014 06:18:41	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+16-07-2014 06:18:41	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+16-07-2014 06:18:42	Reader 74 desconectado.
+16-07-2014 06:18:42	Reader 75 desconectado.
+16-07-2014 06:18:42	Reader 77 desconectado.
+16-07-2014 06:18:42	Reader 73 desconectado.
+16-07-2014 06:18:44	Cambio de estado de antenas de reader 77 a -1--
+16-07-2014 06:18:44	Cambio de estado de antenas de reader 77 a -10-
+16-07-2014 06:18:44	Reader 77 conectado.
+16-07-2014 06:18:44	Cambio de estado de antenas de reader 73 a -1--
+16-07-2014 06:18:44	Cambio de estado de antenas de reader 73 a -1-0
+16-07-2014 06:18:44	Reader 73 conectado.
+17-07-2014 09:08:09	Se han encontrado 4 Readers en BD:
+17-07-2014 09:08:09	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+17-07-2014 09:08:09	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+17-07-2014 09:08:09	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+17-07-2014 09:08:09	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+17-07-2014 09:08:09	Reader 74 desconectado.
+17-07-2014 09:08:09	Reader 75 desconectado.
+17-07-2014 09:08:09	Reader 77 desconectado.
+17-07-2014 09:08:09	Reader 73 desconectado.
+17-07-2014 09:08:11	Cambio de estado de antenas de reader 73 a 0---
+17-07-2014 09:08:11	Cambio de estado de antenas de reader 73 a 0-0-
+17-07-2014 09:08:11	Cambio de estado de antenas de reader 73 a 0-00
+17-07-2014 09:08:11	Reader 73 conectado.
+17-07-2014 09:08:21	Cambio de estado de antenas de reader 77 a -1--
+17-07-2014 09:08:21	Cambio de estado de antenas de reader 77 a -10-
+17-07-2014 09:08:21	Reader 77 conectado.
+17-07-2014 09:10:02	Se han encontrado 4 Readers en BD:
+17-07-2014 09:10:02	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+17-07-2014 09:10:02	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+17-07-2014 09:10:02	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+17-07-2014 09:10:02	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+17-07-2014 09:10:02	Reader 74 desconectado.
+17-07-2014 09:10:02	Reader 75 desconectado.
+17-07-2014 09:10:02	Reader 73 desconectado.
+17-07-2014 09:10:02	Reader 77 desconectado.
+17-07-2014 09:10:42	Se han encontrado 4 Readers en BD:
+17-07-2014 09:10:42	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+17-07-2014 09:10:42	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+17-07-2014 09:10:42	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+17-07-2014 09:10:42	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+17-07-2014 09:10:42	Reader 74 desconectado.
+17-07-2014 09:10:42	Reader 75 desconectado.
+17-07-2014 09:10:42	Reader 73 desconectado.
+17-07-2014 09:10:42	Reader 77 desconectado.
+17-07-2014 09:10:44	Cambio de estado de antenas de reader 77 a -1--
+17-07-2014 09:10:44	Cambio de estado de antenas de reader 77 a -10-
+17-07-2014 09:10:44	Reader 77 conectado.
+17-07-2014 09:10:54	Cambio de estado de antenas de reader 73 a -0--
+17-07-2014 09:10:54	Cambio de estado de antenas de reader 73 a -0-1
+17-07-2014 09:10:54	Reader 73 conectado.
+17-07-2014 09:12:07	Se han encontrado 4 Readers en BD:
+17-07-2014 09:12:07	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+17-07-2014 09:12:07	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+17-07-2014 09:12:07	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+17-07-2014 09:12:07	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+17-07-2014 09:12:07	Reader 74 desconectado.
+17-07-2014 09:12:07	Reader 75 desconectado.
+17-07-2014 09:12:07	Reader 77 desconectado.
+17-07-2014 09:12:07	Reader 73 desconectado.
+17-07-2014 09:12:09	Cambio de estado de antenas de reader 77 a -1--
+17-07-2014 09:12:10	Cambio de estado de antenas de reader 77 a -10-
+17-07-2014 09:12:10	Cambio de estado de antenas de reader 73 a -1--
+17-07-2014 09:12:10	Cambio de estado de antenas de reader 73 a -1-0
+17-07-2014 09:12:10	Reader 77 conectado.
+17-07-2014 09:12:10	Reader 73 conectado.
+17-07-2014 09:16:31	Se han encontrado 4 Readers en BD:
+17-07-2014 09:16:31	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+17-07-2014 09:16:31	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+17-07-2014 09:16:31	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+17-07-2014 09:16:31	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+17-07-2014 09:16:31	Reader 74 desconectado.
+17-07-2014 09:16:31	Reader 75 desconectado.
+17-07-2014 09:16:31	Reader 77 desconectado.
+17-07-2014 09:16:31	Reader 73 desconectado.
+17-07-2014 09:16:34	Cambio de estado de antenas de reader 77 a -1--
+17-07-2014 09:16:34	Cambio de estado de antenas de reader 73 a -1--
+17-07-2014 09:16:34	Cambio de estado de antenas de reader 77 a -10-
+17-07-2014 09:16:34	Cambio de estado de antenas de reader 73 a -1-1
+17-07-2014 09:16:34	Reader 77 conectado.
+17-07-2014 09:16:34	Reader 73 conectado.
+17-07-2014 09:18:10	Se han encontrado 4 Readers en BD:
+17-07-2014 09:18:10	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+17-07-2014 09:18:10	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+17-07-2014 09:18:10	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+17-07-2014 09:18:10	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+17-07-2014 09:18:11	Reader 74 desconectado.
+17-07-2014 09:18:11	Reader 75 desconectado.
+17-07-2014 09:18:11	Reader 77 desconectado.
+17-07-2014 09:18:11	Reader 73 desconectado.
+17-07-2014 09:18:13	Cambio de estado de antenas de reader 77 a -1--
+17-07-2014 09:18:13	Cambio de estado de antenas de reader 77 a -10-
+17-07-2014 09:18:13	Reader 77 conectado.
+17-07-2014 09:18:13	Cambio de estado de antenas de reader 73 a 1---
+17-07-2014 09:18:13	Cambio de estado de antenas de reader 73 a 1--0
+17-07-2014 09:18:13	Reader 73 conectado.
+17-07-2014 09:18:29	Cambio de estado de antenas de reader 77 a 0110
+17-07-2014 09:18:30	Cambio de estado de antenas de reader 77 a 0100
+17-07-2014 09:18:46	Cambio de estado de antenas de reader 77 a 0100
+17-07-2014 09:18:46	Cambio de estado de antenas de reader 77 a 0100
+17-07-2014 09:18:47	Cambio de estado de antenas de reader 73 a 0000
+17-07-2014 09:18:54	Cambio de estado de antenas de reader 77 a 0100
+17-07-2014 09:18:54	Cambio de estado de antenas de reader 77 a 0100
+17-07-2014 09:19:15	Cambio de estado de antenas de reader 77 a 0100
+17-07-2014 09:19:15	Cambio de estado de antenas de reader 77 a 0100
+17-07-2014 09:19:16	Cambio de estado de antenas de reader 73 a 0100
+17-07-2014 09:19:45	Se han encontrado 4 Readers en BD:
+17-07-2014 09:19:45	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+17-07-2014 09:19:45	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+17-07-2014 09:19:45	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+17-07-2014 09:19:45	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+17-07-2014 09:19:45	Reader 74 desconectado.
+17-07-2014 09:19:45	Reader 75 desconectado.
+17-07-2014 09:19:45	Reader 77 desconectado.
+17-07-2014 09:19:45	Reader 73 desconectado.
+17-07-2014 09:19:47	Cambio de estado de antenas de reader 77 a -1--
+17-07-2014 09:19:47	Cambio de estado de antenas de reader 77 a -10-
+17-07-2014 09:19:47	Reader 77 conectado.
+17-07-2014 09:19:47	Reader 73 conectado.
+17-07-2014 09:19:50	Cambio de estado de antenas de reader 77 a 0110
+17-07-2014 09:19:50	Cambio de estado de antenas de reader 77 a 0100
+17-07-2014 09:20:14	Cambio de estado de antenas de reader 77 a 0100
+17-07-2014 09:20:14	Cambio de estado de antenas de reader 77 a 0100
+17-07-2014 09:20:14	Cambio de estado de antenas de reader 73 a 0000
+17-07-2014 09:20:14	Cambio de estado de antenas de reader 73 a 0010
+17-07-2014 09:20:31	Cambio de estado de antenas de reader 77 a 0100
+17-07-2014 09:20:31	Cambio de estado de antenas de reader 77 a 0100
+17-07-2014 09:21:51	Se han encontrado 4 Readers en BD:
+17-07-2014 09:21:51	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+17-07-2014 09:21:51	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+17-07-2014 09:21:51	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+17-07-2014 09:21:51	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+17-07-2014 09:21:52	Reader 77 desconectado.
+17-07-2014 09:21:52	Reader 74 desconectado.
+17-07-2014 09:21:52	Reader 75 desconectado.
+17-07-2014 09:21:52	Reader 73 desconectado.
+17-07-2014 09:51:27	Se han encontrado 4 Readers en BD:
+17-07-2014 09:51:27	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+17-07-2014 09:51:27	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+17-07-2014 09:51:27	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+17-07-2014 09:51:27	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+17-07-2014 09:51:27	Reader 77 desconectado.
+17-07-2014 09:51:27	Reader 74 desconectado.
+17-07-2014 09:51:27	Reader 75 desconectado.
+17-07-2014 09:51:27	Reader 73 desconectado.
+17-07-2014 09:51:29	Cambio de estado de antenas de reader 77 a -1--
+17-07-2014 09:51:29	Cambio de estado de antenas de reader 77 a -10-
+17-07-2014 09:51:29	Reader 77 conectado.
+17-07-2014 09:51:29	Reader 73 conectado.
+17-07-2014 09:59:43	Se han encontrado 4 Readers en BD:
+17-07-2014 09:59:43	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+17-07-2014 09:59:43	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+17-07-2014 09:59:43	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+17-07-2014 09:59:43	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+17-07-2014 09:59:43	Reader 74 desconectado.
+17-07-2014 09:59:43	Reader 75 desconectado.
+17-07-2014 09:59:43	Reader 77 desconectado.
+17-07-2014 09:59:43	Reader 73 desconectado.
+17-07-2014 10:00:30	Se han encontrado 4 Readers en BD:
+17-07-2014 10:00:30	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+17-07-2014 10:00:30	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+17-07-2014 10:00:30	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+17-07-2014 10:00:30	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+17-07-2014 10:00:30	Reader 74 desconectado.
+17-07-2014 10:00:30	Reader 75 desconectado.
+17-07-2014 10:00:30	Reader 77 desconectado.
+17-07-2014 10:00:30	Reader 73 desconectado.
+17-07-2014 10:00:32	Cambio de estado de antenas de reader 77 a -1--
+17-07-2014 10:00:32	Cambio de estado de antenas de reader 77 a -10-
+17-07-2014 10:00:32	Reader 77 conectado.
+17-07-2014 10:00:32	Reader 73 conectado.
+17-07-2014 10:01:05	Cambio de estado de antenas de reader 77 a 0110
+17-07-2014 10:01:05	Cambio de estado de antenas de reader 77 a 0100
+17-07-2014 10:01:06	Cambio de estado de antenas de reader 73 a 1010
+17-07-2014 10:01:06	Cambio de estado de antenas de reader 73 a 1000
+17-07-2014 10:02:31	Se han encontrado 4 Readers en BD:
+17-07-2014 10:02:31	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+17-07-2014 10:02:31	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+17-07-2014 10:02:31	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+17-07-2014 10:02:31	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+17-07-2014 10:02:31	Reader 74 desconectado.
+17-07-2014 10:02:31	Reader 75 desconectado.
+17-07-2014 10:02:31	Reader 77 desconectado.
+17-07-2014 10:02:31	Reader 73 desconectado.
+17-07-2014 10:02:33	Cambio de estado de antenas de reader 77 a -1--
+17-07-2014 10:02:33	Cambio de estado de antenas de reader 77 a -10-
+17-07-2014 10:02:33	Reader 73 conectado.
+17-07-2014 10:02:33	Reader 77 conectado.
+17-07-2014 10:26:14	Reader 77 desconectado.
+17-07-2014 10:57:10	Se han encontrado 4 Readers en BD:
+17-07-2014 10:57:10	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+17-07-2014 10:57:10	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+17-07-2014 10:57:10	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+17-07-2014 10:57:10	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+17-07-2014 10:57:10	Reader 74 desconectado.
+17-07-2014 10:57:10	Reader 75 desconectado.
+17-07-2014 10:57:10	Reader 73 desconectado.
+17-07-2014 10:57:10	Reader 77 desconectado.
+17-07-2014 10:57:13	Cambio de estado de antenas de reader 73 a 0---
+17-07-2014 10:57:13	Cambio de estado de antenas de reader 73 a 0--1
+17-07-2014 10:57:13	Reader 73 conectado.
+17-07-2014 10:57:52	Se han encontrado 4 Readers en BD:
+17-07-2014 10:57:52	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+17-07-2014 10:57:52	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+17-07-2014 10:57:52	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+17-07-2014 10:57:52	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+17-07-2014 10:57:52	Reader 74 desconectado.
+17-07-2014 10:57:52	Reader 75 desconectado.
+17-07-2014 10:57:52	Reader 77 desconectado.
+17-07-2014 10:57:52	Reader 73 desconectado.
+17-07-2014 11:04:30	Se han encontrado 4 Readers en BD:
+17-07-2014 11:04:30	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+17-07-2014 11:04:30	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+17-07-2014 11:04:30	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+17-07-2014 11:04:30	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+17-07-2014 11:04:30	Reader 74 desconectado.
+17-07-2014 11:04:30	Reader 75 desconectado.
+17-07-2014 11:04:30	Reader 77 desconectado.
+17-07-2014 11:04:30	Reader 73 desconectado.
+17-07-2014 11:05:19	Se han encontrado 4 Readers en BD:
+17-07-2014 11:05:19	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+17-07-2014 11:05:19	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+17-07-2014 11:05:19	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+17-07-2014 11:05:19	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+17-07-2014 11:05:19	Reader 74 desconectado.
+17-07-2014 11:05:19	Reader 75 desconectado.
+17-07-2014 11:05:19	Reader 77 desconectado.
+17-07-2014 11:05:19	Reader 73 desconectado.
+17-07-2014 11:05:38	Se han encontrado 4 Readers en BD:
+17-07-2014 11:05:38	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+17-07-2014 11:05:38	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+17-07-2014 11:05:38	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+17-07-2014 11:05:38	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+17-07-2014 11:05:38	Reader 74 desconectado.
+17-07-2014 11:05:38	Reader 75 desconectado.
+17-07-2014 11:05:38	Reader 77 desconectado.
+17-07-2014 11:05:38	Reader 73 desconectado.
+17-07-2014 11:06:24	Se han encontrado 4 Readers en BD:
+17-07-2014 11:06:24	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+17-07-2014 11:06:24	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+17-07-2014 11:06:24	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+17-07-2014 11:06:24	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+17-07-2014 11:06:24	Reader 74 desconectado.
+17-07-2014 11:06:24	Reader 75 desconectado.
+17-07-2014 11:06:24	Reader 77 desconectado.
+17-07-2014 11:06:24	Reader 73 desconectado.
+17-07-2014 11:07:07	Cambio de estado de antenas de reader 73 a 0---
+17-07-2014 11:07:07	Cambio de estado de antenas de reader 73 a 00--
+17-07-2014 11:07:07	Cambio de estado de antenas de reader 73 a 00-0
+17-07-2014 11:07:08	Reader 73 conectado.
+17-07-2014 11:08:00	Se han encontrado 4 Readers en BD:
+17-07-2014 11:08:00	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+17-07-2014 11:08:00	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+17-07-2014 11:08:00	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+17-07-2014 11:08:00	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+17-07-2014 11:08:00	Reader 74 desconectado.
+17-07-2014 11:08:00	Reader 75 desconectado.
+17-07-2014 11:08:00	Reader 77 desconectado.
+17-07-2014 11:08:00	Reader 73 desconectado.
+17-07-2014 11:08:29	Se han encontrado 4 Readers en BD:
+17-07-2014 11:08:29	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+17-07-2014 11:08:29	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+17-07-2014 11:08:29	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+17-07-2014 11:08:29	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+17-07-2014 11:08:29	Reader 74 desconectado.
+17-07-2014 11:08:29	Reader 75 desconectado.
+17-07-2014 11:08:29	Reader 77 desconectado.
+17-07-2014 11:08:29	Reader 73 desconectado.
+17-07-2014 11:09:12	Cambio de estado de antenas de reader 73 a -0--
+17-07-2014 11:09:12	Cambio de estado de antenas de reader 73 a -00-
+17-07-2014 11:09:12	Cambio de estado de antenas de reader 73 a -000
+17-07-2014 11:09:13	Reader 73 conectado.
+17-07-2014 11:10:09	Se han encontrado 4 Readers en BD:
+17-07-2014 11:10:09	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+17-07-2014 11:10:09	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+17-07-2014 11:10:09	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+17-07-2014 11:10:09	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+17-07-2014 11:10:09	Reader 74 desconectado.
+17-07-2014 11:10:09	Reader 75 desconectado.
+17-07-2014 11:10:09	Reader 77 desconectado.
+17-07-2014 11:10:09	Reader 73 desconectado.
+17-07-2014 11:10:21	Cambio de estado de antenas de reader 73 a 0---
+17-07-2014 11:10:21	Cambio de estado de antenas de reader 73 a 0-1-
+17-07-2014 11:10:21	Reader 73 conectado.
+17-07-2014 11:13:20	Se han encontrado 4 Readers en BD:
+17-07-2014 11:13:20	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+17-07-2014 11:13:20	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+17-07-2014 11:13:20	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+17-07-2014 11:13:20	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+17-07-2014 11:13:20	Reader 74 desconectado.
+17-07-2014 11:13:20	Reader 75 desconectado.
+17-07-2014 11:13:20	Reader 77 desconectado.
+17-07-2014 11:13:20	Reader 73 desconectado.
+17-07-2014 11:13:21	Reader 73 conectado.
+17-07-2014 11:13:26	Cambio de estado de antenas de reader 73 a 0000
+17-07-2014 11:13:34	Cambio de estado de antenas de reader 73 a 1000
+17-07-2014 11:13:54	Cambio de estado de antenas de reader 73 a 0000
+17-07-2014 11:13:59	Cambio de estado de antenas de reader 73 a 0100
+17-07-2014 11:14:48	Reader 73 desconectado.
+17-07-2014 11:15:11	Se han encontrado 4 Readers en BD:
+17-07-2014 11:15:11	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+17-07-2014 11:15:11	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+17-07-2014 11:15:11	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+17-07-2014 11:15:11	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+17-07-2014 11:15:11	Reader 74 desconectado.
+17-07-2014 11:15:11	Reader 75 desconectado.
+17-07-2014 11:15:11	Reader 77 desconectado.
+17-07-2014 11:15:11	Reader 73 desconectado.
+17-07-2014 11:15:53	Reader 73 conectado.
+17-07-2014 11:15:58	Cambio de estado de antenas de reader 73 a 0000
+17-07-2014 11:15:58	Cambio de estado de antenas de reader 73 a 0000
+17-07-2014 11:15:58	Cambio de estado de antenas de reader 73 a 0000
+17-07-2014 11:16:11	Cambio de estado de antenas de reader 73 a 0000
+17-07-2014 11:16:13	Cambio de estado de antenas de reader 73 a 0001
+17-07-2014 11:17:04	Se han encontrado 4 Readers en BD:
+17-07-2014 11:17:04	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+17-07-2014 11:17:04	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+17-07-2014 11:17:04	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+17-07-2014 11:17:04	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+17-07-2014 11:17:04	Reader 74 desconectado.
+17-07-2014 11:17:05	Reader 75 desconectado.
+17-07-2014 11:17:05	Reader 77 desconectado.
+17-07-2014 11:17:05	Reader 73 desconectado.
+17-07-2014 11:18:09	Cambio de estado de antenas de reader 73 a 0---
+17-07-2014 11:18:09	Cambio de estado de antenas de reader 73 a 00--
+17-07-2014 11:18:10	Cambio de estado de antenas de reader 73 a 000-
+17-07-2014 11:18:10	Reader 73 conectado.
+17-07-2014 11:19:11	Reader 73 desconectado.
+17-07-2014 11:19:37	Se han encontrado 4 Readers en BD:
+17-07-2014 11:19:37	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+17-07-2014 11:19:37	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+17-07-2014 11:19:37	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+17-07-2014 11:19:37	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+17-07-2014 11:19:37	Reader 73 desconectado.
+17-07-2014 11:19:37	Reader 74 desconectado.
+17-07-2014 11:19:37	Reader 75 desconectado.
+17-07-2014 11:19:37	Reader 77 desconectado.
+17-07-2014 11:20:41	Reader 73 conectado.
+17-07-2014 11:20:46	Cambio de estado de antenas de reader 73 a 0000
+17-07-2014 11:20:46	Cambio de estado de antenas de reader 73 a 0000
+17-07-2014 11:20:46	Cambio de estado de antenas de reader 73 a 0000
+17-07-2014 11:21:31	Se han encontrado 4 Readers en BD:
+17-07-2014 11:21:31	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+17-07-2014 11:21:31	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+17-07-2014 11:21:31	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+17-07-2014 11:21:31	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+17-07-2014 11:21:31	Reader 74 desconectado.
+17-07-2014 11:21:31	Reader 75 desconectado.
+17-07-2014 11:21:31	Reader 77 desconectado.
+17-07-2014 11:21:31	Reader 73 desconectado.
+17-07-2014 11:22:13	Reader 77 conectado.
+17-07-2014 11:22:35	Cambio de estado de antenas de reader 77 a 0000
+17-07-2014 11:22:39	Cambio de estado de antenas de reader 77 a 0100
+17-07-2014 11:43:30	Reader 77 desconectado.
+17-07-2014 11:44:03	Se han encontrado 4 Readers en BD:
+17-07-2014 11:44:03	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+17-07-2014 11:44:03	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+17-07-2014 11:44:03	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+17-07-2014 11:44:03	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+17-07-2014 11:44:03	Reader 74 desconectado.
+17-07-2014 11:44:03	Reader 75 desconectado.
+17-07-2014 11:44:03	Reader 73 desconectado.
+17-07-2014 11:44:03	Reader 77 desconectado.
+17-07-2014 11:44:10	Cambio de estado de antenas de reader 73 a 0---
+17-07-2014 11:44:10	Cambio de estado de antenas de reader 73 a 00--
+17-07-2014 11:44:10	Cambio de estado de antenas de reader 73 a 00-0
+17-07-2014 11:44:10	Reader 73 conectado.
+17-07-2014 12:08:38	Se han encontrado 4 Readers en BD:
+17-07-2014 12:08:38	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+17-07-2014 12:08:38	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+17-07-2014 12:08:38	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+17-07-2014 12:08:38	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+17-07-2014 12:08:39	Reader 74 desconectado.
+17-07-2014 12:08:39	Reader 75 desconectado.
+17-07-2014 12:08:40	Reader 77 desconectado.
+17-07-2014 12:08:40	Reader 73 desconectado.
+17-07-2014 12:08:44	Reader 73 conectado.
+17-07-2014 12:08:49	Cambio de estado de antenas de reader 73 a 0000
+17-07-2014 12:09:24	Reader 73 desconectado.
+17-07-2014 12:09:28	Reader 73 conectado.
+17-07-2014 12:09:52	Cambio de estado de antenas de reader 73 a 0000
+17-07-2014 12:09:56	Cambio de estado de antenas de reader 73 a 1000
+17-07-2014 01:40:53	Se han encontrado 4 Readers en BD:
+17-07-2014 01:40:53	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+17-07-2014 01:40:53	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+17-07-2014 01:40:53	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+17-07-2014 01:40:53	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+17-07-2014 01:40:53	Reader 74 desconectado.
+17-07-2014 01:40:53	Reader 75 desconectado.
+17-07-2014 01:40:53	Reader 77 desconectado.
+17-07-2014 01:40:53	Reader 73 desconectado.
+17-07-2014 01:40:55	Reader 73 conectado.
+17-07-2014 01:42:03	Se han encontrado 4 Readers en BD:
+17-07-2014 01:42:03	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+17-07-2014 01:42:03	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+17-07-2014 01:42:03	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+17-07-2014 01:42:03	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+17-07-2014 01:42:03	Reader 74 desconectado.
+17-07-2014 01:42:03	Reader 75 desconectado.
+17-07-2014 01:42:03	Reader 77 desconectado.
+17-07-2014 01:42:03	Reader 73 desconectado.
+17-07-2014 01:42:46	Reader 73 conectado.
+17-07-2014 01:43:08	Cambio de estado de antenas de reader 73 a 0000
+17-07-2014 01:43:11	Cambio de estado de antenas de reader 73 a 0001
+17-07-2014 01:48:13	Se han encontrado 4 Readers en BD:
+17-07-2014 01:48:13	Antena XPortal en 172.22.23.227, tipo 1, ID: 74
+17-07-2014 01:48:13	Lector Handhelp en 172.22.23.228, tipo 2, ID: 75
+17-07-2014 01:48:13	Lector RFID #11 en 172.22.23.225, tipo 1, ID: 77
+17-07-2014 01:48:13	Lector RFID #12 en 172.22.23.226, tipo 1, ID: 73
+17-07-2014 01:48:13	Reader 74 desconectado.
+17-07-2014 01:48:13	Reader 75 desconectado.
+17-07-2014 01:48:13	Reader 77 desconectado.
+17-07-2014 01:48:13	Reader 73 desconectado.
+17-07-2014 01:49:17	Reader 73 conectado.
+17-07-2014 01:49:37	Cambio de estado de antenas de reader 73 a 0000
+17-07-2014 01:49:41	Cambio de estado de antenas de reader 73 a 0100
+17-07-2014 01:49:51	Cambio de estado de antenas de reader 73 a 0000
+17-07-2014 01:50:01	Cambio de estado de antenas de reader 73 a 0010
+17-07-2014 01:50:47	Reader 73 desconectado.
+17-07-2014 01:51:54	Reader 77 conectado.
+17-07-2014 01:52:10	Cambio de estado de antenas de reader 77 a 0000
+17-07-2014 01:52:20	Cambio de estado de antenas de reader 77 a 0001
+17-07-2014 01:52:54	Reader 77 desconectado.
+17-07-2014 01:53:25	Reader 73 conectado.
+17-07-2014 01:53:40	Cambio de estado de antenas de reader 73 a 0000
+17-07-2014 01:53:44	Cambio de estado de antenas de reader 73 a 0100

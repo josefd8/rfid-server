@@ -1,0 +1,2071 @@
+30-08-2013 09:24:15	La conexion a 172.22.22.184 no pudo realizarse
+30-08-2013 11:47:58	An error occurred: java.lang.NullPointerException
+30-08-2013 11:49:45	An error occurred: java.lang.NullPointerException
+30-08-2013 02:08:40	Sin conexion con 172.22.22.184, reintento 1
+30-08-2013 02:40:03	Sin conexion con 172.22.22.184, reintento 1
+30-08-2013 03:32:43	Sin conexion con 172.22.22.184, reintento 1
+30-08-2013 03:45:32	An error occurred: java.util.ConcurrentModificationException
+30-08-2013 05:28:31	Sin conexion con 172.22.22.184, reintento 1
+30-08-2013 05:28:36	An error occurred: java.lang.IllegalStateException
+30-08-2013 05:28:37	Sin conexion con 172.22.22.184, reintento 2
+30-08-2013 05:31:49	An error occurred: java.util.ConcurrentModificationException
+30-08-2013 05:34:42	Sin conexion con 172.22.22.184, reintento 1
+30-08-2013 05:46:03	An error occurred: java.util.ConcurrentModificationException
+30-08-2013 05:58:18	An error occurred: java.util.ConcurrentModificationException
+02-09-2013 09:06:39	Sin conexion con 172.22.22.184, reintento 1
+02-09-2013 09:07:05	Sin conexion con 172.22.22.184, reintento 2
+02-09-2013 09:07:30	La conexion a 172.22.22.184 no pudo realizarse
+02-09-2013 09:18:30	Sin conexion con 172.22.22.184, reintento 1
+02-09-2013 09:18:56	Sin conexion con 172.22.22.184, reintento 2
+02-09-2013 09:39:47	Sin conexion con 172.22.22.184, reintento 1
+02-09-2013 09:40:13	Sin conexion con 172.22.22.184, reintento 2
+02-09-2013 09:40:39	La conexion a 172.22.22.184 no pudo realizarse
+02-09-2013 10:00:24	Sin conexion con 172.22.22.184, reintento 1
+02-09-2013 10:00:50	Sin conexion con 172.22.22.184, reintento 2
+02-09-2013 10:01:16	La conexion a 172.22.22.184 no pudo realizarse
+02-09-2013 10:10:59	Sin conexion con 172.22.22.184, reintento 1
+02-09-2013 10:11:25	Sin conexion con 172.22.22.184, reintento 2
+02-09-2013 10:13:03	Sin conexion con 172.22.22.184, reintento 1
+02-09-2013 10:13:29	Sin conexion con 172.22.22.184, reintento 2
+02-09-2013 10:13:55	La conexion a 172.22.22.184 no pudo realizarse
+02-09-2013 10:16:41	Sin conexion con 172.22.22.184, reintento 1
+02-09-2013 10:17:07	Sin conexion con 172.22.22.184, reintento 2
+02-09-2013 10:18:45	Sin conexion con 172.22.22.184, reintento 1
+02-09-2013 10:19:11	Sin conexion con 172.22.22.184, reintento 2
+02-09-2013 10:20:02	Sin conexion con 172.22.22.184, reintento 1
+02-09-2013 10:21:59	Sin conexion con 172.22.22.184, reintento 1
+02-09-2013 10:26:03	Sin conexion con 172.22.22.184, reintento 1
+02-09-2013 10:26:29	Sin conexion con 172.22.22.184, reintento 2
+02-09-2013 10:26:55	La conexion a 172.22.22.184 no pudo realizarse
+02-09-2013 10:30:14	Sin conexion con 172.22.22.184, reintento 1
+02-09-2013 10:32:02	Sin conexion con 172.22.22.184, reintento 1
+02-09-2013 03:10:38	Sin conexi髇 con 172.22.22.184, reintento 1
+02-09-2013 03:12:56	Sin conexi髇 con 172.22.22.184, reintento 1
+02-09-2013 03:14:19	Sin conexi髇 con 172.22.22.184, reintento 1
+02-09-2013 03:17:23	Sin conexi髇 con 172.22.22.184, reintento 1
+02-09-2013 03:17:49	Sin conexi髇 con 172.22.22.184, reintento 2
+02-09-2013 03:18:15	La conexi髇 a 172.22.22.184 no pudo realizarse
+02-09-2013 03:34:36	Sin conexi髇 con 172.22.22.184, reintento 1
+02-09-2013 03:35:02	Sin conexi髇 con 172.22.22.184, reintento 2
+02-09-2013 03:35:28	La conexi髇 a 172.22.22.184 no pudo realizarse
+02-09-2013 03:36:01	Sin conexi髇 con 172.22.22.184, reintento 1
+02-09-2013 03:36:27	Sin conexi髇 con 172.22.22.184, reintento 2
+02-09-2013 03:36:53	La conexi髇 a 172.22.22.184 no pudo realizarse
+02-09-2013 03:55:57	Sin conexi髇 con 172.22.22.184, reintento 1
+02-09-2013 03:56:23	Sin conexi髇 con 172.22.22.184, reintento 2
+02-09-2013 03:56:49	La conexi髇 a 172.22.22.184 no pudo realizarse
+02-09-2013 03:58:45	Sin conexi髇 con 172.22.22.184, reintento 1
+02-09-2013 03:59:11	Sin conexi髇 con 172.22.22.184, reintento 2
+02-09-2013 03:59:37	La conexi髇 a 172.22.22.184 no pudo realizarse
+02-09-2013 04:05:34	Sin conexi髇 con 172.22.22.184, reintento 1
+02-09-2013 04:38:06	Sin conexi髇 con 172.22.22.184, reintento 1
+02-09-2013 04:38:32	Sin conexi髇 con 172.22.22.184, reintento 2
+02-09-2013 04:38:57	La conexi髇 a 172.22.22.184 no pudo realizarse
+03-09-2013 10:40:27	Se ha producido un error: java.util.ConcurrentModificationException
+03-09-2013 10:48:04	Sin conexi髇 con 172.22.22.184, reintento 1
+03-09-2013 10:48:09	Se ha producido un error: java.lang.IllegalStateException
+03-09-2013 10:48:10	Sin conexi髇 con 172.22.22.184, reintento 2
+03-09-2013 10:48:15	Se ha producido un error: java.lang.IllegalStateException
+03-09-2013 10:48:15	La conexi髇 a 172.22.22.184 no pudo realizarse
+03-09-2013 10:49:01	Se ha producido un error: java.lang.IllegalStateException
+03-09-2013 10:49:02	Sin conexi髇 con 172.22.22.184, reintento 1
+03-09-2013 10:49:07	Se ha producido un error: java.lang.IllegalStateException
+03-09-2013 10:49:07	Sin conexi髇 con 172.22.22.184, reintento 2
+03-09-2013 10:49:12	Se ha producido un error: java.lang.IllegalStateException
+03-09-2013 10:49:12	La conexi髇 a 172.22.22.184 no pudo realizarse
+03-09-2013 11:25:14	Se ha producido un error: java.util.ConcurrentModificationException
+04-09-2013 09:08:17	Se ha producido un error: java.util.ConcurrentModificationException
+04-09-2013 01:57:24	Sin conexi髇 con 172.22.22.184, reintento 1
+04-09-2013 01:57:50	Sin conexi髇 con 172.22.22.184, reintento 2
+04-09-2013 04:56:37	Sin conexi髇 con 172.22.22.184, reintento 1
+04-09-2013 04:57:03	Sin conexi髇 con 172.22.22.184, reintento 2
+04-09-2013 04:57:29	La conexi髇 a 172.22.22.184 no pudo realizarse
+05-09-2013 08:57:39	Sin conexi髇 con 172.22.22.184, reintento 1
+05-09-2013 08:58:05	Sin conexi髇 con 172.22.22.184, reintento 2
+05-09-2013 08:58:31	La conexi髇 a 172.22.22.184 no pudo realizarse
+05-09-2013 09:07:53	Sin conexi髇 con 172.22.22.184, reintento 1
+05-09-2013 09:08:19	Sin conexi髇 con 172.22.22.184, reintento 2
+05-09-2013 10:19:07	Se ha producido un error: java.util.ConcurrentModificationException
+05-09-2013 11:16:47	Sin conexi髇 con 172.22.22.184, reintento 1
+05-09-2013 11:16:53	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 11:16:53	Sin conexi髇 con 172.22.22.184, reintento 2
+05-09-2013 11:16:58	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 11:16:58	La conexi髇 a 172.22.22.184 no pudo realizarse
+05-09-2013 12:16:14	Sin conexi髇 con 172.22.22.184, reintento 1
+05-09-2013 12:19:20	Se ha producido un error: java.util.ConcurrentModificationException
+05-09-2013 02:06:18	Sin conexi髇 con 172.22.22.184, reintento 1
+05-09-2013 02:06:26	Se ha producido un error: java.util.ConcurrentModificationException
+05-09-2013 02:27:49	Sin conexi髇 con 172.22.22.184, reintento 1
+05-09-2013 02:27:54	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 02:27:54	Sin conexi髇 con 172.22.22.184, reintento 2
+05-09-2013 02:45:03	Se ha producido un error: java.util.ConcurrentModificationException
+05-09-2013 03:23:12	Se ha producido un error: java.util.ConcurrentModificationException
+05-09-2013 03:36:28	Sin conexi髇 con 172.22.22.184, reintento 1
+05-09-2013 04:01:13	Se ha producido un error: java.util.ConcurrentModificationException
+05-09-2013 04:05:39	Sin conexi髇 con 172.22.22.184, reintento 1
+05-09-2013 04:05:44	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 04:05:45	Sin conexi髇 con 172.22.22.184, reintento 2
+05-09-2013 04:23:09	Sin conexi髇 con 172.22.22.184, reintento 1
+05-09-2013 04:29:38	Se ha producido un error: java.util.ConcurrentModificationException
+05-09-2013 04:48:31	Sin conexi髇 con 172.22.22.184, reintento 1
+05-09-2013 05:01:49	Se ha producido un error: java.util.ConcurrentModificationException
+05-09-2013 05:13:20	Se ha producido un error: java.util.ConcurrentModificationException
+05-09-2013 05:22:41	Se ha producido un error: java.util.ConcurrentModificationException
+05-09-2013 05:38:44	Se ha producido un error: session is not yet connected
+05-09-2013 05:38:44	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:38:44	Se ha producido un error: session is not yet connected
+05-09-2013 05:38:44	consultarEstadoReader: null
+05-09-2013 05:38:45	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:38:45	Se ha producido un error: session is not yet connected
+05-09-2013 05:38:45	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:38:46	Se ha producido un error: session is not yet connected
+05-09-2013 05:38:46	consultarEstadoReader: null
+05-09-2013 05:41:02	Se ha producido un error: session is not yet connected
+05-09-2013 05:41:02	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:41:02	Se ha producido un error: session is not yet connected
+05-09-2013 05:41:02	consultarEstadoReader: null
+05-09-2013 05:41:02	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:41:03	Se ha producido un error: session is not yet connected
+05-09-2013 05:41:03	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:41:03	Se ha producido un error: session is not yet connected
+05-09-2013 05:41:03	consultarEstadoReader: null
+05-09-2013 05:41:04	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:41:04	Se ha producido un error: session is not yet connected
+05-09-2013 05:41:04	Se ha producido un error: java.io.IOException
+05-09-2013 05:41:14	consultarEstadoReader: Request timed out after 10000 ms.
+05-09-2013 05:43:52	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:43:52	Se ha producido un error: session is not yet connected
+05-09-2013 05:43:52	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:43:52	Se ha producido un error: session is not yet connected
+05-09-2013 05:43:52	consultarEstadoReader: null
+05-09-2013 05:43:53	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:43:53	Se ha producido un error: session is not yet connected
+05-09-2013 05:43:53	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:43:53	Se ha producido un error: session is not yet connected
+05-09-2013 05:43:53	consultarEstadoReader: null
+05-09-2013 05:43:54	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:43:54	Se ha producido un error: session is not yet connected
+05-09-2013 05:43:54	Se ha producido un error: java.io.IOException
+05-09-2013 05:44:04	consultarEstadoReader: Request timed out after 10000 ms.
+05-09-2013 05:45:44	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:45:45	Se ha producido un error: session is not yet connected
+05-09-2013 05:45:45	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:45:45	Se ha producido un error: session is not yet connected
+05-09-2013 05:45:45	consultarEstadoReader: null
+05-09-2013 05:45:46	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:45:46	Se ha producido un error: session is not yet connected
+05-09-2013 05:45:46	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:45:46	Se ha producido un error: session is not yet connected
+05-09-2013 05:45:46	consultarEstadoReader: null
+05-09-2013 05:45:47	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:45:47	Se ha producido un error: session is not yet connected
+05-09-2013 05:45:47	Se ha producido un error: java.io.IOException
+05-09-2013 05:45:57	consultarEstadoReader: Request timed out after 10000 ms.
+05-09-2013 05:47:26	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:47:26	Se ha producido un error: session is not yet connected
+05-09-2013 05:47:26	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:47:26	Se ha producido un error: session is not yet connected
+05-09-2013 05:47:26	consultarEstadoReader: null
+05-09-2013 05:47:27	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:47:27	Se ha producido un error: session is not yet connected
+05-09-2013 05:47:27	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:47:27	Se ha producido un error: session is not yet connected
+05-09-2013 05:47:27	consultarEstadoReader: null
+05-09-2013 05:47:28	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:47:28	Se ha producido un error: session is not yet connected
+05-09-2013 05:47:28	Se ha producido un error: java.io.IOException
+05-09-2013 05:47:38	consultarEstadoReader: Request timed out after 10000 ms.
+05-09-2013 05:48:26	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:48:26	Se ha producido un error: session is not yet connected
+05-09-2013 05:48:26	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:48:27	Se ha producido un error: session is not yet connected
+05-09-2013 05:48:27	consultarEstadoReader: null
+05-09-2013 05:48:27	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:48:27	Se ha producido un error: session is not yet connected
+05-09-2013 05:48:27	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:48:28	Se ha producido un error: session is not yet connected
+05-09-2013 05:48:28	consultarEstadoReader: null
+05-09-2013 05:48:28	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:48:28	Se ha producido un error: session is not yet connected
+05-09-2013 05:48:29	Se ha producido un error: java.io.IOException
+05-09-2013 05:48:38	consultarEstadoReader: Request timed out after 10000 ms.
+05-09-2013 05:52:21	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:52:22	Se ha producido un error: session is not yet connected
+05-09-2013 05:52:22	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:52:22	Se ha producido un error: session is not yet connected
+05-09-2013 05:52:22	consultarEstadoReader: null
+05-09-2013 05:52:22	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:52:23	Se ha producido un error: session is not yet connected
+05-09-2013 05:52:23	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:52:23	Se ha producido un error: session is not yet connected
+05-09-2013 05:52:23	consultarEstadoReader: null
+05-09-2013 05:52:23	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:52:23	Se ha producido un error: session is not yet connected
+05-09-2013 05:52:24	Se ha producido un error: java.io.IOException
+05-09-2013 05:52:33	consultarEstadoReader: Request timed out after 10000 ms.
+05-09-2013 05:54:21	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:54:21	Se ha producido un error: session is not yet connected
+05-09-2013 05:54:21	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:54:22	Se ha producido un error: session is not yet connected
+05-09-2013 05:54:22	consultarEstadoReader: null
+05-09-2013 05:54:22	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:54:22	Se ha producido un error: session is not yet connected
+05-09-2013 05:54:22	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:54:23	Se ha producido un error: session is not yet connected
+05-09-2013 05:54:23	consultarEstadoReader: null
+05-09-2013 05:54:23	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:54:23	Se ha producido un error: session is not yet connected
+05-09-2013 05:54:23	Se ha producido un error: java.io.IOException
+05-09-2013 05:54:33	consultarEstadoReader: Request timed out after 10000 ms.
+05-09-2013 05:56:51	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:56:52	Se ha producido un error: session is not yet connected
+05-09-2013 05:56:52	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:56:52	Se ha producido un error: session is not yet connected
+05-09-2013 05:56:52	consultarEstadoReader: null
+05-09-2013 05:56:52	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:56:53	Se ha producido un error: session is not yet connected
+05-09-2013 05:56:53	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:56:53	Se ha producido un error: session is not yet connected
+05-09-2013 05:56:53	consultarEstadoReader: null
+05-09-2013 05:56:53	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:56:53	Se ha producido un error: session is not yet connected
+05-09-2013 05:56:54	Se ha producido un error: java.io.IOException
+05-09-2013 05:57:03	consultarEstadoReader: Request timed out after 10000 ms.
+05-09-2013 05:59:25	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:59:25	Se ha producido un error: session is not yet connected
+05-09-2013 05:59:25	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:59:25	Se ha producido un error: session is not yet connected
+05-09-2013 05:59:25	consultarEstadoReader: null
+05-09-2013 05:59:26	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:59:26	Se ha producido un error: session is not yet connected
+05-09-2013 05:59:26	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:59:26	Se ha producido un error: session is not yet connected
+05-09-2013 05:59:26	consultarEstadoReader: null
+05-09-2013 05:59:27	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 05:59:27	Se ha producido un error: session is not yet connected
+05-09-2013 05:59:27	Se ha producido un error: java.io.IOException
+05-09-2013 05:59:37	consultarEstadoReader: Request timed out after 10000 ms.
+05-09-2013 06:00:59	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:00:59	Se ha producido un error: session is not yet connected
+05-09-2013 06:00:59	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:00:59	Se ha producido un error: session is not yet connected
+05-09-2013 06:00:59	consultarEstadoReader: null
+05-09-2013 06:01:00	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:01:00	Se ha producido un error: session is not yet connected
+05-09-2013 06:01:00	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:01:00	Se ha producido un error: session is not yet connected
+05-09-2013 06:01:00	consultarEstadoReader: null
+05-09-2013 06:01:01	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:01:01	Se ha producido un error: session is not yet connected
+05-09-2013 06:01:01	Se ha producido un error: java.io.IOException
+05-09-2013 06:01:11	consultarEstadoReader: Request timed out after 10000 ms.
+05-09-2013 06:04:55	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:04:56	Se ha producido un error: session is not yet connected
+05-09-2013 06:04:56	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:04:56	Se ha producido un error: session is not yet connected
+05-09-2013 06:04:56	consultarEstadoReader: null
+05-09-2013 06:04:56	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:04:57	Se ha producido un error: session is not yet connected
+05-09-2013 06:04:57	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:04:57	Se ha producido un error: session is not yet connected
+05-09-2013 06:04:57	consultarEstadoReader: null
+05-09-2013 06:04:57	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:04:57	Se ha producido un error: session is not yet connected
+05-09-2013 06:04:58	Se ha producido un error: java.io.IOException
+05-09-2013 06:05:07	consultarEstadoReader: Request timed out after 10000 ms.
+05-09-2013 06:10:20	Se ha producido un error: session is not yet connected
+05-09-2013 06:10:20	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:10:20	Se ha producido un error: session is not yet connected
+05-09-2013 06:10:20	consultarEstadoReader: null
+05-09-2013 06:10:20	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:10:21	Se ha producido un error: session is not yet connected
+05-09-2013 06:10:21	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:10:21	Se ha producido un error: session is not yet connected
+05-09-2013 06:10:21	consultarEstadoReader: null
+05-09-2013 06:10:22	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:10:22	Se ha producido un error: session is not yet connected
+05-09-2013 06:10:22	Se ha producido un error: java.io.IOException
+05-09-2013 06:10:32	consultarEstadoReader: Request timed out after 10000 ms.
+05-09-2013 06:10:42	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:10:42	Se ha producido un error: session is not yet connected
+05-09-2013 06:10:42	Se ha producido un error: java.io.IOException
+05-09-2013 06:10:47	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:10:47	Se ha producido un error: session is not yet connected
+05-09-2013 06:10:48	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:10:48	Se ha producido un error: session is not yet connected
+05-09-2013 06:10:48	consultarEstadoReader: null
+05-09-2013 06:10:48	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:10:49	Se ha producido un error: session is not yet connected
+05-09-2013 06:10:49	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:10:49	Se ha producido un error: session is not yet connected
+05-09-2013 06:10:49	consultarEstadoReader: null
+05-09-2013 06:10:49	Se ha producido un error: session is not yet connected
+05-09-2013 06:10:49	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:10:50	Se ha producido un error: java.io.IOException
+05-09-2013 06:10:52	consultarEstadoReader: Request timed out after 10000 ms.
+05-09-2013 06:10:59	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:10:59	Se ha producido un error: session is not yet connected
+05-09-2013 06:10:59	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:10:59	consultarEstadoReader: Request timed out after 10000 ms.
+05-09-2013 06:10:59	Se ha producido un error: session is not yet connected
+05-09-2013 06:10:59	consultarEstadoReader: null
+05-09-2013 06:11:00	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:11:00	Se ha producido un error: session is not yet connected
+05-09-2013 06:11:00	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:11:01	Se ha producido un error: session is not yet connected
+05-09-2013 06:11:01	consultarEstadoReader: null
+05-09-2013 06:11:01	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:11:01	Se ha producido un error: session is not yet connected
+05-09-2013 06:11:01	Se ha producido un error: java.io.IOException
+05-09-2013 06:11:02	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:11:02	Se ha producido un error: session is not yet connected
+05-09-2013 06:11:02	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:11:02	Se ha producido un error: session is not yet connected
+05-09-2013 06:11:02	consultarEstadoReader: null
+05-09-2013 06:11:09	Se ha producido un error: session is not yet connected
+05-09-2013 06:11:09	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:11:10	Se ha producido un error: java.io.IOException
+05-09-2013 06:11:11	consultarEstadoReader: Request timed out after 10000 ms.
+05-09-2013 06:11:19	consultarEstadoReader: Request timed out after 10000 ms.
+05-09-2013 06:11:21	Se ha producido un error: session is not yet connected
+05-09-2013 06:11:21	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:11:21	Se ha producido un error: java.io.IOException
+05-09-2013 06:11:29	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:11:30	Se ha producido un error: session is not yet connected
+05-09-2013 06:11:30	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:11:30	Se ha producido un error: session is not yet connected
+05-09-2013 06:11:30	consultarEstadoReader: null
+05-09-2013 06:11:31	consultarEstadoReader: Request timed out after 10000 ms.
+05-09-2013 06:11:41	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:11:41	Se ha producido un error: session is not yet connected
+05-09-2013 06:11:50	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:11:50	Se ha producido un error: session is not yet connected
+05-09-2013 06:11:50	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:11:50	Se ha producido un error: session is not yet connected
+05-09-2013 06:11:50	consultarEstadoReader: null
+05-09-2013 06:11:51	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:11:51	Se ha producido un error: session is not yet connected
+05-09-2013 06:11:51	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:11:51	Se ha producido un error: session is not yet connected
+05-09-2013 06:11:51	consultarEstadoReader: null
+05-09-2013 06:11:51	consultarEstadoReader: Request timed out after 10000 ms.
+05-09-2013 06:11:52	Se ha producido un error: session is not yet connected
+05-09-2013 06:11:52	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:11:52	Se ha producido un error: java.io.IOException
+05-09-2013 06:12:02	consultarEstadoReader: Request timed out after 10000 ms.
+05-09-2013 06:12:12	Se ha producido un error: session is not yet connected
+05-09-2013 06:12:12	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:12:12	Se ha producido un error: java.io.IOException
+05-09-2013 06:12:26	Se ha producido un error: java.util.ConcurrentModificationException
+05-09-2013 06:13:31	Sin conexi髇 con 172.22.22.184, reintento 1
+05-09-2013 06:13:36	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:13:36	Sin conexi髇 con 172.22.22.184, reintento 2
+05-09-2013 06:13:41	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:13:41	La conexi髇 a 172.22.22.184 no pudo realizarse
+05-09-2013 06:15:51	Se ha producido un error: java.util.ConcurrentModificationException
+05-09-2013 06:17:57	Se ha producido un error: session is not yet connected
+05-09-2013 06:17:57	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:17:57	Se ha producido un error: session is not yet connected
+05-09-2013 06:17:57	consultarEstadoReader: null
+05-09-2013 06:19:18	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:19:18	Se ha producido un error: session is not yet connected
+05-09-2013 06:19:28	consultarEstadoReader: Request timed out after 10000 ms.
+05-09-2013 06:20:34	Se ha producido un error: session is not yet connected
+05-09-2013 06:20:34	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:20:34	Se ha producido un error: session is not yet connected
+05-09-2013 06:20:34	consultarEstadoReader: null
+05-09-2013 06:23:31	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:23:32	Se ha producido un error: session is not yet connected
+05-09-2013 06:23:32	Se ha producido un error: java.lang.IllegalStateException
+05-09-2013 06:23:32	Se ha producido un error: session is not yet connected
+05-09-2013 06:23:32	consultarEstadoReader: null
+05-09-2013 06:24:40	Se ha producido un error: java.util.ConcurrentModificationException
+06-09-2013 10:11:11	Se ha producido un error: java.util.ConcurrentModificationException
+06-09-2013 10:47:05	Sin conexi髇 con 172.22.22.184, reintento 1
+06-09-2013 10:47:10	Se ha producido un error: java.lang.IllegalStateException
+06-09-2013 10:47:11	Sin conexi髇 con 172.22.22.184, reintento 2
+06-09-2013 10:47:16	Se ha producido un error: java.lang.IllegalStateException
+06-09-2013 10:47:16	La conexi髇 a 172.22.22.184 no pudo realizarse
+06-09-2013 10:50:21	Se ha producido un error: java.lang.IllegalStateException
+06-09-2013 10:50:22	Sin conexi髇 con 172.22.22.184, reintento 1
+06-09-2013 02:41:35	Se ha producido un error: session is not yet connected
+06-09-2013 02:41:44	Se ha producido un error: java.lang.IllegalStateException
+06-09-2013 02:41:45	Se ha producido un error: session is not yet connected
+06-09-2013 02:50:10	Sin conexi髇 con 172.22.22.184, reintento 1
+06-09-2013 02:50:15	Sin conexi髇 con 172.22.22.184, reintento 2
+06-09-2013 03:53:55	Sin conexi髇 con 172.22.22.184, reintento 1
+06-09-2013 03:54:46	Sin conexi髇 con 172.22.22.184, reintento 1
+06-09-2013 03:56:31	Se ha producido un error: java.util.ConcurrentModificationException
+06-09-2013 03:57:01	Se ha producido un error: java.util.ConcurrentModificationException
+06-09-2013 05:14:04	Sin conexi髇 con 172.22.22.184, reintento 1
+06-09-2013 05:14:09	Se ha producido un error: java.lang.IllegalStateException
+06-09-2013 05:14:10	Sin conexi髇 con 172.22.22.184, reintento 2
+09-09-2013 12:04:29	Se ha producido un error: java.util.ConcurrentModificationException
+09-09-2013 12:04:38	Se ha producido un error: java.util.ConcurrentModificationException
+10-09-2013 09:49:20	Se ha producido un error: org.llrp.ltk.exceptions.InvalidLLRPMessageException
+10-09-2013 09:50:23	Se ha producido un error: org.llrp.ltk.exceptions.InvalidLLRPMessageException
+10-09-2013 09:50:44	Se ha producido un error: org.llrp.ltk.exceptions.InvalidLLRPMessageException
+10-09-2013 02:32:58	Se ha producido un error: java.util.ConcurrentModificationException
+10-09-2013 03:25:26	Se ha producido un error: java.util.ConcurrentModificationException
+10-09-2013 03:32:41	Se ha producido un error: java.util.ConcurrentModificationException
+10-09-2013 03:33:56	consultarEstadoReader: Request timed out after 10000 ms.
+10-09-2013 03:34:51	Sin conexi髇 con 172.22.22.184, reintento 1
+10-09-2013 03:34:54	Se ha producido un error: java.lang.IllegalStateException
+10-09-2013 03:34:54	Sin conexi髇 con 172.22.22.184, reintento 1
+10-09-2013 03:34:56	Se ha producido un error: java.lang.IllegalStateException
+10-09-2013 03:34:57	Sin conexi髇 con 172.22.22.184, reintento 2
+10-09-2013 03:34:59	Se ha producido un error: java.lang.IllegalStateException
+10-09-2013 03:34:59	Sin conexi髇 con 172.22.22.184, reintento 2
+10-09-2013 03:35:02	Se ha producido un error: java.lang.IllegalStateException
+10-09-2013 03:35:02	La conexi髇 a 172.22.22.184 no pudo realizarse
+10-09-2013 03:35:05	Se ha producido un error: java.lang.IllegalStateException
+10-09-2013 03:35:05	La conexi髇 a 172.22.22.184 no pudo realizarse
+10-09-2013 03:35:16	Se ha producido un error: java.lang.IllegalStateException
+10-09-2013 03:35:17	Sin conexi髇 con 172.22.22.184, reintento 1
+10-09-2013 03:35:22	Se ha producido un error: java.lang.IllegalStateException
+10-09-2013 03:35:22	Sin conexi髇 con 172.22.22.184, reintento 2
+10-09-2013 03:35:27	Se ha producido un error: java.lang.IllegalStateException
+10-09-2013 03:35:27	La conexi髇 a 172.22.22.184 no pudo realizarse
+10-09-2013 03:44:26	Sin conexi髇 con 172.22.22.184, reintento 1
+10-09-2013 04:05:29	Se ha producido un error: java.util.ConcurrentModificationException
+10-09-2013 04:08:56	Sin conexi髇 con 172.22.22.184, reintento 1
+10-09-2013 04:26:38	Sin conexi髇 con 172.22.22.184, reintento 1
+10-09-2013 04:26:43	Se ha producido un error: java.lang.IllegalStateException
+10-09-2013 04:26:43	Sin conexi髇 con 172.22.22.184, reintento 2
+10-09-2013 04:26:48	Se ha producido un error: java.lang.IllegalStateException
+10-09-2013 04:26:48	La conexi髇 a 172.22.22.184 no pudo realizarse
+10-09-2013 04:26:54	Se ha producido un error: java.lang.IllegalStateException
+10-09-2013 04:26:54	Sin conexi髇 con 172.22.22.184, reintento 1
+10-09-2013 04:26:59	Se ha producido un error: java.lang.IllegalStateException
+10-09-2013 04:26:59	Sin conexi髇 con 172.22.22.184, reintento 2
+10-09-2013 04:27:05	La conexi髇 a 172.22.22.184 no pudo realizarse
+10-09-2013 04:30:06	Sin conexi髇 con 172.22.22.184, reintento 1
+10-09-2013 04:30:11	Se ha producido un error: java.lang.IllegalStateException
+10-09-2013 04:30:11	Sin conexi髇 con 172.22.22.184, reintento 2
+10-09-2013 04:30:16	Se ha producido un error: java.lang.IllegalStateException
+10-09-2013 04:30:16	La conexi髇 a 172.22.22.184 no pudo realizarse
+10-09-2013 04:30:19	Se ha producido un error: java.lang.IllegalStateException
+10-09-2013 04:30:19	Sin conexi髇 con 172.22.22.184, reintento 1
+10-09-2013 04:30:24	Se ha producido un error: java.lang.IllegalStateException
+10-09-2013 04:30:25	Sin conexi髇 con 172.22.22.184, reintento 2
+10-09-2013 04:30:30	Se ha producido un error: java.lang.IllegalStateException
+10-09-2013 04:30:30	La conexi髇 a 172.22.22.184 no pudo realizarse
+10-09-2013 04:30:37	Se ha producido un error: java.lang.IllegalStateException
+10-09-2013 04:30:38	Sin conexi髇 con 172.22.22.184, reintento 1
+10-09-2013 04:30:43	Se ha producido un error: java.lang.IllegalStateException
+10-09-2013 04:30:43	Sin conexi髇 con 172.22.22.184, reintento 2
+10-09-2013 04:30:48	Se ha producido un error: java.lang.IllegalStateException
+10-09-2013 04:30:48	La conexi髇 a 172.22.22.184 no pudo realizarse
+10-09-2013 04:32:16	Sin conexi髇 con 172.22.22.184, reintento 1
+10-09-2013 04:32:21	Se ha producido un error: java.lang.IllegalStateException
+10-09-2013 04:32:21	Sin conexi髇 con 172.22.22.184, reintento 2
+10-09-2013 04:32:26	Se ha producido un error: java.lang.IllegalStateException
+10-09-2013 04:32:27	La conexi髇 a 172.22.22.184 no pudo realizarse
+10-09-2013 04:32:29	Se ha producido un error: java.lang.IllegalStateException
+10-09-2013 04:32:29	Sin conexi髇 con 172.22.22.184, reintento 1
+10-09-2013 04:32:34	Se ha producido un error: java.lang.IllegalStateException
+10-09-2013 04:32:35	Sin conexi髇 con 172.22.22.184, reintento 2
+10-09-2013 04:32:40	Se ha producido un error: java.lang.IllegalStateException
+10-09-2013 04:32:40	La conexi髇 a 172.22.22.184 no pudo realizarse
+10-09-2013 04:32:47	Se ha producido un error: java.lang.IllegalStateException
+10-09-2013 04:32:48	Sin conexi髇 con 172.22.22.184, reintento 1
+11-09-2013 09:42:29	Sin conexi髇 con 172.22.22.184, reintento 1
+11-09-2013 09:42:55	Sin conexi髇 con 172.22.22.184, reintento 2
+11-09-2013 09:43:21	La conexi髇 a 172.22.22.184 no pudo realizarse
+11-09-2013 09:43:41	Sin conexi髇 con 172.22.22.184, reintento 1
+11-09-2013 09:44:07	Sin conexi髇 con 172.22.22.184, reintento 2
+11-09-2013 09:44:21	La conexi髇 a 172.22.22.184 no pudo realizarse
+11-09-2013 09:44:33	Sin conexi髇 con 172.22.22.184, reintento 1
+11-09-2013 09:44:39	Sin conexi髇 con 172.22.22.184, reintento 2
+11-09-2013 09:44:44	Se ha producido un error: java.lang.IllegalStateException
+11-09-2013 09:44:44	La conexi髇 a 172.22.22.184 no pudo realizarse
+11-09-2013 09:44:54	Se ha producido un error: java.lang.IllegalStateException
+11-09-2013 09:44:54	Sin conexi髇 con 172.22.22.184, reintento 1
+11-09-2013 09:47:14	Sin conexi髇 con 172.22.22.184, reintento 1
+11-09-2013 09:47:40	Sin conexi髇 con 172.22.22.184, reintento 2
+11-09-2013 09:48:06	La conexi髇 a 172.22.22.184 no pudo realizarse
+11-09-2013 09:48:26	Sin conexi髇 con 172.22.22.184, reintento 1
+11-09-2013 09:48:52	Sin conexi髇 con 172.22.22.184, reintento 2
+11-09-2013 09:49:06	La conexi髇 a 172.22.22.184 no pudo realizarse
+11-09-2013 09:49:18	Sin conexi髇 con 172.22.22.184, reintento 1
+11-09-2013 09:49:36	Sin conexi髇 con 172.22.22.184, reintento 2
+11-09-2013 10:00:16	Sin conexi髇 con 172.22.22.184, reintento 1
+11-09-2013 10:00:42	Sin conexi髇 con 172.22.22.184, reintento 2
+11-09-2013 10:01:07	La conexi髇 a 172.22.22.184 no pudo realizarse
+11-09-2013 10:05:30	Sin conexi髇 con 172.22.22.184, reintento 1
+11-09-2013 10:05:56	Sin conexi髇 con 172.22.22.184, reintento 2
+11-09-2013 10:06:22	La conexi髇 a 172.22.22.184 no pudo realizarse
+11-09-2013 10:07:52	Sin conexi髇 con 172.22.22.184, reintento 1
+11-09-2013 10:08:18	Sin conexi髇 con 172.22.22.184, reintento 2
+11-09-2013 10:08:44	La conexi髇 a 172.22.22.184 no pudo realizarse
+11-09-2013 10:10:14	Sin conexi髇 con 172.22.22.184, reintento 1
+11-09-2013 10:12:13	Se ha producido un error: java.io.IOException
+11-09-2013 10:12:58	Se ha producido un error: session is not yet connected
+11-09-2013 10:13:40	Se ha producido un error: session is not yet connected
+11-09-2013 10:14:22	Se ha producido un error: session is not yet connected
+11-09-2013 10:15:04	Se ha producido un error: session is not yet connected
+11-09-2013 10:26:10	Sin conexi髇 con 172.22.22.184, reintento 1
+11-09-2013 10:26:36	Sin conexi髇 con 172.22.22.184, reintento 2
+11-09-2013 10:27:02	La conexi髇 a 172.22.22.184 no pudo realizarse
+11-09-2013 10:28:32	Sin conexi髇 con 172.22.22.184, reintento 1
+11-09-2013 10:28:58	Sin conexi髇 con 172.22.22.184, reintento 2
+11-09-2013 10:29:23	La conexi髇 a 172.22.22.184 no pudo realizarse
+11-09-2013 10:32:04	Se ha producido un error: java.io.IOException
+11-09-2013 10:32:33	Se ha producido un error: session is not yet connected
+11-09-2013 10:33:16	Se ha producido un error: session is not yet connected
+11-09-2013 10:33:57	Se ha producido un error: session is not yet connected
+11-09-2013 10:34:40	Se ha producido un error: session is not yet connected
+11-09-2013 10:35:22	Se ha producido un error: session is not yet connected
+11-09-2013 10:36:04	Se ha producido un error: session is not yet connected
+11-09-2013 11:00:57	Sin conexi髇 con 172.22.22.184, reintento 1
+11-09-2013 11:01:22	Sin conexi髇 con 172.22.22.184, reintento 2
+11-09-2013 11:01:48	La conexi髇 a 172.22.22.184 no pudo realizarse
+11-09-2013 11:03:19	Sin conexi髇 con 172.22.22.184, reintento 1
+11-09-2013 11:13:38	Sin conexi髇 con 172.22.22.184, reintento 1
+11-09-2013 11:14:04	Sin conexi髇 con 172.22.22.184, reintento 2
+11-09-2013 11:14:30	La conexi髇 a 172.22.22.184 no pudo realizarse
+11-09-2013 11:15:48	Sin conexi髇 con 172.22.22.184, reintento 1
+11-09-2013 11:16:14	Sin conexi髇 con 172.22.22.184, reintento 2
+11-09-2013 11:17:28	Se ha producido un error: java.io.IOException
+11-09-2013 11:17:58	Se ha producido un error: session is not yet connected
+11-09-2013 11:18:40	Se ha producido un error: session is not yet connected
+11-09-2013 11:19:22	Se ha producido un error: session is not yet connected
+11-09-2013 11:20:42	Sin conexi髇 con 172.22.22.184, reintento 1
+11-09-2013 11:21:08	Sin conexi髇 con 172.22.22.184, reintento 2
+11-09-2013 11:21:34	La conexi髇 a 172.22.22.184 no pudo realizarse
+11-09-2013 11:22:52	Sin conexi髇 con 172.22.22.184, reintento 1
+11-09-2013 11:23:55	Error al borrar los ROSpec: 172.22.22.184, Request timed out after 10000 ms.
+11-09-2013 11:24:16	Sin conexi髇 con 172.22.22.184, reintento 2
+11-09-2013 11:24:42	La conexi髇 a 172.22.22.184 no pudo realizarse
+11-09-2013 11:25:12	Sin conexi髇 con 172.22.22.184, reintento 1
+11-09-2013 11:25:38	Sin conexi髇 con 172.22.22.184, reintento 2
+11-09-2013 11:26:04	La conexi髇 a 172.22.22.184 no pudo realizarse
+11-09-2013 11:27:53	Se ha producido un error: java.io.IOException
+11-09-2013 11:28:22	Se ha producido un error: session is not yet connected
+11-09-2013 11:29:05	Se ha producido un error: session is not yet connected
+11-09-2013 11:37:16	Sin conexi髇 con 172.22.22.184, reintento 1
+11-09-2013 11:37:42	Sin conexi髇 con 172.22.22.184, reintento 2
+11-09-2013 11:53:28	Sin conexi髇 con 172.22.22.184, reintento 1
+11-09-2013 11:53:54	Sin conexi髇 con 172.22.22.184, reintento 2
+11-09-2013 11:54:20	La conexi髇 a 172.22.22.184 no pudo realizarse
+11-09-2013 11:55:38	Sin conexi髇 con 172.22.22.184, reintento 1
+11-09-2013 11:56:03	Sin conexi髇 con 172.22.22.184, reintento 2
+11-09-2013 11:56:29	La conexi髇 a 172.22.22.184 no pudo realizarse
+11-09-2013 11:57:48	Sin conexi髇 con 172.22.22.184, reintento 1
+11-09-2013 11:58:14	Sin conexi髇 con 172.22.22.184, reintento 2
+11-09-2013 11:58:39	La conexi髇 a 172.22.22.184 no pudo realizarse
+11-09-2013 11:59:58	Sin conexi髇 con 172.22.22.184, reintento 1
+11-09-2013 12:00:24	Sin conexi髇 con 172.22.22.184, reintento 2
+11-09-2013 12:00:50	La conexi髇 a 172.22.22.184 no pudo realizarse
+11-09-2013 12:02:08	Sin conexi髇 con 172.22.22.184, reintento 1
+11-09-2013 12:02:34	Sin conexi髇 con 172.22.22.184, reintento 2
+11-09-2013 12:03:00	La conexi髇 a 172.22.22.184 no pudo realizarse
+11-09-2013 12:04:18	Sin conexi髇 con 172.22.22.184, reintento 1
+11-09-2013 12:04:44	Sin conexi髇 con 172.22.22.184, reintento 2
+11-09-2013 12:05:10	La conexi髇 a 172.22.22.184 no pudo realizarse
+11-09-2013 12:06:28	Sin conexi髇 con 172.22.22.184, reintento 1
+11-09-2013 12:06:54	Sin conexi髇 con 172.22.22.184, reintento 2
+11-09-2013 12:07:20	La conexi髇 a 172.22.22.184 no pudo realizarse
+11-09-2013 02:15:17	Sin conexi髇 con 172.22.22.184, reintento 1
+11-09-2013 02:15:23	Sin conexi髇 con 172.22.22.184, reintento 2
+11-09-2013 02:17:37	Sin conexi髇 con 172.22.22.184, reintento 1
+11-09-2013 02:17:42	Se ha producido un error: java.lang.IllegalStateException
+11-09-2013 02:17:42	Sin conexi髇 con 172.22.22.184, reintento 2
+11-09-2013 02:17:47	Se ha producido un error: java.lang.IllegalStateException
+11-09-2013 02:17:48	La conexi髇 a 172.22.22.184 no pudo realizarse
+11-09-2013 02:18:04	Se ha producido un error: java.lang.IllegalStateException
+11-09-2013 02:18:04	Sin conexi髇 con 172.22.22.184, reintento 1
+11-09-2013 02:18:38	Se ha producido un error: java.io.IOException
+11-09-2013 03:13:07	Se ha producido un error: java.util.ConcurrentModificationException
+18-09-2013 09:36:08	Sin conexi髇 con 172.22.22.88, reintento 1
+18-09-2013 09:56:01	Sin conexi髇 con 172.22.22.184, reintento 1
+18-09-2013 09:56:06	Sin conexi髇 con 172.22.22.184, reintento 2
+18-09-2013 09:56:11	La conexi髇 a 172.22.22.184 no pudo realizarse
+18-09-2013 09:56:19	Se ha producido un error: session is not yet connected
+18-09-2013 09:56:22	Sin conexi髇 con 172.22.22.184, reintento 1
+18-09-2013 09:56:27	Sin conexi髇 con 172.22.22.184, reintento 2
+18-09-2013 10:05:17	Sin conexi髇 con 172.22.22.184, reintento 1
+18-09-2013 10:09:11	Sin conexi髇 con 172.22.22.184, reintento 1
+18-09-2013 10:09:28	Sin conexi髇 con 172.22.22.184, reintento 1
+18-09-2013 10:43:29	Se ha producido un error: java.lang.StringIndexOutOfBoundsException
+18-09-2013 10:43:32	Se ha producido un error: java.lang.StringIndexOutOfBoundsException
+18-09-2013 10:43:33	Se ha producido un error: java.lang.StringIndexOutOfBoundsException
+18-09-2013 10:43:34	Se ha producido un error: java.lang.StringIndexOutOfBoundsException
+18-09-2013 10:43:36	Se ha producido un error: java.lang.StringIndexOutOfBoundsException
+18-09-2013 10:54:31	Se ha producido un error: java.lang.NullPointerException
+18-09-2013 10:54:33	Se ha producido un error: java.lang.NullPointerException
+18-09-2013 10:54:35	Se ha producido un error: java.lang.NullPointerException
+18-09-2013 10:56:16	Sin conexi髇 con 172.22.22.184, reintento 1
+18-09-2013 10:56:21	Se ha producido un error: java.lang.NullPointerException
+18-09-2013 10:57:00	Se ha producido un error: java.lang.NullPointerException
+18-09-2013 10:57:25	Sin conexi髇 con 172.22.22.184, reintento 1
+18-09-2013 10:57:30	Sin conexi髇 con 172.22.22.184, reintento 2
+18-09-2013 10:57:35	Se ha producido un error: java.lang.NullPointerException
+18-09-2013 10:57:51	Se ha producido un error: java.lang.IllegalStateException
+18-09-2013 10:57:53	Se ha producido un error: java.lang.IllegalStateException
+18-09-2013 10:58:49	Se ha producido un error: java.lang.NullPointerException
+18-09-2013 10:59:27	Se ha producido un error: java.lang.NullPointerException
+18-09-2013 11:00:45	Se ha producido un error: java.lang.NullPointerException
+18-09-2013 11:01:38	Se ha producido un error: java.lang.NullPointerException
+18-09-2013 11:05:02	Se ha producido un error: java.lang.NullPointerException
+18-09-2013 11:06:06	Sin conexi髇 con 172.22.22.184, reintento 1
+18-09-2013 11:06:11	Se ha producido un error: java.lang.IllegalStateException
+18-09-2013 11:06:12	Sin conexi髇 con 172.22.22.184, reintento 2
+18-09-2013 11:06:17	Se ha producido un error: java.lang.IllegalStateException
+18-09-2013 11:06:17	La conexi髇 a 172.22.22.184 no pudo realizarse
+18-09-2013 11:06:31	Se ha producido un error: java.lang.NullPointerException
+19-09-2013 09:44:35	Sin conexi髇 con 172.22.22.184, reintento 1
+19-09-2013 09:44:40	Sin conexi髇 con 172.22.22.184, reintento 2
+19-09-2013 09:44:45	La conexi髇 a 172.22.22.184 no pudo realizarse
+19-09-2013 12:00:33	Sin conexi锟絥 con 172.22.22.184, reintento 1
+19-09-2013 12:00:38	Sin conexi锟絥 con 172.22.22.184, reintento 2
+19-09-2013 12:00:44	La conexi锟絥 a 172.22.22.184 no pudo realizarse
+19-09-2013 12:02:43	Sin conexi锟絥 con 172.22.22.184, reintento 1
+19-09-2013 12:02:48	Sin conexi锟絥 con 172.22.22.184, reintento 2
+19-09-2013 12:02:54	La conexi锟絥 a 172.22.22.184 no pudo realizarse
+19-09-2013 12:04:53	Sin conexi锟絥 con 172.22.22.184, reintento 1
+19-09-2013 12:04:58	Sin conexi锟絥 con 172.22.22.184, reintento 2
+19-09-2013 12:05:04	La conexi锟絥 a 172.22.22.184 no pudo realizarse
+19-09-2013 12:07:03	Sin conexi锟絥 con 172.22.22.184, reintento 1
+19-09-2013 12:07:08	Sin conexi锟絥 con 172.22.22.184, reintento 2
+19-09-2013 12:07:14	La conexi锟絥 a 172.22.22.184 no pudo realizarse
+19-09-2013 12:09:13	Sin conexi锟絥 con 172.22.22.184, reintento 1
+19-09-2013 12:09:18	Sin conexi锟絥 con 172.22.22.184, reintento 2
+19-09-2013 12:09:24	La conexi锟絥 a 172.22.22.184 no pudo realizarse
+19-09-2013 12:11:09	Sin conexi髇 con 172.22.22.184, reintento 1
+19-09-2013 12:11:14	Sin conexi髇 con 172.22.22.184, reintento 2
+19-09-2013 12:11:19	La conexi髇 a 172.22.22.184 no pudo realizarse
+19-09-2013 12:12:30	Se ha producido un error: session is not yet connected
+19-09-2013 12:12:30	Se ha producido un error: session is not yet connected
+19-09-2013 12:12:30	consultarEstadoReader: null
+19-09-2013 12:13:15	Sin conexi髇 con 172.22.22.184, reintento 1
+19-09-2013 12:13:20	Sin conexi髇 con 172.22.22.184, reintento 2
+19-09-2013 12:13:25	La conexi髇 a 172.22.22.184 no pudo realizarse
+19-09-2013 12:14:20	Sin conexi髇 con 172.22.22.184, reintento 1
+19-09-2013 12:14:25	Sin conexi髇 con 172.22.22.184, reintento 2
+19-09-2013 12:14:28	Se ha producido un error: session is not yet connected
+19-09-2013 12:14:28	Se ha producido un error: session is not yet connected
+19-09-2013 12:14:28	consultarEstadoReader: null
+19-09-2013 12:14:30	La conexi髇 a 172.22.22.184 no pudo realizarse
+19-09-2013 12:14:37	Se ha producido un error: session is not yet connected
+19-09-2013 12:14:39	Sin conexi髇 con 172.22.22.184, reintento 1
+19-09-2013 12:14:44	Sin conexi髇 con 172.22.22.184, reintento 2
+19-09-2013 12:14:49	La conexi髇 a 172.22.22.184 no pudo realizarse
+19-09-2013 12:15:09	Sin conexi髇 con 172.22.22.184, reintento 1
+19-09-2013 12:15:14	Sin conexi髇 con 172.22.22.184, reintento 2
+19-09-2013 12:15:19	La conexi髇 a 172.22.22.184 no pudo realizarse
+19-09-2013 03:28:12	Se ha producido un error: java.lang.NullPointerException
+19-09-2013 04:04:01	Se ha producido un error: java.lang.NullPointerException
+20-09-2013 11:38:21	Sin conexi贸n con 172.22.22.184, reintento 1
+20-09-2013 11:40:20	Sin conexi贸n con 172.22.22.184, reintento 1
+20-09-2013 11:40:25	Sin conexi贸n con 172.22.22.184, reintento 2
+20-09-2013 11:48:16	Sin conexi贸n con 172.22.22.184, reintento 1
+20-09-2013 11:54:01	Sin conexi贸n con 172.22.22.184, reintento 1
+20-09-2013 01:48:21	Sin conexi贸n con 172.22.22.184, reintento 1
+20-09-2013 01:51:22	Sin conexi贸n con 172.22.22.184, reintento 1
+20-09-2013 01:51:28	Sin conexi贸n con 172.22.22.184, reintento 2
+20-09-2013 01:59:34	Sin conexi贸n con 172.22.22.184, reintento 1
+20-09-2013 01:59:39	Sin conexi贸n con 172.22.22.184, reintento 2
+20-09-2013 01:59:44	La conexi贸n a 172.22.22.184 no pudo realizarse
+20-09-2013 02:00:10	Sin conexi贸n con 172.22.22.184, reintento 1
+20-09-2013 02:03:04	Sin conexi贸n con 172.22.22.184, reintento 1
+20-09-2013 02:03:09	Sin conexi贸n con 172.22.22.184, reintento 2
+20-09-2013 02:03:12	Se ha producido un error: session is not yet connected
+20-09-2013 02:03:12	Se ha producido un error: session is not yet connected
+20-09-2013 02:03:12	consultarEstadoReader: null
+20-09-2013 02:03:14	La conexi贸n a 172.22.22.184 no pudo realizarse
+20-09-2013 04:03:57	Sin conexi贸n con 172.22.22.184, reintento 1
+20-09-2013 04:04:02	Sin conexi贸n con 172.22.22.184, reintento 2
+20-09-2013 04:04:07	La conexi贸n a 172.22.22.184 no pudo realizarse
+20-09-2013 04:05:47	Se ha producido un error: java.lang.NullPointerException
+23-09-2013 03:55:13	Se ha producido un error: java.lang.NullPointerException
+23-09-2013 05:01:27	Se ha producido un error: java.lang.NullPointerException
+23-09-2013 05:02:07	Se ha producido un error: java.lang.NullPointerException
+23-09-2013 05:02:38	Se ha producido un error: java.lang.NullPointerException
+23-09-2013 05:03:03	Se ha producido un error: java.lang.NullPointerException
+23-09-2013 05:03:57	Se ha producido un error: java.lang.NullPointerException
+23-09-2013 05:05:20	Se ha producido un error: java.lang.NullPointerException
+23-09-2013 05:06:02	Se ha producido un error: java.lang.NullPointerException
+23-09-2013 05:06:44	Se ha producido un error: java.lang.NullPointerException
+23-09-2013 05:07:07	Se ha producido un error: java.lang.NullPointerException
+23-09-2013 05:07:17	Se ha producido un error: java.lang.NullPointerException
+23-09-2013 05:14:31	Se ha producido un error: java.util.ConcurrentModificationException
+23-09-2013 05:14:59	Se ha producido un error: java.util.ConcurrentModificationException
+23-09-2013 05:15:02	Se ha producido un error: java.util.ConcurrentModificationException
+23-09-2013 05:15:04	Se ha producido un error: java.util.ConcurrentModificationException
+23-09-2013 05:15:08	Se ha producido un error: java.util.ConcurrentModificationException
+23-09-2013 05:15:34	Se ha producido un error: java.util.ConcurrentModificationException
+23-09-2013 05:15:39	Se ha producido un error: java.util.ConcurrentModificationException
+23-09-2013 05:16:55	Se ha producido un error: java.util.ConcurrentModificationException
+23-09-2013 05:19:09	Se ha producido un error: java.lang.NullPointerException
+23-09-2013 05:21:22	Se ha producido un error: java.util.ConcurrentModificationException
+23-09-2013 05:21:53	Se ha producido un error: java.util.ConcurrentModificationException
+23-09-2013 05:24:50	Se ha producido un error: java.lang.NullPointerException
+23-09-2013 05:42:40	Se ha producido un error: java.util.ConcurrentModificationException
+23-09-2013 05:42:41	Se ha producido un error: java.lang.NullPointerException
+23-09-2013 05:44:58	Se ha producido un error: java.util.ConcurrentModificationException
+23-09-2013 05:56:04	Se ha producido un error: java.lang.NullPointerException
+23-09-2013 05:56:48	consultarEstadoReader: Request timed out after 3000 ms.
+23-09-2013 05:59:00	Se ha producido un error: java.util.ConcurrentModificationException
+23-09-2013 05:59:19	Se ha producido un error: java.util.ConcurrentModificationException
+23-09-2013 06:00:14	Se ha producido un error: java.lang.NullPointerException
+23-09-2013 06:00:33	Se ha producido un error: java.util.ConcurrentModificationException
+23-09-2013 06:01:40	Se ha producido un error: java.util.ConcurrentModificationException
+23-09-2013 06:01:49	Se ha producido un error: java.util.ConcurrentModificationException
+23-09-2013 06:04:42	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 08:58:09	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 09:02:58	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 09:06:42	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 09:19:34	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 09:26:35	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 09:48:31	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 09:49:25	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 09:49:35	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 09:51:22	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 09:52:54	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 09:52:55	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 10:10:21	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 10:14:53	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 10:15:03	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 10:35:22	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 10:38:20	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 10:38:27	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 10:39:08	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 10:39:12	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 10:41:37	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 10:56:10	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 11:01:08	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 11:24:49	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 01:35:12	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 01:39:22	consultarEstadoReader: Request timed out after 3000 ms.
+24-09-2013 01:39:58	Se ha producido un error: java.io.IOException
+24-09-2013 01:39:58	Error al borrar los ROSpec: 172.22.22.184, Request timed out after 10000 ms.
+24-09-2013 01:48:46	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 01:49:12	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 01:49:15	consultarEstadoReader: Request timed out after 10000 ms.
+24-09-2013 01:49:55	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 01:50:12	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 01:50:12	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 01:50:31	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 01:50:33	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 01:52:49	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 02:02:09	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 02:04:49	Sin conexi贸n con 172.22.22.184, reintento 1
+24-09-2013 02:04:54	Se ha producido un error: java.lang.IllegalStateException
+24-09-2013 02:04:55	Sin conexi贸n con 172.22.22.184, reintento 2
+24-09-2013 02:05:00	Se ha producido un error: java.lang.IllegalStateException
+24-09-2013 02:05:00	La conexi贸n a 172.22.22.184 no pudo realizarse
+24-09-2013 02:05:10	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 02:05:36	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 02:07:12	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 02:07:14	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 02:07:34	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 02:08:24	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 02:08:49	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 02:09:34	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 02:36:56	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 02:36:56	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 02:37:32	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 02:37:32	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 02:37:32	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 02:38:16	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 02:38:48	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 02:42:05	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 02:54:02	consultarEstadoReader: Request timed out after 3000 ms.
+24-09-2013 02:54:05	Se ha producido un error: java.io.IOException
+24-09-2013 02:54:08	Error al borrar los ROSpec: 172.22.22.184, Request timed out after 10000 ms.
+24-09-2013 02:54:23	Se ha producido un error: session is not yet established
+24-09-2013 02:54:23	Se ha producido un error: session is not yet established
+24-09-2013 02:54:23	consultarEstadoReader: null
+24-09-2013 02:54:29	Sin conexi贸n con 172.22.22.184, reintento 1
+24-09-2013 02:54:29	Sin conexi贸n con 172.22.22.184, reintento 1
+24-09-2013 02:54:43	Se ha producido un error: session is not yet established
+24-09-2013 02:54:43	Se ha producido un error: session is not yet established
+24-09-2013 02:54:43	Se ha producido un error: session is not yet established
+24-09-2013 02:54:43	Error a帽adiendo el ROSpec: 172.22.22.184 null
+24-09-2013 02:54:43	Se ha producido un error: session is not yet established
+24-09-2013 02:54:43	Se ha producido un error: session is not yet established
+24-09-2013 02:54:55	Se ha producido un error: java.lang.IllegalStateException
+24-09-2013 02:54:55	Se ha producido un error: session is not yet connected
+24-09-2013 02:54:56	Se ha producido un error: java.lang.IllegalStateException
+24-09-2013 02:54:56	Se ha producido un error: session is not yet connected
+24-09-2013 02:54:56	Se ha producido un error: java.lang.IllegalStateException
+24-09-2013 02:54:56	Se ha producido un error: session is not yet connected
+24-09-2013 02:54:56	consultarEstadoReader: null
+24-09-2013 02:55:04	Se ha producido un error: java.lang.IllegalStateException
+24-09-2013 02:55:04	Se ha producido un error: session is not yet connected
+24-09-2013 02:55:04	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 02:55:14	Se ha producido un error: java.lang.IllegalStateException
+24-09-2013 02:55:14	Se ha producido un error: session is not yet connected
+24-09-2013 02:55:24	Se ha producido un error: java.lang.IllegalStateException
+24-09-2013 02:55:24	Se ha producido un error: session is not yet connected
+24-09-2013 02:55:34	Se ha producido un error: java.lang.IllegalStateException
+24-09-2013 02:55:34	Se ha producido un error: session is not yet connected
+24-09-2013 02:55:41	Se ha producido un error: java.lang.IllegalStateException
+24-09-2013 02:55:41	Se ha producido un error: session is not yet connected
+24-09-2013 02:55:41	Se ha producido un error: java.lang.IllegalStateException
+24-09-2013 02:55:42	Se ha producido un error: session is not yet connected
+24-09-2013 02:55:42	consultarEstadoReader: null
+24-09-2013 02:55:44	Se ha producido un error: java.lang.IllegalStateException
+24-09-2013 02:55:44	Se ha producido un error: session is not yet connected
+24-09-2013 02:55:54	Se ha producido un error: java.lang.IllegalStateException
+24-09-2013 02:55:54	Se ha producido un error: session is not yet connected
+24-09-2013 02:56:03	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 03:05:48	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 03:06:53	Sin conexi贸n con 172.22.22.184, reintento 1
+24-09-2013 03:08:40	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 03:14:15	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 03:14:49	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 03:19:07	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 03:24:37	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 03:28:15	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 03:30:31	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 03:30:49	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 03:31:32	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 03:32:53	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 03:38:22	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 03:42:48	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 03:43:08	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 03:43:42	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 03:48:39	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 03:59:22	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 04:02:59	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 04:03:52	consultarEstadoReader: Request timed out after 3000 ms.
+24-09-2013 04:04:37	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 04:29:53	Error al borrar los ROSpec: 172.22.22.184, Request timed out after 10000 ms.
+24-09-2013 04:34:52	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 04:35:10	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 04:35:10	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 04:36:13	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 04:36:41	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 04:37:02	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 04:37:38	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 04:38:10	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 04:38:40	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 04:38:46	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 04:39:06	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 04:39:44	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 04:40:01	Se ha producido un error: java.util.ConcurrentModificationException
+24-09-2013 04:44:24	Error al borrar los ROSpec: 172.22.22.184, Request timed out after 10000 ms.
+24-09-2013 04:44:24	Se ha producido un error: session is not yet established
+24-09-2013 04:44:24	Se ha producido un error: session is not yet established
+24-09-2013 04:44:24	Se ha producido un error: session is not yet established
+24-09-2013 04:44:24	Sin conexi髇 con 172.22.22.184, reintento 1
+24-09-2013 04:44:29	Se ha producido un error: java.lang.IllegalStateException
+24-09-2013 04:44:30	Sin conexi髇 con 172.22.22.184, reintento 2
+24-09-2013 04:44:35	Se ha producido un error: java.lang.IllegalStateException
+24-09-2013 04:44:35	La conexi髇 a 172.22.22.184 no pudo realizarse
+24-09-2013 04:46:05	Error a馻diendo el ROSpec: 172.22.22.184 null
+24-09-2013 04:46:05	Se ha producido un error: java.lang.IllegalStateException
+24-09-2013 04:46:05	Se ha producido un error: session is not yet connected
+24-09-2013 04:46:05	Se ha producido un error: java.lang.IllegalStateException
+24-09-2013 04:46:06	Se ha producido un error: session is not yet connected
+24-09-2013 04:46:12	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 04:46:13	Se ha producido un error: java.lang.IllegalStateException
+24-09-2013 04:46:13	Se ha producido un error: session is not yet connected
+24-09-2013 04:57:45	Error al borrar los ROSpec: 172.22.22.184, Request timed out after 10000 ms.
+24-09-2013 05:00:47	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 05:08:31	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 05:12:44	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 05:14:41	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 05:15:05	Error al borrar los ROSpec: 172.22.22.184, Request timed out after 10000 ms.
+24-09-2013 05:15:15	Error a馻diendo el ROSpec: 172.22.22.184 Request timed out after 10000 ms.
+24-09-2013 05:15:25	Error habilitando el ROSpec: 172.22.22.184, Request timed out after 10000 ms.
+24-09-2013 05:15:35	Error borrando el ROSpec: 172.22.22.184, Request timed out after 10000 ms.
+24-09-2013 05:16:28	Error al borrar los ROSpec: 172.22.22.184, Request timed out after 10000 ms.
+24-09-2013 05:29:33	Se ha producido un error: java.lang.NullPointerException
+24-09-2013 05:45:23	Se ha producido un error: java.lang.IllegalStateException
+24-09-2013 05:45:29	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 09:14:02	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 09:17:52	Se ha producido un error: java.io.IOException
+25-09-2013 09:18:26	Se ha producido un error: session is not yet connected
+25-09-2013 09:19:08	Se ha producido un error: session is not yet connected
+25-09-2013 09:19:50	Se ha producido un error: session is not yet connected
+25-09-2013 09:20:32	Se ha producido un error: session is not yet connected
+25-09-2013 09:21:14	Se ha producido un error: session is not yet connected
+25-09-2013 09:21:56	Se ha producido un error: session is not yet connected
+25-09-2013 09:22:38	Se ha producido un error: session is not yet connected
+25-09-2013 09:23:20	Se ha producido un error: session is not yet connected
+25-09-2013 09:24:02	Se ha producido un error: session is not yet connected
+25-09-2013 09:24:44	Se ha producido un error: session is not yet connected
+25-09-2013 09:25:26	Se ha producido un error: session is not yet connected
+25-09-2013 09:26:08	Se ha producido un error: session is not yet connected
+25-09-2013 09:26:50	Se ha producido un error: session is not yet connected
+25-09-2013 09:27:32	Se ha producido un error: session is not yet connected
+25-09-2013 09:28:14	Se ha producido un error: session is not yet connected
+25-09-2013 09:28:56	Se ha producido un error: session is not yet connected
+25-09-2013 09:29:27	Se ha producido un error: session is not yet connected
+25-09-2013 09:29:54	Error al borrar los ROSpec: 172.22.22.184, Request timed out after 10000 ms.
+25-09-2013 09:30:05	Sin conexi髇 con 172.22.22.184, reintento 1
+25-09-2013 09:30:05	Se ha producido un error: java.io.IOException
+25-09-2013 09:30:10	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 09:30:11	Sin conexi髇 con 172.22.22.184, reintento 2
+25-09-2013 09:30:16	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 09:30:16	La conexi髇 a 172.22.22.184 no pudo realizarse
+25-09-2013 09:32:01	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 09:32:01	Sin conexi髇 con 172.22.22.184, reintento 1
+25-09-2013 09:32:07	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 09:32:07	Sin conexi髇 con 172.22.22.184, reintento 2
+25-09-2013 09:32:12	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 09:32:12	La conexi髇 a 172.22.22.184 no pudo realizarse
+25-09-2013 09:34:11	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 09:34:11	Sin conexi髇 con 172.22.22.184, reintento 1
+25-09-2013 09:34:16	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 09:34:16	Sin conexi髇 con 172.22.22.184, reintento 2
+25-09-2013 09:34:28	La conexi髇 a 172.22.22.184 no pudo realizarse
+25-09-2013 09:34:28	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 09:36:50	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 09:36:50	Sin conexi髇 con 172.22.22.184, reintento 1
+25-09-2013 09:36:55	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 09:36:55	Sin conexi髇 con 172.22.22.184, reintento 2
+25-09-2013 09:37:11	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 09:37:11	La conexi髇 a 172.22.22.184 no pudo realizarse
+25-09-2013 09:38:51	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 09:38:51	Sin conexi髇 con 172.22.22.184, reintento 1
+25-09-2013 09:38:56	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 09:38:56	Sin conexi髇 con 172.22.22.184, reintento 2
+25-09-2013 09:39:01	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 09:39:02	La conexi髇 a 172.22.22.184 no pudo realizarse
+25-09-2013 09:41:01	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 09:41:01	Sin conexi髇 con 172.22.22.184, reintento 1
+25-09-2013 09:41:06	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 09:41:06	Sin conexi髇 con 172.22.22.184, reintento 2
+25-09-2013 09:41:11	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 09:41:12	La conexi髇 a 172.22.22.184 no pudo realizarse
+25-09-2013 09:43:31	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 09:43:31	Sin conexi髇 con 172.22.22.184, reintento 1
+25-09-2013 09:43:36	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 09:43:36	Sin conexi髇 con 172.22.22.184, reintento 2
+25-09-2013 09:43:41	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 09:43:42	La conexi髇 a 172.22.22.184 no pudo realizarse
+25-09-2013 09:44:45	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 09:44:46	Se ha producido un error: session is not yet connected
+25-09-2013 09:44:48	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 09:44:49	Sin conexi髇 con 172.22.22.184, reintento 1
+25-09-2013 09:44:54	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 09:44:54	Sin conexi髇 con 172.22.22.184, reintento 2
+25-09-2013 09:44:59	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 09:44:59	La conexi髇 a 172.22.22.184 no pudo realizarse
+25-09-2013 09:45:27	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 09:45:27	Se ha producido un error: session is not yet connected
+25-09-2013 09:45:28	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 09:45:28	Sin conexi髇 con 172.22.22.184, reintento 1
+25-09-2013 09:45:33	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 09:45:34	Sin conexi髇 con 172.22.22.184, reintento 2
+25-09-2013 09:45:39	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 09:45:39	La conexi髇 a 172.22.22.184 no pudo realizarse
+25-09-2013 09:58:14	Sin conexi髇 con 172.22.22.184, reintento 1
+25-09-2013 09:58:19	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 09:58:20	Sin conexi髇 con 172.22.22.184, reintento 2
+25-09-2013 09:58:25	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 09:58:25	La conexi髇 a 172.22.22.184 no pudo realizarse
+25-09-2013 09:58:48	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 09:58:48	Sin conexi髇 con 172.22.22.184, reintento 1
+25-09-2013 09:58:57	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 09:58:57	Sin conexi髇 con 172.22.22.184, reintento 1
+25-09-2013 09:59:02	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 09:59:02	Sin conexi髇 con 172.22.22.184, reintento 2
+25-09-2013 09:59:13	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 10:01:49	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 10:10:16	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 10:10:35	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 10:13:19	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 10:20:25	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 10:32:33	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 11:07:11	consultarEstadoReader: Request timed out after 10000 ms.
+25-09-2013 11:07:15	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 11:07:17	Sin conexi髇 con 172.22.22.184, reintento 1
+25-09-2013 11:07:17	Se ha producido un error: java.io.IOException
+25-09-2013 11:07:17	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 11:07:17	Se ha producido un error: session is not yet connected
+25-09-2013 11:07:17	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 11:07:18	Se ha producido un error: session is not yet connected
+25-09-2013 11:07:18	consultarEstadoReader: null
+25-09-2013 11:07:22	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 11:07:22	Sin conexi髇 con 172.22.22.184, reintento 2
+25-09-2013 11:07:27	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 11:07:28	La conexi髇 a 172.22.22.184 no pudo realizarse
+25-09-2013 11:08:02	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 11:08:02	Se ha producido un error: session is not yet connected
+25-09-2013 11:08:02	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 11:08:03	Se ha producido un error: session is not yet connected
+25-09-2013 11:08:03	consultarEstadoReader: null
+25-09-2013 11:08:18	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 11:08:18	Se ha producido un error: session is not yet connected
+25-09-2013 11:08:18	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 11:08:18	Se ha producido un error: session is not yet connected
+25-09-2013 11:08:18	consultarEstadoReader: null
+25-09-2013 11:09:21	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 11:09:22	Sin conexi髇 con 172.22.22.184, reintento 1
+25-09-2013 11:09:27	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 11:09:27	Sin conexi髇 con 172.22.22.184, reintento 2
+25-09-2013 11:09:32	Se ha producido un error: java.lang.IllegalStateException
+25-09-2013 11:09:32	La conexi髇 a 172.22.22.184 no pudo realizarse
+25-09-2013 11:18:29	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 11:28:22	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 11:40:14	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 12:01:08	Se ha producido un error: java.io.IOException
+25-09-2013 12:01:38	Se ha producido un error: session is not yet connected
+25-09-2013 12:02:20	Se ha producido un error: session is not yet connected
+25-09-2013 12:03:02	Se ha producido un error: session is not yet connected
+25-09-2013 12:03:44	Se ha producido un error: session is not yet connected
+25-09-2013 12:04:26	Se ha producido un error: session is not yet connected
+25-09-2013 12:05:08	Se ha producido un error: session is not yet connected
+25-09-2013 12:05:50	Se ha producido un error: session is not yet connected
+25-09-2013 12:06:32	Se ha producido un error: session is not yet connected
+25-09-2013 12:07:14	Se ha producido un error: session is not yet connected
+25-09-2013 12:07:57	Se ha producido un error: session is not yet connected
+25-09-2013 12:08:39	Se ha producido un error: session is not yet connected
+25-09-2013 12:09:21	Se ha producido un error: session is not yet connected
+25-09-2013 12:10:03	Se ha producido un error: session is not yet connected
+25-09-2013 12:10:45	Se ha producido un error: session is not yet connected
+25-09-2013 12:11:27	Se ha producido un error: session is not yet connected
+25-09-2013 12:12:09	Se ha producido un error: session is not yet connected
+25-09-2013 12:12:51	Se ha producido un error: session is not yet connected
+25-09-2013 12:13:33	Se ha producido un error: session is not yet connected
+25-09-2013 12:14:15	Se ha producido un error: session is not yet connected
+25-09-2013 12:14:57	Se ha producido un error: session is not yet connected
+25-09-2013 12:15:39	Se ha producido un error: session is not yet connected
+25-09-2013 12:16:21	Se ha producido un error: session is not yet connected
+25-09-2013 12:17:03	Se ha producido un error: session is not yet connected
+25-09-2013 12:17:45	Se ha producido un error: session is not yet connected
+25-09-2013 12:18:27	Se ha producido un error: session is not yet connected
+25-09-2013 12:19:09	Se ha producido un error: session is not yet connected
+25-09-2013 12:19:51	Se ha producido un error: session is not yet connected
+25-09-2013 12:20:33	Se ha producido un error: session is not yet connected
+25-09-2013 12:21:15	Se ha producido un error: session is not yet connected
+25-09-2013 12:21:57	Se ha producido un error: session is not yet connected
+25-09-2013 12:22:40	Se ha producido un error: session is not yet connected
+25-09-2013 12:23:22	Se ha producido un error: session is not yet connected
+25-09-2013 12:24:03	Se ha producido un error: session is not yet connected
+25-09-2013 12:24:46	Se ha producido un error: session is not yet connected
+25-09-2013 12:25:28	Se ha producido un error: session is not yet connected
+25-09-2013 12:26:10	Se ha producido un error: session is not yet connected
+25-09-2013 12:26:52	Se ha producido un error: session is not yet connected
+25-09-2013 12:27:34	Se ha producido un error: session is not yet connected
+25-09-2013 12:28:16	Se ha producido un error: session is not yet connected
+25-09-2013 12:28:58	Se ha producido un error: session is not yet connected
+25-09-2013 12:29:40	Se ha producido un error: session is not yet connected
+25-09-2013 12:30:22	Se ha producido un error: session is not yet connected
+25-09-2013 12:31:04	Se ha producido un error: session is not yet connected
+25-09-2013 12:31:46	Se ha producido un error: session is not yet connected
+25-09-2013 12:32:29	Se ha producido un error: session is not yet connected
+25-09-2013 12:33:11	Se ha producido un error: session is not yet connected
+25-09-2013 12:33:53	Se ha producido un error: session is not yet connected
+25-09-2013 12:34:35	Se ha producido un error: session is not yet connected
+25-09-2013 12:35:17	Se ha producido un error: session is not yet connected
+25-09-2013 12:35:59	Se ha producido un error: session is not yet connected
+25-09-2013 12:36:41	Se ha producido un error: session is not yet connected
+25-09-2013 12:37:23	Se ha producido un error: session is not yet connected
+25-09-2013 12:38:05	Se ha producido un error: session is not yet connected
+25-09-2013 12:38:47	Se ha producido un error: session is not yet connected
+25-09-2013 12:39:29	Se ha producido un error: session is not yet connected
+25-09-2013 12:40:11	Se ha producido un error: session is not yet connected
+25-09-2013 12:40:53	Se ha producido un error: session is not yet connected
+25-09-2013 12:41:35	Se ha producido un error: session is not yet connected
+25-09-2013 12:42:17	Se ha producido un error: session is not yet connected
+25-09-2013 12:42:59	Se ha producido un error: session is not yet connected
+25-09-2013 12:43:42	Se ha producido un error: session is not yet connected
+25-09-2013 12:44:24	Se ha producido un error: session is not yet connected
+25-09-2013 12:45:06	Se ha producido un error: session is not yet connected
+25-09-2013 12:45:48	Se ha producido un error: session is not yet connected
+25-09-2013 12:46:30	Se ha producido un error: session is not yet connected
+25-09-2013 12:47:12	Se ha producido un error: session is not yet connected
+25-09-2013 12:47:54	Se ha producido un error: session is not yet connected
+25-09-2013 12:48:36	Se ha producido un error: session is not yet connected
+25-09-2013 12:49:18	Se ha producido un error: session is not yet connected
+25-09-2013 12:50:00	Se ha producido un error: session is not yet connected
+25-09-2013 12:50:42	Se ha producido un error: session is not yet connected
+25-09-2013 12:51:24	Se ha producido un error: session is not yet connected
+25-09-2013 12:52:06	Se ha producido un error: session is not yet connected
+25-09-2013 12:52:48	Se ha producido un error: session is not yet connected
+25-09-2013 12:53:30	Se ha producido un error: session is not yet connected
+25-09-2013 12:54:13	Se ha producido un error: session is not yet connected
+25-09-2013 12:54:55	Se ha producido un error: session is not yet connected
+25-09-2013 12:55:37	Se ha producido un error: session is not yet connected
+25-09-2013 12:56:19	Se ha producido un error: session is not yet connected
+25-09-2013 12:57:01	Se ha producido un error: session is not yet connected
+25-09-2013 12:57:43	Se ha producido un error: session is not yet connected
+25-09-2013 12:58:25	Se ha producido un error: session is not yet connected
+25-09-2013 12:59:07	Se ha producido un error: session is not yet connected
+25-09-2013 12:59:49	Se ha producido un error: session is not yet connected
+25-09-2013 01:00:31	Se ha producido un error: session is not yet connected
+25-09-2013 01:01:13	Se ha producido un error: session is not yet connected
+25-09-2013 01:01:55	Se ha producido un error: session is not yet connected
+25-09-2013 01:02:37	Se ha producido un error: session is not yet connected
+25-09-2013 01:03:20	Se ha producido un error: session is not yet connected
+25-09-2013 01:04:02	Se ha producido un error: session is not yet connected
+25-09-2013 01:04:44	Se ha producido un error: session is not yet connected
+25-09-2013 01:05:26	Se ha producido un error: session is not yet connected
+25-09-2013 01:06:08	Se ha producido un error: session is not yet connected
+25-09-2013 01:06:50	Se ha producido un error: session is not yet connected
+25-09-2013 01:07:32	Se ha producido un error: session is not yet connected
+25-09-2013 01:08:14	Se ha producido un error: session is not yet connected
+25-09-2013 01:08:56	Se ha producido un error: session is not yet connected
+25-09-2013 01:09:38	Se ha producido un error: session is not yet connected
+25-09-2013 01:10:20	Se ha producido un error: session is not yet connected
+25-09-2013 01:11:02	Se ha producido un error: session is not yet connected
+25-09-2013 01:11:44	Se ha producido un error: session is not yet connected
+25-09-2013 01:12:26	Se ha producido un error: session is not yet connected
+25-09-2013 01:13:08	Se ha producido un error: session is not yet connected
+25-09-2013 01:13:50	Se ha producido un error: session is not yet connected
+25-09-2013 01:14:32	Se ha producido un error: session is not yet connected
+25-09-2013 01:15:15	Se ha producido un error: session is not yet connected
+25-09-2013 01:15:57	Se ha producido un error: session is not yet connected
+25-09-2013 01:16:39	Se ha producido un error: session is not yet connected
+25-09-2013 01:17:21	Se ha producido un error: session is not yet connected
+25-09-2013 01:18:03	Se ha producido un error: session is not yet connected
+25-09-2013 01:18:45	Se ha producido un error: session is not yet connected
+25-09-2013 01:19:27	Se ha producido un error: session is not yet connected
+25-09-2013 01:20:09	Se ha producido un error: session is not yet connected
+25-09-2013 01:20:51	Se ha producido un error: session is not yet connected
+25-09-2013 01:21:33	Se ha producido un error: session is not yet connected
+25-09-2013 01:22:15	Se ha producido un error: session is not yet connected
+25-09-2013 01:22:57	Se ha producido un error: session is not yet connected
+25-09-2013 01:23:39	Se ha producido un error: session is not yet connected
+25-09-2013 01:24:21	Se ha producido un error: session is not yet connected
+25-09-2013 01:25:03	Se ha producido un error: session is not yet connected
+25-09-2013 01:25:45	Se ha producido un error: session is not yet connected
+25-09-2013 01:26:27	Se ha producido un error: session is not yet connected
+25-09-2013 01:27:10	Se ha producido un error: session is not yet connected
+25-09-2013 01:27:52	Se ha producido un error: session is not yet connected
+25-09-2013 01:28:34	Se ha producido un error: session is not yet connected
+25-09-2013 01:29:16	Se ha producido un error: session is not yet connected
+25-09-2013 01:29:58	Se ha producido un error: session is not yet connected
+25-09-2013 01:30:40	Se ha producido un error: session is not yet connected
+25-09-2013 01:31:22	Se ha producido un error: session is not yet connected
+25-09-2013 01:32:04	Se ha producido un error: session is not yet connected
+25-09-2013 01:32:46	Se ha producido un error: session is not yet connected
+25-09-2013 02:13:43	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 02:27:34	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 02:31:24	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 02:33:51	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 02:36:04	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 02:50:56	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 02:57:38	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 03:02:06	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 03:02:23	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 03:04:28	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 03:06:36	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 03:14:11	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 03:19:19	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 03:21:11	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 03:26:08	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 03:27:18	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 03:27:58	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 03:28:40	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 03:37:47	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 03:41:46	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 03:44:22	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 03:46:32	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 03:49:05	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 03:50:22	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 03:56:45	Sin conexi髇 con 172.22.22.184, reintento 1
+25-09-2013 03:56:58	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 03:58:30	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 03:59:13	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 04:00:49	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 04:01:35	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 04:02:55	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 04:04:15	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 04:06:21	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 04:08:07	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 04:08:52	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 04:10:14	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 04:11:09	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 04:12:06	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 04:18:50	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 04:20:33	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 04:22:07	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 04:24:19	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 04:27:58	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 04:35:14	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 04:39:10	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 04:42:39	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 04:43:45	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 04:48:35	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 04:49:29	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 04:51:24	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 04:52:16	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 05:06:45	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 05:09:41	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 05:16:02	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 05:21:18	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 05:22:24	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 05:35:16	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 05:57:31	Sin conexi髇 con 172.22.22.184, reintento 1
+25-09-2013 05:57:41	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 05:59:04	Se ha producido un error: java.lang.NullPointerException
+25-09-2013 05:59:34	Sin conexi髇 con 172.22.22.184, reintento 1
+26-09-2013 09:08:36	Sin conexi髇 con 172.22.22.184, reintento 1
+26-09-2013 09:18:41	Sin conexi髇 con 172.22.22.184, reintento 1
+26-09-2013 09:19:07	Sin conexi髇 con 172.22.22.184, reintento 2
+26-09-2013 09:19:33	La conexi髇 a 172.22.22.184 no pudo realizarse
+26-09-2013 09:20:51	Sin conexi髇 con 172.22.22.184, reintento 1
+26-09-2013 09:21:17	Sin conexi髇 con 172.22.22.184, reintento 2
+26-09-2013 09:21:43	La conexi髇 a 172.22.22.184 no pudo realizarse
+26-09-2013 09:23:01	Sin conexi髇 con 172.22.22.184, reintento 1
+26-09-2013 09:23:27	Sin conexi髇 con 172.22.22.184, reintento 2
+26-09-2013 09:23:53	La conexi髇 a 172.22.22.184 no pudo realizarse
+26-09-2013 09:25:11	Sin conexi髇 con 172.22.22.184, reintento 1
+26-09-2013 09:25:37	Sin conexi髇 con 172.22.22.184, reintento 2
+26-09-2013 09:26:03	La conexi髇 a 172.22.22.184 no pudo realizarse
+26-09-2013 03:24:05	Se ha producido un error: session is not yet established
+26-09-2013 03:24:05	Se ha producido un error: session is not yet established
+26-09-2013 03:24:05	consultarEstadoReader: null
+26-09-2013 03:24:23	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 03:24:49	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 03:24:54	Se ha producido un error: session is not yet established
+26-09-2013 03:30:58	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 03:31:24	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 03:31:50	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 03:32:45	Se ha producido un error: session is not yet established
+26-09-2013 03:32:45	Se ha producido un error: session is not yet established
+26-09-2013 03:32:45	consultarEstadoReader: null
+26-09-2013 03:32:58	Se ha producido un error: session is not yet established
+26-09-2013 03:36:55	Se ha producido un error: session is not yet established
+26-09-2013 03:36:55	Se ha producido un error: session is not yet established
+26-09-2013 03:36:55	consultarEstadoReader: null
+26-09-2013 03:37:11	Se ha producido un error: session is not yet established
+26-09-2013 03:37:15	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 03:37:41	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 03:38:07	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 03:43:20	Se ha producido un error: session is not yet established
+26-09-2013 03:43:20	Se ha producido un error: session is not yet established
+26-09-2013 03:43:20	consultarEstadoReader: null
+26-09-2013 03:43:22	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 03:43:48	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 03:44:14	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 03:45:32	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 03:51:03	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 03:51:29	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 03:52:32	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 03:53:30	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 03:53:56	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 03:54:22	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 03:59:32	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 03:59:58	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 04:01:42	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 04:02:08	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 04:02:34	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 04:03:52	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 04:04:18	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 04:04:44	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 04:06:02	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 04:06:28	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 04:06:54	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 04:08:12	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 04:08:38	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 04:09:04	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 04:10:09	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 04:10:35	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 04:10:50	Se ha producido un error: session is not yet established
+26-09-2013 04:11:01	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 04:11:13	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 04:12:03	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 04:12:29	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 04:12:55	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 04:13:42	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 04:16:08	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 04:16:34	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 04:16:59	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 04:21:11	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 04:21:37	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 04:22:03	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 04:23:21	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 04:23:40	Se ha producido un error: session is not yet established
+26-09-2013 04:23:47	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 04:24:13	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 04:27:28	Se ha producido un error: session is not yet established
+26-09-2013 04:27:28	Se ha producido un error: session is not yet established
+26-09-2013 04:27:28	consultarEstadoReader: null
+26-09-2013 04:27:49	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 04:28:15	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 04:28:19	Se ha producido un error: session is not yet established
+26-09-2013 04:28:19	Se ha producido un error: session is not yet established
+26-09-2013 04:28:19	consultarEstadoReader: null
+26-09-2013 04:28:23	Se ha producido un error: session is not yet established
+26-09-2013 04:28:23	Se ha producido un error: session is not yet established
+26-09-2013 04:28:23	consultarEstadoReader: null
+26-09-2013 04:28:38	Se ha producido un error: session is not yet established
+26-09-2013 04:28:41	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 04:29:01	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 04:29:27	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 04:29:53	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 04:30:24	Se ha producido un error: session is not yet established
+26-09-2013 04:30:47	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 04:31:13	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 04:31:23	Se ha producido un error: session is not yet established
+26-09-2013 04:31:39	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 04:33:02	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 04:33:09	Se ha producido un error: session is not yet established
+26-09-2013 04:33:28	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 04:33:31	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 04:33:46	Se ha producido un error: session is not yet established
+26-09-2013 04:33:54	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 04:33:57	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 04:34:09	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 04:34:23	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 04:34:35	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 04:34:38	Se ha producido un error: session is not yet established
+26-09-2013 04:35:01	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 04:35:01	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 04:35:15	Se ha producido un error: session is not yet established
+26-09-2013 04:35:27	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 04:35:37	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 04:35:53	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 04:36:03	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 04:36:29	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 04:37:47	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 04:38:13	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 04:38:37	Se ha producido un error: session is not yet established
+26-09-2013 04:38:39	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 04:39:00	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 04:39:26	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 04:39:51	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 04:41:10	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 04:41:36	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 04:42:02	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 04:43:20	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 04:43:46	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 04:44:12	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 04:49:54	Se ha producido un error: session is not yet established
+26-09-2013 04:50:04	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 04:50:18	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 04:50:30	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 04:50:43	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 04:50:44	Se ha producido un error: session is not yet established
+26-09-2013 04:50:56	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 04:51:08	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 04:51:09	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 04:51:33	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 05:09:34	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 05:10:00	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 05:10:26	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 05:11:44	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 05:12:10	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 05:12:36	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 05:13:54	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 05:14:20	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 05:14:45	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 05:16:04	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 05:16:30	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 05:16:56	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 05:18:14	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 05:18:40	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 05:19:06	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 05:20:24	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 05:20:50	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 05:21:16	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 05:22:34	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 05:23:00	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 05:23:26	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 05:24:44	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 05:25:10	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 05:25:32	Se ha producido un error: session is not yet established
+26-09-2013 05:25:36	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 05:25:54	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 05:26:20	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 05:26:46	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 05:28:04	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 05:28:30	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 05:28:56	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 05:30:14	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 05:30:40	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 05:31:06	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 05:32:24	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 05:32:50	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 05:33:16	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 05:34:34	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 05:35:00	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 05:35:26	La conexi贸n a 172.22.22.184 no pudo realizarse
+26-09-2013 05:54:39	Sin conexi贸n con 172.22.22.184, reintento 1
+26-09-2013 05:55:05	Sin conexi贸n con 172.22.22.184, reintento 2
+26-09-2013 05:55:31	La conexi贸n a 172.22.22.184 no pudo realizarse
+27-09-2013 09:07:18	Sin conexi贸n con 172.22.22.184, reintento 1
+27-09-2013 09:07:44	Sin conexi贸n con 172.22.22.184, reintento 2
+27-09-2013 09:14:25	connect: failed to connect
+27-09-2013 09:14:25	Se ha producido un error: session is not yet established
+27-09-2013 09:14:26	Se ha producido un error: session is not yet established
+27-09-2013 09:14:26	Se ha producido un error: session is not yet established
+27-09-2013 09:14:26	Error a帽adiendo el ROSpec: 172.22.22.184 null
+27-09-2013 09:14:26	Se ha producido un error: session is not yet established
+27-09-2013 09:14:26	Se ha producido un error: session is not yet established
+27-09-2013 09:14:30	Se ha producido un error: session is not yet established
+27-09-2013 09:14:47	Se ha producido un error: session is not yet established
+27-09-2013 09:14:57	Se ha producido un error: session is not yet established
+27-09-2013 09:15:04	Se ha producido un error: session is not yet established
+27-09-2013 09:15:14	Se ha producido un error: session is not yet established
+27-09-2013 09:15:24	Se ha producido un error: session is not yet established
+27-09-2013 09:15:48	Se ha producido un error: session is not yet established
+27-09-2013 09:15:54	Se ha producido un error: session is not yet established
+27-09-2013 09:16:04	Se ha producido un error: session is not yet established
+27-09-2013 09:16:14	Se ha producido un error: session is not yet established
+27-09-2013 09:16:28	Se ha producido un error: session is not yet established
+27-09-2013 09:16:59	connect: failed to connect
+27-09-2013 09:16:59	Se ha producido un error: session is not yet established
+27-09-2013 09:16:59	Se ha producido un error: session is not yet established
+27-09-2013 09:16:59	Se ha producido un error: session is not yet established
+27-09-2013 09:16:59	Error a帽adiendo el ROSpec: 172.22.22.184 null
+27-09-2013 09:16:59	Se ha producido un error: session is not yet established
+27-09-2013 09:16:59	Se ha producido un error: session is not yet established
+27-09-2013 09:17:08	Se ha producido un error: session is not yet established
+27-09-2013 09:17:18	Se ha producido un error: session is not yet established
+27-09-2013 09:17:28	Se ha producido un error: session is not yet established
+27-09-2013 09:17:38	Se ha producido un error: session is not yet established
+27-09-2013 09:17:48	Se ha producido un error: session is not yet established
+27-09-2013 09:17:58	Se ha producido un error: session is not yet established
+27-09-2013 09:18:08	Se ha producido un error: session is not yet established
+27-09-2013 09:18:18	Se ha producido un error: session is not yet established
+27-09-2013 09:18:28	Se ha producido un error: session is not yet established
+27-09-2013 09:18:38	Se ha producido un error: session is not yet established
+27-09-2013 09:18:48	Se ha producido un error: session is not yet established
+27-09-2013 09:18:58	Se ha producido un error: session is not yet established
+27-09-2013 09:19:08	Se ha producido un error: session is not yet established
+27-09-2013 09:19:18	Se ha producido un error: session is not yet established
+27-09-2013 09:19:28	Se ha producido un error: session is not yet established
+27-09-2013 09:19:38	Se ha producido un error: session is not yet established
+27-09-2013 09:19:48	Se ha producido un error: session is not yet established
+27-09-2013 09:19:58	Se ha producido un error: session is not yet established
+27-09-2013 09:20:08	Se ha producido un error: session is not yet established
+27-09-2013 09:20:39	connect: failed to connect
+27-09-2013 09:20:39	Se ha producido un error: session is not yet established
+27-09-2013 09:20:39	Se ha producido un error: session is not yet established
+27-09-2013 09:20:39	Se ha producido un error: session is not yet established
+27-09-2013 09:20:39	Error a帽adiendo el ROSpec: 172.22.22.184 null
+27-09-2013 09:20:39	Se ha producido un error: session is not yet established
+27-09-2013 09:20:39	Se ha producido un error: session is not yet established
+27-09-2013 09:20:47	Se ha producido un error: session is not yet established
+27-09-2013 09:20:57	Se ha producido un error: session is not yet established
+27-09-2013 09:21:07	Se ha producido un error: session is not yet established
+27-09-2013 09:21:17	Se ha producido un error: session is not yet established
+27-09-2013 09:21:35	Se ha producido un error: session is not yet established
+27-09-2013 09:21:37	Se ha producido un error: session is not yet established
+27-09-2013 09:21:47	Se ha producido un error: session is not yet established
+27-09-2013 09:21:57	Se ha producido un error: session is not yet established
+27-09-2013 09:22:07	Se ha producido un error: session is not yet established
+27-09-2013 09:22:17	Se ha producido un error: session is not yet established
+27-09-2013 09:22:27	Se ha producido un error: session is not yet established
+27-09-2013 09:22:37	Se ha producido un error: session is not yet established
+27-09-2013 09:22:47	Se ha producido un error: session is not yet established
+27-09-2013 09:22:57	Se ha producido un error: session is not yet established
+27-09-2013 09:23:07	Se ha producido un error: session is not yet established
+27-09-2013 09:23:17	Se ha producido un error: session is not yet established
+27-09-2013 09:23:27	Se ha producido un error: session is not yet established
+27-09-2013 09:23:37	Se ha producido un error: session is not yet established
+27-09-2013 09:23:47	Se ha producido un error: session is not yet established
+27-09-2013 09:23:57	Se ha producido un error: session is not yet established
+27-09-2013 09:24:07	Se ha producido un error: session is not yet established
+27-09-2013 09:24:17	Se ha producido un error: session is not yet established
+27-09-2013 09:24:27	Se ha producido un error: session is not yet established
+27-09-2013 09:24:37	Se ha producido un error: session is not yet established
+27-09-2013 09:24:47	Se ha producido un error: session is not yet established
+27-09-2013 09:24:57	Se ha producido un error: session is not yet established
+27-09-2013 09:25:07	Se ha producido un error: session is not yet established
+27-09-2013 09:25:17	Se ha producido un error: session is not yet established
+27-09-2013 09:25:27	Se ha producido un error: session is not yet established
+27-09-2013 09:25:37	Se ha producido un error: session is not yet established
+27-09-2013 09:25:51	Se ha producido un error: session is not yet established
+27-09-2013 09:26:01	Se ha producido un error: session is not yet established
+27-09-2013 09:26:07	Se ha producido un error: session is not yet established
+27-09-2013 09:26:17	Se ha producido un error: session is not yet established
+27-09-2013 09:26:27	Se ha producido un error: session is not yet established
+27-09-2013 09:26:37	Se ha producido un error: session is not yet established
+27-09-2013 09:26:47	Se ha producido un error: session is not yet established
+27-09-2013 09:26:57	Se ha producido un error: session is not yet established
+27-09-2013 09:27:07	Se ha producido un error: session is not yet established
+27-09-2013 09:27:17	Se ha producido un error: session is not yet established
+27-09-2013 09:27:27	Se ha producido un error: session is not yet established
+27-09-2013 09:27:37	Se ha producido un error: session is not yet established
+27-09-2013 09:27:52	Se ha producido un error: session is not yet established
+27-09-2013 09:27:57	Se ha producido un error: session is not yet established
+27-09-2013 09:28:07	Se ha producido un error: session is not yet established
+27-09-2013 09:28:17	Se ha producido un error: session is not yet established
+27-09-2013 09:28:27	Se ha producido un error: session is not yet established
+27-09-2013 09:28:37	Se ha producido un error: session is not yet established
+27-09-2013 09:28:47	Se ha producido un error: session is not yet established
+27-09-2013 09:28:57	Se ha producido un error: session is not yet established
+27-09-2013 09:29:07	Se ha producido un error: session is not yet established
+27-09-2013 09:29:17	Se ha producido un error: session is not yet established
+27-09-2013 09:29:27	Se ha producido un error: session is not yet established
+27-09-2013 09:29:37	Se ha producido un error: session is not yet established
+27-09-2013 09:29:47	Se ha producido un error: session is not yet established
+27-09-2013 09:29:57	Se ha producido un error: session is not yet established
+27-09-2013 09:30:07	Se ha producido un error: session is not yet established
+27-09-2013 09:30:17	Se ha producido un error: session is not yet established
+27-09-2013 09:30:27	Se ha producido un error: session is not yet established
+27-09-2013 09:30:37	Se ha producido un error: session is not yet established
+27-09-2013 09:30:47	Se ha producido un error: session is not yet established
+27-09-2013 09:30:57	Se ha producido un error: session is not yet established
+27-09-2013 09:31:07	Se ha producido un error: session is not yet established
+27-09-2013 09:31:17	Se ha producido un error: session is not yet established
+27-09-2013 09:31:27	Se ha producido un error: session is not yet established
+27-09-2013 09:31:37	Se ha producido un error: session is not yet established
+27-09-2013 09:31:47	Se ha producido un error: session is not yet established
+27-09-2013 09:31:57	Se ha producido un error: session is not yet established
+27-09-2013 09:32:07	Se ha producido un error: session is not yet established
+27-09-2013 09:32:17	Se ha producido un error: session is not yet established
+27-09-2013 09:32:27	Se ha producido un error: session is not yet established
+27-09-2013 09:32:37	Se ha producido un error: session is not yet established
+27-09-2013 09:32:47	Se ha producido un error: session is not yet established
+27-09-2013 09:32:57	Se ha producido un error: session is not yet established
+27-09-2013 09:34:20	connect: failed to connect
+27-09-2013 09:34:20	Se ha producido un error: session is not yet established
+27-09-2013 09:34:20	Se ha producido un error: session is not yet established
+27-09-2013 09:34:20	Se ha producido un error: session is not yet established
+27-09-2013 09:34:20	Error a帽adiendo el ROSpec: 172.22.22.184 null
+27-09-2013 09:34:20	Se ha producido un error: session is not yet established
+27-09-2013 09:34:20	Se ha producido un error: session is not yet established
+27-09-2013 09:34:29	Se ha producido un error: session is not yet established
+27-09-2013 09:34:39	Se ha producido un error: session is not yet established
+27-09-2013 09:34:49	Se ha producido un error: session is not yet established
+27-09-2013 09:34:59	Se ha producido un error: session is not yet established
+27-09-2013 09:35:09	Se ha producido un error: session is not yet established
+27-09-2013 09:35:19	Se ha producido un error: session is not yet established
+27-09-2013 09:35:29	Se ha producido un error: session is not yet established
+27-09-2013 09:35:39	Se ha producido un error: session is not yet established
+27-09-2013 09:35:49	Se ha producido un error: session is not yet established
+27-09-2013 09:35:59	Se ha producido un error: session is not yet established
+27-09-2013 09:36:09	Se ha producido un error: session is not yet established
+27-09-2013 09:36:19	Se ha producido un error: session is not yet established
+27-09-2013 09:36:29	Se ha producido un error: session is not yet established
+27-09-2013 09:36:39	Se ha producido un error: session is not yet established
+27-09-2013 09:36:49	Se ha producido un error: session is not yet established
+27-09-2013 09:36:59	Se ha producido un error: session is not yet established
+27-09-2013 09:37:09	Se ha producido un error: session is not yet established
+27-09-2013 09:37:19	Se ha producido un error: session is not yet established
+27-09-2013 09:37:29	Se ha producido un error: session is not yet established
+27-09-2013 09:37:39	Se ha producido un error: session is not yet established
+27-09-2013 09:38:10	connect: failed to connect
+27-09-2013 09:38:10	Se ha producido un error: session is not yet established
+27-09-2013 09:38:10	Se ha producido un error: session is not yet established
+27-09-2013 09:38:10	Se ha producido un error: session is not yet established
+27-09-2013 09:38:10	Error a帽adiendo el ROSpec: 172.22.22.184 null
+27-09-2013 09:38:10	Se ha producido un error: session is not yet established
+27-09-2013 09:38:10	Se ha producido un error: session is not yet established
+27-09-2013 09:38:19	Se ha producido un error: session is not yet established
+27-09-2013 09:38:29	Se ha producido un error: session is not yet established
+27-09-2013 09:39:19	connect: failed to connect
+27-09-2013 09:39:19	Se ha producido un error: session is not yet established
+27-09-2013 09:39:19	Se ha producido un error: session is not yet established
+27-09-2013 09:39:19	Se ha producido un error: session is not yet established
+27-09-2013 09:39:19	Error a帽adiendo el ROSpec: 172.22.22.184 null
+27-09-2013 09:39:19	Se ha producido un error: session is not yet established
+27-09-2013 09:39:19	Se ha producido un error: session is not yet established
+27-09-2013 09:39:28	Se ha producido un error: session is not yet established
+27-09-2013 09:39:38	Se ha producido un error: session is not yet established
+27-09-2013 09:39:48	Se ha producido un error: session is not yet established
+27-09-2013 09:40:57	connect: failed to connect
+27-09-2013 09:40:57	Se ha producido un error: session is not yet established
+27-09-2013 09:40:57	Se ha producido un error: session is not yet established
+27-09-2013 09:40:57	Se ha producido un error: session is not yet established
+27-09-2013 09:40:57	Error a帽adiendo el ROSpec: 172.22.22.184 null
+27-09-2013 09:40:57	Se ha producido un error: session is not yet established
+27-09-2013 09:40:57	Se ha producido un error: session is not yet established
+27-09-2013 09:41:06	Se ha producido un error: session is not yet established
+27-09-2013 09:41:16	Se ha producido un error: session is not yet established
+27-09-2013 09:41:26	Se ha producido un error: session is not yet established
+27-09-2013 09:41:36	Se ha producido un error: session is not yet established
+27-09-2013 09:41:46	Se ha producido un error: session is not yet established
+27-09-2013 09:41:56	Se ha producido un error: session is not yet established
+27-09-2013 09:42:06	Se ha producido un error: session is not yet established
+27-09-2013 09:42:16	Se ha producido un error: session is not yet established
+27-09-2013 09:42:26	Se ha producido un error: session is not yet established
+27-09-2013 09:42:36	Se ha producido un error: session is not yet established
+27-09-2013 09:42:46	Se ha producido un error: session is not yet established
+27-09-2013 09:42:56	Se ha producido un error: session is not yet established
+27-09-2013 09:43:06	Se ha producido un error: session is not yet established
+27-09-2013 09:43:16	Se ha producido un error: session is not yet established
+27-09-2013 09:43:26	Se ha producido un error: session is not yet established
+27-09-2013 09:43:36	Se ha producido un error: session is not yet established
+27-09-2013 09:43:46	Se ha producido un error: session is not yet established
+27-09-2013 09:43:56	Se ha producido un error: session is not yet established
+27-09-2013 09:44:06	Se ha producido un error: session is not yet established
+27-09-2013 09:44:16	Se ha producido un error: session is not yet established
+27-09-2013 09:44:26	Se ha producido un error: session is not yet established
+27-09-2013 09:44:36	Se ha producido un error: session is not yet established
+27-09-2013 09:44:46	Se ha producido un error: session is not yet established
+27-09-2013 09:44:56	Se ha producido un error: session is not yet established
+27-09-2013 09:45:06	Se ha producido un error: session is not yet established
+27-09-2013 09:45:16	Se ha producido un error: session is not yet established
+27-09-2013 09:45:26	Se ha producido un error: session is not yet established
+27-09-2013 09:45:36	Se ha producido un error: session is not yet established
+27-09-2013 09:45:46	Se ha producido un error: session is not yet established
+27-09-2013 09:45:56	Se ha producido un error: session is not yet established
+27-09-2013 09:46:06	Se ha producido un error: session is not yet established
+27-09-2013 09:46:16	Se ha producido un error: session is not yet established
+27-09-2013 09:46:26	Se ha producido un error: session is not yet established
+27-09-2013 09:46:36	Se ha producido un error: session is not yet established
+27-09-2013 09:46:46	Se ha producido un error: session is not yet established
+27-09-2013 09:46:56	Se ha producido un error: session is not yet established
+27-09-2013 09:47:06	Se ha producido un error: session is not yet established
+27-09-2013 09:47:16	Se ha producido un error: session is not yet established
+27-09-2013 09:47:26	Se ha producido un error: session is not yet established
+27-09-2013 09:47:36	Se ha producido un error: session is not yet established
+27-09-2013 09:47:46	Se ha producido un error: session is not yet established
+27-09-2013 09:48:11	connect: failed to connect
+27-09-2013 09:48:11	Se ha producido un error: session is not yet established
+27-09-2013 09:48:11	Se ha producido un error: session is not yet established
+27-09-2013 09:48:11	Se ha producido un error: session is not yet established
+27-09-2013 09:48:11	Error a帽adiendo el ROSpec: 172.22.22.184 null
+27-09-2013 09:48:11	Se ha producido un error: session is not yet established
+27-09-2013 09:48:11	Se ha producido un error: session is not yet established
+27-09-2013 09:48:20	Se ha producido un error: session is not yet established
+27-09-2013 09:48:30	Se ha producido un error: session is not yet established
+27-09-2013 09:48:40	Se ha producido un error: session is not yet established
+27-09-2013 09:48:50	Se ha producido un error: session is not yet established
+27-09-2013 09:49:00	Se ha producido un error: session is not yet established
+27-09-2013 09:49:10	Se ha producido un error: session is not yet established
+27-09-2013 09:49:20	Se ha producido un error: session is not yet established
+27-09-2013 09:49:30	Se ha producido un error: session is not yet established
+27-09-2013 09:49:40	Se ha producido un error: session is not yet established
+27-09-2013 09:49:50	Se ha producido un error: session is not yet established
+27-09-2013 09:50:00	Se ha producido un error: session is not yet established
+27-09-2013 09:50:10	Se ha producido un error: session is not yet established
+27-09-2013 09:50:20	Se ha producido un error: session is not yet established
+27-09-2013 09:50:30	Se ha producido un error: session is not yet established
+27-09-2013 09:50:40	Se ha producido un error: session is not yet established
+27-09-2013 09:50:50	Se ha producido un error: session is not yet established
+27-09-2013 09:51:00	Se ha producido un error: session is not yet established
+27-09-2013 09:51:10	Se ha producido un error: session is not yet established
+27-09-2013 09:51:20	Se ha producido un error: session is not yet established
+27-09-2013 09:51:30	Se ha producido un error: session is not yet established
+27-09-2013 09:51:40	Se ha producido un error: session is not yet established
+27-09-2013 09:51:50	Se ha producido un error: session is not yet established
+27-09-2013 09:52:00	Se ha producido un error: session is not yet established
+27-09-2013 09:52:10	Se ha producido un error: session is not yet established
+27-09-2013 09:52:20	Se ha producido un error: session is not yet established
+27-09-2013 09:52:30	Se ha producido un error: session is not yet established
+27-09-2013 09:52:40	Se ha producido un error: session is not yet established
+27-09-2013 09:52:50	Se ha producido un error: session is not yet established
+27-09-2013 09:53:00	Se ha producido un error: session is not yet established
+27-09-2013 09:53:10	Se ha producido un error: session is not yet established
+27-09-2013 09:53:20	Se ha producido un error: session is not yet established
+27-09-2013 09:53:30	Se ha producido un error: session is not yet established
+27-09-2013 09:53:40	Se ha producido un error: session is not yet established
+27-09-2013 09:53:50	Se ha producido un error: session is not yet established
+27-09-2013 09:54:00	Se ha producido un error: session is not yet established
+27-09-2013 09:54:10	Se ha producido un error: session is not yet established
+27-09-2013 09:54:20	Se ha producido un error: session is not yet established
+27-09-2013 09:54:30	Se ha producido un error: session is not yet established
+27-09-2013 09:54:40	Se ha producido un error: session is not yet established
+27-09-2013 09:54:50	Se ha producido un error: session is not yet established
+27-09-2013 09:55:00	Se ha producido un error: session is not yet established
+27-09-2013 09:55:10	Se ha producido un error: session is not yet established
+27-09-2013 09:55:20	Se ha producido un error: session is not yet established
+27-09-2013 09:55:30	Se ha producido un error: session is not yet established
+27-09-2013 09:55:40	Se ha producido un error: session is not yet established
+27-09-2013 09:55:50	Se ha producido un error: session is not yet established
+27-09-2013 09:56:00	Se ha producido un error: session is not yet established
+27-09-2013 09:56:10	Se ha producido un error: session is not yet established
+27-09-2013 09:56:44	Se ha producido un error: session is not yet established
+27-09-2013 09:56:44	Error a帽adiendo el ROSpec: 172.22.22.184 null
+27-09-2013 09:56:44	Error a帽adiendo el ROSpec: 172.22.22.184 null
+27-09-2013 09:56:44	Error a帽adiendo el ROSpec: 172.22.22.184 null
+27-09-2013 09:56:44	Error a帽adiendo el ROSpec: 172.22.22.184 null
+27-09-2013 09:56:44	Se ha producido un error: session is not yet established
+27-09-2013 09:56:44	Se ha producido un error: session is not yet established
+27-09-2013 09:56:44	Error a帽adiendo el ROSpec: 172.22.22.184 null
+27-09-2013 09:56:44	Se ha producido un error: session is not yet established
+27-09-2013 09:56:44	Se ha producido un error: session is not yet established
+27-09-2013 09:56:47	Se ha producido un error: session is not yet established
+27-09-2013 09:56:57	Se ha producido un error: session is not yet established
+27-09-2013 09:57:03	Se ha producido un error: session is not yet established
+27-09-2013 11:16:59	connect: Failed_A_Client_Initiated_Connection_Already_Exists
+27-09-2013 11:16:59	Se ha producido un error: session is not yet connected
+27-09-2013 11:16:59	Se ha producido un error: session is not yet connected
+27-09-2013 11:16:59	Se ha producido un error: session is not yet connected
+27-09-2013 11:16:59	Error a帽adiendo el ROSpec: 172.22.22.184 null
+27-09-2013 11:17:00	Se ha producido un error: session is not yet connected
+27-09-2013 11:17:00	Se ha producido un error: session is not yet connected
+27-09-2013 11:17:04	Se ha producido un error: session is not yet connected
+27-09-2013 11:17:24	Se ha producido un error: session is not yet connected
+30-09-2013 09:41:30	connect: failed to connect
+30-09-2013 09:41:30	Se ha producido un error: session is not yet established
+30-09-2013 09:41:30	Se ha producido un error: session is not yet established
+30-09-2013 09:41:30	Se ha producido un error: session is not yet established
+30-09-2013 09:41:30	Error a帽adiendo el ROSpec: 172.22.22.184 null
+30-09-2013 09:41:30	Se ha producido un error: session is not yet established
+30-09-2013 09:41:30	Se ha producido un error: session is not yet established
+30-09-2013 09:41:31	Se ha producido un error: session is not yet established
+30-09-2013 09:41:52	connect: failed to connect
+30-09-2013 09:41:52	Se ha producido un error: session is not yet established
+30-09-2013 09:41:52	Se ha producido un error: session is not yet established
+30-09-2013 09:41:52	Se ha producido un error: session is not yet established
+30-09-2013 09:41:52	Error a帽adiendo el ROSpec: 172.22.22.184 null
+30-09-2013 09:41:52	Se ha producido un error: session is not yet established
+30-09-2013 09:41:52	Se ha producido un error: session is not yet established
+30-09-2013 09:42:24	Se ha producido un error: session is not yet established
+30-09-2013 09:42:45	connect: failed to connect
+30-09-2013 09:42:45	Se ha producido un error: session is not yet established
+30-09-2013 09:42:45	Se ha producido un error: session is not yet established
+30-09-2013 09:42:45	Se ha producido un error: session is not yet established
+30-09-2013 09:42:45	Error a帽adiendo el ROSpec: 172.22.22.184 null
+30-09-2013 09:42:45	Se ha producido un error: session is not yet established
+30-09-2013 09:42:45	Se ha producido un error: session is not yet established
+30-09-2013 09:43:07	Se ha producido un error: session is not yet established
+30-09-2013 09:43:28	connect: failed to connect
+30-09-2013 09:43:28	Se ha producido un error: session is not yet established
+30-09-2013 09:43:28	Se ha producido un error: session is not yet established
+30-09-2013 09:43:28	Se ha producido un error: session is not yet established
+30-09-2013 09:43:28	Error a帽adiendo el ROSpec: 172.22.22.184 null
+30-09-2013 09:43:28	Se ha producido un error: session is not yet established
+30-09-2013 09:43:28	Se ha producido un error: session is not yet established
+30-09-2013 09:45:42	connect: failed to connect
+30-09-2013 09:45:42	Se ha producido un error: session is not yet established
+30-09-2013 09:45:42	Se ha producido un error: session is not yet established
+30-09-2013 09:45:42	Se ha producido un error: session is not yet established
+30-09-2013 09:45:42	Error a帽adiendo el ROSpec: 172.22.22.184 null
+30-09-2013 09:45:42	Se ha producido un error: session is not yet established
+30-09-2013 09:45:42	Se ha producido un error: session is not yet established
+30-09-2013 09:45:43	Se ha producido un error: session is not yet established
+30-09-2013 09:46:04	connect: failed to connect
+30-09-2013 09:46:04	Se ha producido un error: session is not yet established
+30-09-2013 09:46:04	Se ha producido un error: session is not yet established
+30-09-2013 09:46:04	Se ha producido un error: session is not yet established
+30-09-2013 09:46:04	Error a帽adiendo el ROSpec: 172.22.22.184 null
+30-09-2013 09:46:04	Se ha producido un error: session is not yet established
+30-09-2013 09:46:04	Se ha producido un error: session is not yet established
+30-09-2013 09:46:26	Se ha producido un error: session is not yet established
+30-09-2013 09:46:47	connect: failed to connect
+30-09-2013 09:46:47	Se ha producido un error: session is not yet established
+30-09-2013 09:46:47	Se ha producido un error: session is not yet established
+30-09-2013 09:46:47	Se ha producido un error: session is not yet established
+30-09-2013 09:46:47	Error a帽adiendo el ROSpec: 172.22.22.184 null
+30-09-2013 09:46:47	Se ha producido un error: session is not yet established
+30-09-2013 09:46:47	Se ha producido un error: session is not yet established
+30-09-2013 09:47:09	Se ha producido un error: session is not yet established
+30-09-2013 09:47:30	connect: failed to connect
+30-09-2013 09:47:30	Se ha producido un error: session is not yet established
+30-09-2013 09:47:30	Se ha producido un error: session is not yet established
+30-09-2013 09:47:30	Se ha producido un error: session is not yet established
+30-09-2013 09:47:30	Error a帽adiendo el ROSpec: 172.22.22.184 null
+30-09-2013 09:47:30	Se ha producido un error: session is not yet established
+30-09-2013 09:47:30	Se ha producido un error: session is not yet established
+30-09-2013 09:47:52	Se ha producido un error: session is not yet established
+30-09-2013 09:48:58	connect: failed to connect
+30-09-2013 09:48:58	Se ha producido un error: session is not yet established
+30-09-2013 09:48:58	Se ha producido un error: session is not yet established
+30-09-2013 09:48:58	Se ha producido un error: session is not yet established
+30-09-2013 09:48:58	Error a帽adiendo el ROSpec: 172.22.22.184 null
+30-09-2013 09:48:58	Se ha producido un error: session is not yet established
+30-09-2013 09:48:58	Se ha producido un error: session is not yet established
+30-09-2013 09:49:00	Se ha producido un error: session is not yet established
+30-09-2013 09:51:08	connect: failed to connect
+30-09-2013 09:51:08	Se ha producido un error: session is not yet established
+30-09-2013 09:51:08	Se ha producido un error: session is not yet established
+30-09-2013 09:51:08	Se ha producido un error: session is not yet established
+30-09-2013 09:51:08	Error a帽adiendo el ROSpec: 172.22.22.184 null
+30-09-2013 09:51:08	Se ha producido un error: session is not yet established
+30-09-2013 09:51:08	Se ha producido un error: session is not yet established
+30-09-2013 09:51:10	Se ha producido un error: session is not yet established
+30-09-2013 09:51:31	connect: failed to connect
+30-09-2013 09:51:31	Se ha producido un error: session is not yet established
+30-09-2013 09:51:31	Se ha producido un error: session is not yet established
+30-09-2013 09:51:31	Se ha producido un error: session is not yet established
+30-09-2013 09:51:31	Error a帽adiendo el ROSpec: 172.22.22.184 null
+30-09-2013 09:51:31	Se ha producido un error: session is not yet established
+30-09-2013 09:51:31	Se ha producido un error: session is not yet established
+30-09-2013 09:51:53	Se ha producido un error: session is not yet established
+30-09-2013 09:52:14	connect: failed to connect
+30-09-2013 09:52:14	Se ha producido un error: session is not yet established
+30-09-2013 09:52:14	Se ha producido un error: session is not yet established
+30-09-2013 09:52:14	Se ha producido un error: session is not yet established
+30-09-2013 09:52:14	Error a帽adiendo el ROSpec: 172.22.22.184 null
+30-09-2013 09:52:14	Se ha producido un error: session is not yet established
+30-09-2013 09:52:14	Se ha producido un error: session is not yet established
+30-09-2013 09:52:36	Se ha producido un error: session is not yet established
+30-09-2013 09:52:57	connect: failed to connect
+30-09-2013 09:52:57	Se ha producido un error: session is not yet established
+30-09-2013 09:52:57	Se ha producido un error: session is not yet established
+30-09-2013 09:52:57	Se ha producido un error: session is not yet established
+30-09-2013 09:52:57	Error a帽adiendo el ROSpec: 172.22.22.184 null
+30-09-2013 09:52:57	Se ha producido un error: session is not yet established
+30-09-2013 09:52:57	Se ha producido un error: session is not yet established
+30-09-2013 09:53:19	Se ha producido un error: session is not yet established
+30-09-2013 09:53:40	connect: failed to connect
+30-09-2013 09:53:40	Se ha producido un error: session is not yet established
+30-09-2013 09:53:40	Se ha producido un error: session is not yet established
+30-09-2013 09:53:40	Se ha producido un error: session is not yet established
+30-09-2013 09:53:40	Error a帽adiendo el ROSpec: 172.22.22.184 null
+30-09-2013 09:53:40	Se ha producido un error: session is not yet established
+30-09-2013 09:53:40	Se ha producido un error: session is not yet established
+30-09-2013 09:54:02	Se ha producido un error: session is not yet established
+30-09-2013 09:54:23	connect: failed to connect
+30-09-2013 09:54:23	Se ha producido un error: session is not yet established
+30-09-2013 09:54:23	Se ha producido un error: session is not yet established
+30-09-2013 09:54:23	Se ha producido un error: session is not yet established
+30-09-2013 09:54:23	Error a帽adiendo el ROSpec: 172.22.22.184 null
+30-09-2013 09:54:23	Se ha producido un error: session is not yet established
+30-09-2013 09:54:23	Se ha producido un error: session is not yet established
+30-09-2013 09:54:45	Se ha producido un error: session is not yet established
+30-09-2013 09:55:06	connect: failed to connect
+30-09-2013 09:55:06	Se ha producido un error: session is not yet established
+30-09-2013 09:55:06	Se ha producido un error: session is not yet established
+30-09-2013 09:55:06	Se ha producido un error: session is not yet established
+30-09-2013 09:55:06	Error a帽adiendo el ROSpec: 172.22.22.184 null
+30-09-2013 09:55:06	Se ha producido un error: session is not yet established
+30-09-2013 09:55:06	Se ha producido un error: session is not yet established
+30-09-2013 09:55:45	connect: failed to connect
+30-09-2013 09:56:16	connect: failed to connect
+30-09-2013 09:58:17	connect: failed to connect
+30-09-2013 09:58:48	connect: failed to connect
+30-09-2013 10:04:42	connect: failed to connect
+30-09-2013 10:05:13	connect: failed to connect
+30-09-2013 10:05:44	connect: failed to connect
+30-09-2013 10:06:15	connect: failed to connect
+30-09-2013 10:06:46	connect: failed to connect
+30-09-2013 10:07:17	connect: failed to connect
+30-09-2013 10:07:48	connect: failed to connect
+30-09-2013 10:08:19	connect: failed to connect
+30-09-2013 10:11:16	connect: failed to connect
+30-09-2013 10:11:47	connect: failed to connect
+30-09-2013 10:12:24	connect: failed to connect
+30-09-2013 10:15:35	connect: failed to connect
+30-09-2013 10:16:40	connect: failed to connect
+30-09-2013 10:17:11	connect: failed to connect
+30-09-2013 11:20:55	connect: failed to connect
+30-09-2013 11:21:59	connect: failed to connect
+30-09-2013 11:22:30	connect: failed to connect
+30-09-2013 11:23:01	connect: failed to connect
+30-09-2013 11:23:32	connect: failed to connect
+30-09-2013 11:24:31	connect: failed to connect
+30-09-2013 11:25:02	connect: failed to connect
+30-09-2013 11:25:33	connect: failed to connect
+30-09-2013 11:26:04	connect: failed to connect
+30-09-2013 11:26:35	connect: failed to connect
+30-09-2013 11:27:06	connect: failed to connect
+30-09-2013 11:27:37	connect: failed to connect
+30-09-2013 11:28:08	connect: failed to connect
+30-09-2013 11:28:39	connect: failed to connect
+30-09-2013 11:54:43	connect: failed to connect
+30-09-2013 11:55:14	connect: failed to connect
+30-09-2013 11:55:45	connect: failed to connect
+30-09-2013 11:56:16	connect: failed to connect
+30-09-2013 11:56:47	connect: failed to connect
+30-09-2013 12:17:43	connect: failed to connect
+30-09-2013 12:18:14	connect: failed to connect
+30-09-2013 12:19:10	connect: failed to connect
+30-09-2013 12:27:46	connect: failed to connect
+30-09-2013 12:32:50	connect: failed to connect
+30-09-2013 12:33:18	connect: failed to connect
+30-09-2013 12:33:21	connect: failed to connect
+30-09-2013 12:40:08	connect: failed to connect
+30-09-2013 12:40:39	connect: failed to connect
+30-09-2013 12:41:10	connect: failed to connect
+30-09-2013 12:41:46	connect: failed to connect
+30-09-2013 12:42:17	connect: failed to connect
+30-09-2013 12:42:48	connect: failed to connect
+30-09-2013 12:43:19	connect: failed to connect
+30-09-2013 12:56:30	connect: failed to connect
+30-09-2013 12:57:01	connect: failed to connect
+30-09-2013 12:57:32	connect: failed to connect
+30-09-2013 12:58:03	connect: failed to connect
+30-09-2013 12:58:38	connect: failed to connect
+30-09-2013 01:12:41	connect: failed to connect
+30-09-2013 01:13:07	connect: failed to connect
+30-09-2013 01:13:12	connect: failed to connect
+30-09-2013 01:13:16	connect: failed to connect
+30-09-2013 01:13:38	connect: failed to connect
+30-09-2013 01:13:43	connect: failed to connect
+30-09-2013 01:13:47	connect: failed to connect
+30-09-2013 01:14:49	connect: failed to connect
+30-09-2013 01:42:38	connect: failed to connect
+30-09-2013 01:43:22	connect: failed to connect
+30-09-2013 01:43:53	connect: failed to connect
+30-09-2013 01:45:08	connect: failed to connect
+30-09-2013 01:45:39	connect: failed to connect
+30-09-2013 01:47:51	connect: failed to connect
+30-09-2013 01:48:51	connect: failed to connect
+30-09-2013 01:49:22	connect: failed to connect
+30-09-2013 01:49:53	connect: failed to connect
+30-09-2013 01:50:24	connect: failed to connect
+30-09-2013 01:50:27	connect: failed to connect
+30-09-2013 01:50:55	connect: failed to connect
+30-09-2013 01:50:58	connect: failed to connect
+30-09-2013 01:51:12	connect: failed to connect
+30-09-2013 01:51:26	connect: failed to connect
+30-09-2013 01:51:29	connect: failed to connect
+30-09-2013 01:54:44	connect: failed to connect
+30-09-2013 02:01:51	connect: failed to connect
+30-09-2013 02:05:30	connect: failed to connect
+30-09-2013 02:37:33	connect: failed to connect
+30-09-2013 02:38:04	connect: failed to connect
+30-09-2013 02:38:35	connect: failed to connect
+30-09-2013 02:39:06	connect: failed to connect
+30-09-2013 02:39:37	connect: failed to connect
+30-09-2013 02:40:08	connect: failed to connect
+30-09-2013 03:11:20	connect: failed to connect
+30-09-2013 03:11:51	connect: failed to connect
+30-09-2013 03:12:22	connect: failed to connect
+30-09-2013 03:12:53	connect: failed to connect
+30-09-2013 03:23:39	connect: failed to connect
+30-09-2013 03:24:10	connect: failed to connect
+30-09-2013 03:24:41	connect: failed to connect
+30-09-2013 03:25:11	connect: failed to connect
+30-09-2013 03:25:42	connect: failed to connect
+30-09-2013 03:26:13	connect: failed to connect
+30-09-2013 03:26:43	connect: failed to connect
+30-09-2013 03:27:14	connect: failed to connect
+30-09-2013 03:27:34	Se ha producido un error: session is not yet established
+30-09-2013 03:27:34	Se ha producido un error: session is not yet established
+30-09-2013 03:27:34	consultarEstadoReader: null
+30-09-2013 03:27:34	Se ha producido un error: session is not yet established
+30-09-2013 03:28:10	Se ha producido un error: session is not yet established
+30-09-2013 03:28:10	Se ha producido un error: session is not yet established
+30-09-2013 03:28:10	consultarEstadoReader: null
+30-09-2013 03:28:10	Se ha producido un error: session is not yet established
+30-09-2013 03:28:21	connect: failed to connect
+30-09-2013 03:28:32	connect: failed to connect
+30-09-2013 03:29:21	Se ha producido un error: session is not yet established
+30-09-2013 03:29:21	Se ha producido un error: session is not yet established
+30-09-2013 03:29:21	consultarEstadoReader: null
+30-09-2013 03:29:21	Se ha producido un error: session is not yet established
+30-09-2013 03:29:29	connect: failed to connect
+30-09-2013 03:30:00	Se ha producido un error: session is not yet established
+30-09-2013 03:30:00	Se ha producido un error: session is not yet established
+30-09-2013 03:30:00	consultarEstadoReader: null
+30-09-2013 03:30:00	Se ha producido un error: session is not yet established
+30-09-2013 03:30:12	connect: failed to connect
+30-09-2013 03:30:21	connect: failed to connect
+30-09-2013 03:31:16	Se ha producido un error: session is not yet established
+30-09-2013 03:31:16	Se ha producido un error: session is not yet established
+30-09-2013 03:31:16	consultarEstadoReader: null
+30-09-2013 03:31:16	Se ha producido un error: session is not yet established
+30-09-2013 03:32:52	Se ha producido un error: session is not yet established
+30-09-2013 03:32:52	Se ha producido un error: session is not yet established
+30-09-2013 03:32:52	consultarEstadoReader: null
+30-09-2013 03:32:53	Se ha producido un error: session is not yet established
+30-09-2013 03:33:04	connect: failed to connect
+30-09-2013 03:33:14	connect: failed to connect
+30-09-2013 03:34:42	connect: failed to connect
+30-09-2013 03:35:13	connect: failed to connect
+30-09-2013 03:37:15	Se ha producido un error: session is not yet established
+30-09-2013 03:37:15	Se ha producido un error: session is not yet established
+30-09-2013 03:37:15	consultarEstadoReader: null
+30-09-2013 03:37:16	Se ha producido un error: session is not yet established
+30-09-2013 03:37:25	connect: failed to connect
+30-09-2013 03:37:37	connect: failed to connect
+30-09-2013 03:37:56	connect: failed to connect
+30-09-2013 03:38:08	connect: failed to connect
+30-09-2013 03:38:27	connect: failed to connect
+30-09-2013 03:38:58	Se ha producido un error: session is not yet established
+30-09-2013 03:38:58	Se ha producido un error: session is not yet established
+30-09-2013 03:38:58	consultarEstadoReader: null
+30-09-2013 03:38:59	Se ha producido un error: session is not yet established
+30-09-2013 03:39:03	connect: failed to connect
+30-09-2013 03:39:30	Se ha producido un error: session is not yet established
+30-09-2013 03:39:30	Se ha producido un error: session is not yet established
+30-09-2013 03:39:30	consultarEstadoReader: null
+30-09-2013 03:39:30	Se ha producido un error: session is not yet established
+30-09-2013 03:39:45	connect: failed to connect
+30-09-2013 03:39:51	connect: failed to connect
+30-09-2013 03:40:16	connect: failed to connect
+30-09-2013 03:40:22	connect: failed to connect
+30-09-2013 03:43:12	Se ha producido un error: session is not yet established
+30-09-2013 03:43:12	Se ha producido un error: session is not yet established
+30-09-2013 03:43:12	consultarEstadoReader: null
+30-09-2013 03:43:12	Se ha producido un error: session is not yet established
+30-09-2013 03:43:21	connect: failed to connect
+30-09-2013 03:43:33	connect: failed to connect
+30-09-2013 03:43:52	connect: failed to connect
+30-09-2013 03:44:04	connect: failed to connect
+30-09-2013 03:45:23	connect: failed to connect
+30-09-2013 03:46:21	Se ha producido un error: session is not yet established
+30-09-2013 03:46:21	Se ha producido un error: session is not yet established
+30-09-2013 03:46:21	consultarEstadoReader: null
+30-09-2013 03:46:21	Se ha producido un error: session is not yet established
+30-09-2013 03:46:32	connect: failed to connect
+30-09-2013 03:46:43	connect: failed to connect
+30-09-2013 03:47:03	connect: failed to connect
+30-09-2013 03:47:13	connect: failed to connect
+30-09-2013 03:47:34	connect: failed to connect
+30-09-2013 03:47:44	connect: failed to connect
+30-09-2013 03:49:34	connect: failed to connect
+30-09-2013 03:50:05	connect: failed to connect
+30-09-2013 03:50:10	connect: failed to connect
+30-09-2013 03:50:36	connect: failed to connect
+30-09-2013 03:51:07	connect: failed to connect
+30-09-2013 03:52:16	connect: failed to connect
+30-09-2013 03:52:31	Se ha producido un error: session is not yet established
+30-09-2013 03:52:31	Se ha producido un error: session is not yet established
+30-09-2013 03:52:31	consultarEstadoReader: null
+30-09-2013 03:52:32	Se ha producido un error: session is not yet established
+30-09-2013 03:54:47	connect: failed to connect
+30-09-2013 03:55:18	connect: failed to connect
+30-09-2013 03:57:15	connect: failed to connect
+30-09-2013 03:58:10	connect: failed to connect
+30-09-2013 03:58:41	connect: failed to connect
+30-09-2013 03:59:12	connect: failed to connect
+30-09-2013 03:59:16	Se ha producido un error: session is not yet established
+30-09-2013 03:59:16	Se ha producido un error: session is not yet established
+30-09-2013 03:59:16	consultarEstadoReader: null
+30-09-2013 03:59:17	Se ha producido un error: session is not yet established
+30-09-2013 03:59:38	connect: failed to connect
+30-09-2013 03:59:43	connect: failed to connect
+30-09-2013 04:00:09	connect: failed to connect
+30-09-2013 04:00:14	connect: failed to connect
+30-09-2013 04:00:40	connect: failed to connect
+30-09-2013 04:00:45	connect: failed to connect
+30-09-2013 04:01:28	Se ha producido un error: session is not yet established
+30-09-2013 04:01:28	Se ha producido un error: session is not yet established
+30-09-2013 04:01:28	consultarEstadoReader: null
+30-09-2013 04:01:28	Se ha producido un error: session is not yet established
+30-09-2013 04:01:36	connect: failed to connect
+30-09-2013 04:01:49	connect: failed to connect
+30-09-2013 04:02:07	connect: failed to connect
+30-09-2013 04:02:20	connect: failed to connect
+30-09-2013 04:02:38	connect: failed to connect
+30-09-2013 04:02:51	connect: failed to connect
+30-09-2013 04:03:09	connect: failed to connect
+30-09-2013 04:03:22	connect: failed to connect
+30-09-2013 04:03:40	connect: failed to connect
+30-09-2013 04:03:53	connect: failed to connect
+30-09-2013 04:05:44	Se ha producido un error: session is not yet established
+30-09-2013 04:05:44	Se ha producido un error: session is not yet established
+30-09-2013 04:05:44	consultarEstadoReader: null
+30-09-2013 04:05:45	Se ha producido un error: session is not yet established
+30-09-2013 04:05:55	connect: failed to connect
+30-09-2013 04:06:06	connect: failed to connect
+30-09-2013 04:06:25	connect: failed to connect
+30-09-2013 04:06:37	connect: failed to connect
+07-10-2013 11:50:20	comienza: Failed_A_Client_Initiated_Connection_Already_Exists
+07-10-2013 11:50:21	Se ha producido un error: session is not yet connected
+07-10-2013 11:50:22	Se ha producido un error: java.lang.NullPointerException
+07-10-2013 11:50:22	Se ha producido un error: java.lang.NullPointerException
+07-10-2013 11:56:20	comienza: Failed_A_Client_Initiated_Connection_Already_Exists
+07-10-2013 11:56:21	Se ha producido un error: java.lang.NullPointerException
+07-10-2013 11:56:21	Se ha producido un error: session is not yet connected
+07-10-2013 11:56:21	Se ha producido un error: java.lang.NullPointerException
+07-10-2013 11:56:31	comienza: Failed_A_Client_Initiated_Connection_Already_Exists
+07-10-2013 11:56:31	Se ha producido un error: java.lang.NullPointerException
+07-10-2013 11:56:32	Se ha producido un error: session is not yet connected
+07-10-2013 11:56:32	Se ha producido un error: java.lang.NullPointerException
+07-10-2013 11:57:08	comienza: Failed_A_Client_Initiated_Connection_Already_Exists
+07-10-2013 11:57:08	Se ha producido un error: java.lang.NullPointerException
+07-10-2013 11:57:09	Se ha producido un error: session is not yet connected
+07-10-2013 11:57:09	Se ha producido un error: java.lang.NullPointerException
+07-10-2013 11:57:19	comienza: Failed_A_Client_Initiated_Connection_Already_Exists
+07-10-2013 11:57:19	Se ha producido un error: java.lang.NullPointerException
+07-10-2013 11:57:20	Se ha producido un error: session is not yet connected
+07-10-2013 11:57:20	Se ha producido un error: java.lang.NullPointerException
+07-10-2013 11:58:08	comienza: Failed_A_Client_Initiated_Connection_Already_Exists
+07-10-2013 11:58:08	Se ha producido un error: java.lang.NullPointerException
+07-10-2013 11:58:09	Se ha producido un error: session is not yet connected
+07-10-2013 11:58:09	Se ha producido un error: java.lang.NullPointerException
+07-10-2013 11:58:56	comienza: Failed_A_Client_Initiated_Connection_Already_Exists
+07-10-2013 11:58:57	Se ha producido un error: java.lang.NullPointerException
+07-10-2013 11:58:57	Se ha producido un error: session is not yet connected
+07-10-2013 11:58:57	Se ha producido un error: java.lang.NullPointerException
+07-10-2013 11:59:25	comienza: Failed_A_Client_Initiated_Connection_Already_Exists
+07-10-2013 11:59:25	Se ha producido un error: java.lang.NullPointerException
+07-10-2013 11:59:26	Se ha producido un error: session is not yet connected
+07-10-2013 11:59:26	Se ha producido un error: java.lang.NullPointerException
+07-10-2013 12:03:30	comienza: Failed_A_Client_Initiated_Connection_Already_Exists
+07-10-2013 12:03:30	Se ha producido un error: java.lang.NullPointerException
+07-10-2013 12:03:30	Se ha producido un error: session is not yet connected
+07-10-2013 12:03:30	Se ha producido un error: java.lang.NullPointerException
+07-10-2013 12:10:12	comienza: Failed_A_Client_Initiated_Connection_Already_Exists
+07-10-2013 12:10:12	Se ha producido un error: java.lang.NullPointerException
+07-10-2013 12:10:12	Se ha producido un error: session is not yet connected
+07-10-2013 12:10:12	Se ha producido un error: java.lang.NullPointerException

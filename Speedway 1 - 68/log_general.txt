@@ -1,0 +1,86 @@
+18-03-2014 04:12:11	Borrando todos los ROSpecs: 122.22.78.12
+18-03-2014 04:12:11	Reader Speedway 1 id: 68 desconectado
+18-03-2014 04:12:30	Borrando todos los ROSpecs: 122.22.78.12
+18-03-2014 04:12:30	Reader Speedway 1 id: 68 desconectado
+18-03-2014 04:12:43	Borrando todos los ROSpecs: 122.22.78.12
+18-03-2014 04:12:43	Reader Speedway 1 id: 68 desconectado
+18-03-2014 04:13:14	Borrando todos los ROSpecs: 122.22.78.12
+18-03-2014 04:13:14	Reader Speedway 1 id: 68 desconectado
+18-03-2014 04:13:46	Borrando todos los ROSpecs: 122.22.78.12
+18-03-2014 04:13:46	Reader Speedway 1 id: 68 desconectado
+18-03-2014 04:14:17	Borrando todos los ROSpecs: 122.22.78.12
+18-03-2014 04:14:17	Reader Speedway 1 id: 68 desconectado
+18-03-2014 04:14:49	Borrando todos los ROSpecs: 122.22.78.12
+18-03-2014 04:14:49	Reader Speedway 1 id: 68 desconectado
+18-03-2014 04:15:20	Borrando todos los ROSpecs: 122.22.78.12
+18-03-2014 04:15:20	Reader Speedway 1 id: 68 desconectado
+18-03-2014 04:15:52	Borrando todos los ROSpecs: 122.22.78.12
+18-03-2014 04:15:52	Reader Speedway 1 id: 68 desconectado
+18-03-2014 04:16:23	Borrando todos los ROSpecs: 122.22.78.12
+18-03-2014 04:16:23	Reader Speedway 1 id: 68 desconectado
+18-03-2014 04:16:55	Borrando todos los ROSpecs: 122.22.78.12
+18-03-2014 04:16:55	Reader Speedway 1 id: 68 desconectado
+18-03-2014 04:17:26	Borrando todos los ROSpecs: 122.22.78.12
+18-03-2014 04:17:26	Reader Speedway 1 id: 68 desconectado
+18-03-2014 04:17:58	Borrando todos los ROSpecs: 122.22.78.12
+18-03-2014 04:17:58	Reader Speedway 1 id: 68 desconectado
+09-07-2014 10:37:35	Borrando todos los ROSpecs: 172.22.23.226
+09-07-2014 10:37:35	ROSpec creado exitosamente: 172.22.23.226
+09-07-2014 10:37:35	Añadiendo el ROSpec: 172.22.23.226
+09-07-2014 10:37:35	Habilitando el ROSpec: 172.22.23.226
+09-07-2014 10:37:36	Iniciando el ROSpec: 172.22.23.226
+09-07-2014 10:37:37	Reader Speedway 1 id: 68 conectado
+15-07-2014 09:49:32	Iniciando configuracion del Reader: 172.22.23.226
+15-07-2014 09:49:32	Reader configurado exitosamente: 172.22.23.226
+15-07-2014 09:49:32	Borrando todos los ROSpecs: 172.22.23.226
+15-07-2014 09:49:32	ROSpecs borrados exitosamente: 172.22.23.226
+15-07-2014 09:49:33	ROSpec creado exitosamente: 172.22.23.226
+15-07-2014 09:49:33	Añadiendo el ROSpec: 172.22.23.226
+15-07-2014 09:49:33	ROSpec añadido de forma exitosa: 172.22.23.226
+15-07-2014 09:49:33	Habilitando el ROSpec: 172.22.23.226
+15-07-2014 09:49:33	Rospec habilitado exitosamente: 172.22.23.226
+15-07-2014 09:49:33	Iniciando el ROSpec: 172.22.23.226
+15-07-2014 09:49:33	ROSpec iniciado correctamente: 172.22.23.226
+15-07-2014 09:49:33	Reader Speedway 1 id: 68 conectado
+15-07-2014 09:50:46	Iniciando configuracion del Reader: 172.22.23.226
+15-07-2014 09:50:46	Reader configurado exitosamente: 172.22.23.226
+15-07-2014 09:50:46	Borrando todos los ROSpecs: 172.22.23.226
+15-07-2014 09:50:46	ROSpecs borrados exitosamente: 172.22.23.226
+15-07-2014 09:50:46	ROSpec creado exitosamente: 172.22.23.226
+15-07-2014 09:50:46	Añadiendo el ROSpec: 172.22.23.226
+15-07-2014 09:50:47	ROSpec añadido de forma exitosa: 172.22.23.226
+15-07-2014 09:50:47	Habilitando el ROSpec: 172.22.23.226
+15-07-2014 09:50:47	Rospec habilitado exitosamente: 172.22.23.226
+15-07-2014 09:50:47	Iniciando el ROSpec: 172.22.23.226
+15-07-2014 09:50:47	ROSpec iniciado correctamente: 172.22.23.226
+15-07-2014 09:50:47	Reader Speedway 1 id: 68 conectado
+15-07-2014 09:52:45	Iniciando configuracion del Reader: 172.22.23.226
+15-07-2014 09:52:45	Reader configurado exitosamente: 172.22.23.226
+15-07-2014 09:52:45	Borrando todos los ROSpecs: 172.22.23.226
+15-07-2014 09:52:45	ROSpecs borrados exitosamente: 172.22.23.226
+15-07-2014 09:52:45	ROSpec creado exitosamente: 172.22.23.226
+15-07-2014 09:52:45	Añadiendo el ROSpec: 172.22.23.226
+15-07-2014 09:52:45	ROSpec añadido de forma exitosa: 172.22.23.226
+15-07-2014 09:52:45	Habilitando el ROSpec: 172.22.23.226
+15-07-2014 09:52:45	Rospec habilitado exitosamente: 172.22.23.226
+15-07-2014 09:52:45	Iniciando el ROSpec: 172.22.23.226
+15-07-2014 09:52:45	ROSpec iniciado correctamente: 172.22.23.226
+15-07-2014 09:52:45	Reader Speedway 1 id: 68 conectado
+15-07-2014 09:59:30	Borrando todos los ROSpecs: 172.22.23.226
+15-07-2014 09:59:40	Reader Speedway 1 id: 68 desconectado
+15-07-2014 10:00:41	Iniciando configuracion del Reader: 172.22.23.226
+15-07-2014 10:00:41	Reader configurado exitosamente: 172.22.23.226
+15-07-2014 10:00:41	Borrando todos los ROSpecs: 172.22.23.226
+15-07-2014 10:00:41	ROSpecs borrados exitosamente: 172.22.23.226
+15-07-2014 10:00:41	ROSpec creado exitosamente: 172.22.23.226
+15-07-2014 10:00:41	Añadiendo el ROSpec: 172.22.23.226
+15-07-2014 10:00:41	ROSpec añadido de forma exitosa: 172.22.23.226
+15-07-2014 10:00:41	Habilitando el ROSpec: 172.22.23.226
+15-07-2014 10:00:41	Rospec habilitado exitosamente: 172.22.23.226
+15-07-2014 10:00:41	Iniciando el ROSpec: 172.22.23.226
+15-07-2014 10:00:41	ROSpec iniciado correctamente: 172.22.23.226
+15-07-2014 10:00:41	Reader Speedway 1 id: 68 conectado
+15-07-2014 10:01:01	Borrando todos los ROSpecs: 172.22.23.226
+15-07-2014 10:01:01	Reader Speedway 1 id: 68 desconectado
+15-07-2014 10:44:27	Borrando todos los ROSpecs: 172.22.23.226
+15-07-2014 10:44:28	Reader Speedway 1 id: 68 desconectado

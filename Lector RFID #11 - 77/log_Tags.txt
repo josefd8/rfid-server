@@ -1,0 +1,1704 @@
+16-07-2014 01:52:03	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448831">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T13:52:04.129153-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 01:52:03	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448832">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T13:52:04.129212-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 02:01:46	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448855">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T14:01:46.922432-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 02:01:46	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448855">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T14:01:46.922432-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 02:01:46	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448856">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T14:01:46.922492-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 02:03:37	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448861" />
+
+
+16-07-2014 02:05:08	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448864" />
+
+
+16-07-2014 02:06:54	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448867" />
+
+
+16-07-2014 02:06:55	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448870">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T14:06:55.991683-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 02:06:55	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448871">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T14:06:55.991745-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 02:07:35	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448876">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T14:07:36.071265-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 02:07:35	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448877">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T14:07:36.071326-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 02:13:56	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448888" />
+
+
+16-07-2014 02:14:56	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448889" />
+
+
+16-07-2014 02:15:00	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448892" />
+
+
+16-07-2014 02:15:48	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448895" />
+
+
+16-07-2014 02:15:48	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448896" />
+
+
+16-07-2014 02:21:21	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448899" />
+
+
+16-07-2014 02:21:22	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448902">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T14:21:23.664485-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 02:21:22	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448903">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T14:21:23.664543-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 02:24:15	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448908" />
+
+
+16-07-2014 02:24:15	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448908" />
+
+
+16-07-2014 02:24:16	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448911">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T14:24:17.504196-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 02:24:16	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448912">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T14:24:17.504257-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 02:26:29	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448917">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T14:26:30.150394-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 02:26:29	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448918">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T14:26:30.150455-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 02:28:27	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448923" />
+
+
+16-07-2014 02:28:28	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448926">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T14:28:29.359205-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 02:28:28	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448927">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T14:28:29.359265-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 02:34:00	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448934" />
+
+
+16-07-2014 02:35:09	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448937" />
+
+
+16-07-2014 02:36:47	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448944" />
+
+
+16-07-2014 02:37:12	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448951" />
+
+
+16-07-2014 02:39:41	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448956" />
+
+
+16-07-2014 02:39:42	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448959">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T14:39:43.080446-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 02:39:42	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448960">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T14:39:43.080508-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 02:46:58	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448969">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T14:46:59.293485-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 02:46:58	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448970">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T14:46:59.293546-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 02:48:08	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448975">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T14:48:09.399669-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 02:48:08	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448976">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T14:48:09.399728-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 02:54:24	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448979" />
+
+
+16-07-2014 02:55:58	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448984" />
+
+
+16-07-2014 02:58:08	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448991" />
+
+
+16-07-2014 02:59:47	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448994" />
+
+
+16-07-2014 03:02:20	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155448997" />
+
+
+16-07-2014 03:03:13	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449000" />
+
+
+16-07-2014 03:04:23	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449003" />
+
+
+16-07-2014 03:04:48	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449006" />
+
+
+16-07-2014 03:05:37	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449009" />
+
+
+16-07-2014 03:05:38	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449012">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T15:05:39.634226-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 03:05:38	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449013">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T15:05:39.634287-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 03:07:43	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449020">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T15:07:44.616996-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 03:07:43	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449021">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T15:07:44.617059-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 03:09:21	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449026">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T15:09:22.439073-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 03:09:21	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449027">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T15:09:22.439132-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 03:13:26	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449038" />
+
+
+16-07-2014 03:13:50	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449039" />
+
+
+16-07-2014 03:13:53	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449044" />
+
+
+16-07-2014 03:14:26	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449047" />
+
+
+16-07-2014 03:14:26	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449048" />
+
+
+16-07-2014 03:15:17	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449051" />
+
+
+16-07-2014 03:15:18	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449052" />
+
+
+16-07-2014 03:17:19	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449053" />
+
+
+16-07-2014 03:17:23	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449056" />
+
+
+16-07-2014 03:18:20	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449059" />
+
+
+16-07-2014 03:22:29	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449064" />
+
+
+16-07-2014 03:22:31	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449065" />
+
+
+16-07-2014 03:23:50	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449068" />
+
+
+16-07-2014 03:23:51	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449069" />
+
+
+16-07-2014 03:24:21	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449072" />
+
+
+16-07-2014 03:24:22	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449073" />
+
+
+16-07-2014 03:35:54	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449080" />
+
+
+16-07-2014 03:35:55	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449081" />
+
+
+16-07-2014 03:35:56	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449086">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T15:35:57.010684-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 03:35:56	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449087">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T15:35:57.010745-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 03:36:56	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449090" />
+
+
+16-07-2014 03:37:06	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449093">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T15:37:07.148364-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 03:37:06	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449094">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T15:37:07.148425-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 03:37:58	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449097" />
+
+
+16-07-2014 03:37:58	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449100">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T15:37:59.454819-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 03:37:58	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449101">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T15:37:59.454879-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 03:40:31	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449106" />
+
+
+16-07-2014 03:40:31	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449109">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T15:40:32.305147-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 03:40:31	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449110">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T15:40:32.305208-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 03:44:37	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449115" />
+
+
+16-07-2014 03:46:10	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449118" />
+
+
+16-07-2014 03:46:11	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449121" />
+
+
+16-07-2014 03:51:14	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449124" />
+
+
+16-07-2014 03:51:16	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449127" />
+
+
+16-07-2014 04:58:22	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449130" />
+
+
+16-07-2014 05:00:20	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449133" />
+
+
+16-07-2014 05:00:21	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449136">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T17:00:21.929169-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 05:00:21	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449137">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T17:00:21.929230-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 05:01:55	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449146">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T17:01:55.786522-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 05:01:55	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449147">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T17:01:55.786584-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 05:03:48	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449152">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T17:03:49.028970-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 05:03:48	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449153">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T17:03:49.029032-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 05:06:56	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449158" />
+
+
+16-07-2014 05:07:52	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449161" />
+
+
+16-07-2014 05:08:03	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449162" />
+
+
+16-07-2014 05:09:07	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449167" />
+
+
+16-07-2014 05:11:11	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449170" />
+
+
+16-07-2014 05:11:49	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449173" />
+
+
+16-07-2014 05:14:47	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449176" />
+
+
+16-07-2014 05:16:25	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449179" />
+
+
+16-07-2014 05:16:26	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449182">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T17:16:27.693618-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 05:16:26	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449183">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T17:16:27.693678-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 05:17:40	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449188">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T17:17:41.244644-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 05:17:40	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449189">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T17:17:41.244704-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 05:28:27	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449194">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T17:28:27.883028-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 05:28:27	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449195">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T17:28:27.883090-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 05:32:48	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449200">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T17:32:49.275124-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 05:32:48	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449201">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T17:32:49.275184-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 05:34:31	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449206">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T17:34:32.152985-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 05:34:31	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449207">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T17:34:32.153048-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 05:36:38	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449212">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T17:36:39.133583-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 05:36:38	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449213">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T17:36:39.133642-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 05:39:08	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449218">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T17:39:09.120657-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 05:39:08	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449219">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T17:39:09.120720-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 05:41:09	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449224">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T17:41:09.943666-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 05:41:09	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449224">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T17:41:09.943666-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 05:41:09	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449225">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T17:41:09.943727-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 05:42:40	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449230">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T17:42:41.000234-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 05:42:40	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449231">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T17:42:41.000295-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 06:17:18	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449240">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T18:17:19.411875-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 06:17:18	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449241">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T18:17:19.411935-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>3</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 06:18:44	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449246">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T18:18:45.004059-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+16-07-2014 06:18:44	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1155449247">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-16T18:18:45.004121-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>3</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 09:08:21	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="240927602">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T09:08:21.555072-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 09:08:21	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="240927603">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T09:08:21.555118-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>3</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 09:10:44	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="240927612">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T09:10:44.520446-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 09:10:44	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="240927613">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T09:10:44.520506-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>3</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 09:12:09	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="240927618">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T09:12:10.021367-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 09:12:10	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="240927619">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T09:12:10.021427-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>3</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 09:16:34	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="240927624">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T09:16:34.317494-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 09:16:34	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="240927625">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T09:16:34.317555-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>3</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 09:18:13	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="240927630">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T09:18:13.249965-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 09:18:13	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="240927631">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T09:18:13.250025-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>3</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 09:18:29	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="240927632">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T09:18:30.100747-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 09:18:30	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="240927633">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T09:18:30.100808-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>3</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 09:18:46	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="240927634">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T09:18:47.050675-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 09:18:46	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="240927635">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T09:18:47.050734-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>3</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 09:18:54	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="240927636">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T09:18:54.700528-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 09:18:54	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="240927637">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T09:18:54.700590-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>3</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 09:19:15	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="240927638">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T09:19:15.481718-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 09:19:15	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="240927639">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T09:19:15.481779-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>3</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 09:19:47	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="240927644">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T09:19:47.462550-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 09:19:47	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="240927645">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T09:19:47.462610-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>3</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 09:19:50	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="240927646">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T09:19:50.814737-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 09:19:50	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="240927647">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T09:19:50.814798-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>3</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 09:20:14	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="240927648">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T09:20:14.123010-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 09:20:14	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="240927649">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T09:20:14.123070-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>3</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 09:20:31	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="240927650">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T09:20:31.943743-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 09:20:31	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="240927651">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T09:20:31.943805-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>3</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 09:51:29	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="240927658">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T09:51:29.411976-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 09:51:29	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="240927659">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T09:51:29.412036-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>3</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 10:00:32	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="240927674">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T10:00:32.553975-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 10:00:32	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="240927675">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T10:00:32.554036-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>3</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 10:01:05	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="240927676">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T10:01:05.424460-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 10:01:05	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="240927677">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T10:01:05.424521-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>3</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 10:02:33	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="240927682">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T10:02:33.736828-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 10:02:33	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="240927683">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T10:02:33.736890-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>3</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 11:22:35	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1928703453">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T11:22:35.351605-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>3</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 11:22:39	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1928703454">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T11:22:39.457926-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 01:52:10	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="684654239">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T13:52:10.156565-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+17-07-2014 01:52:20	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="684654240">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2014-07-17T13:52:20.249294-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Connected</llrp:EventType>
+      <llrp:AntennaID>4</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+

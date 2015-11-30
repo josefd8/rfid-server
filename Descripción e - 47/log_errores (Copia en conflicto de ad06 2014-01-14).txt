@@ -1,0 +1,8 @@
+04-11-2013 03:41:12	Se ha producido un error (ltkjava): session is not yet established
+04-11-2013 03:41:13	No se pudo realizar la conexión con el reader 47 en 172.22.22.184, failed to connect
+04-11-2013 03:41:14	Se ha producido un error (ltkjava): session is not yet established
+11-11-2013 04:25:36	Se ha producido un error (ltkjava): java.lang.NullPointerException
+11-11-2013 04:26:29	Se ha producido un error (ltkjava): java.lang.NullPointerException
+11-11-2013 04:26:55	Se ha producido un error (ltkjava): java.lang.NullPointerException
+11-11-2013 04:27:25	Se ha producido un error (ltkjava): java.lang.NullPointerException
+11-11-2013 04:27:53	Se ha producido un error (ltkjava): java.lang.NullPointerException

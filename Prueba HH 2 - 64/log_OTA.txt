@@ -1,0 +1,11 @@
+08-11-2013 11:55:52	Nueva solicitud lectura, código de operación: 655
+08-11-2013 12:00:43	Nueva solicitud lectura, código de operación: 658
+08-11-2013 03:15:15	Nueva solicitud lectura, código de operación: 659
+08-11-2013 03:24:12	Nueva solicitud lectura, código de operación: 663
+08-11-2013 03:25:11	Nueva solicitud lectura, código de operación: 664
+08-11-2013 03:29:06	Nueva solicitud lectura, código de operación: 666
+08-11-2013 03:46:12	Nueva solicitud lectura, código de operación: 667
+08-11-2013 04:41:14	Nueva solicitud lectura, código de operación: 668
+08-11-2013 04:42:06	Nueva solicitud lectura, código de operación: 669
+08-11-2013 04:53:38	Nueva solicitud lectura, código de operación: 671
+08-11-2013 04:53:55	Nueva solicitud lectura, código de operación: 672

@@ -1,0 +1,2846 @@
+09-10-2013 12:14:14	Borrando todos los ROSpecs: 172.22.23.238
+09-10-2013 12:14:14	Reader Pruebas zolandia id: 62 desconectado
+09-10-2013 12:14:24	Borrando todos los ROSpecs: 172.22.23.238
+09-10-2013 12:14:24	Reader Pruebas zolandia id: 62 desconectado
+09-10-2013 12:14:35	Borrando todos los ROSpecs: 172.22.23.238
+09-10-2013 12:14:35	Reader Pruebas zolandia id: 62 desconectado
+09-10-2013 12:14:45	Borrando todos los ROSpecs: 172.22.23.238
+09-10-2013 12:14:45	Reader Pruebas zolandia id: 62 desconectado
+09-10-2013 12:14:56	Borrando todos los ROSpecs: 172.22.23.238
+09-10-2013 12:14:56	Reader Pruebas zolandia id: 62 desconectado
+09-10-2013 12:16:55	Borrando todos los ROSpecs: 172.22.23.238
+09-10-2013 12:16:55	Reader Pruebas zolandia id: 62 desconectado
+09-10-2013 12:17:05	Borrando todos los ROSpecs: 172.22.23.238
+09-10-2013 12:17:05	Reader Pruebas zolandia id: 62 desconectado
+09-10-2013 12:17:16	Borrando todos los ROSpecs: 172.22.23.238
+09-10-2013 12:17:16	Reader Pruebas zolandia id: 62 desconectado
+09-10-2013 12:17:27	Borrando todos los ROSpecs: 172.22.23.238
+09-10-2013 12:17:27	Reader Pruebas zolandia id: 62 desconectado
+09-10-2013 12:17:37	Borrando todos los ROSpecs: 172.22.23.238
+09-10-2013 12:17:37	Reader Pruebas zolandia id: 62 desconectado
+09-10-2013 12:17:48	Borrando todos los ROSpecs: 172.22.23.238
+09-10-2013 12:17:48	Reader Pruebas zolandia id: 62 desconectado
+09-10-2013 12:17:58	Borrando todos los ROSpecs: 172.22.23.238
+09-10-2013 12:17:58	Reader Pruebas zolandia id: 62 desconectado
+09-10-2013 02:17:43	Borrando todos los ROSpecs: 172.22.23.238
+09-10-2013 02:17:44	Reader Pruebas zolandia id: 62 desconectado
+09-10-2013 02:18:34	Borrando todos los ROSpecs: 172.22.23.238
+09-10-2013 02:18:34	Reader Pruebas zolandia id: 62 desconectado
+09-10-2013 02:20:54	Borrando todos los ROSpecs: 172.22.23.238
+09-10-2013 02:20:54	Reader Pruebas zolandia id: 62 desconectado
+09-10-2013 02:57:58	Borrando todos los ROSpecs: 172.22.23.238
+09-10-2013 02:57:58	Reader Pruebas zolandia id: 62 desconectado
+09-10-2013 02:58:08	Borrando todos los ROSpecs: 172.22.23.238
+09-10-2013 02:58:08	Reader Pruebas zolandia id: 62 desconectado
+09-10-2013 04:32:09	Borrando todos los ROSpecs: 172.22.23.238
+09-10-2013 04:32:09	Reader Pruebas zolandia id: 62 desconectado
+09-10-2013 04:32:41	Borrando todos los ROSpecs: 172.22.23.238
+09-10-2013 04:32:41	Reader Pruebas zolandia id: 62 desconectado
+09-10-2013 05:04:25	Borrando todos los ROSpecs: 172.22.23.238
+09-10-2013 05:04:25	Reader Pruebas zolandia id: 62 desconectado
+09-10-2013 05:04:56	Borrando todos los ROSpecs: 172.22.23.238
+09-10-2013 05:04:56	Reader Pruebas zolandia id: 62 desconectado
+10-10-2013 09:38:26	Borrando todos los ROSpecs: 172.22.23.238
+10-10-2013 09:38:26	Reader Pruebas zolandia id: 62 desconectado
+10-10-2013 09:55:35	Borrando todos los ROSpecs: 172.22.23.238
+10-10-2013 09:55:35	Reader Pruebas zolandia id: 62 desconectado
+10-10-2013 10:40:38	Borrando todos los ROSpecs: 172.22.23.238
+10-10-2013 10:40:38	Reader Pruebas zolandia id: 62 desconectado
+10-10-2013 10:46:48	Borrando todos los ROSpecs: 172.22.23.238
+10-10-2013 10:46:48	Reader Pruebas zolandia id: 62 desconectado
+11-10-2013 02:33:18	Borrando todos los ROSpecs: 172.22.23.238
+11-10-2013 02:33:18	Reader Pruebas zolandia id: 62 desconectado
+11-10-2013 02:34:35	Borrando todos los ROSpecs: 172.22.23.238
+11-10-2013 02:34:35	Reader Pruebas zolandia id: 62 desconectado
+11-10-2013 02:36:21	Borrando todos los ROSpecs: 172.22.23.238
+11-10-2013 02:36:21	Reader Pruebas zolandia id: 62 desconectado
+11-10-2013 02:36:39	Borrando todos los ROSpecs: 172.22.23.238
+11-10-2013 02:36:39	Reader Pruebas zolandia id: 62 desconectado
+11-10-2013 02:36:53	Borrando todos los ROSpecs: 172.22.23.238
+11-10-2013 02:36:53	Reader Pruebas zolandia id: 62 desconectado
+11-10-2013 02:37:02	Borrando todos los ROSpecs: 172.22.23.238
+11-10-2013 02:37:02	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 08:56:43	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 08:56:43	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 02:10:15	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 02:10:16	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 02:10:30	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 02:10:30	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 02:10:39	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 02:10:39	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 02:11:37	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 02:11:37	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 02:11:50	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 02:11:50	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 02:12:00	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 02:12:00	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 02:12:21	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 02:12:21	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:41:28	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:41:28	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:42:00	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:42:00	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:42:31	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:42:31	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:43:03	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:43:03	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:43:34	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:43:34	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:43:45	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:43:45	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:44:06	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:44:06	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:44:08	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:44:08	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:44:37	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:44:37	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:44:40	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:44:40	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:45:09	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:45:09	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:45:11	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:45:11	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:45:40	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:45:40	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:45:43	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:45:43	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:46:12	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:46:12	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:46:14	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:46:14	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:46:43	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:46:43	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:46:46	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:46:46	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:47:15	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:47:15	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:47:17	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:47:17	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:47:46	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:47:46	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:51:45	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:51:45	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:51:46	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:51:46	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:52:17	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:52:17	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:52:17	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:52:17	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:52:48	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:52:48	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:52:49	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:52:49	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:53:20	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:53:20	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:53:20	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:53:20	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:53:51	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:53:51	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:53:52	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:53:52	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:54:23	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:54:23	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:54:23	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:54:23	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:54:54	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:54:54	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:54:54	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:54:54	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:55:26	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:55:26	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:55:26	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:55:26	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:55:57	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:55:57	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:55:58	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:55:58	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:56:29	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:56:29	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:56:29	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:56:29	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:57:00	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:57:00	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:57:01	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:57:01	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:57:32	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:57:32	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:57:32	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:57:32	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:58:03	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:58:03	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:58:04	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:58:04	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:58:35	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:58:35	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:58:35	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:58:35	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:59:06	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:59:06	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:59:07	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:59:07	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:59:38	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:59:38	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 03:59:38	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 03:59:38	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:00:09	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:00:09	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:00:10	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:00:10	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:00:41	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:00:41	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:00:41	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:00:41	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:01:12	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:01:12	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:01:13	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:01:13	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:01:44	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:01:44	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:01:44	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:01:44	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:02:15	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:02:15	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:02:16	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:02:16	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:02:47	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:02:47	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:02:47	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:02:47	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:03:18	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:03:18	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:03:19	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:03:19	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:03:50	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:03:50	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:03:50	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:03:50	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:04:21	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:04:21	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:04:21	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:04:21	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:04:53	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:04:53	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:04:53	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:04:53	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:05:24	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:05:24	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:05:25	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:05:25	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:05:56	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:05:56	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:05:56	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:05:56	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:06:27	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:06:27	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:06:27	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:06:27	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:06:58	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:06:58	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:06:59	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:06:59	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:07:30	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:07:30	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:07:31	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:07:31	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:08:01	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:08:01	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:08:02	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:08:02	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:08:33	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:08:33	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:08:34	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:08:34	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:09:04	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:09:04	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:09:05	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:09:05	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:09:36	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:09:36	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:09:37	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:09:37	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:10:07	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:10:07	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:10:08	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:10:08	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:10:39	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:10:39	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:10:40	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:10:40	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:11:10	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:11:10	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:11:11	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:11:11	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:11:42	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:11:42	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:11:43	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:11:43	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:12:13	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:12:13	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:12:14	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:12:14	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:12:45	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:12:45	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:12:46	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:12:46	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:13:16	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:13:16	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:13:17	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:13:17	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:13:48	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:13:48	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:13:49	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:13:49	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:14:19	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:14:19	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:14:20	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:14:20	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:14:51	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:14:51	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:14:52	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:14:52	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:15:22	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:15:22	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:15:23	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:15:23	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:15:54	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:15:54	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:15:55	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:15:55	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:16:25	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:16:25	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:16:26	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:16:26	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:16:57	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:16:57	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:16:58	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:16:58	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:17:28	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:17:28	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:17:29	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:17:29	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:18:00	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:18:00	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:18:01	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:18:01	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:18:31	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:18:31	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:18:32	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:18:32	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:19:03	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:19:03	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:19:04	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:19:04	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:19:34	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:19:34	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:19:35	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:19:35	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:20:06	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:20:06	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:20:07	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:20:07	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:20:37	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:20:37	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:20:38	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:20:38	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:21:09	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:21:09	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:21:10	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:21:10	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:21:40	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:21:40	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:21:41	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:21:41	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:22:12	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:22:12	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:22:13	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:22:13	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:22:43	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:22:43	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:22:44	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:22:44	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:23:15	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:23:15	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:23:16	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:23:16	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:23:46	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:23:46	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:23:47	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:23:47	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:24:18	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:24:18	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:24:19	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:24:19	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:24:49	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:24:49	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:24:50	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:24:50	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:25:21	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:25:21	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:25:22	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:25:22	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:25:52	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:25:52	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:25:53	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:25:53	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:26:24	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:26:24	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:26:25	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:26:25	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:26:55	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:26:55	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:26:56	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:26:56	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:27:27	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:27:27	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:27:28	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:27:28	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:27:58	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:27:58	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:27:59	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:27:59	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:28:30	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:28:30	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:28:31	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:28:31	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:29:01	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:29:01	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:29:02	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:29:02	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:29:33	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:29:33	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:29:33	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:29:33	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:30:04	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:30:04	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:30:05	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:30:05	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:30:36	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:30:36	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:30:37	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:30:37	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:31:07	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:31:07	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:31:08	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:31:08	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:31:38	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:31:38	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:31:40	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:31:40	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:32:10	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:32:10	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:32:11	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:32:11	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:32:42	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:32:42	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:32:42	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:32:42	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:33:13	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:33:13	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:33:14	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:33:14	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:33:45	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:33:45	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:33:45	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:33:45	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:34:16	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:34:16	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:34:17	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:34:17	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:34:48	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:34:48	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:34:49	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:34:49	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:35:19	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:35:19	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:35:20	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:35:20	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:35:51	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:35:51	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:35:51	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:35:51	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:36:22	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:36:22	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:36:23	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:36:23	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:36:54	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:36:54	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:36:55	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:36:55	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:37:25	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:37:25	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:37:26	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:37:26	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:37:57	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:37:57	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:37:57	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:37:57	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:38:28	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:38:28	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:38:29	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:38:29	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:39:00	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:39:00	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:39:00	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:39:00	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:39:31	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:39:31	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:39:32	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:39:32	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:40:03	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:40:03	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:40:03	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:40:03	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:40:34	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:40:34	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:40:35	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:40:35	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:41:06	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:41:06	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:41:06	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:41:06	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:41:37	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:41:37	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:41:38	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:41:38	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:42:09	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:42:09	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:42:09	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:42:09	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:42:40	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:42:40	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:42:41	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:42:41	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:43:12	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:43:12	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:43:12	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:43:12	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:43:43	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:43:43	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:43:44	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:43:44	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:44:14	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:44:14	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:44:15	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:44:15	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:44:46	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:44:46	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:44:47	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:44:47	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:45:17	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:45:17	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:45:18	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:45:18	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:45:49	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:45:49	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:45:50	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:45:50	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:46:20	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:46:20	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:46:21	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:46:21	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:46:52	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:46:52	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:46:53	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:46:53	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:47:23	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:47:23	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:47:24	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:47:24	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:47:55	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:47:55	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:47:56	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:47:56	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:48:26	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:48:26	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:48:27	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:48:27	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:48:58	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:48:58	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:48:59	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:48:59	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:49:29	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:49:29	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:49:30	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:49:30	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:50:01	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:50:01	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:50:02	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:50:02	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:50:32	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:50:32	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:50:34	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:50:34	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:51:04	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:51:04	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:51:05	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:51:05	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:51:35	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:51:35	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:51:37	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:51:37	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:52:07	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:52:07	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:52:08	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:52:08	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:52:38	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:52:38	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:52:40	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:52:40	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:53:10	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:53:10	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:53:11	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:53:11	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:53:41	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:53:41	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:53:43	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:53:43	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:54:13	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:54:13	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:54:14	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:54:14	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:54:44	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:54:44	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:54:46	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:54:46	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:55:16	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:55:16	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:55:17	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:55:17	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:55:48	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:55:48	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:55:49	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:55:49	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:56:19	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:56:19	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:56:20	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:56:20	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:56:51	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:56:51	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:56:52	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:56:52	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:57:22	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:57:22	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:57:23	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:57:23	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:57:54	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:57:54	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:57:55	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:57:55	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:58:25	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:58:25	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:58:26	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:58:26	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:58:57	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:58:57	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:58:58	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:58:58	Reader Pruebas zolandia id: 62 desconectado
+14-10-2013 04:59:28	Borrando todos los ROSpecs: 172.22.23.238
+14-10-2013 04:59:28	Reader Pruebas zolandia id: 62 desconectado
+16-10-2013 10:33:45	Borrando todos los ROSpecs: 172.22.23.238
+16-10-2013 10:33:45	Reader Pruebas zolandia id: 62 desconectado
+16-10-2013 10:41:39	Borrando todos los ROSpecs: 172.22.23.238
+16-10-2013 10:41:39	Reader Pruebas zolandia id: 62 desconectado
+16-10-2013 10:42:11	Borrando todos los ROSpecs: 172.22.23.238
+16-10-2013 10:42:11	Reader Pruebas zolandia id: 62 desconectado
+16-10-2013 10:43:41	Borrando todos los ROSpecs: 172.22.23.238
+16-10-2013 10:43:41	Reader Pruebas zolandia id: 62 desconectado
+16-10-2013 10:44:13	Borrando todos los ROSpecs: 172.22.23.238
+16-10-2013 10:44:13	Reader Pruebas zolandia id: 62 desconectado
+16-10-2013 10:44:44	Borrando todos los ROSpecs: 172.22.23.238
+16-10-2013 10:44:44	Reader Pruebas zolandia id: 62 desconectado
+16-10-2013 10:45:15	Borrando todos los ROSpecs: 172.22.23.238
+16-10-2013 10:45:15	Reader Pruebas zolandia id: 62 desconectado
+16-10-2013 10:45:47	Borrando todos los ROSpecs: 172.22.23.238
+16-10-2013 10:45:47	Reader Pruebas zolandia id: 62 desconectado
+16-10-2013 10:46:54	Borrando todos los ROSpecs: 172.22.23.238
+16-10-2013 10:46:54	Reader Pruebas zolandia id: 62 desconectado
+16-10-2013 10:47:25	Borrando todos los ROSpecs: 172.22.23.238
+16-10-2013 10:47:25	Reader Pruebas zolandia id: 62 desconectado
+16-10-2013 10:47:56	Borrando todos los ROSpecs: 172.22.23.238
+16-10-2013 10:47:56	Reader Pruebas zolandia id: 62 desconectado
+16-10-2013 10:48:28	Borrando todos los ROSpecs: 172.22.23.238
+16-10-2013 10:48:28	Reader Pruebas zolandia id: 62 desconectado
+16-10-2013 10:48:59	Borrando todos los ROSpecs: 172.22.23.238
+16-10-2013 10:48:59	Reader Pruebas zolandia id: 62 desconectado
+16-10-2013 10:49:31	Borrando todos los ROSpecs: 172.22.23.238
+16-10-2013 10:49:31	Reader Pruebas zolandia id: 62 desconectado
+16-10-2013 11:00:03	Borrando todos los ROSpecs: 172.22.23.238
+16-10-2013 11:00:03	Reader Pruebas zolandia id: 62 desconectado
+16-10-2013 11:00:34	Borrando todos los ROSpecs: 172.22.23.238
+16-10-2013 11:00:34	Reader Pruebas zolandia id: 62 desconectado
+16-10-2013 11:03:48	Borrando todos los ROSpecs: 172.22.23.238
+16-10-2013 11:03:48	Reader Pruebas zolandia id: 62 desconectado
+16-10-2013 11:04:19	Borrando todos los ROSpecs: 172.22.23.238
+16-10-2013 11:04:19	Reader Pruebas zolandia id: 62 desconectado
+16-10-2013 11:05:21	Borrando todos los ROSpecs: 172.22.23.238
+16-10-2013 11:05:21	Reader Pruebas zolandia id: 62 desconectado
+16-10-2013 11:05:53	Borrando todos los ROSpecs: 172.22.23.238
+16-10-2013 11:05:53	Reader Pruebas zolandia id: 62 desconectado
+16-10-2013 11:06:56	Borrando todos los ROSpecs: 172.22.23.238
+16-10-2013 11:06:56	Reader Pruebas zolandia id: 62 desconectado
+16-10-2013 11:07:27	Borrando todos los ROSpecs: 172.22.23.238
+16-10-2013 11:07:27	Reader Pruebas zolandia id: 62 desconectado
+16-10-2013 11:07:59	Borrando todos los ROSpecs: 172.22.23.238
+16-10-2013 11:07:59	Reader Pruebas zolandia id: 62 desconectado
+21-10-2013 09:20:00	Borrando todos los ROSpecs: 172.22.23.238
+21-10-2013 09:20:00	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 03:39:10	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 03:39:10	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 03:39:42	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 03:39:42	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 03:40:13	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 03:40:13	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 03:41:35	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 03:41:35	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 03:44:33	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 03:44:33	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 03:45:04	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 03:45:04	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 03:46:03	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 03:46:03	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 03:46:34	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 03:46:34	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 03:47:06	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 03:47:06	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 03:48:08	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 03:48:08	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 03:48:40	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 03:48:40	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 03:49:44	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 03:49:44	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 03:50:16	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 03:50:16	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 03:53:51	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 03:53:51	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 03:54:22	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 03:54:22	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 03:54:54	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 03:54:54	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 03:55:25	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 03:55:25	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 03:55:57	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 03:55:57	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 03:56:28	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 03:56:28	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 03:56:59	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 03:56:59	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 03:57:31	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 03:57:31	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 03:58:02	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 03:58:02	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 03:58:34	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 03:58:34	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 03:59:05	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 03:59:05	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 03:59:37	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 03:59:37	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 04:00:08	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 04:00:08	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 04:00:40	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 04:00:40	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 04:01:11	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 04:01:11	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 04:01:43	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 04:01:43	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 04:02:14	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 04:02:14	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 04:02:46	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 04:02:46	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 04:03:17	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 04:03:17	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 04:03:49	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 04:03:49	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 04:04:20	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 04:04:20	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 04:04:52	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 04:04:52	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 04:05:23	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 04:05:23	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 04:05:55	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 04:05:55	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 04:06:26	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 04:06:26	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 04:06:58	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 04:06:58	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 04:07:29	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 04:07:29	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 04:08:01	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 04:08:01	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 04:08:32	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 04:08:32	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 04:09:04	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 04:09:04	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 04:09:35	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 04:09:35	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 04:10:06	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 04:10:06	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 04:10:38	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 04:10:38	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 04:11:10	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 04:11:10	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 04:11:41	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 04:11:41	Reader Pruebas zolandia id: 62 desconectado
+01-11-2013 04:12:13	Borrando todos los ROSpecs: 172.22.23.238
+01-11-2013 04:12:13	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:21:06	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:21:06	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:21:38	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:21:38	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:22:09	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:22:09	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:30:32	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:30:32	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:31:04	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:31:04	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:31:47	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:31:47	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:34:46	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:34:46	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:35:18	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:35:18	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:36:32	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:36:32	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:37:34	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:37:34	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:38:06	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:38:06	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:38:37	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:38:37	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:40:10	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:40:10	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:40:41	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:40:41	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:41:12	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:41:12	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:45:54	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:45:54	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:46:25	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:46:25	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:47:42	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:47:42	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:48:13	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:48:13	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:48:45	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:48:45	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:49:16	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:49:16	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:49:48	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:49:48	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:50:19	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:50:19	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:50:51	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:50:51	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:51:22	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:51:22	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:51:54	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:51:54	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:52:25	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:52:25	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:52:57	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:52:57	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:53:28	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:53:28	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:54:00	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:54:00	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:54:31	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:54:31	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:55:03	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:55:03	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:55:34	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:55:34	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:56:06	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:56:06	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:56:37	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:56:37	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:57:09	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:57:09	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:57:40	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:57:40	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:58:12	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:58:12	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:58:43	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:58:43	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:59:15	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:59:15	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 03:59:46	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 03:59:46	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:00:18	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:00:18	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:00:49	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:00:49	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:01:21	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:01:21	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:01:52	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:01:52	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:02:24	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:02:24	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:02:55	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:02:55	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:03:27	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:03:27	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:03:58	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:03:58	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:04:30	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:04:30	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:05:01	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:05:01	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:05:33	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:05:33	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:06:04	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:06:04	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:06:36	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:06:36	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:07:07	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:07:07	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:07:38	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:07:38	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:08:10	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:08:10	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:08:41	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:08:41	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:09:13	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:09:13	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:09:44	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:09:44	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:10:16	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:10:16	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:10:47	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:10:47	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:11:19	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:11:19	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:11:50	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:11:50	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:13:08	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:13:08	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:13:40	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:13:40	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:14:11	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:14:11	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:14:42	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:14:42	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:15:14	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:15:14	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:15:45	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:15:45	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:16:17	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:16:17	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:16:48	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:16:48	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:17:20	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:17:20	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:17:51	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:17:51	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:18:23	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:18:23	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:18:54	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:18:54	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:19:26	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:19:26	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:19:57	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:19:57	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:20:29	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:20:29	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:21:00	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:21:00	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:21:32	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:21:32	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:22:03	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:22:03	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:22:35	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:22:35	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:23:06	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:23:06	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:23:38	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:23:38	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:24:09	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:24:09	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:24:41	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:24:41	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:25:12	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:25:12	Reader Pruebas zolandia id: 62 desconectado
+04-11-2013 04:25:44	Borrando todos los ROSpecs: 172.22.23.238
+04-11-2013 04:25:44	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:24:18	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:24:18	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:24:49	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:24:49	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:25:21	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:25:21	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:25:52	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:25:52	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:26:24	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:26:24	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:26:55	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:26:55	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:27:27	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:27:27	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:27:58	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:27:58	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:28:30	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:28:30	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:29:01	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:29:01	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:29:33	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:29:33	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:30:04	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:30:04	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:30:36	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:30:36	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:31:07	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:31:07	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:31:39	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:31:39	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:32:10	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:32:10	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:32:42	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:32:42	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:33:13	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:33:13	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:33:44	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:33:44	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:34:16	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:34:16	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:34:47	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:34:47	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:35:19	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:35:19	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:35:50	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:35:50	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:36:22	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:36:22	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:36:53	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:36:53	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:37:25	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:37:25	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:37:56	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:37:56	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:38:28	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:38:28	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:38:59	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:38:59	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:39:31	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:39:31	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:40:02	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:40:02	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:40:34	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:40:34	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:41:05	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:41:05	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:41:37	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:41:37	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:42:08	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:42:08	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:42:40	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:42:40	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:43:11	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:43:11	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:43:43	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:43:43	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:44:14	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:44:14	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:44:46	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:44:46	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:45:17	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:45:17	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:45:48	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:45:48	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:46:20	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:46:20	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:46:51	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:46:51	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:47:23	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:47:23	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:47:54	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:47:54	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:48:26	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:48:26	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:48:57	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:48:57	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:49:29	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:49:29	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:50:00	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:50:00	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:50:32	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:50:32	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:51:03	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:51:03	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:51:35	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:51:35	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:52:06	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:52:06	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:52:38	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:52:38	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:53:09	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:53:09	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:53:41	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:53:41	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:54:12	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:54:12	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:54:44	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:54:44	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:55:15	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:55:15	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:55:47	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:55:47	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:56:18	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:56:18	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:56:50	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:56:50	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:57:21	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:57:21	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:57:53	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:57:53	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:58:24	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:58:24	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:58:56	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:58:56	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:59:27	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:59:27	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 09:59:59	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 09:59:59	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 10:00:30	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 10:00:30	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 10:01:02	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 10:01:02	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 10:01:33	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 10:01:33	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 10:02:05	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 10:02:05	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 10:02:36	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 10:02:36	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 10:03:08	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 10:03:08	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 10:03:39	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 10:03:39	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 10:04:11	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 10:04:11	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 10:04:42	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 10:04:42	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 10:05:14	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 10:05:14	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 10:05:45	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 10:05:45	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 10:06:17	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 10:06:17	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 10:06:48	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 10:06:48	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 10:07:20	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 10:07:20	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 10:07:51	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 10:07:51	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 10:08:23	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 10:08:23	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 10:08:54	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 10:08:54	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 10:09:26	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 10:09:26	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 10:09:57	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 10:09:57	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 10:10:29	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 10:10:29	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 10:11:00	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 10:11:00	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 10:11:32	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 10:11:32	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 10:12:03	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 10:12:03	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 10:12:35	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 10:12:35	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 10:13:06	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 10:13:06	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 10:13:38	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 10:13:38	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 10:14:09	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 10:14:09	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 10:14:40	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 10:14:40	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 10:15:12	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 10:15:12	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 10:15:43	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 10:15:43	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 10:16:15	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 10:16:15	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 10:16:46	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 10:16:46	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 10:17:18	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 10:17:18	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 10:17:49	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 10:17:49	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 10:18:21	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 10:18:21	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 01:48:14	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 01:48:14	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 01:48:45	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 01:48:45	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 01:49:17	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 01:49:17	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 01:49:49	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 01:49:49	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 01:50:20	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 01:50:20	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 01:50:52	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 01:50:52	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 01:51:23	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 01:51:23	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 01:51:55	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 01:51:55	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 01:52:26	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 01:52:26	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 01:52:58	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 01:52:58	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 01:53:29	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 01:53:29	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 01:54:01	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 01:54:01	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 01:54:32	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 01:54:32	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 01:55:04	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 01:55:04	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 01:56:28	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 01:56:28	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 01:56:59	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 01:56:59	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 01:57:31	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 01:57:31	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 01:58:03	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 01:58:03	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 02:02:08	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 02:02:08	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 02:02:40	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 02:02:40	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 02:03:11	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 02:03:11	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 02:03:43	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 02:03:43	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 02:04:14	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 02:04:14	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 02:06:22	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 02:06:22	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 02:06:53	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 02:06:53	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 02:07:25	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 02:07:25	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 02:07:56	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 02:07:56	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 02:08:28	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 02:08:28	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 02:09:38	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 02:09:38	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 02:10:09	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 02:10:09	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 02:10:41	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 02:10:41	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 02:11:12	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 02:11:12	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 02:11:44	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 02:11:44	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 02:13:56	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 02:13:56	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 02:16:28	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 02:16:28	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 02:16:59	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 02:16:59	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 02:17:31	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 02:17:31	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 02:20:11	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 02:20:11	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 02:20:43	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 02:20:43	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 02:21:14	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 02:21:14	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 02:21:46	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 02:21:46	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 02:22:17	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 02:22:17	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 02:22:49	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 02:22:49	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 02:23:20	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 02:23:20	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 02:23:52	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 02:23:52	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 02:24:23	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 02:24:23	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 02:24:55	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 02:24:55	Reader Pruebas zolandia id: 62 desconectado
+05-11-2013 02:25:26	Borrando todos los ROSpecs: 172.22.23.238
+05-11-2013 02:25:26	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 01:51:00	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 01:51:00	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 01:51:32	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 01:51:32	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 01:52:03	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 01:52:03	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 01:52:35	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 01:52:35	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 03:34:11	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 03:34:11	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 03:34:42	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 03:34:42	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 03:35:14	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 03:35:14	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 03:35:45	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 03:35:45	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 03:36:17	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 03:36:17	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 03:36:48	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 03:36:48	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 03:37:20	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 03:37:20	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 03:37:51	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 03:37:51	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 03:38:23	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 03:38:23	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 03:38:54	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 03:38:54	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 03:39:26	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 03:39:26	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 03:39:57	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 03:39:57	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 03:40:29	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 03:40:29	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 03:41:00	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 03:41:00	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 03:41:32	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 03:41:32	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 03:42:03	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 03:42:03	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 03:42:34	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 03:42:34	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 03:43:06	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 03:43:06	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 03:43:37	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 03:43:37	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 03:44:09	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 03:44:09	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 03:44:40	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 03:44:40	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 03:45:12	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 03:45:12	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 03:45:43	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 03:45:43	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 03:46:15	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 03:46:15	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 03:46:46	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 03:46:46	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:09:58	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:09:58	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:11:08	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:11:08	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:15:35	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:15:35	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:16:06	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:16:06	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:16:38	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:16:38	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:17:09	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:17:09	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:17:57	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:17:57	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:18:27	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:18:27	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:18:58	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:18:58	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:27:05	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:27:05	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:27:37	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:27:37	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:28:08	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:28:08	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:28:40	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:28:40	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:29:11	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:29:11	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:29:43	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:29:43	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:30:14	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:30:14	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:30:46	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:30:46	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:31:17	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:31:17	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:31:49	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:31:49	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:32:20	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:32:20	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:32:52	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:32:52	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:33:23	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:33:23	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:33:55	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:33:55	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:34:26	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:34:26	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:34:58	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:34:58	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:35:29	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:35:29	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:36:01	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:36:01	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:38:49	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:38:49	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:39:21	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:39:21	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:39:52	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:39:52	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:40:24	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:40:24	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:40:55	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:40:55	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:41:27	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:41:27	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:41:58	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:41:58	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:42:30	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:42:30	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:43:01	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:43:01	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:43:33	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:43:33	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:44:04	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:44:04	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:44:35	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:44:35	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:45:07	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:45:07	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:45:38	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:45:38	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:46:10	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:46:10	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:46:41	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:46:41	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:47:13	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:47:13	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:47:44	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:47:44	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:48:16	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:48:16	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:48:47	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:48:47	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:49:19	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:49:19	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:49:50	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:49:50	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:50:22	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:50:22	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:50:53	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:50:53	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:51:25	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:51:25	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:51:56	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:51:56	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:52:28	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:52:28	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:52:59	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:52:59	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:53:31	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:53:31	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:54:02	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:54:02	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:54:34	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:54:34	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:55:05	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:55:05	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:55:37	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:55:37	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:56:08	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:56:08	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:56:40	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:56:40	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:57:11	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:57:11	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:57:42	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:57:42	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:58:14	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:58:14	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:58:45	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:58:45	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:59:17	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:59:17	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 04:59:48	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 04:59:48	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:00:20	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:00:20	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:00:51	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:00:51	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:01:23	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:01:23	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:01:54	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:01:54	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:02:26	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:02:26	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:02:57	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:02:57	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:03:29	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:03:29	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:04:00	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:04:00	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:04:32	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:04:32	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:05:03	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:05:03	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:05:35	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:05:35	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:06:06	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:06:06	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:06:37	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:06:37	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:07:09	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:07:09	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:07:40	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:07:40	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:08:12	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:08:12	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:08:43	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:08:43	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:09:15	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:09:15	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:09:46	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:09:46	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:10:18	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:10:18	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:10:49	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:10:49	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:11:21	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:11:21	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:11:52	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:11:52	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:12:24	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:12:24	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:12:55	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:12:55	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:13:27	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:13:27	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:13:58	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:13:58	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:14:30	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:14:30	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:15:01	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:15:01	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:15:32	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:15:32	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:16:04	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:16:04	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:16:35	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:16:35	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:17:07	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:17:07	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:17:38	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:17:38	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:18:10	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:18:10	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:18:41	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:18:41	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:19:13	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:19:13	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:19:44	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:19:44	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:20:16	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:20:16	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:20:47	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:20:47	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:21:19	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:21:19	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:21:50	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:21:50	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:22:22	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:22:22	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:22:53	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:22:53	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:23:25	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:23:25	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:23:56	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:23:56	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:24:28	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:24:28	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:24:59	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:24:59	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:25:31	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:25:31	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:26:02	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:26:02	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:26:34	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:26:34	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:27:05	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:27:05	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:27:37	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:27:37	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:28:08	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:28:08	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:28:40	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:28:40	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:29:11	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:29:11	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:29:43	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:29:43	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:30:14	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:30:14	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:30:46	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:30:46	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:31:17	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:31:17	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:31:48	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:31:48	Reader Pruebas zolandia id: 62 desconectado
+06-11-2013 05:32:43	Borrando todos los ROSpecs: 172.22.23.238
+06-11-2013 05:32:43	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:08:59	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:08:59	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:09:31	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:09:31	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:23:11	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:23:11	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:23:42	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:23:42	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:24:13	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:24:13	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:24:45	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:24:45	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:25:17	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:25:17	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:25:48	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:25:48	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:26:20	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:26:20	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:26:51	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:26:51	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:27:23	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:27:23	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:27:54	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:27:54	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:28:26	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:28:26	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:28:57	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:28:57	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:29:29	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:29:29	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:30:00	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:30:00	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:30:32	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:30:32	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:31:03	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:31:03	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:31:35	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:31:35	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:35:28	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:35:28	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:36:00	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:36:00	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:36:31	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:36:31	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:37:03	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:37:03	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:37:35	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:37:35	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:38:06	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:38:06	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:38:38	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:38:38	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:39:09	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:39:09	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:39:41	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:39:41	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:40:12	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:40:12	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:40:43	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:40:43	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:41:15	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:41:15	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:41:46	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:41:46	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:42:18	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:42:18	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:42:49	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:42:49	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:43:21	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:43:21	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:43:52	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:43:52	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:44:24	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:44:24	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:44:55	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:44:55	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:45:27	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:45:27	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:45:58	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:45:58	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:46:30	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:46:30	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:47:01	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:47:01	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:47:33	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:47:33	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:48:04	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:48:04	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:48:36	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:48:36	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:49:07	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:49:07	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:49:39	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:49:39	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:50:10	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:50:10	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:50:42	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:50:42	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:51:13	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:51:13	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:51:45	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:51:45	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:52:16	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:52:16	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:52:48	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:52:48	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:53:19	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:53:19	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:53:50	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:53:50	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:54:22	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:54:22	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:54:53	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:54:53	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:55:25	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:55:25	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:55:57	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:55:57	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:56:28	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:56:28	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:56:59	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:57:00	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:57:31	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:57:31	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:58:02	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:58:02	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:58:34	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:58:34	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:59:05	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:59:05	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 10:59:37	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 10:59:37	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:00:08	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:00:08	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:00:40	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:00:40	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:01:11	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:01:11	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:01:43	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:01:43	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:02:14	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:02:14	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:02:46	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:02:46	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:03:17	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:03:17	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:03:49	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:03:49	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:04:20	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:04:20	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:04:52	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:04:52	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:05:23	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:05:23	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:05:54	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:05:54	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:06:26	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:06:26	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:06:57	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:06:57	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:07:29	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:07:29	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:08:00	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:08:00	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:08:32	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:08:32	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:09:03	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:09:03	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:09:35	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:09:35	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:10:06	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:10:06	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:10:38	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:10:38	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:11:09	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:11:09	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:11:41	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:11:41	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:12:12	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:12:12	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:12:44	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:12:44	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:13:15	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:13:15	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:13:47	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:13:47	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:14:18	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:14:18	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:14:50	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:14:50	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:15:21	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:15:21	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:15:52	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:15:52	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:16:24	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:16:24	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:16:55	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:16:55	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:17:27	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:17:27	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:17:58	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:17:58	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:18:30	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:18:30	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:19:01	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:19:01	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:19:33	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:19:33	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:20:04	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:20:04	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:20:36	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:20:36	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:21:07	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:21:07	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:21:39	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:21:39	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:22:10	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:22:10	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:22:42	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:22:42	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:23:13	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:23:13	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:23:45	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:23:45	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:24:16	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:24:16	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:24:48	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:24:48	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:25:19	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:25:19	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:25:51	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:25:51	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:26:22	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:26:22	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:26:54	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:26:54	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:27:25	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:27:25	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:27:57	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:27:57	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:28:28	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:28:28	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:29:00	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:29:00	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:29:31	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:29:31	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:30:03	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:30:03	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:30:34	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:30:34	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:31:06	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:31:06	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:31:37	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:31:37	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:32:09	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:32:09	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:32:40	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:32:40	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:33:12	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:33:12	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:33:43	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:33:43	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:34:15	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:34:15	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:34:46	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:34:46	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:35:18	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:35:18	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:35:49	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:35:49	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:36:21	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:36:21	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:36:52	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:36:52	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:37:24	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:37:24	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:37:55	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:37:55	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:38:27	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:38:27	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:38:58	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:38:58	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:39:29	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:39:29	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:40:01	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:40:01	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:40:32	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:40:32	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:41:04	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:41:04	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:41:35	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:41:35	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:42:07	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:42:07	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:42:38	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:42:38	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:43:10	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:43:10	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:43:41	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:43:41	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:44:13	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:44:13	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:44:44	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:44:44	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:45:16	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:45:16	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:45:47	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:45:47	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:46:19	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:46:19	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:46:50	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:46:50	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:47:22	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:47:22	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:47:53	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:47:53	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:48:25	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:48:25	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:48:56	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:48:56	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:49:27	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:49:27	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:49:59	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:49:59	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:50:30	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:50:30	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:51:02	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:51:02	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:51:33	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:51:33	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:52:05	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:52:05	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:52:36	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:52:36	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:53:08	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:53:08	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:53:39	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:53:39	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:54:11	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:54:11	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:54:42	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:54:42	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:55:14	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:55:14	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:55:45	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:55:45	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:56:17	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:56:17	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:56:48	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:56:48	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:57:20	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:57:20	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:57:51	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:57:51	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:58:23	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:58:23	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:58:54	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:58:54	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:59:26	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:59:26	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 11:59:57	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 11:59:57	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:00:29	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:00:29	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:01:00	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:01:00	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:01:32	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:01:32	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:02:03	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:02:03	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:02:34	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:02:34	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:03:06	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:03:06	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:03:37	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:03:37	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:04:09	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:04:09	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:04:40	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:04:40	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:05:12	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:05:12	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:05:43	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:05:43	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:06:15	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:06:15	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:06:46	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:06:46	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:07:18	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:07:18	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:07:49	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:07:49	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:08:21	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:08:21	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:08:52	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:08:52	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:09:24	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:09:24	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:09:55	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:09:55	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:10:27	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:10:27	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:10:58	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:10:58	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:11:30	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:11:30	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:12:01	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:12:01	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:12:32	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:12:32	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:13:04	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:13:04	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:13:35	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:13:35	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:14:07	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:14:07	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:14:38	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:14:38	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:15:10	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:15:10	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:15:41	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:15:41	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:16:13	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:16:13	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:16:44	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:16:44	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:17:16	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:17:16	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:17:47	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:17:47	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:18:18	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:18:18	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:18:50	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:18:50	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:19:21	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:19:21	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:19:53	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:19:53	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:20:24	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:20:24	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:20:56	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:20:56	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:21:27	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:21:27	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:21:59	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:21:59	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:22:30	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:22:30	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:23:02	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:23:02	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:23:33	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:23:33	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:24:05	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:24:05	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:24:36	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:24:36	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:25:07	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:25:07	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:25:39	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:25:39	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:26:10	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:26:10	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:26:42	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:26:42	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:27:13	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:27:13	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:27:45	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:27:45	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:28:16	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:28:16	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:28:48	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:28:48	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:29:19	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:29:19	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:29:51	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:29:51	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:30:22	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:30:22	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:30:54	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:30:54	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:31:25	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:31:25	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:31:57	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:31:57	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:32:28	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:32:28	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:33:00	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:33:00	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:33:31	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:33:31	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:34:02	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:34:02	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:34:34	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:34:34	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:35:05	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:35:05	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:35:37	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:35:37	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:36:08	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:36:08	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:36:40	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:36:40	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:37:11	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:37:11	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:37:43	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:37:43	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:38:14	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:38:14	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:38:46	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:38:46	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:39:17	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:39:17	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:39:49	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:39:49	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:40:20	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:40:20	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:40:52	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:40:52	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:41:23	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:41:23	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:41:55	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:41:55	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:42:26	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:42:26	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:42:58	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:42:58	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:43:29	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:43:29	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:44:01	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:44:01	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:44:32	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:44:32	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:45:04	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:45:04	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:45:35	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:45:35	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:46:06	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:46:06	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:46:38	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:46:38	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:47:09	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:47:09	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:47:41	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:47:41	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:48:12	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:48:12	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:48:44	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:48:44	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:49:16	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:49:16	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:49:47	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:49:47	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:50:19	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:50:19	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:50:50	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:50:50	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:51:22	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:51:22	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:51:53	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:51:53	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:52:24	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:52:24	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:52:56	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:52:56	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:53:27	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:53:27	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:53:59	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:53:59	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:54:30	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:54:30	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:55:02	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:55:02	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:55:33	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:55:33	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:56:05	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:56:05	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:56:36	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:56:36	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:57:08	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:57:08	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:57:39	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:57:39	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:58:10	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:58:10	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:58:42	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:58:42	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:59:13	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:59:13	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 12:59:45	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 12:59:45	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:00:16	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:00:16	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:00:48	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:00:48	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:01:19	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:01:19	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:01:51	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:01:51	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:02:22	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:02:22	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:02:54	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:02:54	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:03:25	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:03:25	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:03:57	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:03:57	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:04:28	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:04:28	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:05:00	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:05:00	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:05:31	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:05:31	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:06:02	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:06:02	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:06:34	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:06:34	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:07:05	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:07:05	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:07:37	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:07:37	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:08:08	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:08:08	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:08:40	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:08:40	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:09:11	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:09:11	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:09:43	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:09:43	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:10:14	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:10:14	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:10:46	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:10:46	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:11:17	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:11:17	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:11:49	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:11:49	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:12:20	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:12:20	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:12:52	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:12:52	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:13:23	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:13:23	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:13:54	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:13:54	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:14:26	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:14:26	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:14:58	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:14:58	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:15:29	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:15:29	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:16:01	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:16:01	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:16:32	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:16:32	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:17:04	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:17:04	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:17:35	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:17:35	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:18:06	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:18:06	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:18:38	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:18:38	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:19:09	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:19:09	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:19:41	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:19:41	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:20:12	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:20:12	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:20:44	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:20:44	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:21:15	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:21:15	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:21:47	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:21:47	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:22:18	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:22:18	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:22:50	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:22:50	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:23:21	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:23:21	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:23:53	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:23:53	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:24:24	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:24:24	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:24:56	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:24:56	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:25:27	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:25:27	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:25:59	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:25:59	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:26:30	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:26:30	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:27:02	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:27:02	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:27:33	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:27:33	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:28:04	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:28:04	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:28:36	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:28:36	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:29:07	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:29:07	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:29:39	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:29:39	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:30:10	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:30:10	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:30:42	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:30:42	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:31:13	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:31:13	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:31:45	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:31:45	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:32:16	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:32:16	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:32:48	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:32:48	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:33:19	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:33:19	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:33:51	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:33:51	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:34:22	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:34:22	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:34:54	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:34:54	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:35:25	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:35:25	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:35:57	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:35:57	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:36:28	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:36:28	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:36:59	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:36:59	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:37:31	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:37:31	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:38:03	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:38:03	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:38:34	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:38:34	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:39:06	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:39:06	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:39:37	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:39:37	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:40:08	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:40:08	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:40:40	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:40:40	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:41:11	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:41:11	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:41:43	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:41:43	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:42:14	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:42:14	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:42:46	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:42:46	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:43:17	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:43:17	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:43:49	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:43:49	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:44:20	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:44:20	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:44:52	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:44:52	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:45:23	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:45:23	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:45:55	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:45:55	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:46:26	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:46:26	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:46:58	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:46:58	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:47:29	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:47:29	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:48:01	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:48:01	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:48:32	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:48:32	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:49:03	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:49:03	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:49:35	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:49:35	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:50:06	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:50:06	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:50:38	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:50:38	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:51:09	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:51:09	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:51:41	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:51:41	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:52:12	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:52:12	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:52:44	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:52:44	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:53:15	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:53:15	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:53:47	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:53:47	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:54:18	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:54:18	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:54:50	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:54:50	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:55:21	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:55:21	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:55:52	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:55:52	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:56:24	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:56:24	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:56:56	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:56:56	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:57:27	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:57:27	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:57:58	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:57:58	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:58:30	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:58:30	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:59:01	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:59:01	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 01:59:33	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 01:59:33	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:00:04	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:00:04	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:00:36	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:00:36	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:01:07	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:01:07	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:01:39	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:01:39	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:02:10	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:02:10	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:02:42	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:02:42	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:03:13	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:03:13	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:03:45	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:03:45	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:04:16	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:04:16	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:04:48	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:04:48	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:05:19	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:05:19	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:05:50	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:05:50	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:06:22	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:06:22	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:06:53	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:06:53	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:07:25	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:07:25	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:07:56	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:07:56	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:08:28	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:08:28	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:08:59	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:08:59	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:09:31	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:09:31	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:10:02	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:10:02	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:10:34	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:10:34	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:11:05	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:11:05	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:11:36	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:11:36	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:12:08	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:12:08	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:12:40	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:12:40	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:13:11	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:13:11	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:13:43	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:13:43	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:14:14	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:14:14	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:14:45	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:14:45	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:15:17	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:15:17	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:15:48	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:15:48	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:16:20	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:16:20	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:16:51	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:16:51	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:17:23	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:17:23	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:17:54	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:17:54	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:18:26	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:18:26	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:18:57	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:18:57	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:19:29	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:19:29	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:20:00	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:20:00	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:20:32	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:20:32	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:21:03	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:21:03	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:21:34	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:21:34	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:22:06	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:22:06	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:22:37	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:22:37	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:23:09	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:23:09	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:23:40	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:23:40	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:24:12	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:24:12	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:24:44	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:24:44	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:25:15	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:25:15	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:25:47	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:25:47	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:26:18	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:26:18	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:26:49	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:26:49	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:27:21	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:27:21	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:27:52	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:27:52	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:28:24	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:28:24	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:28:56	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:28:56	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:29:27	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:29:27	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:29:58	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:29:58	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:30:30	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:30:30	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:31:02	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:31:02	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:31:33	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:31:33	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:32:05	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:32:05	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:32:36	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:32:36	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:33:07	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:33:07	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:33:39	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:33:39	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:34:11	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:34:11	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:34:42	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:34:42	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:35:14	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:35:14	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:35:45	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:35:45	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:36:16	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:36:16	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:36:48	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:36:48	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:37:19	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:37:19	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:37:51	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:37:51	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:38:22	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:38:22	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:38:54	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:38:54	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:39:26	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:39:26	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:39:57	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:39:57	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:40:29	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:40:29	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:41:00	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:41:00	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:41:32	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:41:32	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:42:03	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:42:03	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:42:35	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:42:35	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:43:06	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:43:06	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:43:38	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:43:38	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:44:09	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:44:09	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:44:41	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:44:41	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:45:12	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:45:12	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:45:43	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:45:43	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:46:15	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:46:15	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:46:47	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:46:47	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:47:18	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:47:18	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:47:50	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:47:50	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:48:21	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:48:21	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:48:53	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:48:53	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:49:24	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:49:24	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:49:55	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:49:55	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:50:27	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:50:27	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:50:59	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:50:59	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:51:30	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:51:30	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:52:02	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:52:02	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:52:33	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:52:33	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:53:04	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:53:04	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:53:36	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:53:36	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:54:07	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:54:07	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:54:39	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:54:39	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:55:10	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:55:10	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:55:42	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:55:42	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:56:14	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:56:14	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:56:45	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:56:45	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:57:17	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:57:17	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:57:48	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:57:48	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:58:20	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:58:20	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:58:51	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:58:51	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:59:22	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:59:22	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 02:59:54	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 02:59:54	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:00:25	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:00:25	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:00:57	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:00:57	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:01:28	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:01:28	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:02:00	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:02:00	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:02:31	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:02:31	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:03:03	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:03:03	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:03:35	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:03:35	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:04:06	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:04:06	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:04:37	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:04:37	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:05:09	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:05:09	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:05:40	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:05:40	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:06:12	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:06:12	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:06:44	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:06:44	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:07:15	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:07:15	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:07:47	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:07:47	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:08:18	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:08:18	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:08:50	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:08:50	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:09:21	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:09:21	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:09:53	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:09:53	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:10:24	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:10:24	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:10:56	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:10:56	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:11:27	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:11:27	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:11:58	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:11:58	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:12:30	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:12:30	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:13:02	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:13:02	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:13:33	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:13:33	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:14:04	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:14:04	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:14:36	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:14:36	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:15:07	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:15:07	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:15:39	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:15:39	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:16:10	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:16:10	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:16:42	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:16:42	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:17:13	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:17:13	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:17:45	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:17:45	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:18:16	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:18:16	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:18:48	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:18:48	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:19:19	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:19:19	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:19:51	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:19:51	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:20:22	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:20:22	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:20:54	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:20:54	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:21:25	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:21:25	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:21:57	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:21:57	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:22:28	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:22:28	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:23:00	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:23:00	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:23:31	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:23:31	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:24:03	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:24:03	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:24:34	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:24:34	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:25:05	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:25:05	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:25:37	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:25:37	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:26:08	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:26:08	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:26:40	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:26:40	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:27:11	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:27:11	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:27:43	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:27:43	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:28:14	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:28:14	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:28:46	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:28:46	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:29:17	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:29:17	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:29:49	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:29:49	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:30:20	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:30:20	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:30:52	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:30:52	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:31:23	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:31:23	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:31:55	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:31:55	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:32:26	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:32:26	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:32:58	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:32:58	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:33:29	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:33:29	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:34:00	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:34:00	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:34:32	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:34:32	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:35:04	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:35:04	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:35:35	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:35:35	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:36:07	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:36:07	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:36:38	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:36:38	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:37:10	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:37:10	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:37:41	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:37:41	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:38:13	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:38:13	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:38:44	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:38:44	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:39:16	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:39:16	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:39:47	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:39:47	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:40:19	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:40:19	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:40:50	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:40:50	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:41:22	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:41:22	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:41:53	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:41:53	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:42:25	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:42:25	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:42:56	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:42:56	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 03:43:28	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 03:43:28	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 05:27:06	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 05:27:06	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 05:27:38	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 05:27:38	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 05:28:09	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 05:28:09	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 05:28:41	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 05:28:41	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 05:29:13	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 05:29:13	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 05:29:44	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 05:29:44	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 05:30:15	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 05:30:15	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 05:30:47	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 05:30:47	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 05:31:18	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 05:31:18	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 05:31:50	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 05:31:50	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 05:32:21	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 05:32:21	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 05:32:53	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 05:32:53	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 05:33:24	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 05:33:24	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 05:33:56	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 05:33:56	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 05:34:27	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 05:34:27	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 05:34:59	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 05:34:59	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 05:35:30	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 05:35:30	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 05:36:02	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 05:36:02	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 05:36:33	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 05:36:33	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 05:37:05	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 05:37:05	Reader Pruebas zolandia id: 62 desconectado
+07-11-2013 05:37:36	Borrando todos los ROSpecs: 172.22.23.238
+07-11-2013 05:37:36	Reader Pruebas zolandia id: 62 desconectado
+14-01-2014 11:48:57	Borrando todos los ROSpecs: 172.22.23.238
+14-01-2014 11:48:57	Reader Pruebas zolandia id: 62 desconectado
+14-01-2014 11:49:29	Borrando todos los ROSpecs: 172.22.23.238
+14-01-2014 11:49:29	Reader Pruebas zolandia id: 62 desconectado
+14-01-2014 11:50:00	Borrando todos los ROSpecs: 172.22.23.238
+14-01-2014 11:50:00	Reader Pruebas zolandia id: 62 desconectado

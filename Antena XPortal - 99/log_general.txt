@@ -1,0 +1,50 @@
+09-07-2014 10:37:35	Borrando todos los ROSpecs: 172.22.23.227
+09-07-2014 10:37:35	ROSpec creado exitosamente: 172.22.23.227
+09-07-2014 10:37:35	Añadiendo el ROSpec: 172.22.23.227
+09-07-2014 10:37:35	Habilitando el ROSpec: 172.22.23.227
+09-07-2014 10:37:35	Iniciando el ROSpec: 172.22.23.227
+09-07-2014 10:37:35	Reader Antena XPortal id: 99 conectado
+15-07-2014 09:49:52	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 09:49:52	Reader Antena XPortal id: 99 desconectado
+15-07-2014 09:51:07	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 09:51:07	Reader Antena XPortal id: 99 desconectado
+15-07-2014 09:53:06	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 09:53:06	Reader Antena XPortal id: 99 desconectado
+15-07-2014 09:53:37	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 09:53:37	Reader Antena XPortal id: 99 desconectado
+15-07-2014 09:54:09	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 09:54:09	Reader Antena XPortal id: 99 desconectado
+15-07-2014 09:54:40	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 09:54:40	Reader Antena XPortal id: 99 desconectado
+15-07-2014 09:55:12	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 09:55:12	Reader Antena XPortal id: 99 desconectado
+15-07-2014 09:55:43	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 09:55:43	Reader Antena XPortal id: 99 desconectado
+15-07-2014 09:56:15	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 09:56:15	Reader Antena XPortal id: 99 desconectado
+15-07-2014 09:56:46	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 09:56:46	Reader Antena XPortal id: 99 desconectado
+15-07-2014 09:57:18	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 09:57:18	Reader Antena XPortal id: 99 desconectado
+15-07-2014 09:57:49	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 09:57:49	Reader Antena XPortal id: 99 desconectado
+15-07-2014 09:58:21	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 09:58:21	Reader Antena XPortal id: 99 desconectado
+15-07-2014 09:58:52	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 09:58:52	Reader Antena XPortal id: 99 desconectado
+15-07-2014 09:59:24	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 09:59:24	Reader Antena XPortal id: 99 desconectado
+15-07-2014 10:01:02	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 10:01:02	Reader Antena XPortal id: 99 desconectado
+15-07-2014 10:44:27	Iniciando configuracion del Reader: 172.22.23.227
+15-07-2014 10:44:27	Reader configurado exitosamente: 172.22.23.227
+15-07-2014 10:44:27	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 10:44:27	ROSpecs borrados exitosamente: 172.22.23.227
+15-07-2014 10:44:27	ROSpec creado exitosamente: 172.22.23.227
+15-07-2014 10:44:27	Añadiendo el ROSpec: 172.22.23.227
+15-07-2014 10:44:28	Borrando todos los ROSpecs: 172.22.23.227
+15-07-2014 10:44:28	ROSpecs borrados exitosamente: 172.22.23.227
+15-07-2014 10:44:28	Reader Antena XPortal id: 99 desconectado
+15-07-2014 10:44:28	Habilitando el ROSpec: 172.22.23.227
+15-07-2014 10:44:28	Iniciando el ROSpec: 172.22.23.227
+15-07-2014 10:44:29	Reader Antena XPortal id: 99 conectado

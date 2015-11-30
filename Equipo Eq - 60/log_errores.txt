@@ -1,0 +1,9 @@
+04-11-2013 03:40:53	No se pudo realizar la conexión con el reader 60 en 142.31.1.1, failed to connect
+04-11-2013 03:40:54	Se ha producido un error (ltkjava): session is not yet established
+04-11-2013 03:41:05	No se pudo realizar la conexión con el reader 60 en 142.31.1.1, failed to connect
+04-11-2013 03:41:05	Se ha producido un error (ltkjava): session is not yet established
+04-11-2013 03:41:13	Se ha producido un error (ltkjava): session is not yet established
+04-11-2013 03:41:16	No se pudo realizar la conexión con el reader 60 en 142.31.1.1, failed to connect
+04-11-2013 03:41:17	Se ha producido un error (ltkjava): session is not yet established
+04-11-2013 03:41:28	No se pudo realizar la conexión con el reader 60 en 142.31.1.1, failed to connect
+04-11-2013 03:41:28	Se ha producido un error (ltkjava): session is not yet established

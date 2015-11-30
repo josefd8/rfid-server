@@ -1,0 +1,10 @@
+04-11-2013 03:40:54	Borrando todos los ROSpecs: 142.31.1.1
+04-11-2013 03:40:54	Reader Equipo Eq id: 60 desconectado
+04-11-2013 03:41:05	Borrando todos los ROSpecs: 142.31.1.1
+04-11-2013 03:41:05	Reader Equipo Eq id: 60 desconectado
+04-11-2013 03:41:13	Borrando todos los ROSpecs: 142.31.1.1
+04-11-2013 03:41:13	Reader Equipo Eq id: 60 desconectado
+04-11-2013 03:41:17	Borrando todos los ROSpecs: 142.31.1.1
+04-11-2013 03:41:17	Reader Equipo Eq id: 60 desconectado
+04-11-2013 03:41:28	Borrando todos los ROSpecs: 142.31.1.1
+04-11-2013 03:41:28	Reader Equipo Eq id: 60 desconectado

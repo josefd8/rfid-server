@@ -1,0 +1,1102 @@
+01-11-2013 03:50:07	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="993175559">
+  <llrp:TagReportData>
+    <llrp:EPC_96>
+      <llrp:EPC>2667000000100000000df2</llrp:EPC>
+    </llrp:EPC_96>
+    <llrp:ROSpecID>
+      <llrp:ROSpecID>123</llrp:ROSpecID>
+    </llrp:ROSpecID>
+    <llrp:SpecIndex>
+      <llrp:SpecIndex>1</llrp:SpecIndex>
+    </llrp:SpecIndex>
+    <llrp:InventoryParameterSpecID>
+      <llrp:InventoryParameterSpecID>1</llrp:InventoryParameterSpecID>
+    </llrp:InventoryParameterSpecID>
+    <llrp:AntennaID>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaID>
+    <llrp:PeakRSSI>
+      <llrp:PeakRSSI>-71</llrp:PeakRSSI>
+    </llrp:PeakRSSI>
+    <llrp:ChannelIndex>
+      <llrp:ChannelIndex>9</llrp:ChannelIndex>
+    </llrp:ChannelIndex>
+    <llrp:FirstSeenTimestampUTC>
+      <llrp:Microseconds>2013-11-01T15:49:21.733448-04:30</llrp:Microseconds>
+    </llrp:FirstSeenTimestampUTC>
+    <llrp:LastSeenTimestampUTC>
+      <llrp:Microseconds>2013-11-01T15:49:21.733448-04:30</llrp:Microseconds>
+    </llrp:LastSeenTimestampUTC>
+    <llrp:TagSeenCount>
+      <llrp:TagCount>1</llrp:TagCount>
+    </llrp:TagSeenCount>
+    <llrp:C1G2_PC>
+      <llrp:PC_Bits>12288</llrp:PC_Bits>
+    </llrp:C1G2_PC>
+    <llrp:C1G2_CRC>
+      <llrp:CRC>41547</llrp:CRC>
+    </llrp:C1G2_CRC>
+    <llrp:AccessSpecID>
+      <llrp:AccessSpecID>444</llrp:AccessSpecID>
+    </llrp:AccessSpecID>
+    <llrp:C1G2ReadOpSpecResult>
+      <llrp:Result>Success</llrp:Result>
+      <llrp:OpSpecID>1212</llrp:OpSpecID>
+      <llrp:ReadData>a24b 3000 0026 6700 0000 1000</llrp:ReadData>
+    </llrp:C1G2ReadOpSpecResult>
+  </llrp:TagReportData>
+</llrp:RO_ACCESS_REPORT>
+
+
+01-11-2013 03:53:03	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="993175567" />
+
+
+01-11-2013 03:53:07	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="993175568">
+  <llrp:TagReportData>
+    <llrp:EPCData>
+      <llrp:EPC>f002</llrp:EPC>
+    </llrp:EPCData>
+    <llrp:ROSpecID>
+      <llrp:ROSpecID>123</llrp:ROSpecID>
+    </llrp:ROSpecID>
+    <llrp:SpecIndex>
+      <llrp:SpecIndex>1</llrp:SpecIndex>
+    </llrp:SpecIndex>
+    <llrp:InventoryParameterSpecID>
+      <llrp:InventoryParameterSpecID>1</llrp:InventoryParameterSpecID>
+    </llrp:InventoryParameterSpecID>
+    <llrp:AntennaID>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaID>
+    <llrp:PeakRSSI>
+      <llrp:PeakRSSI>-52</llrp:PeakRSSI>
+    </llrp:PeakRSSI>
+    <llrp:ChannelIndex>
+      <llrp:ChannelIndex>40</llrp:ChannelIndex>
+    </llrp:ChannelIndex>
+    <llrp:FirstSeenTimestampUTC>
+      <llrp:Microseconds>2013-11-01T15:52:21.530606-04:30</llrp:Microseconds>
+    </llrp:FirstSeenTimestampUTC>
+    <llrp:LastSeenTimestampUTC>
+      <llrp:Microseconds>2013-11-01T15:52:21.530606-04:30</llrp:Microseconds>
+    </llrp:LastSeenTimestampUTC>
+    <llrp:TagSeenCount>
+      <llrp:TagCount>1</llrp:TagCount>
+    </llrp:TagSeenCount>
+    <llrp:C1G2_PC>
+      <llrp:PC_Bits>2048</llrp:PC_Bits>
+    </llrp:C1G2_PC>
+    <llrp:C1G2_CRC>
+      <llrp:CRC>52607</llrp:CRC>
+    </llrp:C1G2_CRC>
+    <llrp:AccessSpecID>
+      <llrp:AccessSpecID>444</llrp:AccessSpecID>
+    </llrp:AccessSpecID>
+    <llrp:C1G2ReadOpSpecResult>
+      <llrp:Result>Success</llrp:Result>
+      <llrp:OpSpecID>1212</llrp:OpSpecID>
+      <llrp:ReadData>cd7f 0800 f002 fb63 ac1f 3681</llrp:ReadData>
+    </llrp:C1G2ReadOpSpecResult>
+  </llrp:TagReportData>
+</llrp:RO_ACCESS_REPORT>
+
+
+01-11-2013 03:53:30	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="993175571" />
+
+
+01-11-2013 03:53:34	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="993175572">
+  <llrp:TagReportData>
+    <llrp:EPC_96>
+      <llrp:EPC>2667000000100000000df2</llrp:EPC>
+    </llrp:EPC_96>
+    <llrp:ROSpecID>
+      <llrp:ROSpecID>123</llrp:ROSpecID>
+    </llrp:ROSpecID>
+    <llrp:SpecIndex>
+      <llrp:SpecIndex>1</llrp:SpecIndex>
+    </llrp:SpecIndex>
+    <llrp:InventoryParameterSpecID>
+      <llrp:InventoryParameterSpecID>1</llrp:InventoryParameterSpecID>
+    </llrp:InventoryParameterSpecID>
+    <llrp:AntennaID>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaID>
+    <llrp:PeakRSSI>
+      <llrp:PeakRSSI>-69</llrp:PeakRSSI>
+    </llrp:PeakRSSI>
+    <llrp:ChannelIndex>
+      <llrp:ChannelIndex>24</llrp:ChannelIndex>
+    </llrp:ChannelIndex>
+    <llrp:FirstSeenTimestampUTC>
+      <llrp:Microseconds>2013-11-01T15:52:48.830693-04:30</llrp:Microseconds>
+    </llrp:FirstSeenTimestampUTC>
+    <llrp:LastSeenTimestampUTC>
+      <llrp:Microseconds>2013-11-01T15:52:48.830693-04:30</llrp:Microseconds>
+    </llrp:LastSeenTimestampUTC>
+    <llrp:TagSeenCount>
+      <llrp:TagCount>1</llrp:TagCount>
+    </llrp:TagSeenCount>
+    <llrp:C1G2_PC>
+      <llrp:PC_Bits>12288</llrp:PC_Bits>
+    </llrp:C1G2_PC>
+    <llrp:C1G2_CRC>
+      <llrp:CRC>41547</llrp:CRC>
+    </llrp:C1G2_CRC>
+    <llrp:AccessSpecID>
+      <llrp:AccessSpecID>444</llrp:AccessSpecID>
+    </llrp:AccessSpecID>
+    <llrp:C1G2ReadOpSpecResult>
+      <llrp:Result>Success</llrp:Result>
+      <llrp:OpSpecID>1212</llrp:OpSpecID>
+      <llrp:ReadData>a24b 3000 0026 6700 0000 1000</llrp:ReadData>
+    </llrp:C1G2ReadOpSpecResult>
+  </llrp:TagReportData>
+</llrp:RO_ACCESS_REPORT>
+
+
+01-11-2013 03:53:45	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="993175573">
+  <llrp:TagReportData>
+    <llrp:EPCData>
+      <llrp:EPC>f002</llrp:EPC>
+    </llrp:EPCData>
+    <llrp:ROSpecID>
+      <llrp:ROSpecID>123</llrp:ROSpecID>
+    </llrp:ROSpecID>
+    <llrp:SpecIndex>
+      <llrp:SpecIndex>1</llrp:SpecIndex>
+    </llrp:SpecIndex>
+    <llrp:InventoryParameterSpecID>
+      <llrp:InventoryParameterSpecID>1</llrp:InventoryParameterSpecID>
+    </llrp:InventoryParameterSpecID>
+    <llrp:AntennaID>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaID>
+    <llrp:PeakRSSI>
+      <llrp:PeakRSSI>-63</llrp:PeakRSSI>
+    </llrp:PeakRSSI>
+    <llrp:ChannelIndex>
+      <llrp:ChannelIndex>27</llrp:ChannelIndex>
+    </llrp:ChannelIndex>
+    <llrp:FirstSeenTimestampUTC>
+      <llrp:Microseconds>2013-11-01T15:52:59.814979-04:30</llrp:Microseconds>
+    </llrp:FirstSeenTimestampUTC>
+    <llrp:LastSeenTimestampUTC>
+      <llrp:Microseconds>2013-11-01T15:52:59.814979-04:30</llrp:Microseconds>
+    </llrp:LastSeenTimestampUTC>
+    <llrp:TagSeenCount>
+      <llrp:TagCount>1</llrp:TagCount>
+    </llrp:TagSeenCount>
+    <llrp:C1G2_PC>
+      <llrp:PC_Bits>2048</llrp:PC_Bits>
+    </llrp:C1G2_PC>
+    <llrp:C1G2_CRC>
+      <llrp:CRC>52607</llrp:CRC>
+    </llrp:C1G2_CRC>
+    <llrp:AccessSpecID>
+      <llrp:AccessSpecID>444</llrp:AccessSpecID>
+    </llrp:AccessSpecID>
+    <llrp:C1G2ReadOpSpecResult>
+      <llrp:Result>Success</llrp:Result>
+      <llrp:OpSpecID>1212</llrp:OpSpecID>
+      <llrp:ReadData>cd7f 0800 f002 fb63 ac1f 3681</llrp:ReadData>
+    </llrp:C1G2ReadOpSpecResult>
+  </llrp:TagReportData>
+</llrp:RO_ACCESS_REPORT>
+
+
+01-11-2013 03:53:52	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="993175574">
+  <llrp:TagReportData>
+    <llrp:EPCData>
+      <llrp:EPC>f002</llrp:EPC>
+    </llrp:EPCData>
+    <llrp:ROSpecID>
+      <llrp:ROSpecID>123</llrp:ROSpecID>
+    </llrp:ROSpecID>
+    <llrp:SpecIndex>
+      <llrp:SpecIndex>1</llrp:SpecIndex>
+    </llrp:SpecIndex>
+    <llrp:InventoryParameterSpecID>
+      <llrp:InventoryParameterSpecID>1</llrp:InventoryParameterSpecID>
+    </llrp:InventoryParameterSpecID>
+    <llrp:AntennaID>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaID>
+    <llrp:PeakRSSI>
+      <llrp:PeakRSSI>-59</llrp:PeakRSSI>
+    </llrp:PeakRSSI>
+    <llrp:ChannelIndex>
+      <llrp:ChannelIndex>11</llrp:ChannelIndex>
+    </llrp:ChannelIndex>
+    <llrp:FirstSeenTimestampUTC>
+      <llrp:Microseconds>2013-11-01T15:53:06.690857-04:30</llrp:Microseconds>
+    </llrp:FirstSeenTimestampUTC>
+    <llrp:LastSeenTimestampUTC>
+      <llrp:Microseconds>2013-11-01T15:53:06.690857-04:30</llrp:Microseconds>
+    </llrp:LastSeenTimestampUTC>
+    <llrp:TagSeenCount>
+      <llrp:TagCount>1</llrp:TagCount>
+    </llrp:TagSeenCount>
+    <llrp:C1G2_PC>
+      <llrp:PC_Bits>2048</llrp:PC_Bits>
+    </llrp:C1G2_PC>
+    <llrp:C1G2_CRC>
+      <llrp:CRC>52607</llrp:CRC>
+    </llrp:C1G2_CRC>
+    <llrp:AccessSpecID>
+      <llrp:AccessSpecID>444</llrp:AccessSpecID>
+    </llrp:AccessSpecID>
+    <llrp:C1G2ReadOpSpecResult>
+      <llrp:Result>Success</llrp:Result>
+      <llrp:OpSpecID>1212</llrp:OpSpecID>
+      <llrp:ReadData>cd7f 0800 f002 fb63 ac1f 3681</llrp:ReadData>
+    </llrp:C1G2ReadOpSpecResult>
+  </llrp:TagReportData>
+</llrp:RO_ACCESS_REPORT>
+
+
+01-11-2013 03:57:40	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="993175575">
+  <llrp:TagReportData>
+    <llrp:EPCData>
+      <llrp:EPC>f003</llrp:EPC>
+    </llrp:EPCData>
+    <llrp:ROSpecID>
+      <llrp:ROSpecID>123</llrp:ROSpecID>
+    </llrp:ROSpecID>
+    <llrp:SpecIndex>
+      <llrp:SpecIndex>1</llrp:SpecIndex>
+    </llrp:SpecIndex>
+    <llrp:InventoryParameterSpecID>
+      <llrp:InventoryParameterSpecID>1</llrp:InventoryParameterSpecID>
+    </llrp:InventoryParameterSpecID>
+    <llrp:AntennaID>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaID>
+    <llrp:PeakRSSI>
+      <llrp:PeakRSSI>-56</llrp:PeakRSSI>
+    </llrp:PeakRSSI>
+    <llrp:ChannelIndex>
+      <llrp:ChannelIndex>31</llrp:ChannelIndex>
+    </llrp:ChannelIndex>
+    <llrp:FirstSeenTimestampUTC>
+      <llrp:Microseconds>2013-11-01T15:56:55.078016-04:30</llrp:Microseconds>
+    </llrp:FirstSeenTimestampUTC>
+    <llrp:LastSeenTimestampUTC>
+      <llrp:Microseconds>2013-11-01T15:56:55.078016-04:30</llrp:Microseconds>
+    </llrp:LastSeenTimestampUTC>
+    <llrp:TagSeenCount>
+      <llrp:TagCount>1</llrp:TagCount>
+    </llrp:TagSeenCount>
+    <llrp:C1G2_PC>
+      <llrp:PC_Bits>2048</llrp:PC_Bits>
+    </llrp:C1G2_PC>
+    <llrp:C1G2_CRC>
+      <llrp:CRC>56670</llrp:CRC>
+    </llrp:C1G2_CRC>
+    <llrp:AccessSpecID>
+      <llrp:AccessSpecID>444</llrp:AccessSpecID>
+    </llrp:AccessSpecID>
+    <llrp:C1G2ReadOpSpecResult>
+      <llrp:Result>Success</llrp:Result>
+      <llrp:OpSpecID>1212</llrp:OpSpecID>
+      <llrp:ReadData>dd5e 0800 f003 fb63 ac1f 3681</llrp:ReadData>
+    </llrp:C1G2ReadOpSpecResult>
+  </llrp:TagReportData>
+</llrp:RO_ACCESS_REPORT>
+
+
+01-11-2013 03:57:45	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="993175576">
+  <llrp:TagReportData>
+    <llrp:EPCData>
+      <llrp:EPC>f003</llrp:EPC>
+    </llrp:EPCData>
+    <llrp:ROSpecID>
+      <llrp:ROSpecID>123</llrp:ROSpecID>
+    </llrp:ROSpecID>
+    <llrp:SpecIndex>
+      <llrp:SpecIndex>1</llrp:SpecIndex>
+    </llrp:SpecIndex>
+    <llrp:InventoryParameterSpecID>
+      <llrp:InventoryParameterSpecID>1</llrp:InventoryParameterSpecID>
+    </llrp:InventoryParameterSpecID>
+    <llrp:AntennaID>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaID>
+    <llrp:PeakRSSI>
+      <llrp:PeakRSSI>-57</llrp:PeakRSSI>
+    </llrp:PeakRSSI>
+    <llrp:ChannelIndex>
+      <llrp:ChannelIndex>6</llrp:ChannelIndex>
+    </llrp:ChannelIndex>
+    <llrp:FirstSeenTimestampUTC>
+      <llrp:Microseconds>2013-11-01T15:57:00.060982-04:30</llrp:Microseconds>
+    </llrp:FirstSeenTimestampUTC>
+    <llrp:LastSeenTimestampUTC>
+      <llrp:Microseconds>2013-11-01T15:57:00.060982-04:30</llrp:Microseconds>
+    </llrp:LastSeenTimestampUTC>
+    <llrp:TagSeenCount>
+      <llrp:TagCount>1</llrp:TagCount>
+    </llrp:TagSeenCount>
+    <llrp:C1G2_PC>
+      <llrp:PC_Bits>2048</llrp:PC_Bits>
+    </llrp:C1G2_PC>
+    <llrp:C1G2_CRC>
+      <llrp:CRC>56670</llrp:CRC>
+    </llrp:C1G2_CRC>
+    <llrp:AccessSpecID>
+      <llrp:AccessSpecID>444</llrp:AccessSpecID>
+    </llrp:AccessSpecID>
+    <llrp:C1G2ReadOpSpecResult>
+      <llrp:Result>Success</llrp:Result>
+      <llrp:OpSpecID>1212</llrp:OpSpecID>
+      <llrp:ReadData>dd5e 0800 f003 fb63 ac1f 3681</llrp:ReadData>
+    </llrp:C1G2ReadOpSpecResult>
+  </llrp:TagReportData>
+</llrp:RO_ACCESS_REPORT>
+
+
+01-11-2013 03:57:45	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="993175577">
+  <llrp:TagReportData>
+    <llrp:EPCData>
+      <llrp:EPC>f002</llrp:EPC>
+    </llrp:EPCData>
+    <llrp:ROSpecID>
+      <llrp:ROSpecID>123</llrp:ROSpecID>
+    </llrp:ROSpecID>
+    <llrp:SpecIndex>
+      <llrp:SpecIndex>1</llrp:SpecIndex>
+    </llrp:SpecIndex>
+    <llrp:InventoryParameterSpecID>
+      <llrp:InventoryParameterSpecID>1</llrp:InventoryParameterSpecID>
+    </llrp:InventoryParameterSpecID>
+    <llrp:AntennaID>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaID>
+    <llrp:PeakRSSI>
+      <llrp:PeakRSSI>-52</llrp:PeakRSSI>
+    </llrp:PeakRSSI>
+    <llrp:ChannelIndex>
+      <llrp:ChannelIndex>6</llrp:ChannelIndex>
+    </llrp:ChannelIndex>
+    <llrp:FirstSeenTimestampUTC>
+      <llrp:Microseconds>2013-11-01T15:57:00.121046-04:30</llrp:Microseconds>
+    </llrp:FirstSeenTimestampUTC>
+    <llrp:LastSeenTimestampUTC>
+      <llrp:Microseconds>2013-11-01T15:57:00.121046-04:30</llrp:Microseconds>
+    </llrp:LastSeenTimestampUTC>
+    <llrp:TagSeenCount>
+      <llrp:TagCount>1</llrp:TagCount>
+    </llrp:TagSeenCount>
+    <llrp:C1G2_PC>
+      <llrp:PC_Bits>2048</llrp:PC_Bits>
+    </llrp:C1G2_PC>
+    <llrp:C1G2_CRC>
+      <llrp:CRC>52607</llrp:CRC>
+    </llrp:C1G2_CRC>
+    <llrp:AccessSpecID>
+      <llrp:AccessSpecID>444</llrp:AccessSpecID>
+    </llrp:AccessSpecID>
+    <llrp:C1G2ReadOpSpecResult>
+      <llrp:Result>Success</llrp:Result>
+      <llrp:OpSpecID>1212</llrp:OpSpecID>
+      <llrp:ReadData>cd7f 0800 f002 fb63 ac1f 3681</llrp:ReadData>
+    </llrp:C1G2ReadOpSpecResult>
+  </llrp:TagReportData>
+</llrp:RO_ACCESS_REPORT>
+
+
+01-11-2013 03:58:04	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="993175578">
+  <llrp:TagReportData>
+    <llrp:EPCData>
+      <llrp:EPC>f003</llrp:EPC>
+    </llrp:EPCData>
+    <llrp:ROSpecID>
+      <llrp:ROSpecID>123</llrp:ROSpecID>
+    </llrp:ROSpecID>
+    <llrp:SpecIndex>
+      <llrp:SpecIndex>1</llrp:SpecIndex>
+    </llrp:SpecIndex>
+    <llrp:InventoryParameterSpecID>
+      <llrp:InventoryParameterSpecID>1</llrp:InventoryParameterSpecID>
+    </llrp:InventoryParameterSpecID>
+    <llrp:AntennaID>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaID>
+    <llrp:PeakRSSI>
+      <llrp:PeakRSSI>-50</llrp:PeakRSSI>
+    </llrp:PeakRSSI>
+    <llrp:ChannelIndex>
+      <llrp:ChannelIndex>44</llrp:ChannelIndex>
+    </llrp:ChannelIndex>
+    <llrp:FirstSeenTimestampUTC>
+      <llrp:Microseconds>2013-11-01T15:57:18.244022-04:30</llrp:Microseconds>
+    </llrp:FirstSeenTimestampUTC>
+    <llrp:LastSeenTimestampUTC>
+      <llrp:Microseconds>2013-11-01T15:57:18.244022-04:30</llrp:Microseconds>
+    </llrp:LastSeenTimestampUTC>
+    <llrp:TagSeenCount>
+      <llrp:TagCount>1</llrp:TagCount>
+    </llrp:TagSeenCount>
+    <llrp:C1G2_PC>
+      <llrp:PC_Bits>2048</llrp:PC_Bits>
+    </llrp:C1G2_PC>
+    <llrp:C1G2_CRC>
+      <llrp:CRC>56670</llrp:CRC>
+    </llrp:C1G2_CRC>
+    <llrp:AccessSpecID>
+      <llrp:AccessSpecID>444</llrp:AccessSpecID>
+    </llrp:AccessSpecID>
+    <llrp:C1G2ReadOpSpecResult>
+      <llrp:Result>Success</llrp:Result>
+      <llrp:OpSpecID>1212</llrp:OpSpecID>
+      <llrp:ReadData>dd5e 0800 f003 fb63 ac1f 3681</llrp:ReadData>
+    </llrp:C1G2ReadOpSpecResult>
+  </llrp:TagReportData>
+</llrp:RO_ACCESS_REPORT>
+
+
+01-11-2013 03:58:04	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="993175579">
+  <llrp:TagReportData>
+    <llrp:EPCData>
+      <llrp:EPC>f002</llrp:EPC>
+    </llrp:EPCData>
+    <llrp:ROSpecID>
+      <llrp:ROSpecID>123</llrp:ROSpecID>
+    </llrp:ROSpecID>
+    <llrp:SpecIndex>
+      <llrp:SpecIndex>1</llrp:SpecIndex>
+    </llrp:SpecIndex>
+    <llrp:InventoryParameterSpecID>
+      <llrp:InventoryParameterSpecID>1</llrp:InventoryParameterSpecID>
+    </llrp:InventoryParameterSpecID>
+    <llrp:AntennaID>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaID>
+    <llrp:PeakRSSI>
+      <llrp:PeakRSSI>-49</llrp:PeakRSSI>
+    </llrp:PeakRSSI>
+    <llrp:ChannelIndex>
+      <llrp:ChannelIndex>44</llrp:ChannelIndex>
+    </llrp:ChannelIndex>
+    <llrp:FirstSeenTimestampUTC>
+      <llrp:Microseconds>2013-11-01T15:57:18.249580-04:30</llrp:Microseconds>
+    </llrp:FirstSeenTimestampUTC>
+    <llrp:LastSeenTimestampUTC>
+      <llrp:Microseconds>2013-11-01T15:57:18.249580-04:30</llrp:Microseconds>
+    </llrp:LastSeenTimestampUTC>
+    <llrp:TagSeenCount>
+      <llrp:TagCount>1</llrp:TagCount>
+    </llrp:TagSeenCount>
+    <llrp:C1G2_PC>
+      <llrp:PC_Bits>2048</llrp:PC_Bits>
+    </llrp:C1G2_PC>
+    <llrp:C1G2_CRC>
+      <llrp:CRC>52607</llrp:CRC>
+    </llrp:C1G2_CRC>
+    <llrp:AccessSpecID>
+      <llrp:AccessSpecID>444</llrp:AccessSpecID>
+    </llrp:AccessSpecID>
+    <llrp:C1G2ReadOpSpecResult>
+      <llrp:Result>Success</llrp:Result>
+      <llrp:OpSpecID>1212</llrp:OpSpecID>
+      <llrp:ReadData>cd7f 0800 f002 fb63 ac1f 3681</llrp:ReadData>
+    </llrp:C1G2ReadOpSpecResult>
+  </llrp:TagReportData>
+</llrp:RO_ACCESS_REPORT>
+
+
+01-11-2013 03:59:50	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="993175580">
+  <llrp:TagReportData>
+    <llrp:EPC_96>
+      <llrp:EPC>2667000000100000000df2</llrp:EPC>
+    </llrp:EPC_96>
+    <llrp:ROSpecID>
+      <llrp:ROSpecID>123</llrp:ROSpecID>
+    </llrp:ROSpecID>
+    <llrp:SpecIndex>
+      <llrp:SpecIndex>1</llrp:SpecIndex>
+    </llrp:SpecIndex>
+    <llrp:InventoryParameterSpecID>
+      <llrp:InventoryParameterSpecID>1</llrp:InventoryParameterSpecID>
+    </llrp:InventoryParameterSpecID>
+    <llrp:AntennaID>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaID>
+    <llrp:PeakRSSI>
+      <llrp:PeakRSSI>-63</llrp:PeakRSSI>
+    </llrp:PeakRSSI>
+    <llrp:ChannelIndex>
+      <llrp:ChannelIndex>15</llrp:ChannelIndex>
+    </llrp:ChannelIndex>
+    <llrp:FirstSeenTimestampUTC>
+      <llrp:Microseconds>2013-11-01T15:59:04.674557-04:30</llrp:Microseconds>
+    </llrp:FirstSeenTimestampUTC>
+    <llrp:LastSeenTimestampUTC>
+      <llrp:Microseconds>2013-11-01T15:59:04.674557-04:30</llrp:Microseconds>
+    </llrp:LastSeenTimestampUTC>
+    <llrp:TagSeenCount>
+      <llrp:TagCount>1</llrp:TagCount>
+    </llrp:TagSeenCount>
+    <llrp:C1G2_PC>
+      <llrp:PC_Bits>12288</llrp:PC_Bits>
+    </llrp:C1G2_PC>
+    <llrp:C1G2_CRC>
+      <llrp:CRC>41547</llrp:CRC>
+    </llrp:C1G2_CRC>
+    <llrp:AccessSpecID>
+      <llrp:AccessSpecID>444</llrp:AccessSpecID>
+    </llrp:AccessSpecID>
+    <llrp:C1G2ReadOpSpecResult>
+      <llrp:Result>Success</llrp:Result>
+      <llrp:OpSpecID>1212</llrp:OpSpecID>
+      <llrp:ReadData>a24b 3000 0026 6700 0000 1000</llrp:ReadData>
+    </llrp:C1G2ReadOpSpecResult>
+  </llrp:TagReportData>
+</llrp:RO_ACCESS_REPORT>
+
+
+01-11-2013 03:59:51	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="993175581">
+  <llrp:TagReportData>
+    <llrp:EPCData>
+      <llrp:EPC>f002</llrp:EPC>
+    </llrp:EPCData>
+    <llrp:ROSpecID>
+      <llrp:ROSpecID>123</llrp:ROSpecID>
+    </llrp:ROSpecID>
+    <llrp:SpecIndex>
+      <llrp:SpecIndex>1</llrp:SpecIndex>
+    </llrp:SpecIndex>
+    <llrp:InventoryParameterSpecID>
+      <llrp:InventoryParameterSpecID>1</llrp:InventoryParameterSpecID>
+    </llrp:InventoryParameterSpecID>
+    <llrp:AntennaID>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaID>
+    <llrp:PeakRSSI>
+      <llrp:PeakRSSI>-49</llrp:PeakRSSI>
+    </llrp:PeakRSSI>
+    <llrp:ChannelIndex>
+      <llrp:ChannelIndex>18</llrp:ChannelIndex>
+    </llrp:ChannelIndex>
+    <llrp:FirstSeenTimestampUTC>
+      <llrp:Microseconds>2013-11-01T15:59:05.259399-04:30</llrp:Microseconds>
+    </llrp:FirstSeenTimestampUTC>
+    <llrp:LastSeenTimestampUTC>
+      <llrp:Microseconds>2013-11-01T15:59:05.259399-04:30</llrp:Microseconds>
+    </llrp:LastSeenTimestampUTC>
+    <llrp:TagSeenCount>
+      <llrp:TagCount>1</llrp:TagCount>
+    </llrp:TagSeenCount>
+    <llrp:C1G2_PC>
+      <llrp:PC_Bits>2048</llrp:PC_Bits>
+    </llrp:C1G2_PC>
+    <llrp:C1G2_CRC>
+      <llrp:CRC>52607</llrp:CRC>
+    </llrp:C1G2_CRC>
+    <llrp:AccessSpecID>
+      <llrp:AccessSpecID>444</llrp:AccessSpecID>
+    </llrp:AccessSpecID>
+    <llrp:C1G2ReadOpSpecResult>
+      <llrp:Result>Success</llrp:Result>
+      <llrp:OpSpecID>1212</llrp:OpSpecID>
+      <llrp:ReadData>cd7f 0800 f002 fb63 ac1f 3681</llrp:ReadData>
+    </llrp:C1G2ReadOpSpecResult>
+  </llrp:TagReportData>
+</llrp:RO_ACCESS_REPORT>
+
+
+01-11-2013 03:59:51	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="993175582">
+  <llrp:TagReportData>
+    <llrp:EPCData>
+      <llrp:EPC>f003</llrp:EPC>
+    </llrp:EPCData>
+    <llrp:ROSpecID>
+      <llrp:ROSpecID>123</llrp:ROSpecID>
+    </llrp:ROSpecID>
+    <llrp:SpecIndex>
+      <llrp:SpecIndex>1</llrp:SpecIndex>
+    </llrp:SpecIndex>
+    <llrp:InventoryParameterSpecID>
+      <llrp:InventoryParameterSpecID>1</llrp:InventoryParameterSpecID>
+    </llrp:InventoryParameterSpecID>
+    <llrp:AntennaID>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaID>
+    <llrp:PeakRSSI>
+      <llrp:PeakRSSI>-56</llrp:PeakRSSI>
+    </llrp:PeakRSSI>
+    <llrp:ChannelIndex>
+      <llrp:ChannelIndex>19</llrp:ChannelIndex>
+    </llrp:ChannelIndex>
+    <llrp:FirstSeenTimestampUTC>
+      <llrp:Microseconds>2013-11-01T15:59:05.481614-04:30</llrp:Microseconds>
+    </llrp:FirstSeenTimestampUTC>
+    <llrp:LastSeenTimestampUTC>
+      <llrp:Microseconds>2013-11-01T15:59:05.481614-04:30</llrp:Microseconds>
+    </llrp:LastSeenTimestampUTC>
+    <llrp:TagSeenCount>
+      <llrp:TagCount>1</llrp:TagCount>
+    </llrp:TagSeenCount>
+    <llrp:C1G2_PC>
+      <llrp:PC_Bits>2048</llrp:PC_Bits>
+    </llrp:C1G2_PC>
+    <llrp:C1G2_CRC>
+      <llrp:CRC>56670</llrp:CRC>
+    </llrp:C1G2_CRC>
+    <llrp:AccessSpecID>
+      <llrp:AccessSpecID>444</llrp:AccessSpecID>
+    </llrp:AccessSpecID>
+    <llrp:C1G2ReadOpSpecResult>
+      <llrp:Result>Success</llrp:Result>
+      <llrp:OpSpecID>1212</llrp:OpSpecID>
+      <llrp:ReadData>dd5e 0800 f003 fb63 ac1f 3681</llrp:ReadData>
+    </llrp:C1G2ReadOpSpecResult>
+  </llrp:TagReportData>
+</llrp:RO_ACCESS_REPORT>
+
+
+01-11-2013 03:59:51	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="993175583">
+  <llrp:TagReportData>
+    <llrp:EPC_96>
+      <llrp:EPC>2667000000100000000df2</llrp:EPC>
+    </llrp:EPC_96>
+    <llrp:ROSpecID>
+      <llrp:ROSpecID>123</llrp:ROSpecID>
+    </llrp:ROSpecID>
+    <llrp:SpecIndex>
+      <llrp:SpecIndex>1</llrp:SpecIndex>
+    </llrp:SpecIndex>
+    <llrp:InventoryParameterSpecID>
+      <llrp:InventoryParameterSpecID>1</llrp:InventoryParameterSpecID>
+    </llrp:InventoryParameterSpecID>
+    <llrp:AntennaID>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaID>
+    <llrp:PeakRSSI>
+      <llrp:PeakRSSI>-64</llrp:PeakRSSI>
+    </llrp:PeakRSSI>
+    <llrp:ChannelIndex>
+      <llrp:ChannelIndex>20</llrp:ChannelIndex>
+    </llrp:ChannelIndex>
+    <llrp:FirstSeenTimestampUTC>
+      <llrp:Microseconds>2013-11-01T15:59:05.610883-04:30</llrp:Microseconds>
+    </llrp:FirstSeenTimestampUTC>
+    <llrp:LastSeenTimestampUTC>
+      <llrp:Microseconds>2013-11-01T15:59:05.610883-04:30</llrp:Microseconds>
+    </llrp:LastSeenTimestampUTC>
+    <llrp:TagSeenCount>
+      <llrp:TagCount>1</llrp:TagCount>
+    </llrp:TagSeenCount>
+    <llrp:C1G2_PC>
+      <llrp:PC_Bits>12288</llrp:PC_Bits>
+    </llrp:C1G2_PC>
+    <llrp:C1G2_CRC>
+      <llrp:CRC>41547</llrp:CRC>
+    </llrp:C1G2_CRC>
+    <llrp:AccessSpecID>
+      <llrp:AccessSpecID>444</llrp:AccessSpecID>
+    </llrp:AccessSpecID>
+    <llrp:C1G2ReadOpSpecResult>
+      <llrp:Result>Success</llrp:Result>
+      <llrp:OpSpecID>1212</llrp:OpSpecID>
+      <llrp:ReadData>a24b 3000 0026 6700 0000 1000</llrp:ReadData>
+    </llrp:C1G2ReadOpSpecResult>
+  </llrp:TagReportData>
+</llrp:RO_ACCESS_REPORT>
+
+
+01-11-2013 03:59:52	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="993175584">
+  <llrp:TagReportData>
+    <llrp:EPC_96>
+      <llrp:EPC>2667000000100000000df2</llrp:EPC>
+    </llrp:EPC_96>
+    <llrp:ROSpecID>
+      <llrp:ROSpecID>123</llrp:ROSpecID>
+    </llrp:ROSpecID>
+    <llrp:SpecIndex>
+      <llrp:SpecIndex>1</llrp:SpecIndex>
+    </llrp:SpecIndex>
+    <llrp:InventoryParameterSpecID>
+      <llrp:InventoryParameterSpecID>1</llrp:InventoryParameterSpecID>
+    </llrp:InventoryParameterSpecID>
+    <llrp:AntennaID>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaID>
+    <llrp:PeakRSSI>
+      <llrp:PeakRSSI>-43</llrp:PeakRSSI>
+    </llrp:PeakRSSI>
+    <llrp:ChannelIndex>
+      <llrp:ChannelIndex>24</llrp:ChannelIndex>
+    </llrp:ChannelIndex>
+    <llrp:FirstSeenTimestampUTC>
+      <llrp:Microseconds>2013-11-01T15:59:06.482770-04:30</llrp:Microseconds>
+    </llrp:FirstSeenTimestampUTC>
+    <llrp:LastSeenTimestampUTC>
+      <llrp:Microseconds>2013-11-01T15:59:06.482770-04:30</llrp:Microseconds>
+    </llrp:LastSeenTimestampUTC>
+    <llrp:TagSeenCount>
+      <llrp:TagCount>1</llrp:TagCount>
+    </llrp:TagSeenCount>
+    <llrp:C1G2_PC>
+      <llrp:PC_Bits>12288</llrp:PC_Bits>
+    </llrp:C1G2_PC>
+    <llrp:C1G2_CRC>
+      <llrp:CRC>41547</llrp:CRC>
+    </llrp:C1G2_CRC>
+    <llrp:AccessSpecID>
+      <llrp:AccessSpecID>444</llrp:AccessSpecID>
+    </llrp:AccessSpecID>
+    <llrp:C1G2ReadOpSpecResult>
+      <llrp:Result>Success</llrp:Result>
+      <llrp:OpSpecID>1212</llrp:OpSpecID>
+      <llrp:ReadData>a24b 3000 0026 6700 0000 1000</llrp:ReadData>
+    </llrp:C1G2ReadOpSpecResult>
+  </llrp:TagReportData>
+</llrp:RO_ACCESS_REPORT>
+
+
+01-11-2013 03:59:52	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="993175585">
+  <llrp:TagReportData>
+    <llrp:EPCData>
+      <llrp:EPC>f002</llrp:EPC>
+    </llrp:EPCData>
+    <llrp:ROSpecID>
+      <llrp:ROSpecID>123</llrp:ROSpecID>
+    </llrp:ROSpecID>
+    <llrp:SpecIndex>
+      <llrp:SpecIndex>1</llrp:SpecIndex>
+    </llrp:SpecIndex>
+    <llrp:InventoryParameterSpecID>
+      <llrp:InventoryParameterSpecID>1</llrp:InventoryParameterSpecID>
+    </llrp:InventoryParameterSpecID>
+    <llrp:AntennaID>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaID>
+    <llrp:PeakRSSI>
+      <llrp:PeakRSSI>-45</llrp:PeakRSSI>
+    </llrp:PeakRSSI>
+    <llrp:ChannelIndex>
+      <llrp:ChannelIndex>24</llrp:ChannelIndex>
+    </llrp:ChannelIndex>
+    <llrp:FirstSeenTimestampUTC>
+      <llrp:Microseconds>2013-11-01T15:59:06.542330-04:30</llrp:Microseconds>
+    </llrp:FirstSeenTimestampUTC>
+    <llrp:LastSeenTimestampUTC>
+      <llrp:Microseconds>2013-11-01T15:59:06.542330-04:30</llrp:Microseconds>
+    </llrp:LastSeenTimestampUTC>
+    <llrp:TagSeenCount>
+      <llrp:TagCount>1</llrp:TagCount>
+    </llrp:TagSeenCount>
+    <llrp:C1G2_PC>
+      <llrp:PC_Bits>2048</llrp:PC_Bits>
+    </llrp:C1G2_PC>
+    <llrp:C1G2_CRC>
+      <llrp:CRC>52607</llrp:CRC>
+    </llrp:C1G2_CRC>
+    <llrp:AccessSpecID>
+      <llrp:AccessSpecID>444</llrp:AccessSpecID>
+    </llrp:AccessSpecID>
+    <llrp:C1G2ReadOpSpecResult>
+      <llrp:Result>Success</llrp:Result>
+      <llrp:OpSpecID>1212</llrp:OpSpecID>
+      <llrp:ReadData>cd7f 0800 f002 fb63 ac1f 3681</llrp:ReadData>
+    </llrp:C1G2ReadOpSpecResult>
+  </llrp:TagReportData>
+</llrp:RO_ACCESS_REPORT>
+
+
+04-11-2013 03:15:16	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1202283460" />
+
+
+04-11-2013 03:15:54	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1202283467" />
+
+
+04-11-2013 03:30:11	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1202283475" />
+
+
+04-11-2013 03:31:27	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1202283478" />
+
+
+04-11-2013 03:32:22	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1202283481" />
+
+
+04-11-2013 03:34:26	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1202283484" />
+
+
+04-11-2013 03:36:11	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1202283487" />
+
+
+04-11-2013 03:37:14	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1202283490" />
+
+
+04-11-2013 03:39:13	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1202283497" />
+
+
+04-11-2013 03:39:55	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1202283500" />
+
+
+04-11-2013 03:45:34	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1202283503" />
+
+
+04-11-2013 03:47:21	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1202283506" />
+
+
+04-11-2013 04:02:42	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1202283507" />
+
+
+04-11-2013 04:12:48	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="1202283512" />
+
+
+05-11-2013 01:48:00	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="824219061">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2013-11-05T13:47:00.050301-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+05-11-2013 01:48:00	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="824219062">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2013-11-05T13:47:00.057173-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>3</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+05-11-2013 01:48:00	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="824219063">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2013-11-05T13:47:00.063985-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>4</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+05-11-2013 01:55:40	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="824219066" />
+
+
+05-11-2013 01:56:08	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="824219069" />
+
+
+05-11-2013 02:01:47	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="824219072" />
+
+
+05-11-2013 02:06:01	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="824219075" />
+
+
+05-11-2013 02:09:17	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="824219078" />
+
+
+05-11-2013 02:13:36	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="824219081" />
+
+
+05-11-2013 02:15:11	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="824219084" />
+
+
+05-11-2013 02:16:19	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="824219087" />
+
+
+05-11-2013 02:19:51	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="824219090" />
+
+
+05-11-2013 02:20:33	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="824219091">
+  <llrp:TagReportData>
+    <llrp:EPC_96>
+      <llrp:EPC>0126000000000000001208</llrp:EPC>
+    </llrp:EPC_96>
+    <llrp:ROSpecID>
+      <llrp:ROSpecID>123</llrp:ROSpecID>
+    </llrp:ROSpecID>
+    <llrp:SpecIndex>
+      <llrp:SpecIndex>1</llrp:SpecIndex>
+    </llrp:SpecIndex>
+    <llrp:InventoryParameterSpecID>
+      <llrp:InventoryParameterSpecID>1</llrp:InventoryParameterSpecID>
+    </llrp:InventoryParameterSpecID>
+    <llrp:AntennaID>
+      <llrp:AntennaID>1</llrp:AntennaID>
+    </llrp:AntennaID>
+    <llrp:PeakRSSI>
+      <llrp:PeakRSSI>-47</llrp:PeakRSSI>
+    </llrp:PeakRSSI>
+    <llrp:ChannelIndex>
+      <llrp:ChannelIndex>11</llrp:ChannelIndex>
+    </llrp:ChannelIndex>
+    <llrp:FirstSeenTimestampUTC>
+      <llrp:Microseconds>2013-11-05T14:19:33.162486-04:30</llrp:Microseconds>
+    </llrp:FirstSeenTimestampUTC>
+    <llrp:LastSeenTimestampUTC>
+      <llrp:Microseconds>2013-11-05T14:19:33.162486-04:30</llrp:Microseconds>
+    </llrp:LastSeenTimestampUTC>
+    <llrp:TagSeenCount>
+      <llrp:TagCount>1</llrp:TagCount>
+    </llrp:TagSeenCount>
+    <llrp:C1G2_PC>
+      <llrp:PC_Bits>12288</llrp:PC_Bits>
+    </llrp:C1G2_PC>
+    <llrp:C1G2_CRC>
+      <llrp:CRC>31567</llrp:CRC>
+    </llrp:C1G2_CRC>
+    <llrp:AccessSpecID>
+      <llrp:AccessSpecID>0</llrp:AccessSpecID>
+    </llrp:AccessSpecID>
+  </llrp:TagReportData>
+</llrp:RO_ACCESS_REPORT>
+
+
+06-11-2013 01:51:16	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="851215904">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2013-11-06T13:50:10.492951-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>2</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+06-11-2013 01:51:16	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="851215905">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2013-11-06T13:50:10.499793-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>3</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+06-11-2013 01:51:16	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:READER_EVENT_NOTIFICATION xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="851215906">
+  <llrp:ReaderEventNotificationData>
+    <llrp:UTCTimestamp>
+      <llrp:Microseconds>2013-11-06T13:50:10.506626-04:30</llrp:Microseconds>
+    </llrp:UTCTimestamp>
+    <llrp:AntennaEvent>
+      <llrp:EventType>Antenna_Disconnected</llrp:EventType>
+      <llrp:AntennaID>4</llrp:AntennaID>
+    </llrp:AntennaEvent>
+  </llrp:ReaderEventNotificationData>
+</llrp:READER_EVENT_NOTIFICATION>
+
+
+06-11-2013 03:33:51	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="851215909" />
+
+
+06-11-2013 04:15:14	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="851215912" />
+
+
+06-11-2013 04:17:36	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="851215915" />
+
+
+06-11-2013 04:18:06	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="851215918" />
+
+
+06-11-2013 04:19:33	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="851215921" />
+
+
+06-11-2013 04:26:45	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="851215924" />
+
+
+06-11-2013 04:38:29	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="851215927" />
+
+
+06-11-2013 05:32:36	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="851215930" />
+
+
+06-11-2013 05:32:42	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="851215931" />
+
+
+07-11-2013 10:08:41	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="851215936" />
+
+
+07-11-2013 10:22:50	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="851215939" />
+
+
+07-11-2013 10:35:08	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="851215942" />
+
+
+07-11-2013 05:23:14	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="851215945" />
+
+
+07-11-2013 05:26:45	<?xml version="1.0" encoding="UTF-8"?>
+<llrp:RO_ACCESS_REPORT xmlns:llrp="http://www.llrp.org/ltk/schema/core/encoding/xml/1.0" Version="1" MessageID="851215948" />
+
+

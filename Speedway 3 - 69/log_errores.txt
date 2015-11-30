@@ -1,0 +1,27 @@
+18-03-2014 04:11:41	No se pudo realizar la conexión con el reader 69 en 194.100.1.1, failed to connect
+18-03-2014 04:12:11	No se pudo realizar la conexión con el reader 69 en 194.100.1.1, failed to connect
+18-03-2014 04:12:11	Se ha producido un error (ltkjava): session is not yet established
+18-03-2014 04:12:30	No se pudo realizar la conexión con el reader 69 en 194.100.1.1, failed to connect
+18-03-2014 04:12:30	Se ha producido un error (ltkjava): session is not yet established
+18-03-2014 04:12:43	No se pudo realizar la conexión con el reader 69 en 194.100.1.1, failed to connect
+18-03-2014 04:12:43	Se ha producido un error (ltkjava): session is not yet established
+18-03-2014 04:13:14	No se pudo realizar la conexión con el reader 69 en 194.100.1.1, failed to connect
+18-03-2014 04:13:14	Se ha producido un error (ltkjava): session is not yet established
+18-03-2014 04:13:45	No se pudo realizar la conexión con el reader 69 en 194.100.1.1, failed to connect
+18-03-2014 04:13:46	Se ha producido un error (ltkjava): session is not yet established
+18-03-2014 04:14:17	No se pudo realizar la conexión con el reader 69 en 194.100.1.1, failed to connect
+18-03-2014 04:14:17	Se ha producido un error (ltkjava): session is not yet established
+18-03-2014 04:14:48	No se pudo realizar la conexión con el reader 69 en 194.100.1.1, failed to connect
+18-03-2014 04:14:49	Se ha producido un error (ltkjava): session is not yet established
+18-03-2014 04:15:20	No se pudo realizar la conexión con el reader 69 en 194.100.1.1, failed to connect
+18-03-2014 04:15:20	Se ha producido un error (ltkjava): session is not yet established
+18-03-2014 04:15:51	No se pudo realizar la conexión con el reader 69 en 194.100.1.1, failed to connect
+18-03-2014 04:15:52	Se ha producido un error (ltkjava): session is not yet established
+18-03-2014 04:16:23	No se pudo realizar la conexión con el reader 69 en 194.100.1.1, failed to connect
+18-03-2014 04:16:23	Se ha producido un error (ltkjava): session is not yet established
+18-03-2014 04:16:54	No se pudo realizar la conexión con el reader 69 en 194.100.1.1, failed to connect
+18-03-2014 04:16:55	Se ha producido un error (ltkjava): session is not yet established
+18-03-2014 04:17:26	No se pudo realizar la conexión con el reader 69 en 194.100.1.1, failed to connect
+18-03-2014 04:17:26	Se ha producido un error (ltkjava): session is not yet established
+18-03-2014 04:17:57	No se pudo realizar la conexión con el reader 69 en 194.100.1.1, failed to connect
+18-03-2014 04:17:58	Se ha producido un error (ltkjava): session is not yet established

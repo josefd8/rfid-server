@@ -1,0 +1,41 @@
+05-11-2013 02:06:41	Nueva solicitud lectura, código de operación: 2
+05-11-2013 02:09:20	Nueva solicitud lectura, código de operación: 2
+05-11-2013 02:13:38	Nueva solicitud lectura, código de operación: 2
+05-11-2013 02:15:14	Nueva solicitud lectura, código de operación: 2
+05-11-2013 02:16:29	Nueva solicitud lectura, código de operación: 2
+05-11-2013 02:19:54	Nueva solicitud lectura, código de operación: 2
+06-11-2013 04:17:49	Nueva consulta de estado, código de operación: 0
+06-11-2013 04:17:58	Nueva consulta de estado, código de operación: 0
+06-11-2013 04:18:14	Nueva consulta de estado, código de operación: 0
+06-11-2013 04:19:36	Nueva consulta de estado, código de operación: 0
+06-11-2013 04:19:40	Nueva consulta de estado, código de operación: 0
+06-11-2013 04:50:14	Nueva consulta de estado, código de operación: 0
+06-11-2013 05:03:09	Nueva consulta de estado, código de operación: 0
+06-11-2013 05:22:22	Nueva consulta de estado, código de operación: 0
+08-11-2013 03:19:56	Nueva consulta de estado, código de operación: 351
+08-11-2013 03:22:38	Nueva consulta de estado, código de operación: 352
+08-11-2013 03:22:39	Nueva solicitud lectura, código de operación: 662
+08-11-2013 03:24:11	Nueva consulta de estado, código de operación: 354
+08-11-2013 03:24:12	Nueva solicitud lectura, código de operación: 663
+08-11-2013 03:25:10	Nueva consulta de estado, código de operación: 356
+08-11-2013 03:25:11	Nueva solicitud lectura, código de operación: 664
+08-11-2013 03:29:05	Nueva consulta de estado, código de operación: 359
+08-11-2013 03:29:06	Nueva solicitud lectura, código de operación: 666
+08-11-2013 03:46:11	Nueva consulta de estado, código de operación: 361
+08-11-2013 03:46:12	Nueva solicitud lectura, código de operación: 667
+08-11-2013 04:41:13	Nueva consulta de estado, código de operación: 363
+08-11-2013 04:41:14	Nueva solicitud lectura, código de operación: 668
+08-11-2013 04:42:05	Nueva consulta de estado, código de operación: 365
+08-11-2013 04:42:06	Nueva solicitud lectura, código de operación: 669
+08-11-2013 04:43:31	Nueva consulta de estado, código de operación: 0
+08-11-2013 04:53:37	Nueva consulta de estado, código de operación: 368
+08-11-2013 04:53:38	Nueva solicitud lectura, código de operación: 671
+08-11-2013 04:53:44	Nueva consulta de estado, código de operación: 0
+08-11-2013 04:53:54	Nueva consulta de estado, código de operación: 370
+08-11-2013 04:53:55	Nueva solicitud lectura, código de operación: 672
+11-11-2013 09:29:50	Nueva consulta de estado, código de operación: 0
+21-11-2013 04:01:07	Nueva consulta de estado, código de operación: 0
+21-11-2013 04:09:31	Nueva consulta de estado, código de operación: 0
+21-11-2013 05:17:26	Nueva consulta de estado, código de operación: 0
+21-11-2013 05:17:29	Nueva consulta de estado, código de operación: 0
+21-11-2013 05:17:35	Nueva consulta de estado, código de operación: 0

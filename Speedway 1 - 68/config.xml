@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <AntennaConfiguration>
+    <AntennaID>1</AntennaID>
+    <RFReceiver>
+      <ReceiverSensitivity>1</ReceiverSensitivity>
+    </RFReceiver>
+    <RFTransmitter>
+      <HopTableID>1</HopTableID>
+      <ChannelIndex>1</ChannelIndex>
+      <TransmitPower>80</TransmitPower>
+    </RFTransmitter>
+  </AntennaConfiguration>
+  <AntennaConfiguration>
+    <AntennaID>2</AntennaID>
+    <RFReceiver>
+      <ReceiverSensitivity>1</ReceiverSensitivity>
+    </RFReceiver>
+    <RFTransmitter>
+      <HopTableID>1</HopTableID>
+      <ChannelIndex>1</ChannelIndex>
+      <TransmitPower>80</TransmitPower>
+    </RFTransmitter>
+  </AntennaConfiguration>
+  <AntennaConfiguration>
+    <AntennaID>3</AntennaID>
+    <RFReceiver>
+      <ReceiverSensitivity>1</ReceiverSensitivity>
+    </RFReceiver>
+    <RFTransmitter>
+      <HopTableID>1</HopTableID>
+      <ChannelIndex>1</ChannelIndex>
+      <TransmitPower>80</TransmitPower>
+    </RFTransmitter>
+  </AntennaConfiguration>
+  <AntennaConfiguration>
+    <AntennaID>4</AntennaID>
+    <RFReceiver>
+      <ReceiverSensitivity>1</ReceiverSensitivity>
+    </RFReceiver>
+    <RFTransmitter>
+      <HopTableID>1</HopTableID>
+      <ChannelIndex>1</ChannelIndex>
+      <TransmitPower>80</TransmitPower>
+    </RFTransmitter>
+  </AntennaConfiguration>
+</config>
+

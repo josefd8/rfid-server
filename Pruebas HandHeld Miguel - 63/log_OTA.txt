@@ -1,0 +1,3 @@
+06-11-2013 04:17:39	Nueva consulta de estado, código de operación: 0
+06-11-2013 04:18:09	Nueva consulta de estado, código de operación: 0
+06-11-2013 04:32:53	Nueva solicitud lectura, código de operación: 253

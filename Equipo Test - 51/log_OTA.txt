@@ -1,0 +1,14 @@
+05-11-2013 02:06:41	Nueva solicitud lectura, código de operación: 2
+05-11-2013 02:09:20	Nueva solicitud lectura, código de operación: 2
+05-11-2013 02:13:38	Nueva solicitud lectura, código de operación: 2
+05-11-2013 02:15:14	Nueva solicitud lectura, código de operación: 2
+05-11-2013 02:16:29	Nueva solicitud lectura, código de operación: 2
+05-11-2013 02:19:54	Nueva solicitud lectura, código de operación: 2
+06-11-2013 04:17:49	Nueva consulta de estado, código de operación: 0
+06-11-2013 04:17:58	Nueva consulta de estado, código de operación: 0
+06-11-2013 04:18:14	Nueva consulta de estado, código de operación: 0
+06-11-2013 04:19:36	Nueva consulta de estado, código de operación: 0
+06-11-2013 04:19:40	Nueva consulta de estado, código de operación: 0
+06-11-2013 04:50:14	Nueva consulta de estado, código de operación: 0
+06-11-2013 05:03:09	Nueva consulta de estado, código de operación: 0
+06-11-2013 05:22:22	Nueva consulta de estado, código de operación: 0

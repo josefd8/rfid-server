@@ -1,0 +1,295 @@
+09-10-2013 11:15:13	Error al iniciar el servidor TCP: No se encontró IP:PUERTO válido en BD
+09-10-2013 11:26:11	Error al iniciar el servidor TCP: Cannot assign requested address: JVM_Bind
+09-10-2013 11:26:11	Error al iniciar el servidor TCP: No se encontró IP:PUERTO válido en BD
+09-10-2013 11:26:11	Error al iniciar el servidor TCP para Grabador de etiquetas: Cannot assign requested address: JVM_Bind
+09-10-2013 11:26:11	Error al iniciar el servidor TCP: No se encontró IP:PUERTO válido en BD
+09-10-2013 11:26:21	Error al iniciar el servidor TCP: Cannot assign requested address: JVM_Bind
+09-10-2013 11:26:21	Error al iniciar el servidor TCP: No se encontró IP:PUERTO válido en BD
+09-10-2013 11:26:21	Error al iniciar el servidor TCP para Grabador de etiquetas: Cannot assign requested address: JVM_Bind
+09-10-2013 11:26:21	Error al iniciar el servidor TCP: No se encontró IP:PUERTO válido en BD
+09-10-2013 11:27:20	Error al iniciar el servidor TCP: Cannot assign requested address: JVM_Bind
+09-10-2013 11:27:20	Error al iniciar el servidor TCP: No se encontró IP:PUERTO válido en BD
+09-10-2013 11:27:20	Error al iniciar el servidor TCP para Grabador de etiquetas: Cannot assign requested address: JVM_Bind
+09-10-2013 11:27:20	Error al iniciar el servidor TCP: No se encontró IP:PUERTO válido en BD
+09-10-2013 11:28:38	Error al iniciar el servidor TCP: Cannot assign requested address: JVM_Bind
+09-10-2013 11:28:38	Error al iniciar el servidor TCP: No se encontró IP:PUERTO válido en BD
+09-10-2013 11:28:38	Error al iniciar el servidor TCP para Grabador de etiquetas: Cannot assign requested address: JVM_Bind
+09-10-2013 11:28:38	Error al iniciar el servidor TCP: No se encontró IP:PUERTO válido en BD
+09-10-2013 11:29:00	Error al iniciar el servidor TCP: Cannot assign requested address: JVM_Bind
+09-10-2013 11:29:00	Error al iniciar el servidor TCP: No se encontró IP:PUERTO válido en BD
+09-10-2013 11:29:00	Error al iniciar el servidor TCP para Grabador de etiquetas: Cannot assign requested address: JVM_Bind
+09-10-2013 11:29:00	Error al iniciar el servidor TCP: No se encontró IP:PUERTO válido en BD
+09-10-2013 11:29:22	Error al iniciar el servidor TCP: Cannot assign requested address: JVM_Bind
+09-10-2013 11:29:22	Error al iniciar el servidor TCP: No se encontró IP:PUERTO válido en BD
+09-10-2013 11:29:22	Error al iniciar el servidor TCP para Grabador de etiquetas: Cannot assign requested address: JVM_Bind
+09-10-2013 11:29:22	Error al iniciar el servidor TCP: No se encontró IP:PUERTO válido en BD
+09-10-2013 11:30:56	Error al iniciar el servidor TCP: Cannot assign requested address: JVM_Bind
+09-10-2013 11:30:57	Error al iniciar el servidor TCP: No se encontró IP:PUERTO válido en BD
+09-10-2013 11:31:26	Error al iniciar el servidor TCP para Grabador de etiquetas: Cannot assign requested address: JVM_Bind
+09-10-2013 11:33:49	Error al iniciar el servidor TCP: Cannot assign requested address: JVM_Bind
+09-10-2013 11:33:49	Error al iniciar el servidor TCP: No se encontró IP:PUERTO válido en BD
+09-10-2013 11:33:50	Error al iniciar el servidor TCP para Grabador de etiquetas: Cannot assign requested address: JVM_Bind
+09-10-2013 11:33:50	Error al iniciar el servidor TCP para Grabador de etiquetas: No se encontró IP:PUERTO válido en BD
+09-10-2013 11:46:30	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 11:46:30	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 11:47:02	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 11:47:02	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 11:47:44	Error al iniciar el servidor TCP: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 11:47:44	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 11:57:40	Error al iniciar el servidor TCP: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 11:57:40	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 12:14:06	Error al iniciar el servidor TCP: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 12:14:06	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 12:14:13	Error al iniciar el servidor TCP: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 12:14:13	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 12:16:54	Error al iniciar el servidor TCP: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 12:16:54	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 02:17:42	Error al iniciar el servidor TCP: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 02:17:42	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 02:18:33	Error al iniciar el servidor TCP: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 02:18:33	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 02:20:53	Error al iniciar el servidor TCP: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 02:20:53	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 02:57:56	Error al iniciar el servidor TCP: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 02:57:56	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 03:05:33	obtenerConfigDB: null
+09-10-2013 03:09:53	obtenerConfigDB: null
+09-10-2013 03:14:53	obtenerConfigDbParser: null
+09-10-2013 03:14:53	Error al iniciar el servidor TCP: No se encontró IP:PUERTO válido en BD
+09-10-2013 03:14:55	obtenerConfigDbParser: null
+09-10-2013 03:14:55	Error al iniciar el servidor TCP para Grabador de etiquetas: No se encontró IP:PUERTO válido en BD
+09-10-2013 03:15:34	obtenerConfigDbParser: null
+09-10-2013 03:15:34	Error al iniciar el servidor TCP: No se encontró IP:PUERTO válido en BD
+09-10-2013 03:15:36	obtenerConfigDbParser: null
+09-10-2013 03:15:36	Error al iniciar el servidor TCP para Grabador de etiquetas: No se encontró IP:PUERTO válido en BD
+09-10-2013 03:15:38	obtenerConfigDbReaders: null
+09-10-2013 03:15:38	No se encontraron readers válidos en BD
+09-10-2013 03:16:36	obtenerConfigDbParser: null
+09-10-2013 03:16:36	Error al iniciar el servidor TCP: No se encontró IP:PUERTO válido en BD
+09-10-2013 03:54:59	No se encontró el archivo de configuración config.xml. Se creará automáticamente
+09-10-2013 03:55:14	obtenerConfigDbParser: null
+09-10-2013 03:55:14	Error al iniciar el servidor TCP: No se encontró IP:PUERTO válido en BD
+09-10-2013 03:55:16	obtenerConfigDbParser: null
+09-10-2013 03:55:16	Error al iniciar el servidor TCP para Grabador de etiquetas: No se encontró IP:PUERTO válido en BD
+09-10-2013 03:55:18	obtenerConfigDbReaders: null
+09-10-2013 03:55:18	No se encontraron readers válidos en BD
+09-10-2013 04:23:08	Parámetro 'parametro' no encontrado en el archivo config.xml
+09-10-2013 04:23:33	Parámetro 'parametro' no encontrado en el archivo config.xml
+09-10-2013 04:26:27	Parámetro db_name vacío en el archivo config.xml
+09-10-2013 04:26:56	Parámetro db_name vacío en el archivo config.xml
+09-10-2013 04:27:08	No se encontró el archivo de configuración config.xml. Se creará automáticamente
+09-10-2013 04:27:16	Parámetro db_name vacío en el archivo config.xml
+09-10-2013 04:27:33	obtenerConfigDbParser: null
+09-10-2013 04:27:33	Error al iniciar el servidor TCP: No se encontró IP:PUERTO válido en BD
+09-10-2013 04:27:33	obtenerConfigDbParser: null
+09-10-2013 04:27:33	Error al iniciar el servidor TCP para Grabador de etiquetas: No se encontró IP:PUERTO válido en BD
+09-10-2013 04:27:33	obtenerConfigDbReaders: null
+09-10-2013 04:27:33	No se encontraron readers válidos en BD
+09-10-2013 04:27:54	obtenerConfigDbParser: null
+09-10-2013 04:27:54	Error al iniciar el servidor TCP: No se encontró IP:PUERTO válido en BD
+09-10-2013 04:27:54	obtenerConfigDbParser: null
+09-10-2013 04:27:54	Error al iniciar el servidor TCP para Grabador de etiquetas: No se encontró IP:PUERTO válido en BD
+09-10-2013 04:27:54	obtenerConfigDbReaders: null
+09-10-2013 04:27:54	No se encontraron readers válidos en BD
+09-10-2013 04:28:54	obtenerConfigDbParser: null
+09-10-2013 04:28:54	Error al iniciar el servidor TCP: No se encontró IP:PUERTO válido en BD
+09-10-2013 04:28:54	obtenerConfigDbParser: null
+09-10-2013 04:28:54	Error al iniciar el servidor TCP para Grabador de etiquetas: No se encontró IP:PUERTO válido en BD
+09-10-2013 04:28:54	obtenerConfigDbReaders: null
+09-10-2013 04:28:54	No se encontraron readers válidos en BD
+09-10-2013 04:30:54	Error al iniciar el servidor TCP: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 04:30:54	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 04:31:47	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 04:31:47	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 04:33:39	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 04:33:39	Error al iniciar el servidor TCP de WebService: No se encontró IP:PUERTO válido en BD
+09-10-2013 04:33:39	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 04:33:39	Error al iniciar el servidor TCP para Grabador de etiquetas: No se encontró IP:PUERTO válido en BD
+09-10-2013 04:52:47	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 04:52:47	Error al iniciar el servidor TCP de WebService: No se encontró IP:PUERTO válido en BD
+09-10-2013 04:52:47	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 04:52:47	Error al iniciar el servidor TCP para Grabador de etiquetas: No se encontró IP:PUERTO válido en BD
+09-10-2013 05:04:03	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 05:04:03	Error al iniciar el servidor TCP de WebService: No se encontró IP:PUERTO válido en BD
+09-10-2013 05:04:03	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 05:04:03	Error al iniciar el servidor TCP para Grabador de etiquetas: No se encontró IP:PUERTO válido en BD
+09-10-2013 05:07:58	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 05:07:58	Error al iniciar el servidor TCP de WebService: No se encontró IP:PUERTO válido en BD
+09-10-2013 05:07:58	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 05:07:58	Error al iniciar el servidor TCP para Grabador de etiquetas: No se encontró IP:PUERTO válido en BD
+09-10-2013 05:09:17	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 05:09:17	Error al iniciar el servidor TCP de WebService: No se encontró IP:PUERTO válido en BD
+09-10-2013 05:09:17	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 05:09:17	Error al iniciar el servidor TCP para Grabador de etiquetas: No se encontró IP:PUERTO válido en BD
+09-10-2013 05:10:16	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 05:10:16	Error al iniciar el servidor TCP de WebService: No se encontró IP:PUERTO válido en BD
+09-10-2013 05:10:16	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 05:10:16	Error al iniciar el servidor TCP para Grabador de etiquetas: No se encontró IP:PUERTO válido en BD
+09-10-2013 05:12:55	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 05:12:55	Error al iniciar el servidor TCP de WebService: No se encontró IP:PUERTO válido en BD
+09-10-2013 05:12:55	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+09-10-2013 05:12:55	Error al iniciar el servidor TCP para Grabador de etiquetas: No se encontró IP:PUERTO válido en BD
+10-10-2013 09:38:23	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+10-10-2013 09:38:23	Error al iniciar el servidor TCP de WebService: No se encontró IP:PUERTO válido en BD
+10-10-2013 09:38:23	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+10-10-2013 09:38:23	Error al iniciar el servidor TCP para Grabador de etiquetas: No se encontró IP:PUERTO válido en BD
+10-10-2013 09:55:33	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+10-10-2013 09:55:33	Error al iniciar el servidor TCP de WebService: No se encontró IP:PUERTO válido en BD
+10-10-2013 09:55:33	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+10-10-2013 09:55:33	Error al iniciar el servidor TCP para Grabador de etiquetas: No se encontró IP:PUERTO válido en BD
+10-10-2013 10:37:40	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+10-10-2013 10:37:40	Error al iniciar el servidor TCP de WebService: No se encontró IP:PUERTO válido en BD
+10-10-2013 10:37:40	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+10-10-2013 10:37:40	Error al iniciar el servidor TCP para Grabador de etiquetas: No se encontró IP:PUERTO válido en BD
+10-10-2013 10:37:47	Error al borrar la pantalla: Cannot run program "clear": CreateProcess error=2, El sistema no puede hallar el archivo especificado
+10-10-2013 10:38:04	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+10-10-2013 10:38:04	Error al iniciar el servidor TCP de WebService: No se encontró IP:PUERTO válido en BD
+10-10-2013 10:38:04	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+10-10-2013 10:38:04	Error al iniciar el servidor TCP para Grabador de etiquetas: No se encontró IP:PUERTO válido en BD
+10-10-2013 10:38:08	Error al borrar la pantalla: Cannot run program "cls": CreateProcess error=2, El sistema no puede hallar el archivo especificado
+10-10-2013 10:40:16	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+10-10-2013 10:40:16	Error al iniciar el servidor TCP de WebService: No se encontró IP:PUERTO válido en BD
+10-10-2013 10:40:16	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+10-10-2013 10:40:16	Error al iniciar el servidor TCP para Grabador de etiquetas: No se encontró IP:PUERTO válido en BD
+10-10-2013 10:46:26	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+10-10-2013 10:46:26	Error al iniciar el servidor TCP de WebService: No se encontró IP:PUERTO válido en BD
+10-10-2013 10:46:26	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+10-10-2013 10:46:26	Error al iniciar el servidor TCP para Grabador de etiquetas: No se encontró IP:PUERTO válido en BD
+10-10-2013 10:46:29	Error al borrar la pantalla: Cannot run program "cls": CreateProcess error=2, El sistema no puede hallar el archivo especificado
+10-10-2013 10:47:22	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+10-10-2013 10:47:22	Error al iniciar el servidor TCP de WebService: No se encontró IP:PUERTO válido en BD
+10-10-2013 10:47:22	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+10-10-2013 10:47:22	Error al iniciar el servidor TCP para Grabador de etiquetas: No se encontró IP:PUERTO válido en BD
+11-10-2013 02:32:55	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+11-10-2013 02:32:55	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+11-10-2013 02:34:13	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+11-10-2013 02:34:13	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+11-10-2013 02:36:00	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+11-10-2013 02:36:00	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+11-10-2013 02:36:40	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+11-10-2013 02:36:40	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+14-10-2013 08:56:20	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+14-10-2013 08:56:20	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+14-10-2013 02:10:08	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+14-10-2013 02:10:08	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+14-10-2013 02:10:17	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+14-10-2013 02:10:17	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+14-10-2013 02:11:28	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+14-10-2013 02:11:28	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+14-10-2013 02:11:38	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+14-10-2013 02:11:38	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+14-10-2013 02:13:36	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+14-10-2013 02:13:36	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+14-10-2013 03:41:06	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+14-10-2013 03:41:06	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+14-10-2013 03:43:47	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+14-10-2013 03:43:47	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+16-10-2013 10:33:22	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+16-10-2013 10:33:22	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+16-10-2013 10:40:32	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+16-10-2013 10:40:32	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+16-10-2013 10:41:17	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+16-10-2013 10:41:18	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+16-10-2013 10:42:17	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+16-10-2013 10:42:17	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+16-10-2013 10:43:19	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+16-10-2013 10:43:19	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+16-10-2013 10:46:32	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+16-10-2013 10:46:32	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+16-10-2013 10:52:47	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+16-10-2013 10:52:47	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+16-10-2013 10:59:33	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+16-10-2013 10:59:33	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+16-10-2013 11:02:19	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+16-10-2013 11:02:19	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+16-10-2013 11:03:26	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+16-10-2013 11:03:26	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+16-10-2013 11:04:59	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+16-10-2013 11:04:59	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+16-10-2013 11:06:34	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+16-10-2013 11:06:34	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+21-10-2013 09:19:38	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+21-10-2013 09:19:38	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+21-10-2013 09:36:28	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+21-10-2013 09:36:28	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+21-10-2013 10:46:56	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+21-10-2013 10:46:56	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+01-11-2013 03:38:47	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+01-11-2013 03:38:47	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+01-11-2013 03:41:13	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+01-11-2013 03:41:13	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+01-11-2013 03:43:34	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+01-11-2013 03:43:34	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+01-11-2013 03:44:10	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+01-11-2013 03:44:10	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+01-11-2013 03:45:41	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+01-11-2013 03:45:41	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+01-11-2013 03:47:18	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+01-11-2013 03:47:18	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+01-11-2013 03:47:46	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+01-11-2013 03:47:46	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+01-11-2013 03:49:23	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+01-11-2013 03:49:23	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+01-11-2013 03:50:40	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+01-11-2013 03:50:40	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+01-11-2013 03:53:02	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+01-11-2013 03:53:02	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+01-11-2013 03:53:29	Error al iniciar el servidor TCP de WebService: Error de I/O. (Cannot assign requested address: JVM_Bind)
+01-11-2013 03:53:29	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Cannot assign requested address: JVM_Bind)
+04-11-2013 03:15:13	Error al iniciar el servidor TCP para Handheld: Error de I/O. (Address already in use: JVM_Bind)
+04-11-2013 03:15:26	Error al iniciar el servidor TCP de WebService: Error de I/O. (Address already in use: JVM_Bind)
+04-11-2013 03:15:26	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Address already in use: JVM_Bind)
+04-11-2013 03:15:26	Error al iniciar el servidor TCP para Handheld: Error de I/O. (Address already in use: JVM_Bind)
+04-11-2013 03:15:53	Error al iniciar el servidor TCP para Handheld: Error de I/O. (Address already in use: JVM_Bind)
+04-11-2013 03:19:22	Error al iniciar el servidor TCP para Handheld: Error de I/O. (Address already in use: JVM_Bind)
+04-11-2013 03:38:25	Error al iniciar el servidor TCP de WebService: Error de I/O. (Address already in use: JVM_Bind)
+04-11-2013 03:38:25	Error al iniciar el servidor TCP para Grabador de etiquetas: Error de I/O. (Address already in use: JVM_Bind)
+04-11-2013 03:38:25	Error al iniciar el servidor TCP para Handheld: Error de I/O. (Address already in use: JVM_Bind)
+05-11-2013 01:53:03	Error al convertir la hora de la etiqueta leida por Handheld
+05-11-2013 01:53:18	Error al convertir la hora de la etiqueta leida por Handheld
+05-11-2013 01:55:44	Error al convertir la hora de la etiqueta leida por Handheld
+05-11-2013 01:56:10	Error al convertir la hora de la etiqueta leida por Handheld: Unparseable date: "2013-11-31 15:30:45"
+05-11-2013 02:06:21	Los readers: 50 52 no se encuentran conectados para la solicitud 2
+05-11-2013 02:25:24	Ya existe una operación en proceso con el mismo código: 2
+06-11-2013 05:30:52	solicitarReinicioParser: null
+08-11-2013 11:45:40	No existen operaciones pendientes con id: 654
+08-11-2013 11:53:56	Los readers: 64 no se encuentran conectados para la solicitud 339
+08-11-2013 11:55:46	Los readers: 64 no se encuentran conectados para la solicitud 340
+08-11-2013 11:56:36	No existen operaciones pendientes con id: 655
+08-11-2013 11:58:18	Los readers: 64 no se encuentran conectados para la solicitud 342
+08-11-2013 11:58:25	Los readers: 64 no se encuentran conectados para la solicitud 656
+08-11-2013 11:59:12	Los readers: 64 no se encuentran conectados para la solicitud 343
+08-11-2013 11:59:17	Los readers: 64 no se encuentran conectados para la solicitud 657
+08-11-2013 03:15:58	No existen operaciones pendientes con id: 659
+08-11-2013 03:17:46	Los readers: 64 no se encuentran conectados para la solicitud 348
+08-11-2013 03:18:01	Los readers: 64 47 no se encuentran conectados para la solicitud 349
+08-11-2013 03:19:40	Los readers: 47 no se encuentran conectados para la solicitud 350
+08-11-2013 03:26:13	No existen operaciones pendientes con id: 664
+08-11-2013 03:26:18	No existen operaciones pendientes con id: 664
+08-11-2013 03:30:16	No existen operaciones pendientes con id: 666
+08-11-2013 04:15:28	solicitarReinicioParser: null
+08-11-2013 04:16:18	solicitarReinicioParser: null
+08-11-2013 04:19:10	solicitarReinicioParser: null
+08-11-2013 04:21:37	solicitarReinicioParser: null
+08-11-2013 04:25:25	solicitarReinicioParser: null
+08-11-2013 04:31:10	Se encontró un error al cerrar el Socket TCP para el grabador de etiquetas: null
+08-11-2013 04:32:31	Se encontró un error al cerrar el Socket TCP para el grabador de etiquetas: null
+08-11-2013 04:34:14	Se encontró un error al cerrar el Socket TCP para el grabador de etiquetas: null
+08-11-2013 04:35:25	Se encontró un error al cerrar el Socket TCP para el grabador de etiquetas: null
+08-11-2013 04:36:37	Se encontró un error al cerrar el Socket TCP para el grabador de etiquetas: null
+08-11-2013 04:38:34	Se encontró un error al cerrar el Socket TCP para el grabador de etiquetas: null
+08-11-2013 04:41:58	No existen operaciones pendientes con id: 668
+08-11-2013 04:43:08	No existen operaciones pendientes con id: 669
+08-11-2013 04:52:24	Los readers: 64 no se encuentran conectados para la solicitud 367
+08-11-2013 04:52:29	Los readers: 64 no se encuentran conectados para la solicitud 670
+08-11-2013 04:54:12	No existen operaciones pendientes con id: 672
+08-11-2013 05:11:50	Los readers: 51 64 no se encuentran conectados para la solicitud 372
+08-11-2013 05:11:55	Los readers: 51 64 no se encuentran conectados para la solicitud 673
+11-12-2013 12:00:12	Error al iniciar el servidor TCP de WebService: Error de I/O. (Address already in use: JVM_Bind)
+11-12-2013 12:00:12	Error al iniciar el servidor TCP de Grabador de etiquetas: Error de I/O. (Address already in use: JVM_Bind)
+11-12-2013 12:13:49	Error al iniciar el servidor TCP de WebService: Error de I/O. (Address already in use: JVM_Bind)
+11-12-2013 12:13:49	Error al iniciar el servidor TCP de Grabador de etiquetas: Error de I/O. (Address already in use: JVM_Bind)
+11-12-2013 04:57:10	Error al iniciar el servidor TCP de WebService: Error de I/O. (Address already in use: JVM_Bind)
+11-12-2013 04:57:10	Error al iniciar el servidor TCP de Grabador de etiquetas: Error de I/O. (Address already in use: JVM_Bind)
+12-12-2013 10:24:11	Error al iniciar el servidor TCP de WebService: Error de I/O. (Address already in use: JVM_Bind)
+12-12-2013 10:24:11	Error al iniciar el servidor TCP de Grabador de etiquetas: Error de I/O. (Address already in use: JVM_Bind)

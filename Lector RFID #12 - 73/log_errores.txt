@@ -1,0 +1,951 @@
+09-07-2014 10:43:01	Error al conectar con el reader 73 en 172.22.23.226: Failed_A_Client_Initiated_Connection_Already_Exists
+09-07-2014 10:43:01	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:43:01	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 10:43:01	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:43:01	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:43:01	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 10:43:02	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 10:43:02	Error añadiendo el ROSpec: 172.22.23.226 null
+09-07-2014 10:43:02	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:43:02	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 10:43:02	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:43:02	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 10:43:02	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:43:03	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 10:43:03	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 10:43:03	consultarEstadoReader: TimeoutExceptionnull
+09-07-2014 10:43:03	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:49:50	Error al conectar con el reader 73 en 172.22.23.226: Failed_A_Client_Initiated_Connection_Already_Exists
+09-07-2014 10:49:50	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:49:50	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 10:49:50	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:49:51	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 10:49:51	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:49:51	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 10:49:51	Error añadiendo el ROSpec: 172.22.23.226 null
+09-07-2014 10:49:51	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:49:51	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 10:49:51	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:49:52	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 10:49:52	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:49:52	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 10:49:52	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:49:52	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 10:49:52	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:49:52	consultarEstadoReader: TimeoutExceptionnull
+09-07-2014 10:55:14	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 10:56:43	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:03:48	Error al conectar con el reader 73 en 172.22.23.226: Failed_A_Client_Initiated_Connection_Already_Exists
+09-07-2014 11:03:48	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:03:48	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:03:48	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:03:48	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:03:48	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:03:48	Error añadiendo el ROSpec: 172.22.23.226 null
+09-07-2014 11:03:49	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:03:49	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:03:49	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:03:49	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:03:50	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:03:50	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:03:50	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:03:50	consultarEstadoReader: TimeoutExceptionnull
+09-07-2014 11:03:50	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:09:37	Error al conectar con el reader 73 en 172.22.23.226: Failed_A_Client_Initiated_Connection_Already_Exists
+09-07-2014 11:09:37	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:09:37	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:09:37	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:09:37	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:09:37	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:09:37	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:09:37	Error añadiendo el ROSpec: 172.22.23.226 null
+09-07-2014 11:09:37	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:09:38	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:09:38	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:09:38	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:09:38	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:09:38	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:09:38	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:09:39	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:09:39	consultarEstadoReader: TimeoutExceptionnull
+09-07-2014 11:09:39	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:15:27	Error al conectar con el reader 73 en 172.22.23.226: Failed_A_Client_Initiated_Connection_Already_Exists
+09-07-2014 11:15:27	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:15:28	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:15:28	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:16:30	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:16:33	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:17:13	Error al conectar con el reader 73 en 172.22.23.226: Failed_A_Client_Initiated_Connection_Already_Exists
+09-07-2014 11:17:13	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:17:13	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:17:13	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:17:19	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:17:19	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:21:09	Error al conectar con el reader 73 en 172.22.23.226: Failed_A_Client_Initiated_Connection_Already_Exists
+09-07-2014 11:21:09	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:21:10	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:21:10	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:22:12	Error al conectar con el reader 73 en 172.22.23.226: Failed_A_Client_Initiated_Connection_Already_Exists
+09-07-2014 11:22:12	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:22:12	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:22:12	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:22:15	Se ha producido un error (ltkjava): session is not yet connected
+09-07-2014 11:56:02	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 11:58:16	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 12:03:58	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 12:10:45	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 02:22:04	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 02:23:34	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 02:59:08	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 03:01:03	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 03:05:32	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 03:05:43	Se ha producido un error (ltkjava): java.util.ConcurrentModificationException
+09-07-2014 03:06:13	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 03:13:06	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 03:13:25	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 03:15:54	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 03:19:05	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 03:19:25	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 03:19:26	Se ha producido un error (ltkjava): java.util.ConcurrentModificationException
+09-07-2014 03:22:39	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 03:25:48	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 05:27:49	Se ha producido un error (ltkjava): java.lang.NullPointerException
+09-07-2014 05:27:49	Se ha producido un error (ltkjava): java.util.ConcurrentModificationException
+09-07-2014 05:27:50	Se ha producido un error (ltkjava): java.util.ConcurrentModificationException
+15-07-2014 03:42:43	Se ha producido un error (ltkjava): java.lang.NullPointerException
+15-07-2014 03:43:58	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+15-07-2014 03:43:59	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 03:43:59	Error al borrar los ROSpec: 172.22.23.226, null
+15-07-2014 03:44:10	Se ha producido un error (ltkjava): java.lang.NullPointerException
+15-07-2014 03:54:02	Se ha producido un error (ltkjava): java.lang.NullPointerException
+15-07-2014 03:54:24	Se ha producido un error (ltkjava): java.lang.NullPointerException
+15-07-2014 03:54:50	Se ha producido un error (ltkjava): java.lang.NullPointerException
+15-07-2014 03:55:37	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+15-07-2014 03:55:37	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 03:55:37	Error al borrar los ROSpec: 172.22.23.226, null
+15-07-2014 03:56:08	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+15-07-2014 03:56:09	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 03:56:09	Error al borrar los ROSpec: 172.22.23.226, null
+15-07-2014 03:56:40	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+15-07-2014 03:56:41	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 03:56:41	Error al borrar los ROSpec: 172.22.23.226, null
+15-07-2014 03:57:12	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+15-07-2014 03:57:12	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 03:57:12	Error al borrar los ROSpec: 172.22.23.226, null
+15-07-2014 03:57:40	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+15-07-2014 03:57:40	Se ha producido un error (ltkjava): session is not yet established
+15-07-2014 03:57:40	Error al borrar los ROSpec: 172.22.23.226, null
+15-07-2014 03:57:51	Se ha producido un error (ltkjava): java.lang.NullPointerException
+15-07-2014 03:58:22	Se ha producido un error (ltkjava): java.lang.NullPointerException
+15-07-2014 04:02:24	Se ha producido un error (ltkjava): java.lang.NullPointerException
+15-07-2014 04:21:18	Se ha producido un error (ltkjava): java.lang.NullPointerException
+15-07-2014 04:21:33	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, Failed_A_Client_Initiated_Connection_Already_Exists
+15-07-2014 04:21:33	Se ha producido un error (ltkjava): java.lang.NullPointerException
+15-07-2014 04:21:34	Se ha producido un error (ltkjava): session is not yet connected
+15-07-2014 04:21:34	Error al borrar los ROSpec: 172.22.23.226, null
+15-07-2014 04:21:34	Se ha producido un error (ltkjava): java.lang.NullPointerException
+15-07-2014 04:22:05	Se ha producido un error (ltkjava): java.lang.NullPointerException
+15-07-2014 04:24:35	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 09:36:43	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 09:45:47	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 09:46:45	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 09:47:04	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, Failed_A_Client_Initiated_Connection_Already_Exists
+16-07-2014 09:47:04	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 09:47:04	Se ha producido un error (ltkjava): session is not yet connected
+16-07-2014 09:47:04	Error al borrar los ROSpec: 172.22.23.226, null
+16-07-2014 09:47:04	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 09:47:30	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 09:47:55	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 09:47:56	consultarEstadoReader: TimeoutExceptionnull
+16-07-2014 09:48:22	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 09:48:22	consultarEstadoReader: TimeoutExceptionnull
+16-07-2014 09:48:46	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 09:48:46	consultarEstadoReader: TimeoutExceptionnull
+16-07-2014 09:49:11	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 09:51:28	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 09:58:23	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 10:02:34	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 10:17:54	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+16-07-2014 10:17:55	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 10:17:55	Error al borrar los ROSpec: 172.22.23.226, null
+16-07-2014 10:18:05	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 10:18:38	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 10:19:20	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 10:33:56	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 10:34:47	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 10:35:34	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 10:35:35	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, Failed_A_Client_Initiated_Connection_Already_Exists
+16-07-2014 10:35:35	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 10:35:35	Se ha producido un error (ltkjava): java.lang.IllegalStateException
+16-07-2014 10:43:19	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 10:49:41	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 10:49:41	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1858] : Invalid number of antennas (5) specified in the AntennaID set
+16-07-2014 10:49:42	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 10:49:42	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 10:49:42	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 10:50:11	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 10:52:29	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+16-07-2014 10:52:29	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 10:52:29	Error al borrar los ROSpec: 172.22.23.226, null
+16-07-2014 10:52:40	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 10:53:04	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 10:53:32	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 10:53:32	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1858] : Invalid number of antennas (5) specified in the AntennaID set
+16-07-2014 10:53:33	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 10:53:33	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 10:53:33	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 10:54:19	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 10:57:16	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+16-07-2014 10:57:17	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 10:57:17	Error al borrar los ROSpec: 172.22.23.226, null
+16-07-2014 10:57:28	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 10:57:54	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 10:58:19	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 10:58:45	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 10:58:45	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1858] : Invalid number of antennas (5) specified in the AntennaID set
+16-07-2014 10:58:46	Se ha producido un error (ltkjava): session is not yet connected
+16-07-2014 10:58:46	Error habilitando el ROSpec: 172.22.23.226, null
+16-07-2014 10:58:46	Se ha producido un error (ltkjava): session is not yet connected
+16-07-2014 10:58:46	Error borrando el ROSpec: 172.22.23.226, null
+16-07-2014 10:58:46	Se ha producido un error (ltkjava): session is not yet connected
+16-07-2014 10:58:46	Se ha producido un error (ltkjava): session is not yet connected
+16-07-2014 10:58:46	consultarEstadoReader: TimeoutExceptionnull
+16-07-2014 10:59:23	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 10:59:23	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1858] : Invalid number of antennas (5) specified in the AntennaID set
+16-07-2014 10:59:24	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 10:59:24	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 10:59:24	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 11:01:28	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 11:01:28	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1858] : Invalid number of antennas (5) specified in the AntennaID set
+16-07-2014 11:01:29	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 11:01:29	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 11:01:29	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 11:04:28	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+16-07-2014 11:04:29	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 11:04:29	Error al borrar los ROSpec: 172.22.23.226, null
+16-07-2014 11:05:00	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+16-07-2014 11:05:00	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 11:05:00	Error al borrar los ROSpec: 172.22.23.226, null
+16-07-2014 11:05:31	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+16-07-2014 11:05:32	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 11:05:32	Error al borrar los ROSpec: 172.22.23.226, null
+16-07-2014 11:05:43	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 11:05:43	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1858] : Invalid number of antennas (5) specified in the AntennaID set
+16-07-2014 11:05:43	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 11:05:43	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 11:05:43	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 11:07:55	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 11:07:55	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1858] : Invalid number of antennas (5) specified in the AntennaID set
+16-07-2014 11:07:55	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 11:07:55	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 11:07:55	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 11:23:35	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 11:23:35	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1858] : Invalid number of antennas (5) specified in the AntennaID set
+16-07-2014 11:23:36	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 11:23:36	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 11:23:36	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 11:29:43	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 11:30:55	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 11:31:19	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 11:31:46	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 11:31:47	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1858] : Invalid number of antennas (5) specified in the AntennaID set
+16-07-2014 11:31:47	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 11:31:47	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 11:31:47	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 11:34:40	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 11:34:40	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1858] : Invalid number of antennas (5) specified in the AntennaID set
+16-07-2014 11:34:41	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 11:34:41	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 11:34:41	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 11:35:12	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 11:35:12	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1858] : Invalid number of antennas (5) specified in the AntennaID set
+16-07-2014 11:35:13	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 11:35:13	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 11:35:13	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 01:52:02	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 01:52:02	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1858] : Invalid number of antennas (5) specified in the AntennaID set
+16-07-2014 01:52:03	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 01:52:03	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 01:52:03	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 02:01:45	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:01:45	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1858] : Invalid number of antennas (5) specified in the AntennaID set
+16-07-2014 02:01:45	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:01:45	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 02:01:45	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 02:01:46	Se ha producido un error (ltkjava): java.util.ConcurrentModificationException
+16-07-2014 02:02:56	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:03:37	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:05:08	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:06:54	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:06:54	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1858] : Invalid number of antennas (5) specified in the AntennaID set
+16-07-2014 02:06:54	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:06:54	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 02:06:54	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 02:07:34	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:07:34	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1858] : Invalid number of antennas (6) specified in the AntennaID set
+16-07-2014 02:07:35	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:07:35	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 02:07:35	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 02:13:24	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:13:25	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, Failed_A_Client_Initiated_Connection_Already_Exists
+16-07-2014 02:13:25	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:13:26	Se ha producido un error (ltkjava): java.lang.IllegalStateException
+16-07-2014 02:13:26	Se ha producido un error (ltkjava): session is not yet connected
+16-07-2014 02:13:26	Error al borrar los ROSpec: 172.22.23.226, null
+16-07-2014 02:13:26	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:13:36	Se ha producido un error (ltkjava): java.lang.IllegalStateException
+16-07-2014 02:13:36	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, Failed_A_Client_Initiated_Connection_Already_Exists
+16-07-2014 02:13:36	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:13:37	Se ha producido un error (ltkjava): java.lang.IllegalStateException
+16-07-2014 02:13:37	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:13:37	Se ha producido un error (ltkjava): session is not yet connected
+16-07-2014 02:13:37	Error al borrar los ROSpec: 172.22.23.226, null
+16-07-2014 02:13:56	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:15:00	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:16:08	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+16-07-2014 02:16:09	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:16:09	Error al borrar los ROSpec: 172.22.23.226, null
+16-07-2014 02:16:19	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:21:21	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:21:21	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1858] : Invalid number of antennas (0) specified in the AntennaID set
+16-07-2014 02:21:22	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 02:21:22	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:21:22	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 02:22:19	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:24:15	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:24:15	Se ha producido un error (ltkjava): java.util.ConcurrentModificationException
+16-07-2014 02:24:15	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1858] : Invalid number of antennas (0) specified in the AntennaID set
+16-07-2014 02:24:16	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 02:24:16	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:24:16	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 02:26:28	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:26:28	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1932] : Maximum (1) number of InventoryParameterSpecs per AISpec exceeded (2)
+16-07-2014 02:26:29	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:26:29	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 02:26:29	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 02:27:34	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:28:27	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:28:27	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1858] : Invalid number of antennas (0) specified in the AntennaID set
+16-07-2014 02:28:28	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 02:28:28	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:28:28	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 02:29:38	Se ha producido un error (ltkjava): java.util.ConcurrentModificationException
+16-07-2014 02:31:36	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:31:36	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1858] : Invalid number of antennas (5) specified in the AntennaID set
+16-07-2014 02:31:36	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:31:36	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 02:31:36	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 02:31:48	Se ha producido un error (ltkjava): java.util.ConcurrentModificationException
+16-07-2014 02:34:21	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+16-07-2014 02:34:21	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:34:21	Error al borrar los ROSpec: 172.22.23.226, null
+16-07-2014 02:34:31	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:34:31	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1858] : Invalid number of antennas (5) specified in the AntennaID set
+16-07-2014 02:34:32	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:34:32	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 02:34:32	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 02:35:13	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:35:13	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1858] : Invalid number of antennas (5) specified in the AntennaID set
+16-07-2014 02:35:23	Error habilitando el ROSpec: 172.22.23.226, Request timed out after 10000 ms.
+16-07-2014 02:35:23	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 02:35:23	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:36:47	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:36:48	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1858] : Invalid number of antennas (5) specified in the AntennaID set
+16-07-2014 02:36:48	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:36:48	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 02:36:48	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 02:37:12	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:37:12	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1858] : Invalid number of antennas (5) specified in the AntennaID set
+16-07-2014 02:37:13	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:37:13	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 02:37:13	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 02:39:41	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:39:41	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1858] : Invalid number of antennas (5) specified in the AntennaID set
+16-07-2014 02:39:41	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:39:41	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 02:39:41	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 02:40:33	Se ha producido un error (ltkjava): java.util.ConcurrentModificationException
+16-07-2014 02:40:41	Se ha producido un error (ltkjava): java.util.ConcurrentModificationException
+16-07-2014 02:42:22	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:42:23	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, Failed_A_Client_Initiated_Connection_Already_Exists
+16-07-2014 02:42:23	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:42:24	Se ha producido un error (ltkjava): java.lang.IllegalStateException
+16-07-2014 02:42:24	Se ha producido un error (ltkjava): session is not yet connected
+16-07-2014 02:42:24	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:42:24	Error al borrar los ROSpec: 172.22.23.226, null
+16-07-2014 02:46:57	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:46:57	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1881] : Antenna 0 (all) cannot be used with specific antennas in the AntennaID set
+16-07-2014 02:46:58	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:46:58	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 02:46:58	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 02:48:07	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:48:07	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1881] : Antenna 0 (all) cannot be used with specific antennas in the AntennaID set
+16-07-2014 02:48:08	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:48:08	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 02:48:08	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 02:53:59	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:54:35	Error al borrar los ROSpec: 172.22.23.226, Request timed out after 10000 ms.
+16-07-2014 02:54:38	Error al borrar los ROSpec: 172.22.23.226, Request timed out after 10000 ms.
+16-07-2014 02:54:58	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+16-07-2014 02:54:59	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:54:59	Error al borrar los ROSpec: 172.22.23.226, null
+16-07-2014 02:54:59	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+16-07-2014 02:55:00	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 02:55:00	Error al borrar los ROSpec: 172.22.23.226, null
+16-07-2014 02:55:09	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:55:10	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:55:10	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, Failed_A_Client_Initiated_Connection_Already_Exists
+16-07-2014 02:55:10	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:55:10	Se ha producido un error (ltkjava): java.lang.IllegalStateException
+16-07-2014 02:55:11	Se ha producido un error (ltkjava): session is not yet connected
+16-07-2014 02:55:11	Error al borrar los ROSpec: 172.22.23.226, null
+16-07-2014 02:55:11	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:55:21	Se ha producido un error (ltkjava): java.lang.IllegalStateException
+16-07-2014 02:55:21	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, Failed_A_Client_Initiated_Connection_Already_Exists
+16-07-2014 02:55:21	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:55:22	Se ha producido un error (ltkjava): java.lang.IllegalStateException
+16-07-2014 02:55:22	Se ha producido un error (ltkjava): session is not yet connected
+16-07-2014 02:55:22	Error al borrar los ROSpec: 172.22.23.226, null
+16-07-2014 02:55:22	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:55:32	Se ha producido un error (ltkjava): java.lang.IllegalStateException
+16-07-2014 02:55:32	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, Failed_A_Client_Initiated_Connection_Already_Exists
+16-07-2014 02:55:32	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:55:33	Se ha producido un error (ltkjava): java.lang.IllegalStateException
+16-07-2014 02:55:33	Se ha producido un error (ltkjava): session is not yet connected
+16-07-2014 02:55:33	Error al borrar los ROSpec: 172.22.23.226, null
+16-07-2014 02:55:33	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:55:58	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:57:40	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:57:41	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, Failed_A_Client_Initiated_Connection_Already_Exists
+16-07-2014 02:57:41	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:57:42	Se ha producido un error (ltkjava): java.lang.IllegalStateException
+16-07-2014 02:57:42	Se ha producido un error (ltkjava): session is not yet connected
+16-07-2014 02:57:42	Error al borrar los ROSpec: 172.22.23.226, null
+16-07-2014 02:57:42	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 02:58:08	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:00:07	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+16-07-2014 03:00:07	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:00:07	Error al borrar los ROSpec: 172.22.23.226, null
+16-07-2014 03:00:26	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:02:20	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:03:13	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:04:23	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:04:48	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:05:37	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:05:37	Se ha producido un error (ltkjava): java.util.ConcurrentModificationException
+16-07-2014 03:05:37	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1858] : Invalid number of antennas (5) specified in the AntennaID set
+16-07-2014 03:05:38	Se ha producido un error (ltkjava): session is not yet connected
+16-07-2014 03:05:38	Error habilitando el ROSpec: 172.22.23.226, null
+16-07-2014 03:05:38	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 03:05:38	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:07:42	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:07:42	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1858] : Invalid number of antennas (5) specified in the AntennaID set
+16-07-2014 03:07:43	Se ha producido un error (ltkjava): session is not yet connected
+16-07-2014 03:07:43	Error habilitando el ROSpec: 172.22.23.226, null
+16-07-2014 03:07:43	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 03:07:43	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:09:20	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:09:20	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1858] : Invalid number of antennas (15) specified in the AntennaID set
+16-07-2014 03:09:21	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 03:09:21	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:09:21	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 03:13:01	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:13:02	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, Failed_A_Client_Initiated_Connection_Already_Exists
+16-07-2014 03:13:02	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:13:03	Se ha producido un error (ltkjava): java.lang.IllegalStateException
+16-07-2014 03:13:03	Se ha producido un error (ltkjava): session is not yet connected
+16-07-2014 03:13:03	Error al borrar los ROSpec: 172.22.23.226, null
+16-07-2014 03:13:03	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:13:25	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:13:26	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:13:53	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:13:53	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:14:26	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:15:38	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+16-07-2014 03:15:38	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:15:38	Error al borrar los ROSpec: 172.22.23.226, null
+16-07-2014 03:16:09	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+16-07-2014 03:16:10	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:16:10	Error al borrar los ROSpec: 172.22.23.226, null
+16-07-2014 03:16:20	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:17:22	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:18:20	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:18:20	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1858] : Invalid number of antennas (5) specified in the AntennaID set
+16-07-2014 03:18:21	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:18:21	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 03:18:21	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 03:22:29	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:23:50	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:24:21	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:36:15	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+16-07-2014 03:36:15	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:36:15	Error al borrar los ROSpec: 172.22.23.226, null
+16-07-2014 03:36:25	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:36:25	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [148] : //ROSpec/ROSpecID : ID already configured
+16-07-2014 03:36:26	Se ha producido un error (ltkjava): session is not yet connected
+16-07-2014 03:36:26	Error habilitando el ROSpec: 172.22.23.226, null
+16-07-2014 03:36:26	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 03:36:26	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:36:36	Error al borrar los ROSpec: 172.22.23.226, Request timed out after 10000 ms.
+16-07-2014 03:36:36	consultarEstadoReader: TimeoutExceptionRequest timed out after 10000 ms.
+16-07-2014 03:36:37	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:36:37	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [148] : //ROSpec/ROSpecID : ID already configured
+16-07-2014 03:36:37	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:36:37	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 03:36:37	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 03:36:55	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:36:55	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [148] : //ROSpec/ROSpecID : ID already configured
+16-07-2014 03:36:56	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:36:56	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 03:36:56	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 03:37:57	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:37:57	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [148] : //ROSpec/ROSpecID : ID already configured
+16-07-2014 03:37:58	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 03:37:58	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:37:58	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 03:40:01	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:40:30	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:40:30	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [172] : Maximum (1) number of ROSpecs already configured
+16-07-2014 03:40:31	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 03:40:31	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:40:31	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 03:44:37	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:44:37	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:46:31	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+16-07-2014 03:46:31	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:46:31	Error al borrar los ROSpec: 172.22.23.226, null
+16-07-2014 03:47:02	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+16-07-2014 03:47:03	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 03:47:03	Error al borrar los ROSpec: 172.22.23.226, null
+16-07-2014 03:47:13	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:47:13	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:47:13	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:47:13	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:51:14	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 03:51:16	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 04:58:21	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 05:00:19	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 05:00:20	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1858] : Invalid number of antennas (5) specified in the AntennaID set
+16-07-2014 05:00:20	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 05:00:20	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 05:00:20	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 05:00:55	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 05:01:53	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 05:01:54	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1858] : Invalid number of antennas (5) specified in the AntennaID set
+16-07-2014 05:01:54	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 05:01:54	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 05:01:54	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 05:03:47	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 05:03:47	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1858] : Invalid number of antennas (5) specified in the AntennaID set
+16-07-2014 05:03:47	Se ha producido un error (ltkjava): session is not yet connected
+16-07-2014 05:03:47	Error habilitando el ROSpec: 172.22.23.226, null
+16-07-2014 05:03:47	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 05:03:47	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 05:05:21	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 05:07:16	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+16-07-2014 05:07:17	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:07:17	Error al borrar los ROSpec: 172.22.23.226, null
+16-07-2014 05:07:27	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 05:07:52	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 05:08:07	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 05:09:27	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+16-07-2014 05:09:28	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:09:28	Error al borrar los ROSpec: 172.22.23.226, null
+16-07-2014 05:09:47	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 05:11:11	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 05:12:09	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+16-07-2014 05:12:10	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:12:10	Error al borrar los ROSpec: 172.22.23.226, null
+16-07-2014 05:12:29	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 05:15:07	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+16-07-2014 05:15:08	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:15:08	Error al borrar los ROSpec: 172.22.23.226, null
+16-07-2014 05:15:27	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 05:16:25	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 05:16:25	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1932] : Maximum (1) number of InventoryParameterSpecs per AISpec exceeded (2)
+16-07-2014 05:16:26	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 05:16:26	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 05:16:26	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 05:17:59	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+16-07-2014 05:18:00	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:18:00	Error al borrar los ROSpec: 172.22.23.226, null
+16-07-2014 05:18:14	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 05:18:14	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1932] : Maximum (1) number of InventoryParameterSpecs per AISpec exceeded (2)
+16-07-2014 05:18:15	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 05:18:15	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 05:18:15	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 05:28:25	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 05:28:26	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1932] : Maximum (1) number of InventoryParameterSpecs per AISpec exceeded (2)
+16-07-2014 05:28:26	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 05:28:26	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 05:28:26	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 05:33:07	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+16-07-2014 05:33:08	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:33:08	Error al borrar los ROSpec: 172.22.23.226, null
+16-07-2014 05:33:18	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 05:33:18	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1932] : Maximum (1) number of InventoryParameterSpecs per AISpec exceeded (2)
+16-07-2014 05:33:18	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 05:33:18	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 05:33:18	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 05:34:50	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+16-07-2014 05:34:50	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:34:50	Error al borrar los ROSpec: 172.22.23.226, null
+16-07-2014 05:35:21	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+16-07-2014 05:35:22	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 05:35:22	Error al borrar los ROSpec: 172.22.23.226, null
+16-07-2014 05:35:36	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 05:35:36	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1932] : Maximum (1) number of InventoryParameterSpecs per AISpec exceeded (2)
+16-07-2014 05:35:36	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 05:35:36	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 05:35:36	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 05:36:37	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 05:36:37	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1858] : Invalid number of antennas (5) specified in the AntennaID set
+16-07-2014 05:36:37	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 05:36:37	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 05:36:37	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 05:39:07	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 05:39:07	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1932] : Maximum (1) number of InventoryParameterSpecs per AISpec exceeded (2)
+16-07-2014 05:39:17	Error habilitando el ROSpec: 172.22.23.226, Request timed out after 10000 ms.
+16-07-2014 05:39:38	Se ha producido un error (ltkjava): session is not yet connected
+16-07-2014 05:39:38	Error borrando el ROSpec: 172.22.23.226, null
+16-07-2014 05:39:38	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 05:41:08	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 05:41:08	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1932] : Maximum (1) number of InventoryParameterSpecs per AISpec exceeded (2)
+16-07-2014 05:41:08	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 05:41:08	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 05:41:08	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 05:41:09	Se ha producido un error (ltkjava): java.util.ConcurrentModificationException
+16-07-2014 05:41:09	Se ha producido un error (ltkjava): java.util.ConcurrentModificationException
+16-07-2014 05:42:39	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 05:42:39	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1932] : Maximum (1) number of InventoryParameterSpecs per AISpec exceeded (2)
+16-07-2014 05:42:39	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 05:42:39	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 05:42:39	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 05:46:47	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 05:46:47	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1932] : Maximum (1) number of InventoryParameterSpecs per AISpec exceeded (2)
+16-07-2014 05:46:48	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 05:46:48	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 05:46:48	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 06:17:37	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+16-07-2014 06:17:38	Se ha producido un error (ltkjava): session is not yet established
+16-07-2014 06:17:38	Error al borrar los ROSpec: 172.22.23.226, null
+16-07-2014 06:17:48	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 06:17:48	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1932] : Maximum (1) number of InventoryParameterSpecs per AISpec exceeded (2)
+16-07-2014 06:17:48	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 06:17:48	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 06:17:48	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+16-07-2014 06:18:42	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 06:18:43	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1932] : Maximum (1) number of InventoryParameterSpecs per AISpec exceeded (2)
+16-07-2014 06:18:43	Se ha producido un error (ltkjava): java.lang.NullPointerException
+16-07-2014 06:18:43	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+16-07-2014 06:18:43	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+17-07-2014 09:08:10	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 09:08:10	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1932] : Maximum (1) number of InventoryParameterSpecs per AISpec exceeded (2)
+17-07-2014 09:08:11	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 09:08:11	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+17-07-2014 09:08:11	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+17-07-2014 09:10:02	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 09:10:03	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, Failed_A_Client_Initiated_Connection_Already_Exists
+17-07-2014 09:10:03	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 09:10:03	Se ha producido un error (ltkjava): session is not yet connected
+17-07-2014 09:10:03	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 09:10:03	Se ha producido un error (ltkjava): java.lang.IllegalStateException
+17-07-2014 09:10:43	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 09:10:43	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1932] : Maximum (1) number of InventoryParameterSpecs per AISpec exceeded (2)
+17-07-2014 09:10:54	Error habilitando el ROSpec: 172.22.23.226, Request timed out after 10000 ms.
+17-07-2014 09:10:54	Se ha producido un error (ltkjava): session is not yet connected
+17-07-2014 09:10:54	Error borrando el ROSpec: 172.22.23.226, null
+17-07-2014 09:10:54	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 09:12:08	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 09:12:09	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1932] : Maximum (1) number of InventoryParameterSpecs per AISpec exceeded (2)
+17-07-2014 09:12:09	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+17-07-2014 09:12:09	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 09:12:09	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+17-07-2014 09:16:33	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 09:16:33	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1932] : Maximum (1) number of InventoryParameterSpecs per AISpec exceeded (2)
+17-07-2014 09:16:33	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+17-07-2014 09:16:33	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 09:16:33	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+17-07-2014 09:18:11	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 09:18:12	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1932] : Maximum (1) number of InventoryParameterSpecs per AISpec exceeded (2)
+17-07-2014 09:18:12	Se ha producido un error (ltkjava): session is not yet connected
+17-07-2014 09:18:12	Error habilitando el ROSpec: 172.22.23.226, null
+17-07-2014 09:18:12	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 09:18:12	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+17-07-2014 09:19:46	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 09:19:46	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1932] : Maximum (1) number of InventoryParameterSpecs per AISpec exceeded (2)
+17-07-2014 09:19:46	Se ha producido un error (ltkjava): session is not yet connected
+17-07-2014 09:19:46	Error habilitando el ROSpec: 172.22.23.226, null
+17-07-2014 09:19:46	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 09:19:46	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+17-07-2014 09:21:53	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 09:26:38	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1932] : Maximum (1) number of InventoryParameterSpecs per AISpec exceeded (2)
+17-07-2014 09:51:28	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 09:51:28	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1932] : Maximum (1) number of InventoryParameterSpecs per AISpec exceeded (2)
+17-07-2014 09:51:28	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+17-07-2014 09:51:28	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 09:51:28	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+17-07-2014 09:59:43	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 09:59:44	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, Failed_A_Client_Initiated_Connection_Already_Exists
+17-07-2014 09:59:44	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 09:59:45	Se ha producido un error (ltkjava): java.lang.IllegalStateException
+17-07-2014 09:59:45	Se ha producido un error (ltkjava): session is not yet connected
+17-07-2014 09:59:45	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 09:59:45	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 09:59:55	Se ha producido un error (ltkjava): java.lang.IllegalStateException
+17-07-2014 09:59:55	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, Failed_A_Client_Initiated_Connection_Already_Exists
+17-07-2014 09:59:55	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 09:59:56	Se ha producido un error (ltkjava): java.lang.IllegalStateException
+17-07-2014 09:59:56	Se ha producido un error (ltkjava): session is not yet connected
+17-07-2014 09:59:56	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 09:59:56	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 10:00:31	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 10:00:31	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1932] : Maximum (1) number of InventoryParameterSpecs per AISpec exceeded (2)
+17-07-2014 10:00:32	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+17-07-2014 10:00:32	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 10:00:32	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+17-07-2014 10:02:32	Error configurando Reader: 172.22.23.226,  notificationState not set
+17-07-2014 10:02:32	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 10:02:32	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1932] : Maximum (1) number of InventoryParameterSpecs per AISpec exceeded (2)
+17-07-2014 10:02:33	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 10:02:33	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+17-07-2014 10:02:33	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+17-07-2014 10:06:05	Se ha producido un error (ltkjava): java.util.ConcurrentModificationException
+17-07-2014 10:57:11	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 10:57:11	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1932] : Maximum (1) number of InventoryParameterSpecs per AISpec exceeded (2)
+17-07-2014 10:57:12	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+17-07-2014 10:57:12	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 10:57:12	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+17-07-2014 10:57:12	Se ha producido un error (ltkjava): message does not expect return message
+17-07-2014 10:57:53	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 10:57:58	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1932] : Maximum (1) number of InventoryParameterSpecs per AISpec exceeded (2)
+17-07-2014 10:57:59	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 10:57:59	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+17-07-2014 10:57:59	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+17-07-2014 10:58:02	Se ha producido un error (ltkjava): message does not expect return message
+17-07-2014 11:04:31	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 11:04:31	Se ha producido un error (ltkjava): org.llrp.ltk.exceptions.InvalidLLRPMessageException
+17-07-2014 11:05:20	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 11:05:20	Se ha producido un error (ltkjava): org.llrp.ltk.exceptions.InvalidLLRPMessageException
+17-07-2014 11:05:39	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, Failed_A_Client_Initiated_Connection_Already_Exists
+17-07-2014 11:05:39	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 11:05:40	Se ha producido un error (ltkjava): session is not yet connected
+17-07-2014 11:05:40	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:05:40	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 11:06:46	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:06:46	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:06:46	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:06:57	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 11:06:57	Se ha producido un error (ltkjava): org.llrp.ltk.exceptions.InvalidLLRPMessageException
+17-07-2014 11:07:07	Error añadiendo el ROSpec: 172.22.23.226 Request timed out after 10000 ms.
+17-07-2014 11:07:07	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+17-07-2014 11:07:07	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+17-07-2014 11:07:07	Se ha producido un error (ltkjava): message does not expect return message
+17-07-2014 11:08:01	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 11:08:01	Se ha producido un error (ltkjava): org.llrp.ltk.exceptions.InvalidLLRPMessageException
+17-07-2014 11:08:50	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:08:50	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:08:50	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:09:02	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 11:09:02	Se ha producido un error (ltkjava): org.llrp.ltk.exceptions.InvalidLLRPMessageException
+17-07-2014 11:09:12	Error añadiendo el ROSpec: 172.22.23.226 Request timed out after 10000 ms.
+17-07-2014 11:09:12	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+17-07-2014 11:09:12	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+17-07-2014 11:09:12	Se ha producido un error (ltkjava): message does not expect return message
+17-07-2014 11:10:10	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 11:10:10	Se ha producido un error (ltkjava): org.llrp.ltk.exceptions.InvalidLLRPMessageException
+17-07-2014 11:10:20	Error añadiendo el ROSpec: 172.22.23.226 Request timed out after 10000 ms.
+17-07-2014 11:10:20	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+17-07-2014 11:10:20	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+17-07-2014 11:13:21	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 11:14:48	Error al borrar los ROSpec: 172.22.23.226, Request timed out after 10000 ms.
+17-07-2014 11:15:32	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:15:33	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:15:33	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:15:53	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 11:17:26	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:17:26	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:17:26	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:17:57	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:17:58	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:17:58	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:18:08	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 11:18:09	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1858] : Invalid number of antennas (5) specified in the AntennaID set
+17-07-2014 11:18:09	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+17-07-2014 11:18:09	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 11:18:09	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+17-07-2014 11:19:11	Error al borrar los ROSpec: 172.22.23.226, Request timed out after 10000 ms.
+17-07-2014 11:19:58	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:19:59	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:19:59	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:20:30	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:20:30	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:20:30	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:20:41	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 11:21:52	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:21:53	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:21:53	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:22:21	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:22:21	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:22:21	consultarEstadoReader: TimeoutExceptionnull
+17-07-2014 11:22:24	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:22:24	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:22:24	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:22:55	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:22:56	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:22:56	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:23:27	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:23:27	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:23:27	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:23:58	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:23:59	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:23:59	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:24:30	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:24:30	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:24:30	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:25:01	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:25:02	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:25:02	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:25:33	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:25:33	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:25:33	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:26:04	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:26:05	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:26:05	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:26:36	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:26:36	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:26:36	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:27:07	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:27:08	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:27:08	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:27:39	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:27:39	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:27:39	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:28:11	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:28:11	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:28:11	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:28:42	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:28:43	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:28:43	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:29:14	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:29:14	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:29:14	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:29:45	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:29:46	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:29:46	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:30:17	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:30:17	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:30:17	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:30:48	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:30:49	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:30:49	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:31:20	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:31:20	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:31:20	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:31:51	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:31:52	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:31:52	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:32:23	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:32:23	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:32:23	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:32:54	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:32:55	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:32:55	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:33:26	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:33:26	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:33:26	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:33:57	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:33:58	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:33:58	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:34:29	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:34:29	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:34:29	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:35:00	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:35:01	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:35:01	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:35:32	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:35:32	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:35:32	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:36:03	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:36:04	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:36:04	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:36:35	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:36:35	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:36:35	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:37:06	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:37:07	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:37:07	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:37:38	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:37:38	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:37:38	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:38:09	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:38:10	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:38:10	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:38:41	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:38:41	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:38:41	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:39:12	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:39:13	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:39:13	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:39:44	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:39:44	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:39:44	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:40:15	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:40:16	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:40:16	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:40:47	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:40:47	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:40:47	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:41:18	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:41:19	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:41:19	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:41:50	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:41:50	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:41:50	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:42:21	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:42:22	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:42:22	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:42:53	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:42:53	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:42:53	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:43:24	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 11:43:25	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 11:43:25	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 11:44:09	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 11:44:09	Error añadiendo el ROSpec: 172.22.23.226 ,LLRP [1858] : Invalid number of antennas (5) specified in the AntennaID set
+17-07-2014 11:44:09	Error habilitando el ROSpec: 172.22.23.226 ,LLRP [1183] : No ROSpecs have been configured
+17-07-2014 11:44:09	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 11:44:09	Error iniciando el ROSpec: 172.22.23.226 ,LLRP [409] : //ROSpecID : invalid
+17-07-2014 11:44:09	Se ha producido un error (ltkjava): message does not expect return message
+17-07-2014 12:08:43	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 12:09:24	Error al borrar los ROSpec: 172.22.23.226, Request timed out after 10000 ms.
+17-07-2014 12:09:27	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 01:40:55	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 01:42:25	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 01:42:25	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 01:42:25	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 01:42:46	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 01:48:34	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 01:48:35	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 01:48:35	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 01:49:06	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 01:49:06	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 01:49:06	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 01:49:17	Se ha producido un error (ltkjava): java.lang.NullPointerException
+17-07-2014 01:50:47	Error al borrar los ROSpec: 172.22.23.226, Request timed out after 10000 ms.
+17-07-2014 01:51:08	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 01:51:09	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 01:51:09	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 01:51:40	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 01:51:40	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 01:51:40	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 01:52:11	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 01:52:12	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 01:52:12	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 01:52:43	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 01:52:43	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 01:52:43	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 01:53:14	No se pudo realizar la conexión con el reader 73 en 172.22.23.226, failed to connect
+17-07-2014 01:53:15	Se ha producido un error (ltkjava): session is not yet established
+17-07-2014 01:53:15	Error al borrar los ROSpec: 172.22.23.226, null
+17-07-2014 01:53:25	Se ha producido un error (ltkjava): java.lang.NullPointerException

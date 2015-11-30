@@ -1,0 +1,18 @@
+14-01-2014 11:48:37	No se pudo realizar la conexión con el reader 65 en 172.33.21.1, failed to connect
+14-01-2014 11:48:38	Se ha producido un error (ltkjava): session is not yet established
+14-01-2014 11:48:49	No se pudo realizar la conexión con el reader 65 en 172.33.21.1, failed to connect
+14-01-2014 11:48:49	Se ha producido un error (ltkjava): session is not yet established
+14-01-2014 11:49:00	No se pudo realizar la conexión con el reader 65 en 172.33.21.1, failed to connect
+14-01-2014 11:49:01	Se ha producido un error (ltkjava): session is not yet established
+14-01-2014 11:49:12	No se pudo realizar la conexión con el reader 65 en 172.33.21.1, failed to connect
+14-01-2014 11:49:12	Se ha producido un error (ltkjava): session is not yet established
+14-01-2014 11:49:23	No se pudo realizar la conexión con el reader 65 en 172.33.21.1, failed to connect
+14-01-2014 11:49:24	Se ha producido un error (ltkjava): session is not yet established
+14-01-2014 11:49:35	No se pudo realizar la conexión con el reader 65 en 172.33.21.1, failed to connect
+14-01-2014 11:49:35	Se ha producido un error (ltkjava): session is not yet established
+14-01-2014 11:49:46	No se pudo realizar la conexión con el reader 65 en 172.33.21.1, failed to connect
+14-01-2014 11:49:46	Se ha producido un error (ltkjava): session is not yet established
+14-01-2014 11:49:57	No se pudo realizar la conexión con el reader 65 en 172.33.21.1, failed to connect
+14-01-2014 11:49:58	Se ha producido un error (ltkjava): session is not yet established
+17-01-2014 10:07:27	No se pudo realizar la conexión con el reader 65 en 172.33.21.1, failed to connect
+17-01-2014 10:07:28	Se ha producido un error (ltkjava): session is not yet established

@@ -1,0 +1,16 @@
+09-07-2014 11:56:21	Nueva consulta de estado, código de operación: 0
+09-07-2014 11:58:37	Nueva consulta de estado, código de operación: 0
+09-07-2014 02:59:50	Nueva consulta de estado, código de operación: 0
+15-07-2014 03:58:12	Nueva consulta de estado, código de operación: 0
+16-07-2014 11:07:24	Nueva consulta de estado, código de operación: 0
+17-07-2014 09:18:29	Nueva consulta de estado, código de operación: 0
+17-07-2014 09:18:46	Nueva consulta de estado, código de operación: 0
+17-07-2014 09:18:54	Nueva consulta de estado, código de operación: 0
+17-07-2014 09:19:14	Nueva consulta de estado, código de operación: 0
+17-07-2014 09:19:50	Nueva consulta de estado, código de operación: 0
+17-07-2014 09:20:13	Nueva consulta de estado, código de operación: 0
+17-07-2014 09:20:31	Nueva consulta de estado, código de operación: 0
+17-07-2014 10:01:04	Nueva consulta de estado, código de operación: 0
+17-07-2014 11:22:21	Nueva consulta de estado, código de operación: 0
+17-07-2014 12:10:12	Nueva consulta de estado, código de operación: 0
+17-07-2014 01:40:59	Nueva consulta de estado, código de operación: 0

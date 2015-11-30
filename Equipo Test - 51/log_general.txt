@@ -1,0 +1,595 @@
+01-11-2013 03:41:15	Borrando todos los ROSpecs: 172.22.22.208
+01-11-2013 03:41:15	ROSpec creado exitosamente: 172.22.22.208
+01-11-2013 03:41:15	AÃ±adiendo el ROSpec: 172.22.22.208
+01-11-2013 03:41:15	ROSpec añadido de forma exitosa: 172.22.22.208
+01-11-2013 03:41:15	Habilitando el ROSpec: 172.22.22.208
+01-11-2013 03:41:15	Iniciando el ROSpec: 172.22.22.208
+01-11-2013 03:41:15	Reader Equipo Test id: 51 conectado
+01-11-2013 03:43:35	Borrando todos los ROSpecs: 172.22.22.208
+01-11-2013 03:43:35	ROSpec creado exitosamente: 172.22.22.208
+01-11-2013 03:43:35	AÃ±adiendo el ROSpec: 172.22.22.208
+01-11-2013 03:43:35	ROSpec añadido de forma exitosa: 172.22.22.208
+01-11-2013 03:43:35	Habilitando el ROSpec: 172.22.22.208
+01-11-2013 03:43:35	Iniciando el ROSpec: 172.22.22.208
+01-11-2013 03:43:35	Reader Equipo Test id: 51 conectado
+01-11-2013 03:44:27	Borrando todos los ROSpecs: 172.22.22.208
+01-11-2013 03:44:29	ROSpec creado exitosamente: 172.22.22.208
+01-11-2013 03:44:29	AÃ±adiendo el ROSpec: 172.22.22.208
+01-11-2013 03:44:29	ROSpec añadido de forma exitosa: 172.22.22.208
+01-11-2013 03:44:29	Habilitando el ROSpec: 172.22.22.208
+01-11-2013 03:44:29	Iniciando el ROSpec: 172.22.22.208
+01-11-2013 03:44:30	Reader Equipo Test id: 51 conectado
+01-11-2013 03:44:41	Borrando todos los ROSpecs: 172.22.22.208
+01-11-2013 03:44:51	Reader Equipo Test id: 51 desconectado
+01-11-2013 03:45:43	Borrando todos los ROSpecs: 172.22.22.208
+01-11-2013 03:45:43	ROSpec creado exitosamente: 172.22.22.208
+01-11-2013 03:45:43	AÃ±adiendo el ROSpec: 172.22.22.208
+01-11-2013 03:45:43	ROSpec añadido de forma exitosa: 172.22.22.208
+01-11-2013 03:45:43	Habilitando el ROSpec: 172.22.22.208
+01-11-2013 03:45:43	Iniciando el ROSpec: 172.22.22.208
+01-11-2013 03:45:44	Reader Equipo Test id: 51 conectado
+01-11-2013 03:45:59	Borrando todos los ROSpecs: 172.22.22.208
+01-11-2013 03:46:09	Reader Equipo Test id: 51 desconectado
+01-11-2013 03:46:09	Borrando todos los ROSpecs: 172.22.22.208
+01-11-2013 03:46:09	ROSpec creado exitosamente: 172.22.22.208
+01-11-2013 03:46:10	AÃ±adiendo el ROSpec: 172.22.22.208
+01-11-2013 03:46:10	ROSpec añadido de forma exitosa: 172.22.22.208
+01-11-2013 03:46:10	Habilitando el ROSpec: 172.22.22.208
+01-11-2013 03:46:10	Iniciando el ROSpec: 172.22.22.208
+01-11-2013 03:46:10	Reader Equipo Test id: 51 conectado
+01-11-2013 03:47:19	Borrando todos los ROSpecs: 172.22.22.208
+01-11-2013 03:47:19	ROSpec creado exitosamente: 172.22.22.208
+01-11-2013 03:47:19	AÃ±adiendo el ROSpec: 172.22.22.208
+01-11-2013 03:47:19	ROSpec añadido de forma exitosa: 172.22.22.208
+01-11-2013 03:47:19	Habilitando el ROSpec: 172.22.22.208
+01-11-2013 03:47:19	Iniciando el ROSpec: 172.22.22.208
+01-11-2013 03:47:19	Reader Equipo Test id: 51 conectado
+01-11-2013 03:47:48	Borrando todos los ROSpecs: 172.22.22.208
+01-11-2013 03:47:54	ROSpec creado exitosamente: 172.22.22.208
+01-11-2013 03:47:54	AÃ±adiendo el ROSpec: 172.22.22.208
+01-11-2013 03:47:54	ROSpec añadido de forma exitosa: 172.22.22.208
+01-11-2013 03:47:54	Habilitando el ROSpec: 172.22.22.208
+01-11-2013 03:47:54	Iniciando el ROSpec: 172.22.22.208
+01-11-2013 03:47:55	Reader Equipo Test id: 51 conectado
+01-11-2013 03:48:06	Borrando todos los ROSpecs: 172.22.22.208
+01-11-2013 03:48:16	Reader Equipo Test id: 51 desconectado
+01-11-2013 03:48:17	Borrando todos los ROSpecs: 172.22.22.208
+01-11-2013 03:48:17	ROSpec creado exitosamente: 172.22.22.208
+01-11-2013 03:48:17	AÃ±adiendo el ROSpec: 172.22.22.208
+01-11-2013 03:48:17	ROSpec añadido de forma exitosa: 172.22.22.208
+01-11-2013 03:48:17	Habilitando el ROSpec: 172.22.22.208
+01-11-2013 03:48:17	Iniciando el ROSpec: 172.22.22.208
+01-11-2013 03:48:17	Reader Equipo Test id: 51 conectado
+01-11-2013 03:49:24	Borrando todos los ROSpecs: 172.22.22.208
+01-11-2013 03:49:24	ROSpec creado exitosamente: 172.22.22.208
+01-11-2013 03:49:24	AÃ±adiendo el ROSpec: 172.22.22.208
+01-11-2013 03:49:24	ROSpec añadido de forma exitosa: 172.22.22.208
+01-11-2013 03:49:24	Habilitando el ROSpec: 172.22.22.208
+01-11-2013 03:49:24	Iniciando el ROSpec: 172.22.22.208
+01-11-2013 03:49:24	Reader Equipo Test id: 51 conectado
+01-11-2013 03:50:41	Borrando todos los ROSpecs: 172.22.22.208
+01-11-2013 03:50:41	ROSpec creado exitosamente: 172.22.22.208
+01-11-2013 03:50:41	AÃ±adiendo el ROSpec: 172.22.22.208
+01-11-2013 03:50:41	ROSpec añadido de forma exitosa: 172.22.22.208
+01-11-2013 03:50:41	Habilitando el ROSpec: 172.22.22.208
+01-11-2013 03:50:41	Iniciando el ROSpec: 172.22.22.208
+01-11-2013 03:50:41	Reader Equipo Test id: 51 conectado
+01-11-2013 03:53:03	Borrando todos los ROSpecs: 172.22.22.208
+01-11-2013 03:53:03	ROSpec creado exitosamente: 172.22.22.208
+01-11-2013 03:53:03	AÃ±adiendo el ROSpec: 172.22.22.208
+01-11-2013 03:53:03	ROSpec añadido de forma exitosa: 172.22.22.208
+01-11-2013 03:53:03	Habilitando el ROSpec: 172.22.22.208
+01-11-2013 03:53:03	Iniciando el ROSpec: 172.22.22.208
+01-11-2013 03:53:03	Reader Equipo Test id: 51 conectado
+01-11-2013 03:53:30	Borrando todos los ROSpecs: 172.22.22.208
+01-11-2013 03:53:30	ROSpec creado exitosamente: 172.22.22.208
+01-11-2013 03:53:30	AÃ±adiendo el ROSpec: 172.22.22.208
+01-11-2013 03:53:30	ROSpec añadido de forma exitosa: 172.22.22.208
+01-11-2013 03:53:30	Habilitando el ROSpec: 172.22.22.208
+01-11-2013 03:53:30	Iniciando el ROSpec: 172.22.22.208
+01-11-2013 03:53:30	Reader Equipo Test id: 51 conectado
+04-11-2013 03:15:16	Borrando todos los ROSpecs: 172.22.22.208
+04-11-2013 03:15:16	ROSpec creado exitosamente: 172.22.22.208
+04-11-2013 03:15:16	AÃ±adiendo el ROSpec: 172.22.22.208
+04-11-2013 03:15:16	ROSpec añadido de forma exitosa: 172.22.22.208
+04-11-2013 03:15:16	Habilitando el ROSpec: 172.22.22.208
+04-11-2013 03:15:16	Iniciando el ROSpec: 172.22.22.208
+04-11-2013 03:15:17	Reader Equipo Test id: 51 conectado
+04-11-2013 03:15:28	Borrando todos los ROSpecs: 172.22.22.208
+04-11-2013 03:15:28	Reader Equipo Test id: 51 desconectado
+04-11-2013 03:15:54	Borrando todos los ROSpecs: 172.22.22.208
+04-11-2013 03:15:54	ROSpec creado exitosamente: 172.22.22.208
+04-11-2013 03:15:54	AÃ±adiendo el ROSpec: 172.22.22.208
+04-11-2013 03:15:54	ROSpec añadido de forma exitosa: 172.22.22.208
+04-11-2013 03:15:54	Habilitando el ROSpec: 172.22.22.208
+04-11-2013 03:15:54	Iniciando el ROSpec: 172.22.22.208
+04-11-2013 03:15:54	Reader Equipo Test id: 51 conectado
+04-11-2013 03:19:24	Borrando todos los ROSpecs: 172.22.22.208
+04-11-2013 03:20:45	Borrando todos los ROSpecs: 172.22.22.208
+04-11-2013 03:20:45	ROSpec creado exitosamente: 172.22.22.208
+04-11-2013 03:20:45	AÃ±adiendo el ROSpec: 172.22.22.208
+04-11-2013 03:20:45	ROSpec añadido de forma exitosa: 172.22.22.208
+04-11-2013 03:20:45	Habilitando el ROSpec: 172.22.22.208
+04-11-2013 03:20:45	Iniciando el ROSpec: 172.22.22.208
+04-11-2013 03:20:46	Reader Equipo Test id: 51 conectado
+04-11-2013 03:30:11	Borrando todos los ROSpecs: 172.22.22.208
+04-11-2013 03:30:11	ROSpec creado exitosamente: 172.22.22.208
+04-11-2013 03:30:11	AÃ±adiendo el ROSpec: 172.22.22.208
+04-11-2013 03:30:12	ROSpec añadido de forma exitosa: 172.22.22.208
+04-11-2013 03:30:12	Habilitando el ROSpec: 172.22.22.208
+04-11-2013 03:30:12	Iniciando el ROSpec: 172.22.22.208
+04-11-2013 03:30:12	Reader Equipo Test id: 51 conectado
+04-11-2013 03:31:27	Borrando todos los ROSpecs: 172.22.22.208
+04-11-2013 03:31:27	ROSpec creado exitosamente: 172.22.22.208
+04-11-2013 03:31:27	AÃ±adiendo el ROSpec: 172.22.22.208
+04-11-2013 03:31:27	ROSpec añadido de forma exitosa: 172.22.22.208
+04-11-2013 03:31:27	Habilitando el ROSpec: 172.22.22.208
+04-11-2013 03:31:27	Iniciando el ROSpec: 172.22.22.208
+04-11-2013 03:31:27	Reader Equipo Test id: 51 conectado
+04-11-2013 03:32:22	Borrando todos los ROSpecs: 172.22.22.208
+04-11-2013 03:32:22	ROSpec creado exitosamente: 172.22.22.208
+04-11-2013 03:32:22	AÃ±adiendo el ROSpec: 172.22.22.208
+04-11-2013 03:32:22	ROSpec añadido de forma exitosa: 172.22.22.208
+04-11-2013 03:32:22	Habilitando el ROSpec: 172.22.22.208
+04-11-2013 03:32:22	Iniciando el ROSpec: 172.22.22.208
+04-11-2013 03:32:23	Reader Equipo Test id: 51 conectado
+04-11-2013 03:34:26	Borrando todos los ROSpecs: 172.22.22.208
+04-11-2013 03:34:26	ROSpec creado exitosamente: 172.22.22.208
+04-11-2013 03:34:26	AÃ±adiendo el ROSpec: 172.22.22.208
+04-11-2013 03:34:26	ROSpec añadido de forma exitosa: 172.22.22.208
+04-11-2013 03:34:26	Habilitando el ROSpec: 172.22.22.208
+04-11-2013 03:34:26	Iniciando el ROSpec: 172.22.22.208
+04-11-2013 03:34:26	Reader Equipo Test id: 51 conectado
+04-11-2013 03:36:11	Borrando todos los ROSpecs: 172.22.22.208
+04-11-2013 03:36:11	ROSpec creado exitosamente: 172.22.22.208
+04-11-2013 03:36:11	AÃ±adiendo el ROSpec: 172.22.22.208
+04-11-2013 03:36:11	ROSpec añadido de forma exitosa: 172.22.22.208
+04-11-2013 03:36:11	Habilitando el ROSpec: 172.22.22.208
+04-11-2013 03:36:11	Iniciando el ROSpec: 172.22.22.208
+04-11-2013 03:36:11	Reader Equipo Test id: 51 conectado
+04-11-2013 03:37:14	Borrando todos los ROSpecs: 172.22.22.208
+04-11-2013 03:37:14	ROSpec creado exitosamente: 172.22.22.208
+04-11-2013 03:37:14	AÃ±adiendo el ROSpec: 172.22.22.208
+04-11-2013 03:37:14	ROSpec añadido de forma exitosa: 172.22.22.208
+04-11-2013 03:37:14	Habilitando el ROSpec: 172.22.22.208
+04-11-2013 03:37:14	Iniciando el ROSpec: 172.22.22.208
+04-11-2013 03:37:14	Reader Equipo Test id: 51 conectado
+04-11-2013 03:38:27	Borrando todos los ROSpecs: 172.22.22.208
+04-11-2013 03:38:27	Reader Equipo Test id: 51 desconectado
+04-11-2013 03:39:13	Borrando todos los ROSpecs: 172.22.22.208
+04-11-2013 03:39:13	ROSpec creado exitosamente: 172.22.22.208
+04-11-2013 03:39:13	AÃ±adiendo el ROSpec: 172.22.22.208
+04-11-2013 03:39:13	ROSpec añadido de forma exitosa: 172.22.22.208
+04-11-2013 03:39:13	Habilitando el ROSpec: 172.22.22.208
+04-11-2013 03:39:13	Iniciando el ROSpec: 172.22.22.208
+04-11-2013 03:39:13	Reader Equipo Test id: 51 conectado
+04-11-2013 03:39:50	Borrando todos los ROSpecs: 172.22.22.208
+04-11-2013 03:39:55	ROSpec creado exitosamente: 172.22.22.208
+04-11-2013 03:39:55	AÃ±adiendo el ROSpec: 172.22.22.208
+04-11-2013 03:39:55	ROSpec añadido de forma exitosa: 172.22.22.208
+04-11-2013 03:39:55	Habilitando el ROSpec: 172.22.22.208
+04-11-2013 03:39:55	Iniciando el ROSpec: 172.22.22.208
+04-11-2013 03:39:56	Reader Equipo Test id: 51 conectado
+04-11-2013 03:45:34	Borrando todos los ROSpecs: 172.22.22.208
+04-11-2013 03:45:34	ROSpec creado exitosamente: 172.22.22.208
+04-11-2013 03:45:34	AÃ±adiendo el ROSpec: 172.22.22.208
+04-11-2013 03:45:34	ROSpec añadido de forma exitosa: 172.22.22.208
+04-11-2013 03:45:34	Habilitando el ROSpec: 172.22.22.208
+04-11-2013 03:45:34	Iniciando el ROSpec: 172.22.22.208
+04-11-2013 03:45:34	Reader Equipo Test id: 51 conectado
+04-11-2013 03:47:21	Borrando todos los ROSpecs: 172.22.22.208
+04-11-2013 03:47:21	ROSpec creado exitosamente: 172.22.22.208
+04-11-2013 03:47:21	AÃ±adiendo el ROSpec: 172.22.22.208
+04-11-2013 03:47:21	ROSpec añadido de forma exitosa: 172.22.22.208
+04-11-2013 03:47:21	Habilitando el ROSpec: 172.22.22.208
+04-11-2013 03:47:21	Iniciando el ROSpec: 172.22.22.208
+04-11-2013 03:47:22	Reader Equipo Test id: 51 conectado
+04-11-2013 04:02:40	Borrando todos los ROSpecs: 172.22.22.208
+04-11-2013 04:02:42	Reader Equipo Test id: 51 desconectado
+04-11-2013 04:02:43	Borrando todos los ROSpecs: 172.22.22.208
+04-11-2013 04:02:43	ROSpec creado exitosamente: 172.22.22.208
+04-11-2013 04:02:43	AÃ±adiendo el ROSpec: 172.22.22.208
+04-11-2013 04:02:43	ROSpec añadido de forma exitosa: 172.22.22.208
+04-11-2013 04:02:43	Habilitando el ROSpec: 172.22.22.208
+04-11-2013 04:02:43	Iniciando el ROSpec: 172.22.22.208
+04-11-2013 04:02:43	Reader Equipo Test id: 51 conectado
+04-11-2013 04:12:48	Borrando todos los ROSpecs: 172.22.22.208
+04-11-2013 04:12:48	ROSpec creado exitosamente: 172.22.22.208
+04-11-2013 04:12:48	AÃ±adiendo el ROSpec: 172.22.22.208
+04-11-2013 04:12:48	ROSpec añadido de forma exitosa: 172.22.22.208
+04-11-2013 04:12:48	Habilitando el ROSpec: 172.22.22.208
+04-11-2013 04:12:48	Iniciando el ROSpec: 172.22.22.208
+04-11-2013 04:12:49	Reader Equipo Test id: 51 conectado
+05-11-2013 09:24:18	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:24:18	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:24:49	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:24:49	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:25:21	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:25:21	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:25:52	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:25:52	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:26:24	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:26:24	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:26:55	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:26:55	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:27:27	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:27:27	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:27:58	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:27:58	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:28:30	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:28:30	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:29:01	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:29:01	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:29:33	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:29:33	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:30:04	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:30:04	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:30:36	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:30:36	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:31:07	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:31:07	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:31:39	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:31:39	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:32:10	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:32:10	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:32:42	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:32:42	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:33:13	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:33:13	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:33:44	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:33:45	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:34:16	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:34:16	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:34:47	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:34:47	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:35:19	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:35:19	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:35:51	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:35:51	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:36:22	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:36:22	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:36:53	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:36:53	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:37:25	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:37:25	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:37:56	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:37:56	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:38:28	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:38:28	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:38:59	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:38:59	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:39:31	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:39:31	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:40:02	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:40:02	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:40:34	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:40:34	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:41:05	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:41:05	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:41:37	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:41:37	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:42:08	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:42:08	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:42:40	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:42:40	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:43:11	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:43:11	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:43:43	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:43:43	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:44:14	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:44:14	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:44:46	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:44:46	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:45:17	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:45:17	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:45:49	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:45:49	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:46:20	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:46:20	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:46:52	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:46:52	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:47:23	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:47:23	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:47:55	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:47:55	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:48:26	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:48:26	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:48:58	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:48:58	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:49:29	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:49:29	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:50:00	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:50:00	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:50:32	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:50:32	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:51:03	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:51:03	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:51:35	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:51:35	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:52:06	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:52:06	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:52:38	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:52:38	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:53:09	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:53:09	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:53:41	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:53:41	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:54:12	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:54:12	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:54:44	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:54:44	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:55:16	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:55:16	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:55:48	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:55:48	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:56:19	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:56:19	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:56:51	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:56:51	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:57:22	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:57:22	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:57:54	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:57:54	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:58:25	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:58:25	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:58:56	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:58:56	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:59:28	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:59:28	Reader Equipo Test id: 51 desconectado
+05-11-2013 09:59:59	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 09:59:59	Reader Equipo Test id: 51 desconectado
+05-11-2013 10:00:31	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 10:00:31	Reader Equipo Test id: 51 desconectado
+05-11-2013 10:01:02	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 10:01:02	Reader Equipo Test id: 51 desconectado
+05-11-2013 10:01:34	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 10:01:34	Reader Equipo Test id: 51 desconectado
+05-11-2013 10:02:05	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 10:02:05	Reader Equipo Test id: 51 desconectado
+05-11-2013 10:02:37	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 10:02:37	Reader Equipo Test id: 51 desconectado
+05-11-2013 10:03:08	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 10:03:08	Reader Equipo Test id: 51 desconectado
+05-11-2013 10:03:40	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 10:03:40	Reader Equipo Test id: 51 desconectado
+05-11-2013 10:04:11	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 10:04:11	Reader Equipo Test id: 51 desconectado
+05-11-2013 10:04:43	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 10:04:43	Reader Equipo Test id: 51 desconectado
+05-11-2013 10:05:14	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 10:05:14	Reader Equipo Test id: 51 desconectado
+05-11-2013 10:05:46	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 10:05:46	Reader Equipo Test id: 51 desconectado
+05-11-2013 10:06:17	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 10:06:17	Reader Equipo Test id: 51 desconectado
+05-11-2013 10:06:49	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 10:06:49	Reader Equipo Test id: 51 desconectado
+05-11-2013 10:07:20	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 10:07:20	Reader Equipo Test id: 51 desconectado
+05-11-2013 10:07:52	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 10:07:52	Reader Equipo Test id: 51 desconectado
+05-11-2013 10:08:23	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 10:08:23	Reader Equipo Test id: 51 desconectado
+05-11-2013 10:08:54	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 10:08:54	Reader Equipo Test id: 51 desconectado
+05-11-2013 10:09:26	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 10:09:26	Reader Equipo Test id: 51 desconectado
+05-11-2013 10:09:57	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 10:09:57	Reader Equipo Test id: 51 desconectado
+05-11-2013 10:10:29	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 10:10:29	Reader Equipo Test id: 51 desconectado
+05-11-2013 10:11:00	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 10:11:00	Reader Equipo Test id: 51 desconectado
+05-11-2013 10:11:32	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 10:11:32	Reader Equipo Test id: 51 desconectado
+05-11-2013 10:12:03	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 10:12:03	Reader Equipo Test id: 51 desconectado
+05-11-2013 10:12:35	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 10:12:35	Reader Equipo Test id: 51 desconectado
+05-11-2013 10:13:06	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 10:13:06	Reader Equipo Test id: 51 desconectado
+05-11-2013 10:13:38	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 10:13:38	Reader Equipo Test id: 51 desconectado
+05-11-2013 10:14:09	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 10:14:09	Reader Equipo Test id: 51 desconectado
+05-11-2013 10:14:40	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 10:14:40	Reader Equipo Test id: 51 desconectado
+05-11-2013 10:15:12	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 10:15:12	Reader Equipo Test id: 51 desconectado
+05-11-2013 10:15:43	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 10:15:43	Reader Equipo Test id: 51 desconectado
+05-11-2013 10:16:15	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 10:16:15	Reader Equipo Test id: 51 desconectado
+05-11-2013 10:16:46	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 10:16:46	Reader Equipo Test id: 51 desconectado
+05-11-2013 10:17:18	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 10:17:18	Reader Equipo Test id: 51 desconectado
+05-11-2013 10:17:49	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 10:17:49	Reader Equipo Test id: 51 desconectado
+05-11-2013 10:18:21	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 10:18:21	Reader Equipo Test id: 51 desconectado
+05-11-2013 01:47:55	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 01:47:55	ROSpec creado exitosamente: 172.22.22.208
+05-11-2013 01:47:55	AÃ±adiendo el ROSpec: 172.22.22.208
+05-11-2013 01:47:55	ROSpec añadido de forma exitosa: 172.22.22.208
+05-11-2013 01:47:55	Habilitando el ROSpec: 172.22.22.208
+05-11-2013 01:47:55	Iniciando el ROSpec: 172.22.22.208
+05-11-2013 01:47:55	Reader Equipo Test id: 51 conectado
+05-11-2013 01:55:40	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 01:55:40	ROSpec creado exitosamente: 172.22.22.208
+05-11-2013 01:55:40	AÃ±adiendo el ROSpec: 172.22.22.208
+05-11-2013 01:55:40	ROSpec añadido de forma exitosa: 172.22.22.208
+05-11-2013 01:55:40	Habilitando el ROSpec: 172.22.22.208
+05-11-2013 01:55:40	Iniciando el ROSpec: 172.22.22.208
+05-11-2013 01:55:41	Reader Equipo Test id: 51 conectado
+05-11-2013 01:56:08	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 01:56:08	ROSpec creado exitosamente: 172.22.22.208
+05-11-2013 01:56:08	AÃ±adiendo el ROSpec: 172.22.22.208
+05-11-2013 01:56:08	ROSpec añadido de forma exitosa: 172.22.22.208
+05-11-2013 01:56:08	Habilitando el ROSpec: 172.22.22.208
+05-11-2013 01:56:08	Iniciando el ROSpec: 172.22.22.208
+05-11-2013 01:56:08	Reader Equipo Test id: 51 conectado
+05-11-2013 02:01:47	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 02:01:47	ROSpec creado exitosamente: 172.22.22.208
+05-11-2013 02:01:47	AÃ±adiendo el ROSpec: 172.22.22.208
+05-11-2013 02:01:47	ROSpec añadido de forma exitosa: 172.22.22.208
+05-11-2013 02:01:47	Habilitando el ROSpec: 172.22.22.208
+05-11-2013 02:01:47	Iniciando el ROSpec: 172.22.22.208
+05-11-2013 02:01:48	Reader Equipo Test id: 51 conectado
+05-11-2013 02:06:01	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 02:06:01	ROSpec creado exitosamente: 172.22.22.208
+05-11-2013 02:06:01	AÃ±adiendo el ROSpec: 172.22.22.208
+05-11-2013 02:06:01	ROSpec añadido de forma exitosa: 172.22.22.208
+05-11-2013 02:06:01	Habilitando el ROSpec: 172.22.22.208
+05-11-2013 02:06:01	Iniciando el ROSpec: 172.22.22.208
+05-11-2013 02:06:01	Reader Equipo Test id: 51 conectado
+05-11-2013 02:09:17	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 02:09:17	ROSpec creado exitosamente: 172.22.22.208
+05-11-2013 02:09:17	AÃ±adiendo el ROSpec: 172.22.22.208
+05-11-2013 02:09:17	ROSpec añadido de forma exitosa: 172.22.22.208
+05-11-2013 02:09:17	Habilitando el ROSpec: 172.22.22.208
+05-11-2013 02:09:17	Iniciando el ROSpec: 172.22.22.208
+05-11-2013 02:09:17	Reader Equipo Test id: 51 conectado
+05-11-2013 02:13:36	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 02:13:36	ROSpec creado exitosamente: 172.22.22.208
+05-11-2013 02:13:36	AÃ±adiendo el ROSpec: 172.22.22.208
+05-11-2013 02:13:36	ROSpec añadido de forma exitosa: 172.22.22.208
+05-11-2013 02:13:36	Habilitando el ROSpec: 172.22.22.208
+05-11-2013 02:13:36	Iniciando el ROSpec: 172.22.22.208
+05-11-2013 02:13:36	Reader Equipo Test id: 51 conectado
+05-11-2013 02:15:11	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 02:15:11	ROSpec creado exitosamente: 172.22.22.208
+05-11-2013 02:15:11	AÃ±adiendo el ROSpec: 172.22.22.208
+05-11-2013 02:15:11	ROSpec añadido de forma exitosa: 172.22.22.208
+05-11-2013 02:15:11	Habilitando el ROSpec: 172.22.22.208
+05-11-2013 02:15:11	Iniciando el ROSpec: 172.22.22.208
+05-11-2013 02:15:11	Reader Equipo Test id: 51 conectado
+05-11-2013 02:16:08	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 02:16:18	ROSpec creado exitosamente: 172.22.22.208
+05-11-2013 02:16:18	AÃ±adiendo el ROSpec: 172.22.22.208
+05-11-2013 02:16:19	ROSpec añadido de forma exitosa: 172.22.22.208
+05-11-2013 02:16:19	Habilitando el ROSpec: 172.22.22.208
+05-11-2013 02:16:19	Iniciando el ROSpec: 172.22.22.208
+05-11-2013 02:16:21	Reader Equipo Test id: 51 conectado
+05-11-2013 02:19:51	Borrando todos los ROSpecs: 172.22.22.208
+05-11-2013 02:19:51	ROSpec creado exitosamente: 172.22.22.208
+05-11-2013 02:19:51	AÃ±adiendo el ROSpec: 172.22.22.208
+05-11-2013 02:19:51	ROSpec añadido de forma exitosa: 172.22.22.208
+05-11-2013 02:19:51	Habilitando el ROSpec: 172.22.22.208
+05-11-2013 02:19:51	Iniciando el ROSpec: 172.22.22.208
+05-11-2013 02:19:51	Reader Equipo Test id: 51 conectado
+06-11-2013 01:51:00	Borrando todos los ROSpecs: 172.22.22.208
+06-11-2013 01:51:00	Reader Equipo Test id: 51 desconectado
+06-11-2013 01:51:11	Borrando todos los ROSpecs: 172.22.22.208
+06-11-2013 01:51:11	ROSpec creado exitosamente: 172.22.22.208
+06-11-2013 01:51:11	AÃ±adiendo el ROSpec: 172.22.22.208
+06-11-2013 01:51:11	ROSpec añadido de forma exitosa: 172.22.22.208
+06-11-2013 01:51:11	Habilitando el ROSpec: 172.22.22.208
+06-11-2013 01:51:11	Iniciando el ROSpec: 172.22.22.208
+06-11-2013 01:51:12	Reader Equipo Test id: 51 conectado
+06-11-2013 03:33:51	Borrando todos los ROSpecs: 172.22.22.208
+06-11-2013 03:33:51	ROSpec creado exitosamente: 172.22.22.208
+06-11-2013 03:33:51	AÃ±adiendo el ROSpec: 172.22.22.208
+06-11-2013 03:33:51	ROSpec añadido de forma exitosa: 172.22.22.208
+06-11-2013 03:33:51	Habilitando el ROSpec: 172.22.22.208
+06-11-2013 03:33:51	Iniciando el ROSpec: 172.22.22.208
+06-11-2013 03:33:51	Reader Equipo Test id: 51 conectado
+06-11-2013 04:15:14	Borrando todos los ROSpecs: 172.22.22.208
+06-11-2013 04:15:15	ROSpec creado exitosamente: 172.22.22.208
+06-11-2013 04:15:15	AÃ±adiendo el ROSpec: 172.22.22.208
+06-11-2013 04:15:15	ROSpec añadido de forma exitosa: 172.22.22.208
+06-11-2013 04:15:15	Habilitando el ROSpec: 172.22.22.208
+06-11-2013 04:15:15	Iniciando el ROSpec: 172.22.22.208
+06-11-2013 04:15:15	Reader Equipo Test id: 51 conectado
+06-11-2013 04:17:36	Borrando todos los ROSpecs: 172.22.22.208
+06-11-2013 04:17:36	ROSpec creado exitosamente: 172.22.22.208
+06-11-2013 04:17:36	AÃ±adiendo el ROSpec: 172.22.22.208
+06-11-2013 04:17:36	ROSpec añadido de forma exitosa: 172.22.22.208
+06-11-2013 04:17:36	Habilitando el ROSpec: 172.22.22.208
+06-11-2013 04:17:36	Iniciando el ROSpec: 172.22.22.208
+06-11-2013 04:17:36	Reader Equipo Test id: 51 conectado
+06-11-2013 04:18:06	Borrando todos los ROSpecs: 172.22.22.208
+06-11-2013 04:18:06	ROSpec creado exitosamente: 172.22.22.208
+06-11-2013 04:18:06	AÃ±adiendo el ROSpec: 172.22.22.208
+06-11-2013 04:18:06	ROSpec añadido de forma exitosa: 172.22.22.208
+06-11-2013 04:18:06	Habilitando el ROSpec: 172.22.22.208
+06-11-2013 04:18:06	Iniciando el ROSpec: 172.22.22.208
+06-11-2013 04:18:06	Reader Equipo Test id: 51 conectado
+06-11-2013 04:19:33	Borrando todos los ROSpecs: 172.22.22.208
+06-11-2013 04:19:33	ROSpec creado exitosamente: 172.22.22.208
+06-11-2013 04:19:33	AÃ±adiendo el ROSpec: 172.22.22.208
+06-11-2013 04:19:33	ROSpec añadido de forma exitosa: 172.22.22.208
+06-11-2013 04:19:33	Habilitando el ROSpec: 172.22.22.208
+06-11-2013 04:19:33	Iniciando el ROSpec: 172.22.22.208
+06-11-2013 04:19:33	Reader Equipo Test id: 51 conectado
+06-11-2013 04:26:45	Borrando todos los ROSpecs: 172.22.22.208
+06-11-2013 04:26:45	ROSpec creado exitosamente: 172.22.22.208
+06-11-2013 04:26:45	AÃ±adiendo el ROSpec: 172.22.22.208
+06-11-2013 04:26:45	ROSpec añadido de forma exitosa: 172.22.22.208
+06-11-2013 04:26:45	Habilitando el ROSpec: 172.22.22.208
+06-11-2013 04:26:45	Iniciando el ROSpec: 172.22.22.208
+06-11-2013 04:26:45	Reader Equipo Test id: 51 conectado
+06-11-2013 04:38:29	Borrando todos los ROSpecs: 172.22.22.208
+06-11-2013 04:38:29	ROSpec creado exitosamente: 172.22.22.208
+06-11-2013 04:38:29	AÃ±adiendo el ROSpec: 172.22.22.208
+06-11-2013 04:38:29	ROSpec añadido de forma exitosa: 172.22.22.208
+06-11-2013 04:38:29	Habilitando el ROSpec: 172.22.22.208
+06-11-2013 04:38:29	Iniciando el ROSpec: 172.22.22.208
+06-11-2013 04:38:29	Reader Equipo Test id: 51 conectado
+06-11-2013 05:32:36	Borrando todos los ROSpecs: 172.22.22.208
+06-11-2013 05:32:36	ROSpec creado exitosamente: 172.22.22.208
+06-11-2013 05:32:36	AÃ±adiendo el ROSpec: 172.22.22.208
+06-11-2013 05:32:36	ROSpec añadido de forma exitosa: 172.22.22.208
+06-11-2013 05:32:36	Habilitando el ROSpec: 172.22.22.208
+06-11-2013 05:32:36	Iniciando el ROSpec: 172.22.22.208
+06-11-2013 05:32:36	Reader Equipo Test id: 51 conectado
+06-11-2013 05:32:42	Borrando todos los ROSpecs: 172.22.22.208
+06-11-2013 05:32:42	Reader Equipo Test id: 51 desconectado
+06-11-2013 05:32:46	Borrando todos los ROSpecs: 172.22.22.208
+06-11-2013 05:32:46	ROSpec creado exitosamente: 172.22.22.208
+06-11-2013 05:32:46	AÃ±adiendo el ROSpec: 172.22.22.208
+06-11-2013 05:32:46	ROSpec añadido de forma exitosa: 172.22.22.208
+06-11-2013 05:32:46	Habilitando el ROSpec: 172.22.22.208
+06-11-2013 05:32:46	Iniciando el ROSpec: 172.22.22.208
+06-11-2013 05:32:46	Reader Equipo Test id: 51 conectado
+07-11-2013 10:08:40	Borrando todos los ROSpecs: 172.22.22.208
+07-11-2013 10:08:41	ROSpec creado exitosamente: 172.22.22.208
+07-11-2013 10:08:41	AÃ±adiendo el ROSpec: 172.22.22.208
+07-11-2013 10:08:41	ROSpec añadido de forma exitosa: 172.22.22.208
+07-11-2013 10:08:41	Habilitando el ROSpec: 172.22.22.208
+07-11-2013 10:08:41	Iniciando el ROSpec: 172.22.22.208
+07-11-2013 10:08:41	Reader Equipo Test id: 51 conectado
+07-11-2013 10:22:50	Borrando todos los ROSpecs: 172.22.22.208
+07-11-2013 10:22:50	ROSpec creado exitosamente: 172.22.22.208
+07-11-2013 10:22:50	AÃ±adiendo el ROSpec: 172.22.22.208
+07-11-2013 10:22:50	ROSpec añadido de forma exitosa: 172.22.22.208
+07-11-2013 10:22:50	Habilitando el ROSpec: 172.22.22.208
+07-11-2013 10:22:50	Iniciando el ROSpec: 172.22.22.208
+07-11-2013 10:22:50	Reader Equipo Test id: 51 conectado
+07-11-2013 10:35:08	Borrando todos los ROSpecs: 172.22.22.208
+07-11-2013 10:35:08	ROSpec creado exitosamente: 172.22.22.208
+07-11-2013 10:35:08	AÃ±adiendo el ROSpec: 172.22.22.208
+07-11-2013 10:35:08	ROSpec añadido de forma exitosa: 172.22.22.208
+07-11-2013 10:35:08	Habilitando el ROSpec: 172.22.22.208
+07-11-2013 10:35:08	Iniciando el ROSpec: 172.22.22.208
+07-11-2013 10:35:08	Reader Equipo Test id: 51 conectado
+07-11-2013 05:23:14	Borrando todos los ROSpecs: 172.22.22.208
+07-11-2013 05:23:14	ROSpec creado exitosamente: 172.22.22.208
+07-11-2013 05:23:14	AÃ±adiendo el ROSpec: 172.22.22.208
+07-11-2013 05:23:14	ROSpec añadido de forma exitosa: 172.22.22.208
+07-11-2013 05:23:14	Habilitando el ROSpec: 172.22.22.208
+07-11-2013 05:23:14	Iniciando el ROSpec: 172.22.22.208
+07-11-2013 05:23:14	Reader Equipo Test id: 51 conectado
+07-11-2013 05:26:45	Borrando todos los ROSpecs: 172.22.22.208
+07-11-2013 05:26:45	ROSpec creado exitosamente: 172.22.22.208
+07-11-2013 05:26:45	AÃ±adiendo el ROSpec: 172.22.22.208
+07-11-2013 05:26:45	ROSpec añadido de forma exitosa: 172.22.22.208
+07-11-2013 05:26:45	Habilitando el ROSpec: 172.22.22.208
+07-11-2013 05:26:45	Iniciando el ROSpec: 172.22.22.208
+07-11-2013 05:26:46	Reader Equipo Test id: 51 conectado
+14-01-2014 11:48:58	Borrando todos los ROSpecs: 172.22.22.208
+14-01-2014 11:48:58	Reader Equipo Test id: 51 desconectado
+14-01-2014 11:49:29	Borrando todos los ROSpecs: 172.22.22.208
+14-01-2014 11:49:29	Reader Equipo Test id: 51 desconectado
+14-01-2014 11:50:01	Borrando todos los ROSpecs: 172.22.22.208
+14-01-2014 11:50:01	Reader Equipo Test id: 51 desconectado

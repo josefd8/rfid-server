@@ -1,0 +1,299 @@
+01-11-2013 03:41:15	Se ha producido un error (ltkjava): java.lang.NullPointerException
+01-11-2013 03:41:15	Se ha producido un error (ltkjava): java.lang.NullPointerException
+01-11-2013 03:41:21	Se ha producido un error (ltkjava): java.lang.NullPointerException
+01-11-2013 03:41:22	Se ha producido un error (ltkjava): java.lang.NullPointerException
+01-11-2013 03:41:24	Se ha producido un error (ltkjava): java.lang.NullPointerException
+01-11-2013 03:41:25	Se ha producido un error (ltkjava): java.lang.NullPointerException
+01-11-2013 03:41:26	Se ha producido un error (ltkjava): java.lang.NullPointerException
+01-11-2013 03:43:35	Se ha producido un error (ltkjava): java.lang.NullPointerException
+01-11-2013 03:43:35	Se ha producido un error (ltkjava): java.lang.NullPointerException
+01-11-2013 03:43:39	Se ha producido un error (ltkjava): java.lang.NullPointerException
+01-11-2013 03:44:29	Se ha producido un error (ltkjava): java.lang.NullPointerException
+01-11-2013 03:44:29	Se ha producido un error (ltkjava): java.lang.NullPointerException
+01-11-2013 03:44:51	Error al borrar los ROSpec: 172.22.22.208, Request timed out after 10000 ms.
+01-11-2013 03:45:43	Se ha producido un error (ltkjava): java.lang.NullPointerException
+01-11-2013 03:46:09	Error al borrar los ROSpec: 172.22.22.208, Request timed out after 10000 ms.
+01-11-2013 03:46:09	Se ha producido un error (ltkjava): java.lang.NullPointerException
+01-11-2013 03:47:19	Se ha producido un error (ltkjava): java.lang.NullPointerException
+01-11-2013 03:47:19	Se ha producido un error (ltkjava): java.lang.NullPointerException
+01-11-2013 03:47:23	Se ha producido un error (ltkjava): java.lang.NullPointerException
+01-11-2013 03:47:48	Se ha producido un error (ltkjava): java.lang.NullPointerException
+01-11-2013 03:47:54	Se ha producido un error (ltkjava): java.lang.NullPointerException
+01-11-2013 03:48:16	Error al borrar los ROSpec: 172.22.22.208, Request timed out after 10000 ms.
+01-11-2013 03:48:17	Se ha producido un error (ltkjava): java.lang.NullPointerException
+01-11-2013 03:49:24	Se ha producido un error (ltkjava): java.lang.NullPointerException
+01-11-2013 03:49:24	Se ha producido un error (ltkjava): java.lang.NullPointerException
+01-11-2013 03:50:41	Se ha producido un error (ltkjava): java.lang.NullPointerException
+01-11-2013 03:50:41	Se ha producido un error (ltkjava): java.lang.NullPointerException
+01-11-2013 03:50:48	Se ha producido un error (ltkjava): java.lang.NullPointerException
+01-11-2013 03:50:48	Se ha producido un error (ltkjava): java.lang.NullPointerException
+01-11-2013 03:53:03	Se ha producido un error (ltkjava): java.lang.NullPointerException
+01-11-2013 03:53:30	Se ha producido un error (ltkjava): java.lang.NullPointerException
+04-11-2013 03:15:16	Se ha producido un error (ltkjava): java.lang.NullPointerException
+04-11-2013 03:15:27	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, Failed_A_Client_Initiated_Connection_Already_Exists
+04-11-2013 03:15:27	Se ha producido un error (ltkjava): java.lang.NullPointerException
+04-11-2013 03:15:28	Se ha producido un error (ltkjava): session is not yet connected
+04-11-2013 03:15:28	Se ha producido un error (ltkjava): java.lang.NullPointerException
+04-11-2013 03:15:54	Se ha producido un error (ltkjava): java.lang.NullPointerException
+04-11-2013 03:19:24	Se ha producido un error (ltkjava): java.lang.NullPointerException
+04-11-2013 03:20:45	Se ha producido un error (ltkjava): java.lang.NullPointerException
+04-11-2013 03:30:11	Se ha producido un error (ltkjava): java.lang.NullPointerException
+04-11-2013 03:31:27	Se ha producido un error (ltkjava): java.lang.NullPointerException
+04-11-2013 03:32:22	Se ha producido un error (ltkjava): java.lang.NullPointerException
+04-11-2013 03:34:26	Se ha producido un error (ltkjava): java.lang.NullPointerException
+04-11-2013 03:36:11	Se ha producido un error (ltkjava): java.lang.NullPointerException
+04-11-2013 03:37:14	Se ha producido un error (ltkjava): java.lang.NullPointerException
+04-11-2013 03:38:25	Se ha producido un error (ltkjava): java.lang.NullPointerException
+04-11-2013 03:38:26	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, Failed_A_Client_Initiated_Connection_Already_Exists
+04-11-2013 03:38:26	Se ha producido un error (ltkjava): java.lang.NullPointerException
+04-11-2013 03:38:27	Se ha producido un error (ltkjava): java.lang.IllegalStateException
+04-11-2013 03:38:27	Se ha producido un error (ltkjava): session is not yet connected
+04-11-2013 03:38:27	Se ha producido un error (ltkjava): java.lang.NullPointerException
+04-11-2013 03:39:13	Se ha producido un error (ltkjava): java.lang.NullPointerException
+04-11-2013 03:39:50	Se ha producido un error (ltkjava): java.lang.NullPointerException
+04-11-2013 03:45:34	Se ha producido un error (ltkjava): java.lang.NullPointerException
+04-11-2013 03:47:21	Se ha producido un error (ltkjava): java.lang.NullPointerException
+04-11-2013 04:02:43	Se ha producido un error (ltkjava): java.lang.NullPointerException
+04-11-2013 04:12:48	Se ha producido un error (ltkjava): java.lang.NullPointerException
+05-11-2013 09:24:17	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:24:18	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:24:49	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:24:49	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:25:20	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:25:21	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:25:52	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:25:52	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:26:23	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:26:24	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:26:55	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:26:55	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:27:26	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:27:27	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:27:58	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:27:58	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:28:29	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:28:30	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:29:01	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:29:01	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:29:32	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:29:33	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:30:04	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:30:04	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:30:35	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:30:36	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:31:07	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:31:07	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:31:38	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:31:39	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:32:10	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:32:10	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:32:41	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:32:42	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:33:13	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:33:13	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:33:44	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:33:45	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:34:15	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:34:16	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:34:47	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:34:47	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:35:18	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:35:19	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:35:50	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:35:51	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:36:21	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:36:22	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:36:53	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:36:53	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:37:24	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:37:25	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:37:56	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:37:56	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:38:27	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:38:28	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:38:59	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:38:59	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:39:30	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:39:31	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:40:02	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:40:02	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:40:33	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:40:34	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:41:05	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:41:05	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:41:36	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:41:37	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:42:08	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:42:08	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:42:39	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:42:40	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:43:11	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:43:11	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:43:42	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:43:43	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:44:14	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:44:14	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:44:45	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:44:46	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:45:17	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:45:17	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:45:48	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:45:49	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:46:20	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:46:20	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:46:51	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:46:52	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:47:23	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:47:23	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:47:54	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:47:55	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:48:26	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:48:26	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:48:57	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:48:58	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:49:28	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:49:29	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:50:00	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:50:00	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:50:31	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:50:32	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:51:03	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:51:03	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:51:34	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:51:35	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:52:06	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:52:06	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:52:37	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:52:38	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:53:09	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:53:09	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:53:40	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:53:41	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:54:12	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:54:12	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:54:43	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:54:44	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:55:15	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:55:16	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:55:47	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:55:48	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:56:19	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:56:19	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:56:50	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:56:51	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:57:22	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:57:22	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:57:53	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:57:54	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:58:24	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:58:25	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:58:56	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:58:56	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:59:27	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:59:28	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 09:59:59	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 09:59:59	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 10:00:30	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 10:00:31	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 10:01:02	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 10:01:02	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 10:01:33	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 10:01:34	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 10:02:05	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 10:02:05	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 10:02:36	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 10:02:37	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 10:03:08	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 10:03:08	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 10:03:39	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 10:03:40	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 10:04:11	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 10:04:11	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 10:04:42	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 10:04:43	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 10:05:14	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 10:05:14	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 10:05:45	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 10:05:46	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 10:06:17	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 10:06:17	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 10:06:48	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 10:06:49	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 10:07:20	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 10:07:20	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 10:07:51	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 10:07:52	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 10:08:22	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 10:08:23	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 10:08:54	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 10:08:54	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 10:09:25	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 10:09:26	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 10:09:57	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 10:09:57	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 10:10:28	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 10:10:29	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 10:11:00	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 10:11:00	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 10:11:31	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 10:11:32	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 10:12:03	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 10:12:03	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 10:12:34	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 10:12:35	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 10:13:06	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 10:13:06	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 10:13:37	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 10:13:38	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 10:14:09	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 10:14:09	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 10:14:40	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 10:14:40	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 10:15:11	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 10:15:12	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 10:15:43	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 10:15:43	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 10:16:14	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 10:16:15	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 10:16:46	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 10:16:46	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 10:17:17	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 10:17:18	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 10:17:49	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 10:17:49	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 10:18:20	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+05-11-2013 10:18:21	Se ha producido un error (ltkjava): session is not yet established
+05-11-2013 01:47:55	Se ha producido un error (ltkjava): java.lang.NullPointerException
+05-11-2013 01:55:40	Se ha producido un error (ltkjava): java.lang.NullPointerException
+05-11-2013 01:56:08	Se ha producido un error (ltkjava): java.lang.NullPointerException
+05-11-2013 02:01:47	Se ha producido un error (ltkjava): java.lang.NullPointerException
+05-11-2013 02:06:01	Se ha producido un error (ltkjava): java.lang.NullPointerException
+05-11-2013 02:09:17	Se ha producido un error (ltkjava): java.lang.NullPointerException
+05-11-2013 02:13:36	Se ha producido un error (ltkjava): java.lang.NullPointerException
+05-11-2013 02:15:11	Se ha producido un error (ltkjava): java.lang.NullPointerException
+05-11-2013 02:16:08	Se ha producido un error (ltkjava): java.lang.NullPointerException
+05-11-2013 02:16:18	Error al borrar los ROSpec: 172.22.22.208, Request timed out after 10000 ms.
+05-11-2013 02:19:51	Se ha producido un error (ltkjava): java.lang.NullPointerException
+06-11-2013 01:51:00	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+06-11-2013 01:51:00	Se ha producido un error (ltkjava): session is not yet established
+06-11-2013 01:51:11	Se ha producido un error (ltkjava): java.lang.NullPointerException
+06-11-2013 03:33:51	Se ha producido un error (ltkjava): java.lang.NullPointerException
+06-11-2013 04:15:14	Se ha producido un error (ltkjava): java.lang.NullPointerException
+06-11-2013 04:17:36	Se ha producido un error (ltkjava): java.lang.NullPointerException
+06-11-2013 04:18:06	Se ha producido un error (ltkjava): java.lang.NullPointerException
+06-11-2013 04:19:33	Se ha producido un error (ltkjava): java.lang.NullPointerException
+06-11-2013 04:26:45	Se ha producido un error (ltkjava): java.lang.NullPointerException
+06-11-2013 04:38:29	Se ha producido un error (ltkjava): java.lang.NullPointerException
+06-11-2013 05:32:36	Se ha producido un error (ltkjava): java.lang.NullPointerException
+06-11-2013 05:32:46	Se ha producido un error (ltkjava): java.lang.NullPointerException
+07-11-2013 10:08:40	Se ha producido un error (ltkjava): java.lang.NullPointerException
+07-11-2013 10:22:50	Se ha producido un error (ltkjava): java.lang.NullPointerException
+07-11-2013 10:35:08	Se ha producido un error (ltkjava): java.lang.NullPointerException
+07-11-2013 05:23:14	Se ha producido un error (ltkjava): java.lang.NullPointerException
+07-11-2013 05:26:45	Se ha producido un error (ltkjava): java.lang.NullPointerException
+14-01-2014 11:48:57	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+14-01-2014 11:48:58	Se ha producido un error (ltkjava): session is not yet established
+14-01-2014 11:49:29	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+14-01-2014 11:49:29	Se ha producido un error (ltkjava): session is not yet established
+14-01-2014 11:50:00	No se pudo realizar la conexión con el reader 51 en 172.22.22.208, failed to connect
+14-01-2014 11:50:01	Se ha producido un error (ltkjava): session is not yet established
